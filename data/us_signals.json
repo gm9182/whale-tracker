@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-05-03T05:30:00+00:00",
+  "market": "US",
+  "total": 4,
+  "tickers": [
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "market": "US",
+      "score": 92,
+      "score_change": 15,
+      "tier": "strong",
+      "tier_label": "🔥 STRONG",
+      "price": 31.45,
+      "prev_close": 30.12,
+      "vol_ratio": 2.8,
+      "signals": {
+        "insider": {
+          "active": true, "score": 42,
+          "detail": {"クラスターバイ": "3名が直近期間に買付", "最大買付": "CEO: $2,400,000", "10%超保有者": "1件の買い"},
+          "evidence": 88, "buy_count": 4, "sell_count": 0,
+          "events": [
+            {"type": "BUY", "date": "2026-04-28", "filing_date": "2026-04-30", "actor": "Karp Alexander C", "title": "Chief Executive Officer", "shares": 100000, "price": 24.00, "value": 2400000, "label": "100,000株 @ $24.00 ($2,400,000)"},
+            {"type": "BUY", "date": "2026-04-28", "filing_date": "2026-04-30", "actor": "Cohen Stephen Andrew", "title": "President", "shares": 50000, "price": 23.85, "value": 1192500, "label": "50,000株 @ $23.85 ($1,192,500)"},
+            {"type": "BUY", "date": "2026-04-26", "filing_date": "2026-04-28", "actor": "Glazer Lisa A", "title": "Chief Legal Officer", "shares": 25000, "price": 23.20, "value": 580000, "label": "25,000株 @ $23.20 ($580,000)"}
+          ]
+        },
+        "filing13d": {"active": false, "score": 0, "detail": {"event": "直近期間に5%超保有報告なし"}, "evidence": 0, "events": []},
+        "options": {
+          "active": true, "score": 52,
+          "detail": {"大型コールブロック": "$1,800,000 (Strike $35)", "複数満期スプレッド": "3満期にコール集中(機関的戦略)", "極端Vol/OI": "12.5x (Strike $35, 満期15日)", "OTMコール集中": "$2,450,000", "Call/Put比": "4.2x (極強気)", "緊急コール集中": "直近1時間内に3件"},
+          "evidence": 95,
+          "sweep_signals": ["BLOCK_CALL", "MULTI_EXP_SWEEP", "EXTREME_VOL_OI", "OTM_CALL_HEAVY", "URGENT_FLOW"],
+          "events": [
+            {"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 14:35", "actor": "CALL $35 満期2026-05-15", "title": "Bullish Flow", "label": "Vol 18,500 (OI比12.5x) プレミアム $1,800,000 [BLOCK] [EXTREME] [FRESH]"},
+            {"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 14:20", "actor": "CALL $33 満期2026-05-30", "title": "Bullish Flow", "label": "Vol 12,200 (OI比6.8x) プレミアム $890,000 [FRESH]"},
+            {"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 13:45", "actor": "CALL $40 満期2026-06-20", "title": "Bullish Flow", "label": "Vol 8,400 (OI比4.5x) プレミアム $620,000 [FRESH]"},
+            {"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 11:08", "actor": "CALL $30 満期2026-05-15", "title": "Bullish Flow", "label": "Vol 5,800 (OI比3.2x) プレミアム $232,000"}
+          ]
+        },
+        "darkpool": {
+          "active": true, "score": 22,
+          "detail": {"ショート比率": "58.4% (機関ヘッジ示唆)", "Off-Ex出来高": "8,240,000", "データ日": "2026-05-02"},
+          "evidence": 68,
+          "events": [{"type": "DARKPOOL", "date": "2026-05-02", "filing_date": "2026-05-02", "actor": "FINRA Off-Exchange (CNMS)", "title": "T+1 集計", "label": "ショート比率 58.4% / 総出来高 8,240,000株"}]
+        },
+        "filing13f": {"active": false, "score": 0, "detail": {}, "evidence": 0, "events": []}
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp.",
+      "market": "US",
+      "score": 75,
+      "score_change": 8,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 142.8,
+      "prev_close": 140.2,
+      "vol_ratio": 1.6,
+      "signals": {
+        "insider": {"active": false, "score": 0, "detail": {"event": "直近期間にシグナルなし"}, "evidence": 0, "buy_count": 0, "sell_count": 0, "events": []},
+        "filing13d": {"active": false, "score": 0, "detail": {}, "evidence": 0, "events": []},
+        "options": {
+          "active": true, "score": 42,
+          "detail": {"大型コールブロック": "$1,200,000 (Strike $150)", "複数満期スプレッド": "3満期にコール集中(機関的戦略)", "Call/Put比": "2.8x (強気)"},
+          "evidence": 92,
+          "sweep_signals": ["BLOCK_CALL", "MULTI_EXP_SWEEP"],
+          "events": [
+            {"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 15:50", "actor": "CALL $150 満期2026-06-20", "title": "Bullish Flow", "label": "Vol 18,400 (OI比4.2x) プレミアム $1,200,000 [BLOCK]"},
+            {"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 14:12", "actor": "CALL $145 満期2026-05-30", "title": "Bullish Flow", "label": "Vol 14,200 (OI比3.5x) プレミアム $850,000"}
+          ]
+        },
+        "darkpool": {
+          "active": true, "score": 25,
+          "detail": {"ショート比率": "62.1% (機関ヘッジ示唆)", "Off-Ex出来高": "12,500,000", "データ日": "2026-05-02"},
+          "evidence": 71,
+          "events": [{"type": "DARKPOOL", "date": "2026-05-02", "filing_date": "2026-05-02", "actor": "FINRA Off-Exchange (CNMS)", "title": "T+1 集計", "label": "ショート比率 62.1% / 総出来高 12,500,000株"}]
+        },
+        "filing13f": {"active": false, "score": 0, "detail": {}, "evidence": 0, "events": []}
+      }
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana Co.",
+      "market": "US",
+      "score": 67,
+      "score_change": -2,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 245.3,
+      "prev_close": 238.5,
+      "vol_ratio": 2.1,
+      "signals": {
+        "insider": {"active": false, "score": 0, "detail": {"event": "シグナルなし"}, "evidence": 0, "buy_count": 0, "sell_count": 0, "events": []},
+        "filing13d": {
+          "active": true, "score": 28,
+          "detail": {"最新13G提出": "SC 13G", "著名アクティビスト": "Tiger Global"},
+          "evidence": 78,
+          "events": [
+            {"type": "13G", "date": "2026-04-22", "filing_date": "2026-04-22", "actor": "Tiger Global Management LLC", "title": "Activist", "label": "SC 13G 提出 (Tiger Global Management)", "is_activist": true}
+          ]
+        },
+        "options": {
+          "active": true, "score": 25,
+          "detail": {"最大コール": "Strike $260 (Vol/OI: 5.4x)", "コール総プレミアム": "$1,800,000", "Call/Put比": "2.1x (強気)"},
+          "evidence": 75,
+          "sweep_signals": ["BLOCK_CALL"],
+          "events": [{"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 13:45", "actor": "CALL $260 満期2026-05-20", "title": "Bullish Flow", "label": "Vol 6,200 (OI比5.4x) プレミアム $1,800,000 [BLOCK]"}]
+        },
+        "darkpool": {"active": false, "score": 0, "detail": {}, "evidence": 0, "events": []},
+        "filing13f": {"active": false, "score": 0, "detail": {}, "evidence": 0, "events": []}
+      }
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "market": "US",
+      "score": 54,
+      "score_change": 12,
+      "tier": "monitor",
+      "tier_label": "👀 MONITOR",
+      "price": 13.85,
+      "prev_close": 13.6,
+      "vol_ratio": 1.4,
+      "signals": {
+        "insider": {
+          "active": true, "score": 18,
+          "detail": {"クラスターバイ": "2名が直近期間に買付", "最大買付": "CFO: $650,000"},
+          "evidence": 72, "buy_count": 3, "sell_count": 0,
+          "events": [
+            {"type": "BUY", "date": "2026-04-25", "filing_date": "2026-04-26", "actor": "Lapointe Christopher", "title": "Chief Financial Officer", "shares": 50000, "price": 13.00, "value": 650000, "label": "50,000株 @ $13.00 ($650,000)"}
+          ]
+        },
+        "filing13d": {"active": false, "score": 0, "detail": {}, "evidence": 0, "events": []},
+        "options": {"active": true, "score": 15, "detail": {"コール総プレミアム": "$320,000"}, "evidence": 55, "sweep_signals": [], "events": [{"type": "CALL", "date": "2026-05-02", "filing_date": "2026-05-02 12:15", "actor": "CALL $14 満期2026-05-30", "title": "Bullish Flow", "label": "Vol 4,500 (OI比3.1x) プレミアム $320,000"}]},
+        "darkpool": {"active": true, "score": 12, "detail": {"ショート比率": "52.3%", "データ日": "2026-05-02"}, "evidence": 50, "events": [{"type": "DARKPOOL", "date": "2026-05-02", "filing_date": "2026-05-02", "actor": "FINRA Off-Exchange (CNMS)", "title": "T+1 集計", "label": "ショート比率 52.3% / 総出来高 14,800,000株"}]},
+        "filing13f": {"active": false, "score": 0, "detail": {}, "evidence": 0, "events": []}
+      }
+    }
+  ]
+}

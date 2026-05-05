@@ -1,0 +1,93 @@
+name: Whale Tracker Auto Update
+
+on:
+  schedule:
+    # 1時間ごと (関連データがある時間帯のみ)
+    # JST 7:00-23:00 = UTC 22:00-14:00 → クロスデイ実行
+    # 米国市場 (JST 22:30-翌5:00) と 日本市場 (JST 9:00-15:30) をカバー
+    - cron: '0 0,1,2,3,4,5,6,22,23 * * 1-6'   # 米国市場集中時間帯
+    - cron: '0 7,8,9,10,11,12,13,14 * * 1-5'  # 日本市場時間帯
+  workflow_dispatch:  # 手動実行も可能
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      # 依存パッケージなし(標準ライブラリのみで動作)
+      
+      - name: Determine market based on time
+        id: market
+        run: |
+          HOUR_UTC=$(date -u +%H)
+          HOUR_JST=$(( (HOUR_UTC + 9) % 24 ))
+          echo "hour_jst=$HOUR_JST" >> $GITHUB_OUTPUT
+          # JST 9-16時は日本市場優先, 22-翌5時は米国市場優先, それ以外は両方
+          if [ $HOUR_JST -ge 9 ] && [ $HOUR_JST -lt 16 ]; then
+            echo "target=jp_priority" >> $GITHUB_OUTPUT
+          elif [ $HOUR_JST -ge 22 ] || [ $HOUR_JST -lt 6 ]; then
+            echo "target=us_priority" >> $GITHUB_OUTPUT
+          else
+            echo "target=both" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Fetch US Whale Signals
+        id: us
+        continue-on-error: true
+        run: |
+          python scripts/fetch_us.py
+        timeout-minutes: 15
+      
+      - name: Fetch JP Whale Signals (includes TDnet + Margin)
+        id: jp
+        continue-on-error: true
+        run: |
+          python scripts/fetch_jp.py
+        timeout-minutes: 18
+      
+      - name: Build HTML Dashboard
+        run: |
+          python scripts/build_html.py
+      
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          git diff --staged --quiet || git commit -m "auto: update whale signals $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push || echo "Nothing to push"
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
