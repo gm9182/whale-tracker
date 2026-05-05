@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T12:59:07.550361+09:00",
+  "generated_at": "2026-05-05T15:21:08.173331+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -128,7 +128,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7203.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -177,7 +177,7 @@
           "events": []
         }
       },
-      "score_change": -42
+      "score_change": 0
     },
     {
       "symbol": "9432",
@@ -413,7 +413,7 @@
           "events": []
         }
       },
-      "score_change": -78
+      "score_change": 0
     },
     {
       "symbol": "6861",
@@ -531,7 +531,7 @@
           "events": []
         }
       },
-      "score_change": -68
+      "score_change": 0
     },
     {
       "symbol": "7974",
@@ -1711,7 +1711,7 @@
           "events": []
         }
       },
-      "score_change": -92
+      "score_change": 0
     },
     {
       "symbol": "9613",
@@ -2124,7 +2124,7 @@
           "events": []
         }
       },
-      "score_change": -35
+      "score_change": 0
     },
     {
       "symbol": "5831",
@@ -2301,7 +2301,7 @@
           "events": []
         }
       },
-      "score_change": -62
+      "score_change": 0
     },
     {
       "symbol": "3659",
@@ -3137,7 +3137,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
