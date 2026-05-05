@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T22:53:17.777451+00:00",
+  "generated_at": "2026-05-05T23:46:17.358534+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -596,7 +596,7 @@
           "evidence": 0
         }
       },
-      "score_change": -44
+      "score_change": 0
     },
     {
       "symbol": "NVDA",
@@ -3172,46 +3172,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 25,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-04-14",
-              "filing_date": "2026-04-16",
-              "actor": "CORDANO MICHAEL D",
-              "title": "EVP, Worldwide Sales",
-              "shares": 3407,
-              "price": 435.0,
-              "value": 1482045,
-              "label": "3,407株 @ $435.00 ($1,482,045)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-10",
-              "filing_date": "2026-04-14",
-              "actor": "Sadana Sumit",
-              "title": "EVP and Chief Business Officer",
-              "shares": 24000,
-              "price": 421.35,
-              "value": 10112400,
-              "label": "24,000株 @ $421.35 ($10,112,400)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-09",
-              "filing_date": "2026-04-13",
-              "actor": "CORDANO MICHAEL D",
-              "title": "EVP, Worldwide Sales",
-              "shares": 3407,
-              "price": 420.81,
-              "value": 1433699,
-              "label": "3,407株 @ $420.81 ($1,433,699)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -3913,12 +3879,24 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "直近期間にシグナルなし"
+            "event": "シグナルなし"
           },
-          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 0,
-          "events": []
+          "sell_count": 1,
+          "evidence": 40,
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-01",
+              "filing_date": "2026-05-05",
+              "actor": "BERKSHIRE HATHAWAY INC",
+              "title": "Insider",
+              "shares": 1220376,
+              "price": 149.84,
+              "value": 182864678,
+              "label": "1,220,376株 @ $149.84 ($182,864,678)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
@@ -4288,7 +4266,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 1,
-          "sell_count": 0,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -4301,6 +4279,17 @@
               "price": 876.84,
               "value": 219210,
               "label": "250株 @ $876.84 ($219,210)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-04",
+              "filing_date": "2026-05-05",
+              "actor": "Kaiser Jason",
+              "title": "Group President",
+              "shares": 5642,
+              "price": 883.03,
+              "value": 4982055,
+              "label": "5,642株 @ $883.03 ($4,982,055)"
             }
           ]
         },
