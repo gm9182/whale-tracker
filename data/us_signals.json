@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T23:46:17.358534+00:00",
+  "generated_at": "2026-05-06T01:54:51.972615+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2179,9 +2179,43 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 23,
+          "sell_count": 40,
           "evidence": 40,
-          "events": []
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-04",
+              "filing_date": "2026-05-05",
+              "actor": "Podbere Burt W.",
+              "title": "CHIEF FINANCIAL OFFICER",
+              "shares": 1600,
+              "price": 456.9,
+              "value": 731040,
+              "label": "1,600株 @ $456.90 ($731,040)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-04",
+              "filing_date": "2026-05-05",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 1106,
+              "price": 468.94,
+              "value": 518647,
+              "label": "1,106株 @ $468.94 ($518,647)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-04",
+              "filing_date": "2026-05-05",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 3529,
+              "price": 458.49,
+              "value": 1618011,
+              "label": "3,529株 @ $458.49 ($1,618,011)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
