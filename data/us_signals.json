@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T23:47:32.422626+00:00",
+  "generated_at": "2026-05-07T01:58:38.296315+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -361,10 +361,10 @@
           "active": true,
           "score": 15,
           "detail": {
-            "10%超保有者": "2件の買い"
+            "10%超保有者": "1件の買い"
           },
-          "buy_count": 2,
-          "sell_count": 1,
+          "buy_count": 1,
+          "sell_count": 0,
           "evidence": 55,
           "events": [
             {
@@ -377,17 +377,6 @@
               "price": 12.33,
               "value": 5018,
               "label": "407株 @ $12.33 ($5,018)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-04-02",
-              "filing_date": "2026-04-06",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 3359,
-              "price": 8.68,
-              "value": 29156,
-              "label": "3,359株 @ $8.68 ($29,156)"
             }
           ]
         },
@@ -3893,7 +3882,7 @@
       "tier_label": "LOW",
       "price": 193.35,
       "prev_close": 166.55,
-      "vol_ratio": 1.1,
+      "vol_ratio": 1.11,
       "signals": {
         "insider": {
           "active": false,
@@ -4202,7 +4191,7 @@
       "tier_label": "LOW",
       "price": 491.89,
       "prev_close": 501.5,
-      "vol_ratio": 1.22,
+      "vol_ratio": 1.23,
       "signals": {
         "insider": {
           "active": false,
