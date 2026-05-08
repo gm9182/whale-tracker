@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T17:31:55.267447+09:00",
+  "generated_at": "2026-05-08T19:33:07.532366+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近1h以内)"
+            "開示件数": "5件 (直近3h以内)"
           },
           "evidence": 95,
           "events": [
@@ -118,7 +118,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "6857",
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近26h以内)"
+            "開示件数": "5件 (直近28h以内)"
           },
           "evidence": 95,
           "events": [
@@ -261,7 +261,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近26h以内)"
+            "開示件数": "5件 (直近28h以内)"
           },
           "evidence": 69,
           "events": [
@@ -410,7 +410,7 @@
           "events": []
         }
       },
-      "score_change": -40
+      "score_change": 0
     },
     {
       "symbol": "9432",
