@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T07:58:49.140086+09:00",
+  "generated_at": "2026-05-09T09:02:11.355528+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近16h以内)"
+            "開示件数": "5件 (直近17h以内)"
           },
           "evidence": 95,
           "events": [
@@ -118,7 +118,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "6857",
@@ -145,43 +145,10 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近40h以内)"
+            "開示件数": "2件 (直近42h以内)"
           },
           "evidence": 95,
           "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07 15:30:00",
-              "actor": "アドバンテス",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07 15:30:00",
-              "actor": "アドバンテス",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07 15:30:00",
-              "actor": "アドバンテス",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
             {
               "type": "BUYBACK",
               "date": "2026-05-07",
@@ -241,7 +208,7 @@
       "symbol": "4475",
       "name": "HENNGE",
       "market": "JP",
-      "score": 30,
+      "score": 13,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -259,45 +226,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 19,
+          "score": 8,
           "detail": {
-            "開示件数": "5件 (直近40h以内)"
+            "開示件数": "2件 (直近42h以内)"
           },
-          "evidence": 69,
+          "evidence": 58,
           "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
-              "title": "決算短信",
-              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
-              "title": "決算短信",
-              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
-              "title": "決算短信",
-              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
             {
               "type": "EARNINGS",
               "date": "2026-05-07",
@@ -351,7 +285,7 @@
           "events": []
         }
       },
-      "score_change": 17
+      "score_change": -17
     },
     {
       "symbol": "7203",
