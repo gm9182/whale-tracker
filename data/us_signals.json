@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T23:52:52.360850+00:00",
+  "generated_at": "2026-05-09T01:57:57.653911+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,10 +88,10 @@
           "active": true,
           "score": 35,
           "detail": {
-            "クラスターバイ": "4名が直近期間に買付",
+            "クラスターバイ": "3名が直近期間に買付",
             "最大買付": "Insider: $1,060,750"
           },
-          "buy_count": 4,
+          "buy_count": 3,
           "sell_count": 0,
           "evidence": 75,
           "events": [
@@ -127,17 +127,6 @@
               "price": 43.34,
               "value": 173360,
               "label": "4,000株 @ $43.34 ($173,360)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-04-07",
-              "filing_date": "2026-04-08",
-              "actor": "SWAN ROBERT HOLMES",
-              "title": "Director",
-              "shares": 11781,
-              "price": 42.44,
-              "value": 500002,
-              "label": "11,781株 @ $42.44 ($500,002)"
             }
           ]
         },
@@ -1042,7 +1031,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -1077,17 +1066,6 @@
               "price": 255.54,
               "value": 1533240,
               "label": "6,000株 @ $255.54 ($1,533,240)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-06",
-              "filing_date": "2026-04-08",
-              "actor": "Papermaster Mark D",
-              "title": "Chief Technology Officer &amp; EVP",
-              "shares": 3293,
-              "price": 225.0,
-              "value": 740925,
-              "label": "3,293株 @ $225.00 ($740,925)"
             }
           ]
         },
@@ -6224,7 +6202,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": []
         },
