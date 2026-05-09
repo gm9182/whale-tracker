@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-09T16:27:19.901752+09:00",
+  "generated_at": "2026-05-10T07:46:10.846059+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
     {
-      "symbol": "6758",
-      "name": "ソニーグループ",
+      "symbol": "6857",
+      "name": "アドバンテスト",
       "market": "JP",
       "score": 72,
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6857.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -27,41 +27,63 @@
           "active": true,
           "score": 45,
           "detail": {
-            "強気開示": "業務提携",
-            "開示件数": "3件 (直近24h以内)"
+            "強気開示": "自社株買い",
+            "開示件数": "5件 (直近64h以内)"
           },
           "evidence": 95,
           "events": [
             {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
+              "type": "BUYBACK",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "アドバンテス",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
               "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
+              "type": "BUYBACK",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "アドバンテス",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
               "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
+              "type": "BUYBACK",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "アドバンテス",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "アドバンテス",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "アドバンテス",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518035.pdf",
               "is_bullish": true,
               "is_bearish": false
             }
@@ -96,7 +118,123 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": 72
+    },
+    {
+      "symbol": "4475",
+      "name": "HENNGE",
+      "market": "JP",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4475.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 19,
+          "detail": {
+            "開示件数": "5件 (直近64h以内)"
+          },
+          "evidence": 69,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-05-07",
+              "filing_date": "2026-05-07 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260430515666.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 30
     },
     {
       "symbol": "7203",
@@ -106,7 +244,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7203.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -165,7 +303,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9432.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -217,6 +355,65 @@
       "score_change": 0
     },
     {
+      "symbol": "6758",
+      "name": "ソニーグループ",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6758.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -72
+    },
+    {
       "symbol": "8306",
       "name": "三菱UFJフィナンシャル",
       "market": "JP",
@@ -224,7 +421,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8306.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -283,7 +480,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9984.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -342,7 +539,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6861.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -401,7 +598,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8035.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -460,7 +657,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7974.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -519,7 +716,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8316.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -578,7 +775,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4063.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -637,7 +834,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6098.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -696,7 +893,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9433.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -755,7 +952,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8411.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -814,7 +1011,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4502.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -873,7 +1070,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7267.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -932,7 +1129,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6594.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -991,7 +1188,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7741.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1050,7 +1247,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6501.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1109,7 +1306,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8001.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1808,65 +2005,6 @@
         }
       },
       "score_change": 0
-    },
-    {
-      "symbol": "6857",
-      "name": "アドバンテスト",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6857.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": -35
     },
     {
       "symbol": "9101",
@@ -3108,65 +3246,6 @@
       "score_change": 0
     },
     {
-      "symbol": "4475",
-      "name": "HENNGE",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4475.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": -6
-    },
-    {
       "symbol": "4424",
       "name": "Amazia",
       "market": "JP",
@@ -3174,7 +3253,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4424.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3233,7 +3312,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9519.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3292,7 +3371,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5401.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3351,7 +3430,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5713.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3410,7 +3489,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5020.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3469,7 +3548,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 1605.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
