@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T15:08:08.828259+09:00",
+  "generated_at": "2026-05-11T18:08:42.677905+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近71h以内)"
+            "開示件数": "5件 (直近72h以内)"
           },
           "evidence": 95,
           "events": [
@@ -118,7 +118,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "6857",
@@ -238,14 +238,14 @@
       "score_change": 0
     },
     {
-      "symbol": "5713",
-      "name": "住友金属鉱山",
+      "symbol": "5020",
+      "name": "ENEOSホールディングス",
       "market": "JP",
       "score": 72,
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 5713.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -261,96 +261,63 @@
           "active": true,
           "score": 45,
           "detail": {
-            "強気開示": "増配・配当変更",
-            "開示件数": "10件 (直近1h以内)"
+            "強気開示": "TOB・公開買付",
+            "開示件数": "5件 (直近2h以内)"
           },
           "evidence": 95,
           "events": [
             {
-              "type": "EARNINGS",
+              "type": "TOB",
               "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "決算短信",
-              "label": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521788.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "増配・配当変更",
-              "label": "2026年３月期（第101期）配当予想の修正（増配）に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521796.pdf",
+              "filing_date": "2026-05-11 16:10:00",
+              "actor": "ＥＮＥＯＳ",
+              "title": "TOB・公開買付",
+              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
               "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "EARNINGS",
+              "type": "TOB",
               "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "決算短信",
-              "label": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521788.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "増配・配当変更",
-              "label": "2026年３月期（第101期）配当予想の修正（増配）に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521796.pdf",
+              "filing_date": "2026-05-11 16:10:00",
+              "actor": "ＥＮＥＯＳ",
+              "title": "TOB・公開買付",
+              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
               "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "EARNINGS",
+              "type": "TOB",
               "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "決算短信",
-              "label": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521788.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "増配・配当変更",
-              "label": "2026年３月期（第101期）配当予想の修正（増配）に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521796.pdf",
+              "filing_date": "2026-05-11 16:10:00",
+              "actor": "ＥＮＥＯＳ",
+              "title": "TOB・公開買付",
+              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
               "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "EARNINGS",
+              "type": "TOB",
               "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "決算短信",
-              "label": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521788.pdf",
-              "is_bullish": false,
+              "filing_date": "2026-05-11 16:10:00",
+              "actor": "ＥＮＥＯＳ",
+              "title": "TOB・公開買付",
+              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
+              "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "DIV_UP",
+              "type": "TOB",
               "date": "2026-05-11",
-              "filing_date": "2026-05-11 14:30:00",
-              "actor": "住友鉱",
-              "title": "増配・配当変更",
-              "label": "2026年３月期（第101期）配当予想の修正（増配）に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521796.pdf",
+              "filing_date": "2026-05-11 16:10:00",
+              "actor": "ＥＮＥＯＳ",
+              "title": "TOB・公開買付",
+              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
               "is_bullish": true,
               "is_bearish": false
             }
@@ -395,7 +362,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -501,7 +468,7 @@
           "events": []
         }
       },
-      "score_change": 6
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -1455,7 +1422,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6501.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1514,7 +1481,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8001.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1573,7 +1540,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9434.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1632,7 +1599,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8058.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1691,7 +1658,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6981.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1750,7 +1717,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1809,7 +1776,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9983.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1868,7 +1835,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7011.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1927,7 +1894,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1986,7 +1953,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8766.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3461,7 +3428,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4424.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3520,7 +3487,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9519.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3579,7 +3546,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5401.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3631,14 +3598,14 @@
       "score_change": 0
     },
     {
-      "symbol": "5020",
-      "name": "ENEOSホールディングス",
+      "symbol": "5713",
+      "name": "住友金属鉱山",
       "market": "JP",
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5020.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3687,7 +3654,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -72
     },
     {
       "symbol": "1605",
@@ -3697,7 +3664,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 1605.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
