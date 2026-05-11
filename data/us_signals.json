@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T23:44:56.268655+00:00",
+  "generated_at": "2026-05-11T02:05:22.729609+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,10 +88,10 @@
           "active": true,
           "score": 35,
           "detail": {
-            "クラスターバイ": "3名が直近期間に買付",
+            "クラスターバイ": "2名が直近期間に買付",
             "最大買付": "Insider: $1,060,750"
           },
-          "buy_count": 3,
+          "buy_count": 2,
           "sell_count": 0,
           "evidence": 75,
           "events": [
@@ -116,17 +116,6 @@
               "price": 42.43,
               "value": 1060750,
               "label": "25,000株 @ $42.43 ($1,060,750)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-04-09",
-              "filing_date": "2026-04-10",
-              "actor": "ROGERS JOHN W JR",
-              "title": "Director",
-              "shares": 4000,
-              "price": 43.34,
-              "value": 173360,
-              "label": "4,000株 @ $43.34 ($173,360)"
             }
           ]
         },
@@ -423,7 +412,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 215.2,
+      "price": 215.217,
       "prev_close": 182.08,
       "vol_ratio": 0.91,
       "signals": {
@@ -606,7 +595,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 293.32,
+      "price": 293.257,
       "prev_close": 258.9,
       "vol_ratio": 1.12,
       "signals": {
@@ -687,7 +676,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 415.12,
+      "price": 415.06,
       "prev_close": 374.33,
       "vol_ratio": 0.94,
       "signals": {
@@ -745,7 +734,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 400.8,
+      "price": 400.713,
       "prev_close": 317.32,
       "vol_ratio": 0.8,
       "signals": {
@@ -1120,10 +1109,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -1136,50 +1125,6 @@
               "price": 370.52,
               "value": 2964178,
               "label": "8,000株 @ $370.52 ($2,964,178)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-09",
-              "filing_date": "2026-04-10",
-              "actor": "Velaga S. Ram",
-              "title": "President, ISG",
-              "shares": 17260,
-              "price": 352.12,
-              "value": 6077563,
-              "label": "17,260株 @ $352.12 ($6,077,563)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-08",
-              "filing_date": "2026-04-10",
-              "actor": "Velaga S. Ram",
-              "title": "President, ISG",
-              "shares": 12955,
-              "price": 352.02,
-              "value": 4560448,
-              "label": "12,955株 @ $352.02 ($4,560,448)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-08",
-              "filing_date": "2026-04-10",
-              "actor": "PAGE JUSTINE",
-              "title": "Insider",
-              "shares": 2018,
-              "price": 353.0,
-              "value": 712354,
-              "label": "2,018株 @ $353.00 ($712,354)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-08",
-              "filing_date": "2026-04-10",
-              "actor": "Kawwas Charlie B",
-              "title": "President, SSG",
-              "shares": 10000,
-              "price": 345.23,
-              "value": 3452269,
-              "label": "10,000株 @ $345.23 ($3,452,269)"
             }
           ]
         },
@@ -2455,7 +2400,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 110.41,
+      "price": 110.505,
       "prev_close": 120.1,
       "vol_ratio": 1.33,
       "signals": {
@@ -2524,7 +2469,7 @@
             "大型売却警戒": "9件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 15,
           "evidence": 40,
           "events": [
             {
@@ -2740,7 +2685,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 14.35,
+      "price": 14.368,
       "prev_close": 13.46,
       "vol_ratio": 2.03,
       "signals": {
@@ -2948,7 +2893,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 124.92,
+      "price": 124.895,
       "prev_close": 58.95,
       "vol_ratio": 1.55,
       "signals": {
@@ -3018,7 +2963,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 746.81,
+      "price": 746.79,
       "prev_close": 406.73,
       "vol_ratio": 1.52,
       "signals": {
@@ -3337,7 +3282,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 87.49,
+      "price": 87.477,
       "prev_close": 99.39,
       "vol_ratio": 0.85,
       "signals": {
@@ -6141,11 +6086,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
