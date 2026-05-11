@@ -1,125 +1,8 @@
 {
-  "generated_at": "2026-05-11T19:45:33.654015+09:00",
+  "generated_at": "2026-05-11T23:02:37.418965+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
-    {
-      "symbol": "6758",
-      "name": "ソニーグループ",
-      "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
-      "price": 0,
-      "prev_close": 6758.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 45,
-          "detail": {
-            "強気開示": "業務提携",
-            "開示件数": "5件 (直近72h以内)"
-          },
-          "evidence": 95,
-          "events": [
-            {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "PARTNERSHIP",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08 16:15:00",
-              "actor": "ソニーグループ",
-              "title": "業務提携",
-              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "6857",
       "name": "アドバンテスト",
@@ -238,14 +121,14 @@
       "score_change": 0
     },
     {
-      "symbol": "5020",
-      "name": "ENEOSホールディングス",
+      "symbol": "6758",
+      "name": "ソニーグループ",
       "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
+      "score": 48,
+      "tier": "low",
+      "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5020.0,
+      "prev_close": 6758.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -259,65 +142,43 @@
         },
         "tdnet": {
           "active": true,
-          "score": 45,
+          "score": 30,
           "detail": {
-            "強気開示": "TOB・公開買付",
-            "開示件数": "5件 (直近4h以内)"
+            "強気開示": "業務提携",
+            "開示件数": "3件 (直近72h以内)"
           },
-          "evidence": 95,
+          "evidence": 80,
           "events": [
             {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
+              "type": "PARTNERSHIP",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-08 16:15:00",
+              "actor": "ソニーグループ",
+              "title": "業務提携",
+              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
               "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
+              "type": "PARTNERSHIP",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-08 16:15:00",
+              "actor": "ソニーグループ",
+              "title": "業務提携",
+              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
               "is_bullish": true,
               "is_bearish": false
             },
             {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
+              "type": "PARTNERSHIP",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-08 16:15:00",
+              "actor": "ソニーグループ",
+              "title": "業務提携",
+              "label": "ソニーセミコンダクタソリューションズとTSMCとの次世代イメージセンサーに関する戦略的提携に向けた基本合意のお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260507518510.pdf",
               "is_bullish": true,
               "is_bearish": false
             }
@@ -352,7 +213,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -24
     },
     {
       "symbol": "4475",
@@ -1245,7 +1106,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7267.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1304,7 +1165,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6594.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1363,7 +1224,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7741.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1422,7 +1283,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6501.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1481,7 +1342,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8001.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1540,7 +1401,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9434.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1599,7 +1460,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8058.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1658,7 +1519,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6981.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1717,7 +1578,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1776,7 +1637,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9983.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1835,7 +1696,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7011.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3428,7 +3289,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4424.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3487,7 +3348,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9519.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3546,7 +3407,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5401.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3605,7 +3466,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5713.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3657,6 +3518,65 @@
       "score_change": 0
     },
     {
+      "symbol": "5020",
+      "name": "ENEOSホールディングス",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -72
+    },
+    {
       "symbol": "1605",
       "name": "INPEX",
       "market": "JP",
@@ -3664,7 +3584,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 1605.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
