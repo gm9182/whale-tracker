@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T23:53:13.848940+00:00",
+  "generated_at": "2026-05-12T02:01:54.914268+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1011,7 +1011,7 @@
       "tier_label": "LOW",
       "price": 458.79,
       "prev_close": 245.04,
-      "vol_ratio": 0.97,
+      "vol_ratio": 0.96,
       "signals": {
         "insider": {
           "active": false,
@@ -1964,12 +1964,57 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 27,
+          "sell_count": 19,
           "evidence": 40,
-          "events": []
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-11",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 5510,
+              "price": 525.44,
+              "value": 2895174,
+              "label": "5,510株 @ $525.44 ($2,895,174)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-11",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 3786,
+              "price": 526.53,
+              "value": 1993442,
+              "label": "3,786株 @ $526.53 ($1,993,442)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-11",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 7278,
+              "price": 527.35,
+              "value": 3838053,
+              "label": "7,278株 @ $527.35 ($3,838,053)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-11",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 953,
+              "price": 528.17,
+              "value": 503346,
+              "label": "953株 @ $528.17 ($503,346)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
@@ -2493,7 +2538,7 @@
       "tier_label": "LOW",
       "price": 137.05,
       "prev_close": 128.96,
-      "vol_ratio": 1.37,
+      "vol_ratio": 1.36,
       "signals": {
         "insider": {
           "active": false,
