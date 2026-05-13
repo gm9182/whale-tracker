@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T23:57:08.787963+00:00",
+  "generated_at": "2026-05-13T02:07:00.186131+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2566,12 +2566,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "9件の$1M+売却"
+            "大型売却警戒": "11件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 19,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-12",
+              "actor": "Blecharczyk Nathan",
+              "title": "Chief Strategy Officer",
+              "shares": 42655,
+              "price": 145.48,
+              "value": 6205654,
+              "label": "42,655株 @ $145.48 ($6,205,654)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-08",
+              "filing_date": "2026-05-12",
+              "actor": "Blecharczyk Nathan",
+              "title": "Chief Strategy Officer",
+              "shares": 17481,
+              "price": 146.24,
+              "value": 2556384,
+              "label": "17,481株 @ $146.24 ($2,556,384)"
+            },
             {
               "type": "SELL",
               "date": "2026-05-04",
@@ -2659,28 +2681,6 @@
               "price": 141.58,
               "value": 1086372,
               "label": "7,673株 @ $141.58 ($1,086,372)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-20",
-              "filing_date": "2026-04-22",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 25838,
-              "price": 142.49,
-              "value": 3681612,
-              "label": "25,838株 @ $142.49 ($3,681,612)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-20",
-              "filing_date": "2026-04-22",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 21210,
-              "price": 143.36,
-              "value": 3040659,
-              "label": "21,210株 @ $143.36 ($3,040,659)"
             }
           ]
         },
