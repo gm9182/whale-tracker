@@ -1,235 +1,13 @@
 {
-  "generated_at": "2026-05-13T21:22:43.326048+09:00",
+  "generated_at": "2026-05-13T23:56:44.396828+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
     {
-      "symbol": "5020",
-      "name": "ENEOSホールディングス",
-      "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
-      "price": 0,
-      "prev_close": 0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 45,
-          "detail": {
-            "強気開示": "TOB・公開買付",
-            "開示件数": "4件 (直近53h以内)"
-          },
-          "evidence": 95,
-          "events": [
-            {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "TOB",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11 16:10:00",
-              "actor": "ＥＮＥＯＳ",
-              "title": "TOB・公開買付",
-              "label": "ＪＸ金属株式会社による自己株式の公開買付けへの応募および本件応募に伴う利益計上に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511522879.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "8316",
-      "name": "三井住友フィナンシャル",
-      "market": "JP",
-      "score": 40,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8316.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 25,
-          "detail": {
-            "開示件数": "5件 (直近5h以内)"
-          },
-          "evidence": 75,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-13 16:30:00",
-              "actor": "三井住友",
-              "title": "決算短信",
-              "label": "2026年3月期 決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260402597678.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-13 16:30:00",
-              "actor": "三井住友",
-              "title": "決算短信",
-              "label": "2026年3月期 決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260402597678.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-13 16:30:00",
-              "actor": "三井住友",
-              "title": "決算短信",
-              "label": "2026年3月期 決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260402597678.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-13 16:30:00",
-              "actor": "三井住友",
-              "title": "決算短信",
-              "label": "2026年3月期 決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260402597678.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-13 16:30:00",
-              "actor": "三井住友",
-              "title": "決算短信",
-              "label": "2026年3月期 決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260402597678.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 24
-    },
-    {
       "symbol": "5831",
       "name": "しずおかフィナンシャル",
       "market": "JP",
-      "score": 6,
+      "score": 11,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -247,12 +25,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 4,
+          "score": 7,
           "detail": {
             "弱気開示": "第三者割当(希薄化)",
-            "開示件数": "6件 (直近29h以内)"
+            "開示件数": "9件 (直近32h以内)"
           },
-          "evidence": 54,
+          "evidence": 57,
           "events": [
             {
               "type": "EARNINGS",
@@ -319,6 +97,28 @@
               "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260510521132.pdf",
               "is_bullish": false,
               "is_bearish": true
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-05-12",
+              "filing_date": "2026-05-12 16:00:00",
+              "actor": "しずおかＦＧ",
+              "title": "決算短信",
+              "label": "2026年３月期　決算短信[日本基準](連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521724.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-05-12",
+              "filing_date": "2026-05-12 16:00:00",
+              "actor": "しずおかＦＧ",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260510521133.pdf",
+              "is_bullish": false,
+              "is_bearish": false
             }
           ],
           "direction": "bullish"
@@ -351,7 +151,7 @@
           "events": []
         }
       },
-      "score_change": -8
+      "score_change": 5
     },
     {
       "symbol": "7203",
@@ -824,6 +624,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "8316",
+      "name": "三井住友フィナンシャル",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 8316.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -40
     },
     {
       "symbol": "4063",
@@ -2544,7 +2403,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4477.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2603,7 +2462,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 3092.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2662,7 +2521,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4307.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2721,7 +2580,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4751.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2780,7 +2639,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6273.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2839,7 +2698,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6963.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2898,7 +2757,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6701.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2957,7 +2816,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6702.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3016,7 +2875,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6532.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3075,7 +2934,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8473.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3134,7 +2993,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8593.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3193,7 +3052,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4490.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3252,7 +3111,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4488.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3311,7 +3170,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3429,7 +3288,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3488,7 +3347,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5401.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3547,7 +3406,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5713.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3599,6 +3458,65 @@
       "score_change": 0
     },
     {
+      "symbol": "5020",
+      "name": "ENEOSホールディングス",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 5020.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -72
+    },
+    {
       "symbol": "1605",
       "name": "INPEX",
       "market": "JP",
@@ -3606,7 +3524,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 1605.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
