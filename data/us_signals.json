@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:56:37.274150+00:00",
+  "generated_at": "2026-05-14T02:09:49.359420+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1123,7 +1123,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -1987,55 +1987,22 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 31,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 5510,
-              "price": 525.44,
-              "value": 2895174,
-              "label": "5,510株 @ $525.44 ($2,895,174)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 3786,
-              "price": 526.53,
-              "value": 1993442,
-              "label": "3,786株 @ $526.53 ($1,993,442)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 7278,
-              "price": 527.35,
-              "value": 3838053,
-              "label": "7,278株 @ $527.35 ($3,838,053)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 953,
-              "price": 528.17,
-              "value": 503346,
-              "label": "953株 @ $528.17 ($503,346)"
+              "date": "2026-05-12",
+              "filing_date": "2026-05-13",
+              "actor": "Sentonas Michael",
+              "title": "PRESIDENT",
+              "shares": 10000,
+              "price": 550.0,
+              "value": 5500000,
+              "label": "10,000株 @ $550.00 ($5,500,000)"
             }
           ]
         },
@@ -6406,21 +6373,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-04-10",
-              "filing_date": "2026-04-13",
-              "actor": "Erlinger Joseph M.",
-              "title": "President, McDonald's USA",
-              "shares": 2626,
-              "price": 307.0,
-              "value": 806182,
-              "label": "2,626株 @ $307.00 ($806,182)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
