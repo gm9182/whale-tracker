@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T08:00:24.853947+09:00",
+  "generated_at": "2026-05-15T08:58:19.023163+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -144,7 +144,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近39h以内)"
+            "開示件数": "5件 (直近40h以内)"
           },
           "evidence": 69,
           "events": [
@@ -261,7 +261,7 @@
           "score": 11,
           "detail": {
             "弱気開示": "第三者割当(希薄化)",
-            "開示件数": "15件 (直近64h以内)"
+            "開示件数": "15件 (直近65h以内)"
           },
           "evidence": 61,
           "events": [
@@ -3344,7 +3344,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
