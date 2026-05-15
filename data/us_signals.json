@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T23:53:55.177878+00:00",
+  "generated_at": "2026-05-15T02:08:20.075818+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -34,88 +34,6 @@
               "price": 15.9,
               "value": 999943399,
               "label": "62,889,522株 @ $15.90 ($999,943,399)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "NKE",
-      "market": "US",
-      "score": 52,
-      "tier": "monitor",
-      "tier_label": "👀 MONITOR",
-      "price": 42.02,
-      "prev_close": 44.2,
-      "vol_ratio": 0.95,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 35,
-          "detail": {
-            "クラスターバイ": "2名が直近期間に買付",
-            "最大買付": "Insider: $1,060,750"
-          },
-          "buy_count": 2,
-          "sell_count": 0,
-          "evidence": 75,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-04-13",
-              "filing_date": "2026-04-14",
-              "actor": "Hill Elliott",
-              "title": "PRESIDENT &amp; CEO",
-              "shares": 23660,
-              "price": 42.27,
-              "value": 999999,
-              "label": "23,660株 @ $42.27 ($999,999)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-04-10",
-              "filing_date": "2026-04-14",
-              "actor": "COOK TIMOTHY D",
-              "title": "Director",
-              "shares": 25000,
-              "price": 42.43,
-              "value": 1060750,
-              "label": "25,000株 @ $42.43 ($1,060,750)"
             }
           ]
         },
@@ -1120,24 +1038,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-04-10",
-              "filing_date": "2026-04-14",
-              "actor": "Velaga S. Ram",
-              "title": "President, ISG",
-              "shares": 8000,
-              "price": 370.52,
-              "value": 2964178,
-              "label": "8,000株 @ $370.52 ($2,964,178)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -6250,6 +6156,64 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "NKE",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 42.02,
+      "prev_close": 44.2,
+      "vol_ratio": 0.95,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間にシグナルなし"
+          },
+          "evidence": 0,
+          "buy_count": 0,
+          "sell_count": 0,
+          "events": []
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -52
     },
     {
       "symbol": "LULU",
