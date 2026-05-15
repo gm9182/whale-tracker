@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T22:51:03.110822+00:00",
+  "generated_at": "2026-05-15T23:51:30.087098+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -396,12 +396,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 17,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-13",
+              "filing_date": "2026-05-15",
+              "actor": "Taneja Vaibhav",
+              "title": "Chief Financial Officer",
+              "shares": 3000,
+              "price": 450.0,
+              "value": 1350000,
+              "label": "3,000株 @ $450.00 ($1,350,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-04-30",
