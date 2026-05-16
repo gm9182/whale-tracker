@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T17:01:13.786391+09:00",
+  "generated_at": "2026-05-17T07:47:10.611121+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -117,156 +117,6 @@
           "events": []
         }
       },
-      "score_change": -11
-    },
-    {
-      "symbol": "5831",
-      "name": "しずおかフィナンシャル",
-      "market": "JP",
-      "score": 13,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 5831.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 8,
-          "detail": {
-            "弱気開示": "第三者割当(希薄化)",
-            "開示件数": "15件 (直近72h以内)"
-          },
-          "evidence": 58,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "決算短信",
-              "label": "2026年３月期　決算短信[日本基準](連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521724.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EXEC_CHANGE",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "経営トップ交代",
-              "label": "代表取締役の異動に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260510521133.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DILUTION",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "第三者割当(希薄化)",
-              "label": "一般財団法人静岡ミライ共創財団の設立および財団の活動支援を目的とした第三者割当による自己株式の処分に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260510521132.pdf",
-              "is_bullish": false,
-              "is_bearish": true
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "決算短信",
-              "label": "2026年３月期　決算短信[日本基準](連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521724.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EXEC_CHANGE",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "経営トップ交代",
-              "label": "代表取締役の異動に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260510521133.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DILUTION",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "第三者割当(希薄化)",
-              "label": "一般財団法人静岡ミライ共創財団の設立および財団の活動支援を目的とした第三者割当による自己株式の処分に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260510521132.pdf",
-              "is_bullish": false,
-              "is_bearish": true
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "決算短信",
-              "label": "2026年３月期　決算短信[日本基準](連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260511521724.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EXEC_CHANGE",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-12 16:00:00",
-              "actor": "しずおかＦＧ",
-              "title": "経営トップ交代",
-              "label": "代表取締役の異動に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260510521133.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
       "score_change": 0
     },
     {
@@ -277,7 +127,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7203.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -336,7 +186,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9432.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -395,7 +245,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6758.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -454,7 +304,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8306.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -513,7 +363,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9984.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -572,7 +422,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6861.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -631,7 +481,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8035.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2276,6 +2126,65 @@
       "score_change": 0
     },
     {
+      "symbol": "5831",
+      "name": "しずおかフィナンシャル",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 5831.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -13
+    },
+    {
       "symbol": "4661",
       "name": "オリエンタルランド",
       "market": "JP",
@@ -3227,7 +3136,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3286,7 +3195,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4424.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3345,7 +3254,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3404,7 +3313,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5401.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3463,7 +3372,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5713.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3522,7 +3431,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3581,7 +3490,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 1605.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
