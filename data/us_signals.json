@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:51:30.087098+00:00",
+  "generated_at": "2026-05-16T02:00:44.292309+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1970,22 +1970,55 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 31,
+          "sell_count": 24,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-13",
-              "actor": "Sentonas Michael",
-              "title": "PRESIDENT",
-              "shares": 10000,
-              "price": 550.0,
-              "value": 5500000,
-              "label": "10,000株 @ $550.00 ($5,500,000)"
+              "date": "2026-05-14",
+              "filing_date": "2026-05-15",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 1031,
+              "price": 578.91,
+              "value": 596856,
+              "label": "1,031株 @ $578.91 ($596,856)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-14",
+              "filing_date": "2026-05-15",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 2199,
+              "price": 579.98,
+              "value": 1275376,
+              "label": "2,199株 @ $579.98 ($1,275,376)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-14",
+              "filing_date": "2026-05-15",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 3124,
+              "price": 580.9,
+              "value": 1814731,
+              "label": "3,124株 @ $580.90 ($1,814,731)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-14",
+              "filing_date": "2026-05-15",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 1385,
+              "price": 581.97,
+              "value": 806028,
+              "label": "1,385株 @ $581.97 ($806,028)"
             }
           ]
         },
@@ -3600,10 +3633,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "12件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -3682,39 +3715,6 @@
               "price": 309.42,
               "value": 1522037,
               "label": "4,919株 @ $309.42 ($1,522,037)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-15",
-              "filing_date": "2026-04-15",
-              "actor": "Piepszak Jennifer",
-              "title": "Chief Operating Officer",
-              "shares": 9136,
-              "price": 306.56,
-              "value": 2800712,
-              "label": "9,136株 @ $306.56 ($2,800,712)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-15",
-              "filing_date": "2026-04-15",
-              "actor": "Petno Douglas B",
-              "title": "Co-CEO CIB",
-              "shares": 5660,
-              "price": 306.58,
-              "value": 1735219,
-              "label": "5,660株 @ $306.58 ($1,735,219)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-15",
-              "filing_date": "2026-04-15",
-              "actor": "Lake Marianne",
-              "title": "CEO CCB",
-              "shares": 6427,
-              "price": 306.57,
-              "value": 1970303,
-              "label": "6,427株 @ $306.57 ($1,970,303)"
             }
           ]
         },
