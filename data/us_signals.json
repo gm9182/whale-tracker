@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T23:47:57.915569+00:00",
+  "generated_at": "2026-05-18T02:16:18.673779+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -21,7 +21,7 @@
             "10%超保有者": "1件の買い"
           },
           "buy_count": 1,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 75,
           "events": [
             {
@@ -674,7 +674,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 13,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -821,10 +821,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -881,17 +881,6 @@
               "price": 255.0,
               "value": 7905000,
               "label": "31,000株 @ $255.00 ($7,905,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-14",
-              "filing_date": "2026-04-16",
-              "actor": "Herrington Douglas J",
-              "title": "CEO Worldwide Amazon Stores",
-              "shares": 20500,
-              "price": 245.0,
-              "value": 5022500,
-              "label": "20,500株 @ $245.00 ($5,022,500)"
             }
           ]
         },
@@ -1173,11 +1162,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 8,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -1756,7 +1745,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 12,
           "evidence": 40,
           "events": [
             {
@@ -1802,17 +1791,6 @@
               "price": 87.48,
               "value": 874843,
               "label": "10,000株 @ $87.48 ($874,843)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-15",
-              "filing_date": "2026-04-17",
-              "actor": "Quirk Steven M.",
-              "title": "Chief Brokerage Officer",
-              "shares": 8540,
-              "price": 84.93,
-              "value": 725302,
-              "label": "8,540株 @ $84.93 ($725,302)"
             }
           ]
         },
@@ -2414,7 +2392,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -2427,28 +2405,6 @@
               "price": 290.06,
               "value": 580120,
               "label": "2,000株 @ $290.06 ($580,120)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-16",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 3640,
-              "price": 252.22,
-              "value": 918080,
-              "label": "3,640株 @ $252.22 ($918,080)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-14",
-              "filing_date": "2026-04-16",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 5678,
-              "price": 236.68,
-              "value": 1343869,
-              "label": "5,678株 @ $236.68 ($1,343,869)"
             }
           ]
         },
@@ -2907,7 +2863,7 @@
             "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 12,
+          "sell_count": 9,
           "evidence": 40,
           "events": [
             {
@@ -2986,28 +2942,6 @@
               "price": 180.0,
               "value": 3830400,
               "label": "21,280株 @ $180.00 ($3,830,400)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-14",
-              "filing_date": "2026-04-16",
-              "actor": "Haas Rene A.",
-              "title": "Chief Executive Officer",
-              "shares": 5646,
-              "price": 160.57,
-              "value": 906578,
-              "label": "5,646株 @ $160.57 ($906,578)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-14",
-              "filing_date": "2026-04-16",
-              "actor": "Haas Rene A.",
-              "title": "Chief Executive Officer",
-              "shares": 3483,
-              "price": 161.21,
-              "value": 561494,
-              "label": "3,483株 @ $161.21 ($561,494)"
             }
           ]
         },
@@ -3916,10 +3850,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 12,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -3943,72 +3877,6 @@
               "price": 191.5,
               "value": 1064548,
               "label": "5,559株 @ $191.50 ($1,064,548)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-17",
-              "filing_date": "2026-04-17",
-              "actor": "SIMKOWITZ DANIEL A",
-              "title": "Co-President",
-              "shares": 14690,
-              "price": 189.24,
-              "value": 2779987,
-              "label": "14,690株 @ $189.24 ($2,779,987)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-17",
-              "actor": "SAPERSTEIN ANDREW M",
-              "title": "Co-President",
-              "shares": 6584,
-              "price": 187.2,
-              "value": 1232538,
-              "label": "6,584株 @ $187.20 ($1,232,538)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-17",
-              "actor": "SAPERSTEIN ANDREW M",
-              "title": "Co-President",
-              "shares": 33541,
-              "price": 188.37,
-              "value": 6317990,
-              "label": "33,541株 @ $188.37 ($6,317,990)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-17",
-              "actor": "SAPERSTEIN ANDREW M",
-              "title": "Co-President",
-              "shares": 6353,
-              "price": 189.15,
-              "value": 1201664,
-              "label": "6,353株 @ $189.15 ($1,201,664)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-17",
-              "actor": "SAPERSTEIN ANDREW M",
-              "title": "Co-President",
-              "shares": 3190,
-              "price": 191.3,
-              "value": 610238,
-              "label": "3,190株 @ $191.30 ($610,238)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-17",
-              "actor": "CRAWLEY MANDELL",
-              "title": "Chief Client Officer",
-              "shares": 13283,
-              "price": 188.38,
-              "value": 2502298,
-              "label": "13,283株 @ $188.38 ($2,502,298)"
             }
           ]
         },
@@ -5938,7 +5806,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -5951,28 +5819,6 @@
               "price": 132.21,
               "value": 2566987,
               "label": "19,416株 @ $132.21 ($2,566,987)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-17",
-              "actor": "Furner John R.",
-              "title": "President &amp; CEO",
-              "shares": 6703,
-              "price": 124.63,
-              "value": 835394,
-              "label": "6,703株 @ $124.63 ($835,394)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-17",
-              "actor": "Furner John R.",
-              "title": "President &amp; CEO",
-              "shares": 6422,
-              "price": 125.06,
-              "value": 803135,
-              "label": "6,422株 @ $125.06 ($803,135)"
             }
           ]
         },
