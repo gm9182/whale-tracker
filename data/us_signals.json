@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T00:02:39.434440+00:00",
+  "generated_at": "2026-05-19T02:15:21.647845+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2005,57 +2005,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 24,
+          "sell_count": 27,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 1031,
-              "price": 578.91,
-              "value": 596856,
-              "label": "1,031株 @ $578.91 ($596,856)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 2199,
-              "price": 579.98,
-              "value": 1275376,
-              "label": "2,199株 @ $579.98 ($1,275,376)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 3124,
-              "price": 580.9,
-              "value": 1814731,
-              "label": "3,124株 @ $580.90 ($1,814,731)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 1385,
-              "price": 581.97,
-              "value": 806028,
-              "label": "1,385株 @ $581.97 ($806,028)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -3128,7 +3083,7 @@
       "tier_label": "LOW",
       "price": 681.54,
       "prev_close": 455.07,
-      "vol_ratio": 1.23,
+      "vol_ratio": 1.22,
       "signals": {
         "insider": {
           "active": false,
