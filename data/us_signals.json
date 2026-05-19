@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T06:45:39.901932+00:00",
+  "generated_at": "2026-05-19T10:42:48.240954+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,12 +88,45 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "15名が直近期間に買付"
+            "クラスターバイ": "12名が直近期間に買付"
           },
-          "buy_count": 16,
-          "sell_count": 0,
+          "buy_count": 15,
+          "sell_count": 1,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-05-19",
+              "filing_date": "2026-05-19",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 69.98,
+              "value": 69980,
+              "label": "1,000株 @ $69.98 ($69,980)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-05-19",
+              "filing_date": "2026-05-19",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 69.83,
+              "value": 69830,
+              "label": "1,000株 @ $69.83 ($69,830)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-19",
+              "filing_date": "2026-05-19",
+              "actor": "Chuang Tzu-Sou",
+              "title": "VP",
+              "shares": 200000,
+              "price": 69.83,
+              "value": 13966000,
+              "label": "200,000株 @ $69.83 ($13,966,000)"
+            },
             {
               "type": "BUY",
               "date": "2026-05-08",
@@ -170,39 +203,6 @@
               "price": 71.82,
               "value": 502,
               "label": "7株 @ $71.82 ($502)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "Wu Shien-Yang",
-              "title": "SVP",
-              "shares": 60,
-              "price": 71.82,
-              "value": 4309,
-              "label": "60株 @ $71.82 ($4,309)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "Wang Ying-Lang",
-              "title": "SVP",
-              "shares": 57,
-              "price": 71.82,
-              "value": 4093,
-              "label": "57株 @ $71.82 ($4,093)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "Liaw Yung-Haw",
-              "title": "VP",
-              "shares": 53,
-              "price": 71.82,
-              "value": 3806,
-              "label": "53株 @ $71.82 ($3,806)"
             }
           ]
         },
