@@ -1,8 +1,158 @@
 {
-  "generated_at": "2026-05-20T11:18:16.660790+09:00",
+  "generated_at": "2026-05-20T15:51:16.574557+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "4063",
+      "name": "信越化学工業",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 4063.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "TOB・公開買付 / 自社株買い",
+            "開示件数": "10件 (直近4h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "TOB",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 15:30:00",
+              "actor": "信越化",
+              "title": "TOB・公開買付",
+              "label": "自己株式の公開買付けに関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541943.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 15:30:00",
+              "actor": "信越化",
+              "title": "TOB・公開買付",
+              "label": "自己株式の公開買付けに関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541943.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 15:30:00",
+              "actor": "信越化",
+              "title": "TOB・公開買付",
+              "label": "自己株式の公開買付けに関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541943.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 15:30:00",
+              "actor": "信越化",
+              "title": "TOB・公開買付",
+              "label": "自己株式の公開買付けに関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541943.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 15:30:00",
+              "actor": "信越化",
+              "title": "TOB・公開買付",
+              "label": "自己株式の公開買付けに関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541943.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 11:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "一括取得型自己株式取得（Accelerated Share Repurchase）における事後調整完了のお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541656.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 11:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "一括取得型自己株式取得（Accelerated Share Repurchase）における事後調整完了のお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541656.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-20 11:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "一括取得型自己株式取得（Accelerated Share Repurchase）における事後調整完了のお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260520541656.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -484,65 +634,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 8316.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4063",
-      "name": "信越化学工業",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4063.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3079,7 +3170,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
