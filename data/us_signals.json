@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-05-19T23:05:10.133266+00:00",
+  "generated_at": "2026-05-20T00:03:59.339840+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
     {
       "symbol": "RIVN",
       "market": "US",
-      "score": 52,
-      "tier": "monitor",
-      "tier_label": "👀 MONITOR",
+      "score": 90,
+      "tier": "strong",
+      "tier_label": "🔥 STRONG",
       "price": 12.9,
       "prev_close": 17.23,
       "vol_ratio": 1.43,
       "signals": {
         "insider": {
           "active": true,
-          "score": 35,
+          "score": 60,
           "detail": {
+            "クラスターバイ": "2名が直近期間に買付",
             "最大買付": "Insider: $999,943,400",
             "10%超保有者": "1件の買い"
           },
-          "buy_count": 1,
-          "sell_count": 1,
-          "evidence": 75,
+          "buy_count": 2,
+          "sell_count": 2,
+          "evidence": 95,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-05-15",
+              "filing_date": "2026-05-19",
+              "actor": "Gomez Aidan N.",
+              "title": "Director",
+              "shares": 18000,
+              "price": 13.97,
+              "value": 251460,
+              "label": "18,000株 @ $13.97 ($251,460)"
+            },
             {
               "type": "BUY",
               "date": "2026-04-30",
@@ -72,7 +84,7 @@
           "evidence": 0
         }
       },
-      "score_change": 0
+      "score_change": 38
     },
     {
       "symbol": "TSM",
