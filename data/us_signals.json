@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T00:03:59.339840+00:00",
+  "generated_at": "2026-05-20T02:14:19.993310+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -84,7 +84,7 @@
           "evidence": 0
         }
       },
-      "score_change": 38
+      "score_change": 0
     },
     {
       "symbol": "TSM",
@@ -709,7 +709,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 15,
           "evidence": 40,
           "events": [
             {
@@ -798,44 +798,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 21,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-13",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
               "actor": "Olivan Javier",
               "title": "Chief Operating Officer",
-              "shares": 926,
-              "price": 604.57,
-              "value": 559831,
-              "label": "926株 @ $604.57 ($559,831)"
+              "shares": 837,
+              "price": 609.35,
+              "value": 510025,
+              "label": "837株 @ $609.35 ($510,025)"
             },
             {
               "type": "SELL",
-              "date": "2026-05-04",
-              "filing_date": "2026-05-06",
-              "actor": "Olivan Javier",
-              "title": "Chief Operating Officer",
-              "shares": 926,
-              "price": 607.74,
-              "value": 562767,
-              "label": "926株 @ $607.74 ($562,767)"
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "Bosworth Andrew",
+              "title": "Chief Technology Officer",
+              "shares": 1149,
+              "price": 606.61,
+              "value": 696989,
+              "label": "1,149株 @ $606.61 ($696,989)"
             },
             {
               "type": "SELL",
-              "date": "2026-04-27",
-              "filing_date": "2026-04-29",
-              "actor": "Olivan Javier",
-              "title": "Chief Operating Officer",
-              "shares": 926,
-              "price": 670.84,
-              "value": 621197,
-              "label": "926株 @ $670.84 ($621,197)"
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "Bosworth Andrew",
+              "title": "Chief Technology Officer",
+              "shares": 2230,
+              "price": 607.6,
+              "value": 1354952,
+              "label": "2,230株 @ $607.60 ($1,354,952)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "Bosworth Andrew",
+              "title": "Chief Technology Officer",
+              "shares": 1011,
+              "price": 608.63,
+              "value": 615324,
+              "label": "1,011株 @ $608.63 ($615,324)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "Bosworth Andrew",
+              "title": "Chief Technology Officer",
+              "shares": 2003,
+              "price": 609.54,
+              "value": 1220918,
+              "label": "2,003株 @ $609.54 ($1,220,918)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 1236,
+              "price": 605.88,
+              "value": 748870,
+              "label": "1,236株 @ $605.88 ($748,870)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 2050,
+              "price": 607.03,
+              "value": 1244412,
+              "label": "2,050株 @ $607.03 ($1,244,412)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 1809,
+              "price": 607.87,
+              "value": 1099637,
+              "label": "1,809株 @ $607.87 ($1,099,637)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 2344,
+              "price": 609.15,
+              "value": 1427840,
+              "label": "2,344株 @ $609.15 ($1,427,840)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-19",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 1148,
+              "price": 609.93,
+              "value": 700203,
+              "label": "1,148株 @ $609.93 ($700,203)"
             }
           ]
         },
@@ -1275,12 +1352,24 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "直近期間にシグナルなし"
+            "event": "シグナルなし"
           },
-          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 0,
-          "events": []
+          "sell_count": 4,
+          "evidence": 40,
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-15",
+              "filing_date": "2026-05-19",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 10800,
+              "price": 133.97,
+              "value": 1446867,
+              "label": "10,800株 @ $133.97 ($1,446,867)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
