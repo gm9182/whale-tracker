@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T23:10:59.187897+00:00",
+  "generated_at": "2026-05-21T02:12:37.016170+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1514,12 +1514,56 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
           "sell_count": 22,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-20",
+              "actor": "Wong Jennifer L.",
+              "title": "Chief Operating Officer",
+              "shares": 4941,
+              "price": 156.92,
+              "value": 775341,
+              "label": "4,941株 @ $156.92 ($775,341)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-20",
+              "actor": "Wong Jennifer L.",
+              "title": "Chief Operating Officer",
+              "shares": 6458,
+              "price": 157.67,
+              "value": 1018232,
+              "label": "6,458株 @ $157.67 ($1,018,232)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-20",
+              "actor": "Wong Jennifer L.",
+              "title": "Chief Operating Officer",
+              "shares": 16914,
+              "price": 158.85,
+              "value": 2686788,
+              "label": "16,914株 @ $158.85 ($2,686,788)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-18",
+              "filing_date": "2026-05-20",
+              "actor": "Wong Jennifer L.",
+              "title": "Chief Operating Officer",
+              "shares": 6954,
+              "price": 159.66,
+              "value": 1110275,
+              "label": "6,954株 @ $159.66 ($1,110,275)"
+            },
             {
               "type": "SELL",
               "date": "2026-05-15",
@@ -1574,28 +1618,6 @@
               "price": 171.9,
               "value": 1246103,
               "label": "7,249株 @ $171.90 ($1,246,103)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-20",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 8679,
-              "price": 161.01,
-              "value": 1397405,
-              "label": "8,679株 @ $161.01 ($1,397,405)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-20",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 22998,
-              "price": 162.08,
-              "value": 3727515,
-              "label": "22,998株 @ $162.08 ($3,727,515)"
             }
           ]
         },
@@ -1848,10 +1870,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -1864,17 +1886,6 @@
               "price": 205.64,
               "value": 2004989,
               "label": "9,750株 @ $205.64 ($2,004,989)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-20",
-              "actor": "HAAS ALESIA J",
-              "title": "Chief Financial Officer",
-              "shares": 10020,
-              "price": 200.0,
-              "value": 2004000,
-              "label": "10,020株 @ $200.00 ($2,004,000)"
             }
           ]
         },
@@ -2002,54 +2013,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 9,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-20",
-              "actor": "Bhatt Baiju",
-              "title": "Insider",
-              "shares": 6400,
-              "price": 84.59,
-              "value": 541395,
-              "label": "6,400株 @ $84.59 ($541,395)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-20",
-              "actor": "Bhatt Baiju",
-              "title": "Insider",
-              "shares": 11400,
-              "price": 85.62,
-              "value": 976040,
-              "label": "11,400株 @ $85.62 ($976,040)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-20",
-              "actor": "Bhatt Baiju",
-              "title": "Insider",
-              "shares": 27961,
-              "price": 86.59,
-              "value": 2421238,
-              "label": "27,961株 @ $86.59 ($2,421,238)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-16",
-              "filing_date": "2026-04-20",
-              "actor": "Bhatt Baiju",
-              "title": "Insider",
-              "shares": 10000,
-              "price": 87.48,
-              "value": 874843,
-              "label": "10,000株 @ $87.48 ($874,843)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -2102,12 +2068,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 21,
+          "sell_count": 23,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-19",
+              "filing_date": "2026-05-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 134378,
+              "price": 175.38,
+              "value": 23567482,
+              "label": "134,378株 @ $175.38 ($23,567,482)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-19",
+              "filing_date": "2026-05-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 10272,
+              "price": 176.3,
+              "value": 1810912,
+              "label": "10,272株 @ $176.30 ($1,810,912)"
+            },
             {
               "type": "SELL",
               "date": "2026-05-01",
@@ -2208,7 +2196,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 27,
+          "sell_count": 32,
           "evidence": 40,
           "events": []
         },
@@ -4051,35 +4039,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-04-20",
-              "filing_date": "2026-04-20",
-              "actor": "GROSSMAN ERIC F",
-              "title": "Chief Legal/Admin Officer",
-              "shares": 5559,
-              "price": 190.0,
-              "value": 1056210,
-              "label": "5,559株 @ $190.00 ($1,056,210)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-20",
-              "filing_date": "2026-04-20",
-              "actor": "GROSSMAN ERIC F",
-              "title": "Chief Legal/Admin Officer",
-              "shares": 5559,
-              "price": 191.5,
-              "value": 1064548,
-              "label": "5,559株 @ $191.50 ($1,064,548)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
