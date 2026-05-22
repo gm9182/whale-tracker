@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T00:07:08.764522+00:00",
+  "generated_at": "2026-05-22T02:57:56.391912+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -989,10 +989,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 12,
+          "sell_count": 11,
           "evidence": 40,
           "events": [
             {
@@ -1082,17 +1082,6 @@
               "price": 260.0,
               "value": 1000740,
               "label": "3,849株 @ $260.00 ($1,000,740)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-17",
-              "filing_date": "2026-04-21",
-              "actor": "Jassy Andrew R",
-              "title": "President and CEO",
-              "shares": 31000,
-              "price": 255.0,
-              "value": 7905000,
-              "label": "31,000株 @ $255.00 ($7,905,000)"
             }
           ]
         },
@@ -1744,21 +1733,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 3,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-04-17",
-              "filing_date": "2026-04-21",
-              "actor": "Nowaid Zabi",
-              "title": "General Counsel",
-              "shares": 42090,
-              "price": 12.0,
-              "value": 505080,
-              "label": "42,090株 @ $12.00 ($505,080)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
