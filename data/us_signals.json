@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T00:05:54.788512+00:00",
+  "generated_at": "2026-05-23T02:33:27.453933+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1385,22 +1385,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "9件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 20,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-19",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 10800,
-              "price": 133.97,
-              "value": 1446867,
-              "label": "10,800株 @ $133.97 ($1,446,867)"
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Glazer David A.",
+              "title": "See Remarks",
+              "shares": 9647,
+              "price": 136.08,
+              "value": 1312774,
+              "label": "9,647株 @ $136.08 ($1,312,774)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Glazer David A.",
+              "title": "See Remarks",
+              "shares": 5262,
+              "price": 136.61,
+              "value": 718864,
+              "label": "5,262株 @ $136.61 ($718,864)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Taylor Ryan D.",
+              "title": "See Remarks",
+              "shares": 11074,
+              "price": 136.08,
+              "value": 1506962,
+              "label": "11,074株 @ $136.08 ($1,506,962)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Taylor Ryan D.",
+              "title": "See Remarks",
+              "shares": 6040,
+              "price": 136.61,
+              "value": 825150,
+              "label": "6,040株 @ $136.61 ($825,150)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 6635,
+              "price": 132.95,
+              "value": 882141,
+              "label": "6,635株 @ $132.95 ($882,141)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 17310,
+              "price": 134.2,
+              "value": 2323048,
+              "label": "17,310株 @ $134.20 ($2,323,048)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 27595,
+              "price": 135.09,
+              "value": 3727769,
+              "label": "27,595株 @ $135.09 ($3,727,769)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 224009,
+              "price": 136.08,
+              "value": 30483391,
+              "label": "224,009株 @ $136.08 ($30,483,391)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 122195,
+              "price": 136.61,
+              "value": 16693584,
+              "label": "122,195株 @ $136.61 ($16,693,584)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-20",
+              "filing_date": "2026-05-22",
+              "actor": "Sankar Shyam",
+              "title": "See Remarks",
+              "shares": 7203,
+              "price": 134.2,
+              "value": 966662,
+              "label": "7,203株 @ $134.20 ($966,662)"
             }
           ]
         },
