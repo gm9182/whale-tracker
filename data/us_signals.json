@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:53:37.040192+00:00",
+  "generated_at": "2026-05-25T02:20:48.175996+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -22,7 +22,7 @@
             "10%超保有者": "1件の買い"
           },
           "buy_count": 2,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 95,
           "events": [
             {
@@ -1491,7 +1491,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 2,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -6368,10 +6368,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -6384,17 +6384,6 @@
               "price": 124.01,
               "value": 1500521,
               "label": "12,100株 @ $124.01 ($1,500,521)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-23",
-              "filing_date": "2026-04-24",
-              "actor": "McMillon C Douglas",
-              "title": "Insider",
-              "shares": 19416,
-              "price": 132.21,
-              "value": 2566987,
-              "label": "19,416株 @ $132.21 ($2,566,987)"
             }
           ]
         },
@@ -6855,11 +6844,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
