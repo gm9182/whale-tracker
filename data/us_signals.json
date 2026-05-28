@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T23:16:23.868191+00:00",
+  "generated_at": "2026-05-28T02:01:47.867421+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -602,7 +602,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -2292,90 +2292,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 32,
+          "sell_count": 30,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 897,
-              "price": 648.75,
-              "value": 581928,
-              "label": "897株 @ $648.75 ($581,928)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 1407,
-              "price": 649.81,
-              "value": 914282,
-              "label": "1,407株 @ $649.81 ($914,282)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 821,
-              "price": 639.61,
-              "value": 525119,
-              "label": "821株 @ $639.61 ($525,119)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 948,
-              "price": 641.65,
-              "value": 608284,
-              "label": "948株 @ $641.65 ($608,284)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 1317,
-              "price": 642.66,
-              "value": 846383,
-              "label": "1,317株 @ $642.66 ($846,383)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 1710,
-              "price": 643.66,
-              "value": 1100658,
-              "label": "1,710株 @ $643.66 ($1,100,658)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 1604,
-              "price": 644.6,
-              "value": 1033938,
-              "label": "1,604株 @ $644.60 ($1,033,938)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -2905,10 +2827,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "9件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
             {
@@ -2976,50 +2898,6 @@
               "price": 146.24,
               "value": 2556384,
               "label": "17,481株 @ $146.24 ($2,556,384)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-04",
-              "filing_date": "2026-05-06",
-              "actor": "Mertz Elinor",
-              "title": "Chief Financial Officer",
-              "shares": 3750,
-              "price": 143.0,
-              "value": 536250,
-              "label": "3,750株 @ $143.00 ($536,250)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-04",
-              "filing_date": "2026-05-06",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 16598,
-              "price": 139.35,
-              "value": 2312913,
-              "label": "16,598株 @ $139.35 ($2,312,913)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-04",
-              "filing_date": "2026-05-06",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 21284,
-              "price": 140.34,
-              "value": 2987100,
-              "label": "21,284株 @ $140.34 ($2,987,100)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-04",
-              "filing_date": "2026-05-06",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 14522,
-              "price": 141.39,
-              "value": 2053306,
-              "label": "14,522株 @ $141.39 ($2,053,306)"
             }
           ]
         },
@@ -6125,11 +6003,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
