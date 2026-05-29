@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T23:06:59.099193+09:00",
+  "generated_at": "2026-05-30T02:42:02.289883+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近7h以内)"
+            "開示件数": "5件 (直近11h以内)"
           },
           "evidence": 95,
           "events": [
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近6h以内)"
+            "開示件数": "5件 (直近10h以内)"
           },
           "evidence": 95,
           "events": [
@@ -3195,7 +3195,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
