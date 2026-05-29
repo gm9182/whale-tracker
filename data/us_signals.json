@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T23:14:22.545096+00:00",
+  "generated_at": "2026-05-29T02:10:54.823793+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2123,12 +2123,45 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "大型売却警戒": "8件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 23,
+          "sell_count": 26,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-26",
+              "filing_date": "2026-05-28",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 19077,
+              "price": 175.47,
+              "value": 3347364,
+              "label": "19,077株 @ $175.47 ($3,347,364)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-26",
+              "filing_date": "2026-05-28",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 14174,
+              "price": 176.42,
+              "value": 2500562,
+              "label": "14,174株 @ $176.42 ($2,500,562)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-26",
+              "filing_date": "2026-05-28",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 22099,
+              "price": 177.5,
+              "value": 3922528,
+              "label": "22,099株 @ $177.50 ($3,922,528)"
+            },
             {
               "type": "SELL",
               "date": "2026-05-19",
@@ -2966,11 +2999,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "直近期間にシグナルなし"
+            "event": "シグナルなし"
           },
-          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 0,
+          "sell_count": 1,
+          "evidence": 40,
           "events": []
         },
         "filing13d": {
