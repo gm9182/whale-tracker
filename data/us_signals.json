@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T23:59:35.954775+00:00",
+  "generated_at": "2026-06-01T02:42:03.416795+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -775,7 +775,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -2008,21 +2008,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 22,
+          "sell_count": 2,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-01",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 2790,
-              "price": 395.33,
-              "value": 1102970,
-              "label": "2,790株 @ $395.33 ($1,102,970)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4420,10 +4408,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -4436,17 +4424,6 @@
               "price": 324.81,
               "value": 3455665,
               "label": "10,639株 @ $324.81 ($3,455,665)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-29",
-              "filing_date": "2026-04-30",
-              "actor": "MCINERNEY RYAN",
-              "title": "Chief Executive Officer",
-              "shares": 31455,
-              "price": 340.14,
-              "value": 10699204,
-              "label": "31,455株 @ $340.14 ($10,699,204)"
             }
           ]
         },
@@ -4562,21 +4539,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 2,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-04-29",
-              "filing_date": "2026-04-30",
-              "actor": "Keller Frank",
-              "title": "Pres., Checkout Sol. &amp; PayPal",
-              "shares": 10000,
-              "price": 50.0,
-              "value": 500000,
-              "label": "10,000株 @ $50.00 ($500,000)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5752,10 +5717,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -5768,28 +5733,6 @@
               "price": 56.99,
               "value": 1424750,
               "label": "25,000株 @ $56.99 ($1,424,750)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-01",
-              "actor": "Gassen Steve Matthew",
-              "title": "EVP, Geographies",
-              "shares": 20000,
-              "price": 56.16,
-              "value": 1123200,
-              "label": "20,000株 @ $56.16 ($1,123,200)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-01",
-              "actor": "Gassen Steve Matthew",
-              "title": "EVP, Geographies",
-              "shares": 33379,
-              "price": 56.19,
-              "value": 1875566,
-              "label": "33,379株 @ $56.19 ($1,875,566)"
             }
           ]
         },
@@ -6977,7 +6920,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
