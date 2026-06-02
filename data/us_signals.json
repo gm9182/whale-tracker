@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T23:28:59.632759+00:00",
+  "generated_at": "2026-06-02T02:42:34.423315+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -367,7 +367,7 @@
           "evidence": 0
         }
       },
-      "score_change": 30
+      "score_change": 0
     },
     {
       "symbol": "BAC",
@@ -878,7 +878,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 15,
           "evidence": 40,
           "events": [
             {
@@ -2169,9 +2169,97 @@
             "大型売却警戒": "16件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 36,
+          "sell_count": 18,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 122865,
+              "price": 250.44,
+              "value": 30770433,
+              "label": "122,865株 @ $250.44 ($30,770,433)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 97386,
+              "price": 251.6,
+              "value": 24502804,
+              "label": "97,386株 @ $251.60 ($24,502,804)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 38635,
+              "price": 252.41,
+              "value": 9751667,
+              "label": "38,635株 @ $252.41 ($9,751,667)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 75226,
+              "price": 253.36,
+              "value": 19059259,
+              "label": "75,226株 @ $253.36 ($19,059,259)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 64328,
+              "price": 254.44,
+              "value": 16367359,
+              "label": "64,328株 @ $254.44 ($16,367,359)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 34571,
+              "price": 255.72,
+              "value": 8840599,
+              "label": "34,571株 @ $255.72 ($8,840,599)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 4065,
+              "price": 256.02,
+              "value": 1040729,
+              "label": "4,065株 @ $256.02 ($1,040,729)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-05-29",
+              "filing_date": "2026-06-01",
+              "actor": "GARRETT MARK",
+              "title": "Insider",
+              "shares": 100000,
+              "price": 250.0,
+              "value": 25000200,
+              "label": "100,000株 @ $250.00 ($25,000,200)"
+            },
             {
               "type": "SELL",
               "date": "2026-05-28",
@@ -2193,94 +2281,6 @@
               "price": 230.17,
               "value": 6615200,
               "label": "28,740株 @ $230.17 ($6,615,200)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 13976,
-              "price": 231.06,
-              "value": 3229336,
-              "label": "13,976株 @ $231.06 ($3,229,336)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 41321,
-              "price": 232.31,
-              "value": 9599157,
-              "label": "41,321株 @ $232.31 ($9,599,157)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 124883,
-              "price": 233.17,
-              "value": 29118969,
-              "label": "124,883株 @ $233.17 ($29,118,969)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 143283,
-              "price": 234.09,
-              "value": 33540974,
-              "label": "143,283株 @ $234.09 ($33,540,974)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 29148,
-              "price": 234.96,
-              "value": 6848643,
-              "label": "29,148株 @ $234.96 ($6,848,643)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 14463,
-              "price": 236.53,
-              "value": 3421005,
-              "label": "14,463株 @ $236.53 ($3,421,005)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 4186,
-              "price": 237.29,
-              "value": 993291,
-              "label": "4,186株 @ $237.29 ($993,291)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-26",
-              "filing_date": "2026-05-28",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 19077,
-              "price": 175.47,
-              "value": 3347364,
-              "label": "19,077株 @ $175.47 ($3,347,364)"
             }
           ]
         },
