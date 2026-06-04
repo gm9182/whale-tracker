@@ -1,102 +1,8 @@
 {
-  "generated_at": "2026-06-03T23:34:41.370590+00:00",
+  "generated_at": "2026-06-04T02:45:25.669847+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
-    {
-      "symbol": "RIVN",
-      "market": "US",
-      "score": 90,
-      "tier": "strong",
-      "tier_label": "🔥 STRONG",
-      "price": 18.27,
-      "prev_close": 15.02,
-      "vol_ratio": 1.52,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 60,
-          "detail": {
-            "クラスターバイ": "2名が直近期間に買付",
-            "最大買付": "Insider: $999,943,400",
-            "10%超保有者": "1件の買い"
-          },
-          "buy_count": 2,
-          "sell_count": 4,
-          "evidence": 95,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Scaringe Robert J",
-              "title": "Chief Executive Officer",
-              "shares": 34818,
-              "price": 15.0,
-              "value": 522270,
-              "label": "34,818株 @ $15.00 ($522,270)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-19",
-              "actor": "Gomez Aidan N.",
-              "title": "Director",
-              "shares": 18000,
-              "price": 13.97,
-              "value": 251460,
-              "label": "18,000株 @ $13.97 ($251,460)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "VOLKSWAGEN AG",
-              "title": "10% Owner",
-              "shares": 62889522,
-              "price": 15.9,
-              "value": 999943399,
-              "label": "62,889,522株 @ $15.90 ($999,943,399)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "TSM",
       "market": "US",
@@ -394,9 +300,9 @@
           "active": true,
           "score": 15,
           "detail": {
-            "10%超保有者": "6件の買い"
+            "10%超保有者": "5件の買い"
           },
-          "buy_count": 6,
+          "buy_count": 5,
           "sell_count": 8,
           "evidence": 55,
           "events": [
@@ -465,17 +371,6 @@
               "price": 53.01,
               "value": 6718701,
               "label": "126,756株 @ $53.01 ($6,718,701)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 407,
-              "price": 12.33,
-              "value": 5018,
-              "label": "407株 @ $12.33 ($5,018)"
             }
           ]
         },
@@ -588,10 +483,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -604,72 +499,6 @@
               "price": 450.0,
               "value": 1350000,
               "label": "3,000株 @ $450.00 ($1,350,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "Wilson-Thompson Kathleen",
-              "title": "Insider",
-              "shares": 1520,
-              "price": 369.77,
-              "value": 562048,
-              "label": "1,520株 @ $369.77 ($562,048)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "Wilson-Thompson Kathleen",
-              "title": "Insider",
-              "shares": 3003,
-              "price": 377.49,
-              "value": 1133593,
-              "label": "3,003株 @ $377.49 ($1,133,593)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "Wilson-Thompson Kathleen",
-              "title": "Insider",
-              "shares": 3480,
-              "price": 378.57,
-              "value": 1317434,
-              "label": "3,480株 @ $378.57 ($1,317,434)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "Wilson-Thompson Kathleen",
-              "title": "Insider",
-              "shares": 1760,
-              "price": 379.43,
-              "value": 667791,
-              "label": "1,760株 @ $379.43 ($667,791)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "Wilson-Thompson Kathleen",
-              "title": "Insider",
-              "shares": 1755,
-              "price": 380.76,
-              "value": 668226,
-              "label": "1,755株 @ $380.76 ($668,226)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-04-30",
-              "filing_date": "2026-05-04",
-              "actor": "Wilson-Thompson Kathleen",
-              "title": "Insider",
-              "shares": 6896,
-              "price": 381.61,
-              "value": 2631561,
-              "label": "6,896株 @ $381.61 ($2,631,561)"
             }
           ]
         },
@@ -989,12 +818,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 17,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Olivan Javier",
+              "title": "Chief Operating Officer",
+              "shares": 837,
+              "price": 629.29,
+              "value": 526715,
+              "label": "837株 @ $629.29 ($526,715)"
+            },
             {
               "type": "SELL",
               "date": "2026-05-27",
@@ -1027,50 +867,6 @@
               "price": 609.35,
               "value": 510025,
               "label": "837株 @ $609.35 ($510,025)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-18",
-              "filing_date": "2026-05-19",
-              "actor": "Bosworth Andrew",
-              "title": "Chief Technology Officer",
-              "shares": 1149,
-              "price": 606.61,
-              "value": 696989,
-              "label": "1,149株 @ $606.61 ($696,989)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-18",
-              "filing_date": "2026-05-19",
-              "actor": "Bosworth Andrew",
-              "title": "Chief Technology Officer",
-              "shares": 2230,
-              "price": 607.6,
-              "value": 1354952,
-              "label": "2,230株 @ $607.60 ($1,354,952)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-18",
-              "filing_date": "2026-05-19",
-              "actor": "Bosworth Andrew",
-              "title": "Chief Technology Officer",
-              "shares": 1011,
-              "price": 608.63,
-              "value": 615324,
-              "label": "1,011株 @ $608.63 ($615,324)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-18",
-              "filing_date": "2026-05-19",
-              "actor": "Bosworth Andrew",
-              "title": "Chief Technology Officer",
-              "shares": 2003,
-              "price": 609.54,
-              "value": 1220918,
-              "label": "2,003株 @ $609.54 ($1,220,918)"
             }
           ]
         },
@@ -2221,121 +2017,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "16件の$1M+売却"
+            "大型売却警戒": "18件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 19,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 122865,
-              "price": 250.44,
-              "value": 30770433,
-              "label": "122,865株 @ $250.44 ($30,770,433)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 97386,
-              "price": 251.6,
-              "value": 24502804,
-              "label": "97,386株 @ $251.60 ($24,502,804)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 38635,
-              "price": 252.41,
-              "value": 9751667,
-              "label": "38,635株 @ $252.41 ($9,751,667)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 75226,
-              "price": 253.36,
-              "value": 19059259,
-              "label": "75,226株 @ $253.36 ($19,059,259)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 64328,
-              "price": 254.44,
-              "value": 16367359,
-              "label": "64,328株 @ $254.44 ($16,367,359)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 34571,
-              "price": 255.72,
-              "value": 8840599,
-              "label": "34,571株 @ $255.72 ($8,840,599)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 4065,
-              "price": 256.02,
-              "value": 1040729,
-              "label": "4,065株 @ $256.02 ($1,040,729)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "GARRETT MARK",
-              "title": "Insider",
-              "shares": 100000,
-              "price": 250.0,
-              "value": 25000200,
-              "label": "100,000株 @ $250.00 ($25,000,200)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
               "actor": "Kleinerman Christian",
               "title": "EVP, Product Management",
-              "shares": 5000,
-              "price": 236.77,
-              "value": 1183850,
-              "label": "5,000株 @ $236.77 ($1,183,850)"
+              "shares": 2500,
+              "price": 263.0,
+              "value": 657500,
+              "label": "2,500株 @ $263.00 ($657,500)"
             },
             {
               "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 7500,
+              "price": 275.0,
+              "value": 2062500,
+              "label": "7,500株 @ $275.00 ($2,062,500)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
               "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 28740,
-              "price": 230.17,
-              "value": 6615200,
-              "label": "28,740株 @ $230.17 ($6,615,200)"
+              "shares": 7480,
+              "price": 258.93,
+              "value": 1936811,
+              "label": "7,480株 @ $258.93 ($1,936,811)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 16892,
+              "price": 260.03,
+              "value": 4392477,
+              "label": "16,892株 @ $260.03 ($4,392,477)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 4602,
+              "price": 261.2,
+              "value": 1202037,
+              "label": "4,602株 @ $261.20 ($1,202,037)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 21455,
+              "price": 262.14,
+              "value": 5624127,
+              "label": "21,455株 @ $262.14 ($5,624,127)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 12074,
+              "price": 263.23,
+              "value": 3178202,
+              "label": "12,074株 @ $263.23 ($3,178,202)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 38345,
+              "price": 264.05,
+              "value": 10124997,
+              "label": "38,345株 @ $264.05 ($10,124,997)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 34607,
+              "price": 264.94,
+              "value": 9168951,
+              "label": "34,607株 @ $264.94 ($9,168,951)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-01",
+              "filing_date": "2026-06-03",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 7054,
+              "price": 265.98,
+              "value": 1876187,
+              "label": "7,054株 @ $265.98 ($1,876,187)"
             }
           ]
         },
@@ -3404,10 +3200,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -3420,17 +3216,6 @@
               "price": 118.28,
               "value": 2486697,
               "label": "21,024株 @ $118.28 ($2,486,697)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-04",
-              "actor": "Miller Boise April",
-              "title": "EVP and Chief Legal Officer",
-              "shares": 40256,
-              "price": 99.53,
-              "value": 4006518,
-              "label": "40,256株 @ $99.53 ($4,006,518)"
             }
           ]
         },
@@ -3770,10 +3555,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -3863,28 +3648,6 @@
               "price": 88.08,
               "value": 504020,
               "label": "5,722株 @ $88.08 ($504,020)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-04",
-              "actor": "HASTINGS REED",
-              "title": "Insider",
-              "shares": 188425,
-              "price": 92.28,
-              "value": 17388424,
-              "label": "188,425株 @ $92.28 ($17,388,424)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-04",
-              "actor": "HASTINGS REED",
-              "title": "Insider",
-              "shares": 105791,
-              "price": 93.54,
-              "value": 9895975,
-              "label": "105,791株 @ $93.54 ($9,895,975)"
             }
           ]
         },
@@ -5332,6 +5095,87 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "RIVN",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 18.27,
+      "prev_close": 15.02,
+      "vol_ratio": 1.52,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "シグナルなし"
+          },
+          "buy_count": 1,
+          "sell_count": 4,
+          "evidence": 40,
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-05-28",
+              "filing_date": "2026-05-29",
+              "actor": "Scaringe Robert J",
+              "title": "Chief Executive Officer",
+              "shares": 34818,
+              "price": 15.0,
+              "value": 522270,
+              "label": "34,818株 @ $15.00 ($522,270)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-05-15",
+              "filing_date": "2026-05-19",
+              "actor": "Gomez Aidan N.",
+              "title": "Director",
+              "shares": 18000,
+              "price": 13.97,
+              "value": 251460,
+              "label": "18,000株 @ $13.97 ($251,460)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -90
     },
     {
       "symbol": "LCID",
