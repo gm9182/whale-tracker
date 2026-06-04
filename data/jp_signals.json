@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T11:49:10.631253+09:00",
+  "generated_at": "2026-06-04T16:26:04.332497+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近68h以内)"
+            "開示件数": "5件 (直近72h以内)"
           },
           "evidence": 95,
           "events": [
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近67h以内)"
+            "開示件数": "5件 (直近71h以内)"
           },
           "evidence": 95,
           "events": [
@@ -262,7 +262,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近68h以内)"
+            "開示件数": "5件 (直近72h以内)"
           },
           "evidence": 95,
           "events": [
@@ -379,7 +379,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "6件 (直近68h以内)"
+            "開示件数": "6件 (直近72h以内)"
           },
           "evidence": 95,
           "events": [
@@ -507,7 +507,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近68h以内)"
+            "開示件数": "5件 (直近72h以内)"
           },
           "evidence": 95,
           "events": [
@@ -598,6 +598,225 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "9433",
+      "name": "KDDI",
+      "market": "JP",
+      "score": 48,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9433.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 30,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近1h以内)"
+          },
+          "evidence": 80,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-04",
+              "filing_date": "2026-06-04 15:30:00",
+              "actor": "ＫＤＤＩ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562629.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 48
+    },
+    {
+      "symbol": "9984",
+      "name": "ソフトバンクグループ",
+      "market": "JP",
+      "score": 40,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9984.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 25,
+          "detail": {
+            "強気開示": "M&A・買収",
+            "開示件数": "1件 (直近0h以内)"
+          },
+          "evidence": 75,
+          "events": [
+            {
+              "type": "ACQUISITION",
+              "date": "2026-06-04",
+              "filing_date": "2026-06-04 16:00:00",
+              "actor": "ソフトバンクグループ",
+              "title": "M&A・買収",
+              "label": "当社の子会社によるT&amp;Dフィナンシャル生命保険株式会社の株式の取得（子会社化）に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562772.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 40
+    },
+    {
+      "symbol": "9434",
+      "name": "ソフトバンク",
+      "market": "JP",
+      "score": 40,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9434.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 25,
+          "detail": {
+            "強気開示": "M&A・買収",
+            "開示件数": "1件 (直近0h以内)"
+          },
+          "evidence": 75,
+          "events": [
+            {
+              "type": "ACQUISITION",
+              "date": "2026-06-04",
+              "filing_date": "2026-06-04 16:00:00",
+              "actor": "ソフトバンク",
+              "title": "M&A・買収",
+              "label": "当社の子会社によるT&amp;Dフィナンシャル生命保険株式会社の株式の取得(子会社化)に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562723.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 40
     },
     {
       "symbol": "7203",
@@ -726,65 +945,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 6758.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "9984",
-      "name": "ソフトバンクグループ",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 9984.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1080,65 +1240,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 6098.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "9433",
-      "name": "KDDI",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 9433.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1493,65 +1594,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 8001.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "9434",
-      "name": "ソフトバンク",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 9434.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
