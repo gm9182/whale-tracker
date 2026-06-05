@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T14:22:26.191766+09:00",
+  "generated_at": "2026-06-05T18:40:37.563896+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -238,6 +238,123 @@
       "score_change": 0
     },
     {
+      "symbol": "4063",
+      "name": "信越化学工業",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 4063.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "5件 (直近3h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605563833.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605563833.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605563833.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605563833.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "信越化",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605563833.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
+    {
       "symbol": "8411",
       "name": "みずほフィナンシャル",
       "market": "JP",
@@ -353,6 +470,240 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "6981",
+      "name": "村田製作所",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 6981.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "5件 (直近3h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "村田製",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562869.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "村田製",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562869.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "村田製",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562869.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "村田製",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562869.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "村田製",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562869.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
+    {
+      "symbol": "8766",
+      "name": "東京海上ホールディングス",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 8766.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "5件 (直近2h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 17:00:00",
+              "actor": "東京海上",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605564505.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 17:00:00",
+              "actor": "東京海上",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605564505.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 17:00:00",
+              "actor": "東京海上",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605564505.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 17:00:00",
+              "actor": "東京海上",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605564505.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 17:00:00",
+              "actor": "東京海上",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605564505.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 24
     },
     {
       "symbol": "4307",
@@ -483,6 +834,123 @@
       "score_change": 0
     },
     {
+      "symbol": "6532",
+      "name": "ベイカレント",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 6532.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "5件 (直近3h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "ベイカレント",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260522545648.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "ベイカレント",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260522545648.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "ベイカレント",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260522545648.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "ベイカレント",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260522545648.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-05 15:30:00",
+              "actor": "ベイカレント",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260522545648.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
+    {
       "symbol": "5020",
       "name": "ENEOSホールディングス",
       "market": "JP",
@@ -603,7 +1071,7 @@
       "symbol": "9433",
       "name": "KDDI",
       "market": "JP",
-      "score": 48,
+      "score": 35,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -621,12 +1089,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 30,
+          "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近23h以内)"
+            "開示件数": "1件 (直近27h以内)"
           },
-          "evidence": 80,
+          "evidence": 72,
           "events": [
             {
               "type": "BUYBACK",
@@ -670,86 +1138,13 @@
           "events": []
         }
       },
-      "score_change": 0
-    },
-    {
-      "symbol": "8766",
-      "name": "東京海上ホールディングス",
-      "market": "JP",
-      "score": 48,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8766.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 30,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "1件 (直近3h以内)"
-          },
-          "evidence": 80,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-05 11:00:00",
-              "actor": "東京海上",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260605563690.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 48
+      "score_change": -13
     },
     {
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "market": "JP",
-      "score": 40,
+      "score": 30,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -767,12 +1162,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 25,
+          "score": 19,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "1件 (直近22h以内)"
+            "開示件数": "1件 (直近27h以内)"
           },
-          "evidence": 75,
+          "evidence": 69,
           "events": [
             {
               "type": "ACQUISITION",
@@ -816,13 +1211,13 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -10
     },
     {
       "symbol": "9434",
       "name": "ソフトバンク",
       "market": "JP",
-      "score": 40,
+      "score": 30,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -840,12 +1235,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 25,
+          "score": 19,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "1件 (直近22h以内)"
+            "開示件数": "1件 (直近27h以内)"
           },
-          "evidence": 75,
+          "evidence": 69,
           "events": [
             {
               "type": "ACQUISITION",
@@ -889,7 +1284,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -10
     },
     {
       "symbol": "7203",
@@ -1195,65 +1590,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 7974.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4063",
-      "name": "信越化学工業",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4063.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1726,65 +2062,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 8058.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6981",
-      "name": "村田製作所",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6981.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3142,65 +3419,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 6702.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6532",
-      "name": "ベイカレント",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6532.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
