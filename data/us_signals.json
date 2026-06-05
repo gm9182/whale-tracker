@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T00:19:23.034607+00:00",
+  "generated_at": "2026-06-05T05:18:50.641360+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2458,10 +2458,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 17,
           "evidence": 40,
           "events": [
             {
@@ -2507,6 +2507,17 @@
               "price": 250.34,
               "value": 512202,
               "label": "2,046株 @ $250.34 ($512,202)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-02",
+              "filing_date": "2026-06-04",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 26012,
+              "price": 267.15,
+              "value": 6949220,
+              "label": "26,012株 @ $267.15 ($6,949,220)"
             },
             {
               "type": "SELL",
@@ -2562,17 +2573,6 @@
               "price": 267.15,
               "value": 1937403,
               "label": "7,252株 @ $267.15 ($1,937,403)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Blitzer Adam",
-              "title": "Chief Operating Officer",
-              "shares": 13642,
-              "price": 267.15,
-              "value": 3644520,
-              "label": "13,642株 @ $267.15 ($3,644,520)"
             }
           ]
         },
