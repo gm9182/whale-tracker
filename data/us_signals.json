@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T23:08:51.531902+00:00",
+  "generated_at": "2026-06-05T00:19:23.034607+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -425,12 +425,46 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 1,
+          "sell_count": 4,
           "evidence": 40,
-          "events": []
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-04",
+              "filing_date": "2026-06-04",
+              "actor": "STEVENS MARK A",
+              "title": "Insider",
+              "shares": 100000,
+              "price": 217.66,
+              "value": 21765500,
+              "label": "100,000株 @ $217.66 ($21,765,500)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-04",
+              "filing_date": "2026-06-04",
+              "actor": "STEVENS MARK A",
+              "title": "Insider",
+              "shares": 400000,
+              "price": 220.37,
+              "value": 88148400,
+              "label": "400,000株 @ $220.37 ($88,148,400)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-02",
+              "filing_date": "2026-06-04",
+              "actor": "STEVENS MARK A",
+              "title": "Insider",
+              "shares": 500000,
+              "price": 222.38,
+              "value": 111188700,
+              "label": "500,000株 @ $222.38 ($111,188,700)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
@@ -3644,10 +3678,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -3693,50 +3727,6 @@
               "price": 88.95,
               "value": 823074,
               "label": "9,253株 @ $88.95 ($823,074)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-05",
-              "actor": "SARANDOS THEODORE A",
-              "title": "Co-CEO",
-              "shares": 13017,
-              "price": 87.96,
-              "value": 1145029,
-              "label": "13,017株 @ $87.96 ($1,145,029)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-05",
-              "actor": "SARANDOS THEODORE A",
-              "title": "Co-CEO",
-              "shares": 7256,
-              "price": 87.97,
-              "value": 638337,
-              "label": "7,256株 @ $87.97 ($638,337)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-05",
-              "actor": "SARANDOS THEODORE A",
-              "title": "Co-CEO",
-              "shares": 7039,
-              "price": 87.98,
-              "value": 619258,
-              "label": "7,039株 @ $87.98 ($619,258)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-05",
-              "actor": "HYMAN DAVID A",
-              "title": "Chief Legal Officer",
-              "shares": 5722,
-              "price": 88.08,
-              "value": 504020,
-              "label": "5,722株 @ $88.08 ($504,020)"
             }
           ]
         },
@@ -3849,10 +3839,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -3909,39 +3899,6 @@
               "price": 300.05,
               "value": 949658,
               "label": "3,165株 @ $300.05 ($949,658)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-05",
-              "actor": "Barnum Jeremy",
-              "title": "Chief Financial Officer",
-              "shares": 3022,
-              "price": 309.41,
-              "value": 935031,
-              "label": "3,022株 @ $309.41 ($935,031)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-05",
-              "actor": "BACON ASHLEY",
-              "title": "Chief Risk Officer",
-              "shares": 4070,
-              "price": 309.42,
-              "value": 1259356,
-              "label": "4,070株 @ $309.42 ($1,259,356)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-05",
-              "actor": "Piepszak Jennifer",
-              "title": "Chief Operating Officer",
-              "shares": 4919,
-              "price": 309.42,
-              "value": 1522037,
-              "label": "4,919株 @ $309.42 ($1,522,037)"
             }
           ]
         },
@@ -3996,10 +3953,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "10件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 13,
           "evidence": 40,
           "events": [
             {
@@ -4089,28 +4046,6 @@
               "price": 940.23,
               "value": 7756897,
               "label": "8,250株 @ $940.23 ($7,756,897)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-05",
-              "actor": "SOLOMON DAVID M",
-              "title": "Chairman of the Board and CEO",
-              "shares": 2310,
-              "price": 930.43,
-              "value": 2149293,
-              "label": "2,310株 @ $930.43 ($2,149,293)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-05",
-              "actor": "SOLOMON DAVID M",
-              "title": "Chairman of the Board and CEO",
-              "shares": 1160,
-              "price": 931.25,
-              "value": 1080250,
-              "label": "1,160株 @ $931.25 ($1,080,250)"
             }
           ]
         },
@@ -4226,7 +4161,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 2,
-          "sell_count": 1,
+          "sell_count": 0,
           "evidence": 40,
           "events": [
             {
@@ -4250,17 +4185,6 @@
               "price": 470.22,
               "value": 24921,
               "label": "53株 @ $470.22 ($24,921)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-01",
-              "filing_date": "2026-05-05",
-              "actor": "BERKSHIRE HATHAWAY INC",
-              "title": "Insider",
-              "shares": 1220376,
-              "price": 149.84,
-              "value": 182864678,
-              "label": "1,220,376株 @ $149.84 ($182,864,678)"
             }
           ]
         },
