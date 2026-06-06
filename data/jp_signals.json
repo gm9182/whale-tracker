@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T15:58:01.880864+09:00",
+  "generated_at": "2026-06-07T08:08:15.085685+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近24h以内)"
+            "開示件数": "5件 (直近41h以内)"
           },
           "evidence": 95,
           "events": [
@@ -128,7 +128,7 @@
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 6981.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近24h以内)"
+            "開示件数": "5件 (直近41h以内)"
           },
           "evidence": 95,
           "events": [
@@ -245,7 +245,7 @@
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 8766.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -262,7 +262,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近23h以内)"
+            "開示件数": "5件 (直近39h以内)"
           },
           "evidence": 95,
           "events": [
@@ -379,7 +379,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近24h以内)"
+            "開示件数": "5件 (直近41h以内)"
           },
           "evidence": 95,
           "events": [
@@ -496,7 +496,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近48h以内)"
+            "開示件数": "1件 (直近65h以内)"
           },
           "evidence": 72,
           "events": [
@@ -569,7 +569,7 @@
           "score": 19,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "1件 (直近48h以内)"
+            "開示件数": "1件 (直近64h以内)"
           },
           "evidence": 69,
           "events": [
@@ -625,7 +625,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9434.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -642,7 +642,7 @@
           "score": 19,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "1件 (直近48h以内)"
+            "開示件数": "1件 (直近64h以内)"
           },
           "evidence": 69,
           "events": [
@@ -654,79 +654,6 @@
               "title": "M&A・買収",
               "label": "当社の子会社によるT&amp;Dフィナンシャル生命保険株式会社の株式の取得(子会社化)に関するお知らせ",
               "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260604562723.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4307",
-      "name": "野村総研",
-      "market": "JP",
-      "score": 24,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4307.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 15,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "1件 (直近72h以内)"
-          },
-          "evidence": 65,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-02 15:30:00",
-              "actor": "ＮＲＩ",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況及び取得終了に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260601558478.pdf",
               "is_bullish": true,
               "is_bearish": false
             }
@@ -1361,7 +1288,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4502.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1420,7 +1347,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7267.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1479,7 +1406,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6594.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1538,7 +1465,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7741.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1597,7 +1524,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6501.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1656,7 +1583,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8001.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1715,7 +1642,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8058.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1774,7 +1701,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9020.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1833,7 +1760,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9983.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1892,7 +1819,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7011.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1951,7 +1878,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4519.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2010,7 +1937,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6920.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2069,7 +1996,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9613.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2128,7 +2055,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6502.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2187,7 +2114,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6857.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2246,7 +2173,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9101.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2829,6 +2756,65 @@
       "score_change": 0
     },
     {
+      "symbol": "4307",
+      "name": "野村総研",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4307.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -24
+    },
+    {
       "symbol": "4751",
       "name": "サイバーエージェント",
       "market": "JP",
@@ -3367,7 +3353,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3426,7 +3412,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4424.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3485,7 +3471,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3544,7 +3530,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5401.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3603,7 +3589,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5713.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3662,7 +3648,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3721,7 +3707,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 1605.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
