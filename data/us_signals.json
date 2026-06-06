@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:04:20.351853+00:00",
+  "generated_at": "2026-06-06T00:09:27.217786+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -189,7 +189,7 @@
             "最大買付": "Insider: $20,018,206"
           },
           "buy_count": 2,
-          "sell_count": 15,
+          "sell_count": 11,
           "evidence": 60,
           "events": [
             {
@@ -4180,35 +4180,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
-          "buy_count": 2,
+          "evidence": 0,
+          "buy_count": 0,
           "sell_count": 0,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-06",
-              "actor": "O'Sullivan Michael J.",
-              "title": "See Remarks",
-              "shares": 483,
-              "price": 467.13,
-              "value": 225623,
-              "label": "483株 @ $467.13 ($225,623)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-06",
-              "actor": "O'Sullivan Michael J.",
-              "title": "See Remarks",
-              "shares": 53,
-              "price": 470.22,
-              "value": 24921,
-              "label": "53株 @ $470.22 ($24,921)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
