@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T23:02:41.978486+00:00",
+  "generated_at": "2026-06-07T00:03:40.459392+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -5665,7 +5665,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -5964,35 +5964,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-07",
-              "actor": "LILLY ENDOWMENT INC",
-              "title": "Insider",
-              "shares": 13620,
-              "price": 995.23,
-              "value": 13554964,
-              "label": "13,620株 @ $995.23 ($13,554,964)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-07",
-              "actor": "LILLY ENDOWMENT INC",
-              "title": "Insider",
-              "shares": 2208,
-              "price": 996.18,
-              "value": 2199572,
-              "label": "2,208株 @ $996.18 ($2,199,572)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -6884,11 +6861,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
