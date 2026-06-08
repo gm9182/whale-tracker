@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:07:03.914036+09:00",
+  "generated_at": "2026-06-08T11:45:39.294048+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近42h以内)"
+            "開示件数": "5件 (直近68h以内)"
           },
           "evidence": 95,
           "events": [
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近42h以内)"
+            "開示件数": "5件 (直近68h以内)"
           },
           "evidence": 95,
           "events": [
@@ -262,7 +262,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近40h以内)"
+            "開示件数": "5件 (直近67h以内)"
           },
           "evidence": 95,
           "events": [
@@ -379,7 +379,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近42h以内)"
+            "開示件数": "5件 (直近68h以内)"
           },
           "evidence": 95,
           "events": [
@@ -475,7 +475,7 @@
       "symbol": "9433",
       "name": "KDDI",
       "market": "JP",
-      "score": 35,
+      "score": 24,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -493,12 +493,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 22,
+          "score": 15,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近66h以内)"
+            "開示件数": "1件 (直近72h以内)"
           },
-          "evidence": 72,
+          "evidence": 65,
           "events": [
             {
               "type": "BUYBACK",
@@ -542,17 +542,17 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -11
     },
     {
       "symbol": "9984",
       "name": "ソフトバンクグループ",
       "market": "JP",
-      "score": 30,
+      "score": 19,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9984.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -566,12 +566,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 19,
+          "score": 12,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "1件 (直近65h以内)"
+            "開示件数": "1件 (直近72h以内)"
           },
-          "evidence": 69,
+          "evidence": 62,
           "events": [
             {
               "type": "ACQUISITION",
@@ -615,13 +615,13 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -11
     },
     {
       "symbol": "9434",
       "name": "ソフトバンク",
       "market": "JP",
-      "score": 30,
+      "score": 19,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -639,12 +639,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 19,
+          "score": 12,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "1件 (直近65h以内)"
+            "開示件数": "1件 (直近72h以内)"
           },
-          "evidence": 69,
+          "evidence": 62,
           "events": [
             {
               "type": "ACQUISITION",
@@ -688,7 +688,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -11
     },
     {
       "symbol": "7203",
@@ -698,7 +698,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7203.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -757,7 +757,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9432.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -816,7 +816,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6758.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -875,7 +875,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8306.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -934,7 +934,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6861.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -993,7 +993,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8035.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1052,7 +1052,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7974.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1111,7 +1111,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8316.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3353,7 +3353,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3412,7 +3412,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4424.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3471,7 +3471,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3530,7 +3530,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5401.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3589,7 +3589,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5713.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3648,7 +3648,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3707,7 +3707,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 1605.0,
       "change_pct": 0,
       "signals": {
         "holdings": {

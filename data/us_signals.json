@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T00:03:40.459392+00:00",
+  "generated_at": "2026-06-08T02:41:15.610740+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -189,7 +189,7 @@
             "10%超保有者": "5件の買い"
           },
           "buy_count": 5,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 55,
           "events": [
             {
@@ -246,17 +246,6 @@
               "price": 12.2,
               "value": 4965,
               "label": "407株 @ $12.20 ($4,965)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-05",
-              "filing_date": "2026-05-07",
-              "actor": "Greener Geoffrey S",
-              "title": "Chief Risk Officer",
-              "shares": 126756,
-              "price": 53.01,
-              "value": 6718701,
-              "label": "126,756株 @ $53.01 ($6,718,701)"
             }
           ]
         },
@@ -632,10 +621,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -648,28 +637,6 @@
               "price": 311.02,
               "value": 15551000,
               "label": "50,000株 @ $311.02 ($15,551,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "LEVINSON ARTHUR D",
-              "title": "Insider",
-              "shares": 149527,
-              "price": 284.57,
-              "value": 42550898,
-              "label": "149,527株 @ $284.57 ($42,550,898)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "LEVINSON ARTHUR D",
-              "title": "Insider",
-              "shares": 100473,
-              "price": 285.04,
-              "value": 28638823,
-              "label": "100,473株 @ $285.04 ($28,638,823)"
             }
           ]
         },
@@ -1501,7 +1468,7 @@
           "detail": {
             "event": "シグナルなし"
           },
-          "buy_count": 2,
+          "buy_count": 1,
           "sell_count": 1,
           "evidence": 40,
           "events": [
@@ -1515,17 +1482,6 @@
               "price": 16.0,
               "value": 248780,
               "label": "15,545株 @ $16.00 ($248,780)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-08",
-              "actor": "Noto Anthony",
-              "title": "Chief Executive Officer",
-              "shares": 15878,
-              "price": 15.73,
-              "value": 249768,
-              "label": "15,878株 @ $15.73 ($249,768)"
             }
           ]
         },
@@ -3723,10 +3679,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -3750,28 +3706,6 @@
               "price": 86.73,
               "value": 4664475,
               "label": "53,783株 @ $86.73 ($4,664,475)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07",
-              "actor": "Peters Gregory K",
-              "title": "Co-CEO",
-              "shares": 27312,
-              "price": 88.69,
-              "value": 2422421,
-              "label": "27,312株 @ $88.69 ($2,422,421)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-07",
-              "filing_date": "2026-05-07",
-              "actor": "Neumann Spencer Adam",
-              "title": "Chief Financial Officer",
-              "shares": 9253,
-              "price": 88.95,
-              "value": 823074,
-              "label": "9,253株 @ $88.95 ($823,074)"
             }
           ]
         },
@@ -3998,10 +3932,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 13,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -4047,50 +3981,6 @@
               "price": 975.21,
               "value": 1392599,
               "label": "1,428株 @ $975.21 ($1,392,599)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "Ruemmler Kathryn H.",
-              "title": "Chief Legal Officer, GC",
-              "shares": 837,
-              "price": 936.24,
-              "value": 783632,
-              "label": "837株 @ $936.24 ($783,632)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "Ruemmler Kathryn H.",
-              "title": "Chief Legal Officer, GC",
-              "shares": 814,
-              "price": 938.42,
-              "value": 763873,
-              "label": "814株 @ $938.42 ($763,873)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "Ruemmler Kathryn H.",
-              "title": "Chief Legal Officer, GC",
-              "shares": 2671,
-              "price": 939.33,
-              "value": 2508950,
-              "label": "2,671株 @ $939.33 ($2,508,950)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "Ruemmler Kathryn H.",
-              "title": "Chief Legal Officer, GC",
-              "shares": 8250,
-              "price": 940.23,
-              "value": 7756897,
-              "label": "8,250株 @ $940.23 ($7,756,897)"
             }
           ]
         },
@@ -4575,10 +4465,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "13件の$1M+売却"
+            "大型売却警戒": "10件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 13,
           "evidence": 40,
           "events": [
             {
@@ -5354,10 +5244,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "9件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 10,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -5436,39 +5326,6 @@
               "price": 197.45,
               "value": 599260,
               "label": "3,035株 @ $197.45 ($599,260)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 28031,
-              "price": 183.9,
-              "value": 5154984,
-              "label": "28,031株 @ $183.90 ($5,154,984)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 88921,
-              "price": 184.67,
-              "value": 16421049,
-              "label": "88,921株 @ $184.67 ($16,421,049)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-06",
-              "filing_date": "2026-05-08",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 78048,
-              "price": 185.21,
-              "value": 14455488,
-              "label": "78,048株 @ $185.21 ($14,455,488)"
             }
           ]
         },
