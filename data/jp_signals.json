@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-06-10T11:25:41.580848+09:00",
+  "generated_at": "2026-06-10T16:09:40.366108+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "9433",
+      "name": "KDDI",
+      "market": "JP",
+      "score": 45,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9433.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 28,
+          "detail": {
+            "強気開示": "TOB・公開買付",
+            "開示件数": "1件 (直近3h以内)"
+          },
+          "evidence": 78,
+          "events": [
+            {
+              "type": "TOB",
+              "date": "2026-06-10",
+              "filing_date": "2026-06-10 13:30:00",
+              "actor": "ＫＤＤＩ",
+              "title": "TOB・公開買付",
+              "label": "自己株式の公開買付けの結果に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260610567001.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 45
+    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -602,65 +675,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 6098.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "9433",
-      "name": "KDDI",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 9433.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2135,7 +2149,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4661.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2194,7 +2208,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4385.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2253,7 +2267,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 3659.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2312,7 +2326,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4477.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2371,7 +2385,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 3092.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2430,7 +2444,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4307.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2489,7 +2503,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4751.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2548,7 +2562,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6273.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2607,7 +2621,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6963.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2666,7 +2680,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6701.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2725,7 +2739,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6702.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2784,7 +2798,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6532.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2843,7 +2857,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8473.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2902,7 +2916,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8593.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2961,7 +2975,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4490.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3020,7 +3034,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4488.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3079,7 +3093,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
