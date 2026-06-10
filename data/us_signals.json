@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T23:18:02.462391+00:00",
+  "generated_at": "2026-06-10T02:19:57.346923+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -173,6 +173,120 @@
       "score_change": 0
     },
     {
+      "symbol": "HOOD",
+      "market": "US",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 83.77,
+      "prev_close": 77.03,
+      "vol_ratio": 1.07,
+      "signals": {
+        "insider": {
+          "active": true,
+          "score": 20,
+          "detail": {
+            "最大買付": "Insider: $20,184,200"
+          },
+          "buy_count": 1,
+          "sell_count": 15,
+          "evidence": 60,
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-09",
+              "actor": "Malka Meyer",
+              "title": "Director",
+              "shares": 250000,
+              "price": 80.74,
+              "value": 20184200,
+              "label": "250,000株 @ $80.74 ($20,184,200)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-09",
+              "actor": "Robinhood Markets, Inc.",
+              "title": "Insider",
+              "shares": 17050,
+              "price": 37.24,
+              "value": 634942,
+              "label": "17,050株 @ $37.24 ($634,942)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-05",
+              "filing_date": "2026-06-09",
+              "actor": "Robinhood Markets, Inc.",
+              "title": "Insider",
+              "shares": 25856,
+              "price": 38.06,
+              "value": 984079,
+              "label": "25,856株 @ $38.06 ($984,079)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-04",
+              "filing_date": "2026-06-05",
+              "actor": "Robinhood Markets, Inc.",
+              "title": "Insider",
+              "shares": 53407,
+              "price": 41.78,
+              "value": 2231344,
+              "label": "53,407株 @ $41.78 ($2,231,344)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-04",
+              "filing_date": "2026-06-05",
+              "actor": "Robinhood Markets, Inc.",
+              "title": "Insider",
+              "shares": 16200,
+              "price": 42.4,
+              "value": 686880,
+              "label": "16,200株 @ $42.40 ($686,880)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": 15
+    },
+    {
       "symbol": "BAC",
       "market": "US",
       "score": 22,
@@ -246,165 +360,6 @@
               "price": 12.2,
               "value": 4965,
               "label": "407株 @ $12.20 ($4,965)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "HOOD",
-      "market": "US",
-      "score": 15,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 83.77,
-      "prev_close": 77.03,
-      "vol_ratio": 1.07,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 10,
-          "detail": {
-            "最大買付": "Insider: $20,184,200",
-            "大型売却警戒": "2件の$1M+売却"
-          },
-          "buy_count": 3,
-          "sell_count": 15,
-          "evidence": 50,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Malka Meyer",
-              "title": "Director",
-              "shares": 250000,
-              "price": 80.74,
-              "value": 20184200,
-              "label": "250,000株 @ $80.74 ($20,184,200)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-04",
-              "filing_date": "2026-06-05",
-              "actor": "Robinhood Markets, Inc.",
-              "title": "Insider",
-              "shares": 53407,
-              "price": 41.78,
-              "value": 2231344,
-              "label": "53,407株 @ $41.78 ($2,231,344)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-04",
-              "filing_date": "2026-06-05",
-              "actor": "Robinhood Markets, Inc.",
-              "title": "Insider",
-              "shares": 16200,
-              "price": 42.4,
-              "value": 686880,
-              "label": "16,200株 @ $42.40 ($686,880)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-03",
-              "filing_date": "2026-06-03",
-              "actor": "Malka Meyer",
-              "title": "Director",
-              "shares": 181000,
-              "price": 83.45,
-              "value": 15103852,
-              "label": "181,000株 @ $83.45 ($15,103,852)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-03",
-              "filing_date": "2026-06-05",
-              "actor": "Quirk Steven M.",
-              "title": "Chief Brokerage Officer",
-              "shares": 8540,
-              "price": 85.77,
-              "value": 732517,
-              "label": "8,540株 @ $85.77 ($732,517)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-28",
-              "filing_date": "2026-06-01",
-              "actor": "Malka Meyer",
-              "title": "Director",
-              "shares": 249000,
-              "price": 80.39,
-              "value": 20018205,
-              "label": "249,000株 @ $80.39 ($20,018,205)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "Bhatt Baiju",
-              "title": "Insider",
-              "shares": 13200,
-              "price": 74.28,
-              "value": 980463,
-              "label": "13,200株 @ $74.28 ($980,463)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "Bhatt Baiju",
-              "title": "Insider",
-              "shares": 42955,
-              "price": 75.55,
-              "value": 3245220,
-              "label": "42,955株 @ $75.55 ($3,245,220)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "Bhatt Baiju",
-              "title": "Insider",
-              "shares": 11267,
-              "price": 76.01,
-              "value": 856355,
-              "label": "11,267株 @ $76.01 ($856,355)"
             }
           ]
         },
@@ -2257,7 +2212,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 40,
+          "sell_count": 30,
           "evidence": 40,
           "events": []
         },
