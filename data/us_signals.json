@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:26:10.771809+00:00",
+  "generated_at": "2026-06-11T02:41:10.105063+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1456,22 +1456,10 @@
           "detail": {
             "event": "シグナルなし"
           },
-          "buy_count": 1,
+          "buy_count": 0,
           "sell_count": 1,
           "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-11",
-              "actor": "Noto Anthony",
-              "title": "Chief Executive Officer",
-              "shares": 15545,
-              "price": 16.0,
-              "value": 248780,
-              "label": "15,545株 @ $16.00 ($248,780)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -1940,7 +1928,7 @@
             "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 1,
-          "sell_count": 14,
+          "sell_count": 12,
           "evidence": 40,
           "events": [
             {
@@ -5748,11 +5736,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "直近期間にシグナルなし"
+            "event": "シグナルなし"
           },
-          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 0,
+          "sell_count": 1,
+          "evidence": 40,
           "events": []
         },
         "filing13d": {
@@ -5980,10 +5968,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -6040,17 +6028,6 @@
               "price": 94.45,
               "value": 187326935,
               "label": "1,983,387株 @ $94.45 ($187,326,935)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-08",
-              "filing_date": "2026-05-11",
-              "actor": "Mandadi Tilak",
-              "title": "EVP, Chief Exp &amp; Tech Officer",
-              "shares": 69551,
-              "price": 89.58,
-              "value": 6230378,
-              "label": "69,551株 @ $89.58 ($6,230,378)"
             }
           ]
         },
