@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T23:22:17.839983+00:00",
+  "generated_at": "2026-06-12T02:24:44.059723+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -303,7 +303,7 @@
             "10%超保有者": "5件の買い"
           },
           "buy_count": 5,
-          "sell_count": 7,
+          "sell_count": 6,
           "evidence": 55,
           "events": [
             {
@@ -601,7 +601,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -2222,7 +2222,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 30,
+          "sell_count": 26,
           "evidence": 40,
           "events": []
         },
@@ -4507,10 +4507,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "10件の$1M+売却"
+            "大型売却警戒": "9件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 13,
+          "sell_count": 11,
           "evidence": 40,
           "events": [
             {
@@ -4611,17 +4611,6 @@
               "price": 910.24,
               "value": 2412136,
               "label": "2,650株 @ $910.24 ($2,412,136)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-12",
-              "actor": "Fassino Anthony D.",
-              "title": "Group President",
-              "shares": 15440,
-              "price": 916.75,
-              "value": 14154620,
-              "label": "15,440株 @ $916.75 ($14,154,620)"
             }
           ]
         },
@@ -5480,10 +5469,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -5496,17 +5485,6 @@
               "price": 47.21,
               "value": 1149185,
               "label": "24,342株 @ $47.21 ($1,149,185)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-12",
-              "actor": "Ritenour Jeffrey L",
-              "title": "EVP &amp; CHIEF CORP DEV OFFICER",
-              "shares": 70029,
-              "price": 46.66,
-              "value": 3267553,
-              "label": "70,029株 @ $46.66 ($3,267,553)"
             }
           ]
         },
