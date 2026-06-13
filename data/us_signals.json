@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T23:14:44.283802+00:00",
+  "generated_at": "2026-06-13T02:19:15.000609+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1800,7 +1800,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -1813,17 +1813,6 @@
               "price": 26.5,
               "value": 996824,
               "label": "37,616株 @ $26.50 ($996,824)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-11",
-              "filing_date": "2026-05-13",
-              "actor": "Les Jason",
-              "title": "CEO",
-              "shares": 175000,
-              "price": 25.19,
-              "value": 4408250,
-              "label": "175,000株 @ $25.19 ($4,408,250)"
             }
           ]
         },
@@ -3619,7 +3608,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 38,
+          "sell_count": 12,
           "evidence": 40,
           "events": []
         },
@@ -4204,24 +4193,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-12",
-              "filing_date": "2026-05-13",
-              "actor": "Suh Chris",
-              "title": "CHIEF FINANCIAL OFFICER",
-              "shares": 10639,
-              "price": 324.81,
-              "value": 3455665,
-              "label": "10,639株 @ $324.81 ($3,455,665)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
