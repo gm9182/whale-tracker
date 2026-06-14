@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:01:39.746222+00:00",
+  "generated_at": "2026-06-14T00:07:15.203259+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -4495,10 +4495,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "9件の$1M+売却"
+            "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -4577,28 +4577,6 @@
               "price": 911.92,
               "value": 1463631,
               "label": "1,605株 @ $911.92 ($1,463,631)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-14",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 3546,
-              "price": 909.46,
-              "value": 3224945,
-              "label": "3,546株 @ $909.46 ($3,224,945)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-14",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 2650,
-              "price": 910.24,
-              "value": 2412136,
-              "label": "2,650株 @ $910.24 ($2,412,136)"
             }
           ]
         },
