@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T00:07:15.203259+00:00",
+  "generated_at": "2026-06-15T02:44:27.208862+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -517,10 +517,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -533,17 +533,6 @@
               "price": 402.2,
               "value": 1047924,
               "label": "2,605株 @ $402.20 ($1,047,924)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-13",
-              "filing_date": "2026-05-15",
-              "actor": "Taneja Vaibhav",
-              "title": "Chief Financial Officer",
-              "shares": 3000,
-              "price": 450.0,
-              "value": 1350000,
-              "label": "3,000株 @ $450.00 ($1,350,000)"
             }
           ]
         },
@@ -3860,10 +3849,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -3876,50 +3865,6 @@
               "price": 300.27,
               "value": 1641855,
               "label": "5,468株 @ $300.27 ($1,641,855)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-15",
-              "actor": "Erdoes Mary E.",
-              "title": "CEO Asset &amp; Wealth Management",
-              "shares": 6648,
-              "price": 298.36,
-              "value": 1983526,
-              "label": "6,648株 @ $298.36 ($1,983,526)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-15",
-              "actor": "Lake Marianne",
-              "title": "CEO CCB",
-              "shares": 6427,
-              "price": 298.36,
-              "value": 1917530,
-              "label": "6,427株 @ $298.36 ($1,917,530)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-15",
-              "actor": "Petno Douglas B",
-              "title": "Co-CEO CIB",
-              "shares": 5659,
-              "price": 300.05,
-              "value": 1697982,
-              "label": "5,659株 @ $300.05 ($1,697,982)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-15",
-              "actor": "Beer Lori A",
-              "title": "Chief Information Officer",
-              "shares": 3165,
-              "price": 300.05,
-              "value": 949658,
-              "label": "3,165株 @ $300.05 ($949,658)"
             }
           ]
         },
@@ -4495,90 +4440,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 8,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 1787,
-              "price": 904.7,
-              "value": 1616698,
-              "label": "1,787株 @ $904.70 ($1,616,698)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 2259,
-              "price": 905.73,
-              "value": 2046044,
-              "label": "2,259株 @ $905.73 ($2,046,044)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 1491,
-              "price": 906.73,
-              "value": 1351934,
-              "label": "1,491株 @ $906.73 ($1,351,934)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 1191,
-              "price": 907.98,
-              "value": 1081404,
-              "label": "1,191株 @ $907.98 ($1,081,404)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 2302,
-              "price": 908.76,
-              "value": 2091965,
-              "label": "2,302株 @ $908.76 ($2,091,965)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 1568,
-              "price": 909.7,
-              "value": 1426409,
-              "label": "1,568株 @ $909.70 ($1,426,409)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Johnson Denise C",
-              "title": "Group President",
-              "shares": 1605,
-              "price": 911.92,
-              "value": 1463631,
-              "label": "1,605株 @ $911.92 ($1,463,631)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5438,7 +5305,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -5451,17 +5318,6 @@
               "price": 46.74,
               "value": 841320,
               "label": "18,000株 @ $46.74 ($841,320)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-15",
-              "actor": "Vela Adam M",
-              "title": "SVP &amp; GENERAL COUNSEL",
-              "shares": 24342,
-              "price": 47.21,
-              "value": 1149185,
-              "label": "24,342株 @ $47.21 ($1,149,185)"
             }
           ]
         },
