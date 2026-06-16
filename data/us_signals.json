@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T23:36:59.769737+00:00",
+  "generated_at": "2026-06-16T02:46:45.413960+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -186,12 +186,67 @@
           "active": true,
           "score": 15,
           "detail": {
-            "10%超保有者": "5件の買い"
+            "10%超保有者": "10件の買い"
           },
-          "buy_count": 5,
-          "sell_count": 6,
+          "buy_count": 10,
+          "sell_count": 7,
           "evidence": 55,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-06-11",
+              "filing_date": "2026-06-15",
+              "actor": "BANK OF AMERICA CORP /DE/",
+              "title": "10% Owner",
+              "shares": 1,
+              "price": 0.02,
+              "value": 0,
+              "label": "1株 @ $0.02 ($0)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-06-11",
+              "filing_date": "2026-06-15",
+              "actor": "BANK OF AMERICA CORP /DE/",
+              "title": "10% Owner",
+              "shares": 1,
+              "price": 0.02,
+              "value": 0,
+              "label": "1株 @ $0.02 ($0)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-06-11",
+              "filing_date": "2026-06-15",
+              "actor": "BANK OF AMERICA CORP /DE/",
+              "title": "10% Owner",
+              "shares": 1,
+              "price": 0.01,
+              "value": 0,
+              "label": "1株 @ $0.01 ($0)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-06-11",
+              "filing_date": "2026-06-15",
+              "actor": "BANK OF AMERICA CORP /DE/",
+              "title": "10% Owner",
+              "shares": 1,
+              "price": 0.01,
+              "value": 0,
+              "label": "1株 @ $0.01 ($0)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-06-11",
+              "filing_date": "2026-06-15",
+              "actor": "BANK OF AMERICA CORP /DE/",
+              "title": "10% Owner",
+              "shares": 3,
+              "price": 0.01,
+              "value": 0,
+              "label": "3株 @ $0.01 ($0)"
+            },
             {
               "type": "BUY",
               "date": "2026-05-20",
@@ -454,7 +509,7 @@
           "evidence": 0
         }
       },
-      "score_change": -15
+      "score_change": 0
     },
     {
       "symbol": "NVDA",
@@ -1422,7 +1477,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 19,
           "evidence": 40,
           "events": [
             {
@@ -2279,7 +2334,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 26,
+          "sell_count": 27,
           "evidence": 40,
           "events": []
         },
