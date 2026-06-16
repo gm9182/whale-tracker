@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T08:46:29.715034+00:00",
+  "generated_at": "2026-06-16T12:15:58.911095+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -17,12 +17,23 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "15名が直近期間に買付"
+            "クラスターバイ": "14名が直近期間に買付"
           },
           "buy_count": 16,
           "sell_count": 0,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-16",
+              "actor": "Yuan Lipen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 75.26,
+              "value": 75260,
+              "label": "1,000株 @ $75.26 ($75,260)"
+            },
             {
               "type": "BUY",
               "date": "2026-06-05",
@@ -121,17 +132,6 @@
               "price": 76.01,
               "value": 4332,
               "label": "57株 @ $76.01 ($4,332)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 43,
-              "price": 76.01,
-              "value": 3268,
-              "label": "43株 @ $76.01 ($3,268)"
             }
           ]
         },
