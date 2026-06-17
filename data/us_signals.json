@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:25:20.498531+00:00",
+  "generated_at": "2026-06-17T02:44:44.946607+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -579,7 +579,7 @@
           "evidence": 0
         }
       },
-      "score_change": 8
+      "score_change": 0
     },
     {
       "symbol": "NVDA",
@@ -4450,10 +4450,22 @@
           "detail": {
             "event": "シグナルなし"
           },
-          "buy_count": 0,
+          "buy_count": 1,
           "sell_count": 5,
           "evidence": 40,
-          "events": []
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-16",
+              "actor": "Miller Jamie S",
+              "title": "Chief Fin &amp; Op Officer",
+              "shares": 6129,
+              "price": 41.53,
+              "value": 254537,
+              "label": "6,129株 @ $41.53 ($254,537)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
