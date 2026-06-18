@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T23:26:17.036615+00:00",
+  "generated_at": "2026-06-18T02:42:26.202880+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -186,10 +186,10 @@
           "active": true,
           "score": 15,
           "detail": {
-            "10%超保有者": "10件の買い"
+            "10%超保有者": "9件の買い"
           },
-          "buy_count": 10,
-          "sell_count": 7,
+          "buy_count": 9,
+          "sell_count": 6,
           "evidence": 55,
           "events": [
             {
@@ -290,17 +290,6 @@
               "price": 10.61,
               "value": 10610,
               "label": "1,000株 @ $10.61 ($10,610)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-18",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 407,
-              "price": 12.2,
-              "value": 4965,
-              "label": "407株 @ $12.20 ($4,965)"
             }
           ]
         },
@@ -841,7 +830,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -876,17 +865,6 @@
               "price": 460.99,
               "value": 7145314,
               "label": "15,500株 @ $460.99 ($7,145,314)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-18",
-              "actor": "Coleman Amy",
-              "title": "EVP, Chief Human Resources Off",
-              "shares": 1262,
-              "price": 411.34,
-              "value": 519241,
-              "label": "1,262株 @ $411.34 ($519,241)"
             }
           ]
         },
@@ -941,46 +919,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 12,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-18",
-              "actor": "GV 2019 GP, L.L.C.",
-              "title": "Insider",
-              "shares": 45410,
-              "price": 23.27,
-              "value": 1056649,
-              "label": "45,410株 @ $23.27 ($1,056,649)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-18",
-              "actor": "GV 2019 GP, L.L.C.",
-              "title": "Insider",
-              "shares": 42065,
-              "price": 24.27,
-              "value": 1020829,
-              "label": "42,065株 @ $24.27 ($1,020,829)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-18",
-              "actor": "GV 2019 GP, L.L.C.",
-              "title": "Insider",
-              "shares": 60077,
-              "price": 23.01,
-              "value": 1382329,
-              "label": "60,077株 @ $23.01 ($1,382,329)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -1533,12 +1477,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
           "sell_count": 19,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 4000,
+              "price": 133.81,
+              "value": 535258,
+              "label": "4,000株 @ $133.81 ($535,258)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 7000,
+              "price": 134.44,
+              "value": 941082,
+              "label": "7,000株 @ $134.44 ($941,082)"
+            },
             {
               "type": "SELL",
               "date": "2026-05-20",
@@ -1560,28 +1526,6 @@
               "price": 136.61,
               "value": 718864,
               "label": "5,262株 @ $136.61 ($718,864)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "Taylor Ryan D.",
-              "title": "See Remarks",
-              "shares": 11074,
-              "price": 136.08,
-              "value": 1506962,
-              "label": "11,074株 @ $136.08 ($1,506,962)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "Taylor Ryan D.",
-              "title": "See Remarks",
-              "shares": 6040,
-              "price": 136.61,
-              "value": 825150,
-              "label": "6,040株 @ $136.61 ($825,150)"
             }
           ]
         },
@@ -1639,9 +1583,20 @@
             "event": "シグナルなし"
           },
           "buy_count": 1,
-          "sell_count": 1,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-17",
+              "filing_date": "2026-06-17",
+              "actor": "Rishel Jeremy",
+              "title": "Chief Technology Officer",
+              "shares": 102123,
+              "price": 17.78,
+              "value": 1815746,
+              "label": "102,123株 @ $17.78 ($1,815,746)"
+            },
             {
               "type": "BUY",
               "date": "2026-06-16",
@@ -2211,12 +2166,45 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "12件の$1M+売却"
+            "大型売却警戒": "13件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 21,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-16",
+              "filing_date": "2026-06-17",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 2986,
+              "price": 240.0,
+              "value": 716640,
+              "label": "2,986株 @ $240.00 ($716,640)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-16",
+              "filing_date": "2026-06-17",
+              "actor": "Raghunathan Vivek",
+              "title": "SVP, Engineering",
+              "shares": 3876,
+              "price": 240.0,
+              "value": 930240,
+              "label": "3,876株 @ $240.00 ($930,240)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-16",
+              "filing_date": "2026-06-17",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 8066,
+              "price": 240.0,
+              "value": 1935840,
+              "label": "8,066株 @ $240.00 ($1,935,840)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-09",
@@ -2293,39 +2281,6 @@
               "price": 262.14,
               "value": 5624127,
               "label": "21,455株 @ $262.14 ($5,624,127)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 12074,
-              "price": 263.23,
-              "value": 3178202,
-              "label": "12,074株 @ $263.23 ($3,178,202)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 38345,
-              "price": 264.05,
-              "value": 10124997,
-              "label": "38,345株 @ $264.05 ($10,124,997)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 34607,
-              "price": 264.94,
-              "value": 9168951,
-              "label": "34,607株 @ $264.94 ($9,168,951)"
             }
           ]
         },
@@ -2383,7 +2338,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 27,
+          "sell_count": 16,
           "evidence": 40,
           "events": []
         },
@@ -2761,12 +2716,78 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "13件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Gebbia Joseph",
+              "title": "Insider",
+              "shares": 35211,
+              "price": 137.73,
+              "value": 4849508,
+              "label": "35,211株 @ $137.73 ($4,849,508)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Gebbia Joseph",
+              "title": "Insider",
+              "shares": 187190,
+              "price": 138.53,
+              "value": 25930663,
+              "label": "187,190株 @ $138.53 ($25,930,663)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Gebbia Joseph",
+              "title": "Insider",
+              "shares": 38199,
+              "price": 139.38,
+              "value": 5324314,
+              "label": "38,199株 @ $139.38 ($5,324,314)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 4268,
+              "price": 137.73,
+              "value": 587843,
+              "label": "4,268株 @ $137.73 ($587,843)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 20638,
+              "price": 138.53,
+              "value": 2859085,
+              "label": "20,638株 @ $138.53 ($2,859,085)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-15",
+              "filing_date": "2026-06-17",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 4225,
+              "price": 139.32,
+              "value": 588611,
+              "label": "4,225株 @ $139.32 ($588,611)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-08",
@@ -2777,105 +2798,6 @@
               "price": 135.3,
               "value": 4886807,
               "label": "36,117株 @ $135.30 ($4,886,807)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-08",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 16515,
-              "price": 135.17,
-              "value": 2232258,
-              "label": "16,515株 @ $135.17 ($2,232,258)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-04",
-              "filing_date": "2026-06-08",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 31240,
-              "price": 135.72,
-              "value": 4239792,
-              "label": "31,240株 @ $135.72 ($4,239,792)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-04",
-              "filing_date": "2026-06-08",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 27533,
-              "price": 136.42,
-              "value": 3756164,
-              "label": "27,533株 @ $136.42 ($3,756,164)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-04",
-              "filing_date": "2026-06-08",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 5560,
-              "price": 137.07,
-              "value": 762118,
-              "label": "5,560株 @ $137.07 ($762,118)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 6718,
-              "price": 132.57,
-              "value": 890593,
-              "label": "6,718株 @ $132.57 ($890,593)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 19172,
-              "price": 133.7,
-              "value": 2563282,
-              "label": "19,172株 @ $133.70 ($2,563,282)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 36074,
-              "price": 134.39,
-              "value": 4848136,
-              "label": "36,074株 @ $134.39 ($4,848,136)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Mertz Elinor",
-              "title": "Chief Financial Officer",
-              "shares": 7433,
-              "price": 136.24,
-              "value": 1012671,
-              "label": "7,433株 @ $136.24 ($1,012,671)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 11600,
-              "price": 132.52,
-              "value": 1537215,
-              "label": "11,600株 @ $132.52 ($1,537,215)"
             }
           ]
         },
@@ -3849,57 +3771,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 3,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-18",
-              "actor": "COLEMAN DENIS P.",
-              "title": "Chief Financial Officer",
-              "shares": 2509,
-              "price": 972.29,
-              "value": 2439475,
-              "label": "2,509株 @ $972.29 ($2,439,475)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-18",
-              "actor": "COLEMAN DENIS P.",
-              "title": "Chief Financial Officer",
-              "shares": 1560,
-              "price": 973.19,
-              "value": 1518176,
-              "label": "1,560株 @ $973.19 ($1,518,176)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-18",
-              "actor": "COLEMAN DENIS P.",
-              "title": "Chief Financial Officer",
-              "shares": 1360,
-              "price": 974.53,
-              "value": 1325360,
-              "label": "1,360株 @ $974.53 ($1,325,360)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-14",
-              "filing_date": "2026-05-18",
-              "actor": "COLEMAN DENIS P.",
-              "title": "Chief Financial Officer",
-              "shares": 1428,
-              "price": 975.21,
-              "value": 1392599,
-              "label": "1,428株 @ $975.21 ($1,392,599)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
