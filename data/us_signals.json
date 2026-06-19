@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T23:37:17.424690+00:00",
+  "generated_at": "2026-06-19T02:59:47.090086+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -922,7 +922,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 24,
+          "sell_count": 13,
           "evidence": 40,
           "events": []
         },
@@ -3124,10 +3124,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "12件の$1M+売却"
+            "大型売却警戒": "11件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -4828,8 +4828,8 @@
           "detail": {
             "event": "シグナルなし"
           },
-          "buy_count": 1,
-          "sell_count": 5,
+          "buy_count": 0,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -4842,17 +4842,6 @@
               "price": 15.0,
               "value": 522270,
               "label": "34,818株 @ $15.00 ($522,270)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-15",
-              "filing_date": "2026-05-19",
-              "actor": "Gomez Aidan N.",
-              "title": "Director",
-              "shares": 18000,
-              "price": 13.97,
-              "value": 251460,
-              "label": "18,000株 @ $13.97 ($251,460)"
             }
           ]
         },
