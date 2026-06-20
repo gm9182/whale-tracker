@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T22:50:46.196439+00:00",
+  "generated_at": "2026-06-20T00:08:10.637322+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -186,10 +186,10 @@
           "active": true,
           "score": 15,
           "detail": {
-            "10%超保有者": "9件の買い"
+            "10%超保有者": "8件の買い"
           },
-          "buy_count": 9,
-          "sell_count": 6,
+          "buy_count": 8,
+          "sell_count": 5,
           "evidence": 55,
           "events": [
             {
@@ -279,17 +279,6 @@
               "price": 11.28,
               "value": 33840,
               "label": "3,000株 @ $11.28 ($33,840)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-18",
-              "filing_date": "2026-05-20",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 1000,
-              "price": 10.61,
-              "value": 10610,
-              "label": "1,000株 @ $10.61 ($10,610)"
             }
           ]
         },
@@ -3809,24 +3798,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-20",
-              "actor": "Friedman Stacey",
-              "title": "General Counsel",
-              "shares": 5468,
-              "price": 300.27,
-              "value": 1641855,
-              "label": "5,468株 @ $300.27 ($1,641,855)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4105,7 +4082,7 @@
       "tier_label": "LOW",
       "price": 489.79,
       "prev_close": 505.79,
-      "vol_ratio": 1.75,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
@@ -4172,7 +4149,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 1,
-          "sell_count": 5,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -4419,7 +4396,7 @@
       "tier_label": "LOW",
       "price": 589.24,
       "prev_close": 564.49,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -6123,7 +6100,7 @@
       "tier_label": "LOW",
       "price": 130.74,
       "prev_close": 123.4,
-      "vol_ratio": 1.28,
+      "vol_ratio": 0.6,
       "signals": {
         "insider": {
           "active": false,
@@ -6320,7 +6297,7 @@
       "tier_label": "LOW",
       "price": 222.2,
       "prev_close": 218.02,
-      "vol_ratio": 2.04,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
