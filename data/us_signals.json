@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T23:05:27.208928+00:00",
+  "generated_at": "2026-06-21T00:10:58.193978+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -186,10 +186,10 @@
           "active": true,
           "score": 15,
           "detail": {
-            "10%超保有者": "8件の買い"
+            "10%超保有者": "7件の買い"
           },
-          "buy_count": 8,
-          "sell_count": 5,
+          "buy_count": 7,
+          "sell_count": 4,
           "evidence": 55,
           "events": [
             {
@@ -268,17 +268,6 @@
               "price": 10.26,
               "value": 32832,
               "label": "3,200株 @ $10.26 ($32,832)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-19",
-              "filing_date": "2026-05-21",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 3000,
-              "price": 11.28,
-              "value": 33840,
-              "label": "3,000株 @ $11.28 ($33,840)"
             }
           ]
         },
@@ -1777,7 +1766,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 5,
           "evidence": 40,
           "events": []
         },
@@ -3113,10 +3102,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "11件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -3206,28 +3195,6 @@
               "price": 291.08,
               "value": 1455400,
               "label": "5,000株 @ $291.08 ($1,455,400)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-21",
-              "filing_date": "2026-05-21",
-              "actor": "Eaton Charlotte Claire",
-              "title": "Chief People Officer",
-              "shares": 4000,
-              "price": 282.77,
-              "value": 1131080,
-              "label": "4,000株 @ $282.77 ($1,131,080)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-21",
-              "actor": "Abbey William",
-              "title": "Chief Commercial Officer",
-              "shares": 5069,
-              "price": 257.18,
-              "value": 1303645,
-              "label": "5,069株 @ $257.18 ($1,303,645)"
             }
           ]
         },
@@ -3524,7 +3491,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 12,
+          "sell_count": 11,
           "evidence": 40,
           "events": []
         },
@@ -5707,68 +5674,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 7,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-21",
-              "filing_date": "2026-05-21",
-              "actor": "ROBBINS LARRY",
-              "title": "Insider",
-              "shares": 370462,
-              "price": 93.45,
-              "value": 34619007,
-              "label": "370,462株 @ $93.45 ($34,619,007)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-21",
-              "actor": "ROBBINS LARRY",
-              "title": "Insider",
-              "shares": 797628,
-              "price": 93.48,
-              "value": 74559553,
-              "label": "797,628株 @ $93.48 ($74,559,553)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-21",
-              "actor": "ROBBINS LARRY",
-              "title": "Insider",
-              "shares": 152691,
-              "price": 94.81,
-              "value": 14476038,
-              "label": "152,691株 @ $94.81 ($14,476,038)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-21",
-              "actor": "ROBBINS LARRY",
-              "title": "Insider",
-              "shares": 66881,
-              "price": 95.67,
-              "value": 6398204,
-              "label": "66,881株 @ $95.67 ($6,398,204)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-19",
-              "filing_date": "2026-05-21",
-              "actor": "ROBBINS LARRY",
-              "title": "Insider",
-              "shares": 1983387,
-              "price": 94.45,
-              "value": 187326935,
-              "label": "1,983,387株 @ $94.45 ($187,326,935)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
