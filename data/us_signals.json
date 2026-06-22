@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T00:10:58.193978+00:00",
+  "generated_at": "2026-06-22T02:46:14.747928+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -186,10 +186,10 @@
           "active": true,
           "score": 15,
           "detail": {
-            "10%超保有者": "7件の買い"
+            "10%超保有者": "5件の買い"
           },
-          "buy_count": 7,
-          "sell_count": 4,
+          "buy_count": 5,
+          "sell_count": 1,
           "evidence": 55,
           "events": [
             {
@@ -246,28 +246,6 @@
               "price": 0.01,
               "value": 0,
               "label": "3株 @ $0.01 ($0)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 680,
-              "price": 7.36,
-              "value": 5001,
-              "label": "680株 @ $7.36 ($5,001)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 3200,
-              "price": 10.26,
-              "value": 32832,
-              "label": "3,200株 @ $10.26 ($32,832)"
             }
           ]
         },
@@ -1446,7 +1424,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -1470,28 +1448,6 @@
               "price": 134.44,
               "value": 941082,
               "label": "7,000株 @ $134.44 ($941,082)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "Glazer David A.",
-              "title": "See Remarks",
-              "shares": 9647,
-              "price": 136.08,
-              "value": 1312774,
-              "label": "9,647株 @ $136.08 ($1,312,774)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "Glazer David A.",
-              "title": "See Remarks",
-              "shares": 5262,
-              "price": 136.61,
-              "value": 718864,
-              "label": "5,262株 @ $136.61 ($718,864)"
             }
           ]
         },
@@ -1549,7 +1505,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 1,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -3102,10 +3058,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -3162,39 +3118,6 @@
               "price": 305.82,
               "value": 703386,
               "label": "2,300株 @ $305.82 ($703,386)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-21",
-              "filing_date": "2026-05-22",
-              "actor": "Abbey William",
-              "title": "Chief Commercial Officer",
-              "shares": 4655,
-              "price": 287.03,
-              "value": 1336124,
-              "label": "4,655株 @ $287.03 ($1,336,124)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-21",
-              "filing_date": "2026-05-22",
-              "actor": "Eaton Charlotte Claire",
-              "title": "Chief People Officer",
-              "shares": 2805,
-              "price": 288.1,
-              "value": 808120,
-              "label": "2,805株 @ $288.10 ($808,120)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-21",
-              "filing_date": "2026-05-22",
-              "actor": "Eaton Charlotte Claire",
-              "title": "Chief People Officer",
-              "shares": 5000,
-              "price": 291.08,
-              "value": 1455400,
-              "label": "5,000株 @ $291.08 ($1,455,400)"
             }
           ]
         },
@@ -4241,24 +4164,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
-          "buy_count": 1,
+          "evidence": 0,
+          "buy_count": 0,
           "sell_count": 0,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "TILDEN BRADLEY D",
-              "title": "Director",
-              "shares": 1370,
-              "price": 218.5,
-              "value": 299345,
-              "label": "1,370株 @ $218.50 ($299,345)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4773,7 +4684,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -4898,24 +4809,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "EXXON MOBIL CORP",
-              "title": "Insider",
-              "shares": 16600000,
-              "price": 16.66,
-              "value": 276556000,
-              "label": "16,600,000株 @ $16.66 ($276,556,000)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4968,90 +4867,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 7,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 117836,
-              "price": 191.52,
-              "value": 22567891,
-              "label": "117,836株 @ $191.52 ($22,567,891)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 119787,
-              "price": 192.86,
-              "value": 23102324,
-              "label": "119,787株 @ $192.86 ($23,102,324)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 59045,
-              "price": 193.79,
-              "value": 11442165,
-              "label": "59,045株 @ $193.79 ($11,442,165)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 42678,
-              "price": 194.65,
-              "value": 8307323,
-              "label": "42,678株 @ $194.65 ($8,307,323)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 7038,
-              "price": 195.97,
-              "value": 1379205,
-              "label": "7,038株 @ $195.97 ($1,379,205)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 30581,
-              "price": 196.74,
-              "value": 6016594,
-              "label": "30,581株 @ $196.74 ($6,016,594)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-20",
-              "filing_date": "2026-05-22",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 3035,
-              "price": 197.45,
-              "value": 599260,
-              "label": "3,035株 @ $197.45 ($599,260)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
