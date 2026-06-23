@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:19:55.555868+00:00",
+  "generated_at": "2026-06-23T02:12:22.095801+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2110,121 +2110,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "13件の$1M+売却"
+            "大型売却警戒": "10件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 21,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-17",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 2986,
-              "price": 240.0,
-              "value": 716640,
-              "label": "2,986株 @ $240.00 ($716,640)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-17",
-              "actor": "Raghunathan Vivek",
-              "title": "SVP, Engineering",
-              "shares": 3876,
-              "price": 240.0,
-              "value": 930240,
-              "label": "3,876株 @ $240.00 ($930,240)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-17",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
               "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 8066,
-              "price": 240.0,
-              "value": 1935840,
-              "label": "8,066株 @ $240.00 ($1,935,840)"
+              "shares": 15196,
+              "price": 220.13,
+              "value": 3345049,
+              "label": "15,196株 @ $220.13 ($3,345,049)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-09",
-              "filing_date": "2026-06-10",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 2729,
-              "price": 239.0,
-              "value": 652231,
-              "label": "2,729株 @ $239.00 ($652,231)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-08",
-              "actor": "Speiser Michael L",
-              "title": "Insider",
-              "shares": 12973,
-              "price": 245.21,
-              "value": 3181057,
-              "label": "12,973株 @ $245.21 ($3,181,057)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-08",
-              "actor": "Speiser Michael L",
-              "title": "Insider",
-              "shares": 34005,
-              "price": 245.21,
-              "value": 8338230,
-              "label": "34,005株 @ $245.21 ($8,338,230)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
               "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 7480,
-              "price": 258.93,
-              "value": 1936811,
-              "label": "7,480株 @ $258.93 ($1,936,811)"
+              "shares": 19465,
+              "price": 221.38,
+              "value": 4309181,
+              "label": "19,465株 @ $221.38 ($4,309,181)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
               "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 16892,
-              "price": 260.03,
-              "value": 4392477,
-              "label": "16,892株 @ $260.03 ($4,392,477)"
+              "shares": 27553,
+              "price": 222.3,
+              "value": 6124949,
+              "label": "27,553株 @ $222.30 ($6,124,949)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
               "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 4602,
-              "price": 261.2,
-              "value": 1202037,
-              "label": "4,602株 @ $261.20 ($1,202,037)"
+              "shares": 27619,
+              "price": 223.15,
+              "value": 6163124,
+              "label": "27,619株 @ $223.15 ($6,163,124)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
               "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 21455,
-              "price": 262.14,
-              "value": 5624127,
-              "label": "21,455株 @ $262.14 ($5,624,127)"
+              "shares": 19615,
+              "price": 224.39,
+              "value": 4401449,
+              "label": "19,615株 @ $224.39 ($4,401,449)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 33420,
+              "price": 225.24,
+              "value": 7527353,
+              "label": "33,420株 @ $225.24 ($7,527,353)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 33783,
+              "price": 226.23,
+              "value": 7642728,
+              "label": "33,783株 @ $226.23 ($7,642,728)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 7345,
+              "price": 227.09,
+              "value": 1668012,
+              "label": "7,345株 @ $227.09 ($1,668,012)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 8100,
+              "price": 228.26,
+              "value": 1848946,
+              "label": "8,100株 @ $228.26 ($1,848,946)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-18",
+              "filing_date": "2026-06-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 3476,
+              "price": 230.5,
+              "value": 801231,
+              "label": "3,476株 @ $230.50 ($801,231)"
             }
           ]
         },
@@ -2282,7 +2282,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 44,
           "evidence": 40,
           "events": []
         },
