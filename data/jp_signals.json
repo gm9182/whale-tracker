@@ -1,8 +1,124 @@
 {
-  "generated_at": "2026-06-23T19:47:33.781402+09:00",
+  "generated_at": "2026-06-23T22:51:34.743136+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "8035",
+      "name": "東京エレクトロン",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 8035.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "開示件数": "5件 (直近6h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
     {
       "symbol": "3659",
       "name": "ネクソン",
@@ -118,7 +234,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -424,65 +540,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 6861.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "8035",
-      "name": "東京エレクトロン",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8035.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3137,7 +3194,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
