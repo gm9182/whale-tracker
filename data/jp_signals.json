@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T01:37:57.780621+09:00",
+  "generated_at": "2026-06-24T08:13:30.678165+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -7,9 +7,9 @@
       "symbol": "8035",
       "name": "東京エレクトロン",
       "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
+      "score": 64,
+      "tier": "monitor",
+      "tier_label": "👀 MONITOR",
       "price": 0,
       "prev_close": 8035.0,
       "change_pct": 0,
@@ -25,23 +25,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 45,
+          "score": 40,
           "detail": {
-            "開示件数": "5件 (直近9h以内)"
+            "開示件数": "4件 (直近16h以内)"
           },
-          "evidence": 95,
+          "evidence": 90,
           "events": [
-            {
-              "type": "EXEC_CHANGE",
-              "date": "2026-06-23",
-              "filing_date": "2026-06-23 16:30:00",
-              "actor": "東エレク",
-              "title": "経営トップ交代",
-              "label": "代表取締役の異動に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
             {
               "type": "EXEC_CHANGE",
               "date": "2026-06-23",
@@ -117,7 +106,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -8
     },
     {
       "symbol": "7203",
@@ -1956,7 +1945,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9104.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2015,7 +2004,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5803.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2074,7 +2063,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6526.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2133,7 +2122,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5831.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2192,7 +2181,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4661.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2251,7 +2240,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4385.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2310,7 +2299,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 3659.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2359,7 +2348,7 @@
           "events": []
         }
       },
-      "score_change": -72
+      "score_change": 0
     },
     {
       "symbol": "4477",
@@ -2369,7 +2358,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4477.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2428,7 +2417,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 3092.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2487,7 +2476,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4307.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2546,7 +2535,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4751.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2605,7 +2594,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6273.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2664,7 +2653,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6963.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2723,7 +2712,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6701.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2782,7 +2771,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6702.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2841,7 +2830,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6532.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2900,7 +2889,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8473.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2959,7 +2948,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8593.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3136,7 +3125,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3195,7 +3184,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4424.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3254,7 +3243,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9519.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3313,7 +3302,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5401.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3372,7 +3361,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5713.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3431,7 +3420,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5020.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3490,7 +3479,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 1605.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
