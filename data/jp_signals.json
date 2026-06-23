@@ -1,8 +1,125 @@
 {
-  "generated_at": "2026-06-23T15:56:57.795076+09:00",
+  "generated_at": "2026-06-23T19:47:33.781402+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "3659",
+      "name": "ネクソン",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 3659.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "TOB・公開買付",
+            "開示件数": "5件 (直近72h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "TOB",
+              "date": "2026-06-19",
+              "filing_date": "2026-06-19 22:00:00",
+              "actor": "ネクソン",
+              "title": "TOB・公開買付",
+              "label": "主要株主の異動及び当社株式（証券コード 3659）の取得（公開買付けに準ずる行為として政令で定める買集め行為）に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260618573399.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-06-19",
+              "filing_date": "2026-06-19 22:00:00",
+              "actor": "ネクソン",
+              "title": "TOB・公開買付",
+              "label": "主要株主の異動及び当社株式（証券コード 3659）の取得（公開買付けに準ずる行為として政令で定める買集め行為）に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260618573399.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-06-19",
+              "filing_date": "2026-06-19 22:00:00",
+              "actor": "ネクソン",
+              "title": "TOB・公開買付",
+              "label": "主要株主の異動及び当社株式（証券コード 3659）の取得（公開買付けに準ずる行為として政令で定める買集め行為）に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260618573399.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-06-19",
+              "filing_date": "2026-06-19 22:00:00",
+              "actor": "ネクソン",
+              "title": "TOB・公開買付",
+              "label": "主要株主の異動及び当社株式（証券コード 3659）の取得（公開買付けに準ずる行為として政令で定める買集め行為）に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260618573399.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "TOB",
+              "date": "2026-06-19",
+              "filing_date": "2026-06-19 22:00:00",
+              "actor": "ネクソン",
+              "title": "TOB・公開買付",
+              "label": "主要株主の異動及び当社株式（証券コード 3659）の取得（公開買付けに準ずる行為として政令で定める買集め行為）に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260618573399.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -11,7 +128,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7203.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -70,7 +187,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9432.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -129,7 +246,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6758.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -188,7 +305,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8306.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -247,7 +364,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9984.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -306,7 +423,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6861.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -365,7 +482,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8035.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -424,7 +541,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7974.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -483,7 +600,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8316.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2246,65 +2363,6 @@
       "score_change": 0
     },
     {
-      "symbol": "3659",
-      "name": "ネクソン",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 3659.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": -45
-    },
-    {
       "symbol": "4477",
       "name": "BASE",
       "market": "JP",
@@ -3079,7 +3137,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3138,7 +3196,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4424.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3197,7 +3255,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9519.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3256,7 +3314,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5401.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3315,7 +3373,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5713.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3374,7 +3432,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5020.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3433,7 +3491,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 1605.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
