@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:11:32.753669+09:00",
+  "generated_at": "2026-06-24T11:20:40.152183+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -7,9 +7,9 @@
       "symbol": "8035",
       "name": "東京エレクトロン",
       "market": "JP",
-      "score": 16,
-      "tier": "low",
-      "tier_label": "LOW",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
       "price": 0,
       "prev_close": 8035.0,
       "change_pct": 0,
@@ -25,12 +25,56 @@
         },
         "tdnet": {
           "active": true,
-          "score": 10,
+          "score": 45,
           "detail": {
-            "開示件数": "1件 (直近17h以内)"
+            "開示件数": "5件 (直近19h以内)"
           },
-          "evidence": 60,
+          "evidence": 95,
           "events": [
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EXEC_CHANGE",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-23 16:30:00",
+              "actor": "東エレク",
+              "title": "経営トップ交代",
+              "label": "代表取締役の異動に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
             {
               "type": "EXEC_CHANGE",
               "date": "2026-06-23",
@@ -73,7 +117,7 @@
           "events": []
         }
       },
-      "score_change": -48
+      "score_change": 56
     },
     {
       "symbol": "7203",
@@ -3092,7 +3136,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
