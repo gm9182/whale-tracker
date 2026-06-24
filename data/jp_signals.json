@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T08:13:30.678165+09:00",
+  "generated_at": "2026-06-24T09:11:32.753669+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -7,9 +7,9 @@
       "symbol": "8035",
       "name": "東京エレクトロン",
       "market": "JP",
-      "score": 64,
-      "tier": "monitor",
-      "tier_label": "👀 MONITOR",
+      "score": 16,
+      "tier": "low",
+      "tier_label": "LOW",
       "price": 0,
       "prev_close": 8035.0,
       "change_pct": 0,
@@ -25,45 +25,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 40,
+          "score": 10,
           "detail": {
-            "開示件数": "4件 (直近16h以内)"
+            "開示件数": "1件 (直近17h以内)"
           },
-          "evidence": 90,
+          "evidence": 60,
           "events": [
-            {
-              "type": "EXEC_CHANGE",
-              "date": "2026-06-23",
-              "filing_date": "2026-06-23 16:30:00",
-              "actor": "東エレク",
-              "title": "経営トップ交代",
-              "label": "代表取締役の異動に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EXEC_CHANGE",
-              "date": "2026-06-23",
-              "filing_date": "2026-06-23 16:30:00",
-              "actor": "東エレク",
-              "title": "経営トップ交代",
-              "label": "代表取締役の異動に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EXEC_CHANGE",
-              "date": "2026-06-23",
-              "filing_date": "2026-06-23 16:30:00",
-              "actor": "東エレク",
-              "title": "経営トップ交代",
-              "label": "代表取締役の異動に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260526547901.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
             {
               "type": "EXEC_CHANGE",
               "date": "2026-06-23",
@@ -106,7 +73,7 @@
           "events": []
         }
       },
-      "score_change": -8
+      "score_change": -48
     },
     {
       "symbol": "7203",
