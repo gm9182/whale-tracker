@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T23:07:28.235177+00:00",
+  "generated_at": "2026-06-25T00:15:53.248549+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1802,7 +1802,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 4,
           "evidence": 40,
           "events": []
         },
@@ -2162,6 +2162,28 @@
           "events": [
             {
               "type": "SELL",
+              "date": "2026-06-23",
+              "filing_date": "2026-06-24",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 2621,
+              "price": 228.45,
+              "value": 598767,
+              "label": "2,621株 @ $228.45 ($598,767)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-22",
+              "filing_date": "2026-06-24",
+              "actor": "Beaulier Jonathan Mead",
+              "title": "Chief Revenue Officer",
+              "shares": 9367,
+              "price": 231.98,
+              "value": 2172956,
+              "label": "9,367株 @ $231.98 ($2,172,956)"
+            },
+            {
+              "type": "SELL",
               "date": "2026-06-18",
               "filing_date": "2026-06-22",
               "actor": "Slootman Frank",
@@ -2247,28 +2269,6 @@
               "price": 227.09,
               "value": 1668012,
               "label": "7,345株 @ $227.09 ($1,668,012)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 8100,
-              "price": 228.26,
-              "value": 1848946,
-              "label": "8,100株 @ $228.26 ($1,848,946)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 3476,
-              "price": 230.5,
-              "value": 801231,
-              "label": "3,476株 @ $230.50 ($801,231)"
             }
           ]
         },
@@ -2381,121 +2381,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "8件の$1M+売却"
+            "大型売却警戒": "16件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 23,
+          "sell_count": 36,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 4650,
-              "price": 216.43,
-              "value": 1006418,
-              "label": "4,650株 @ $216.43 ($1,006,418)"
+              "date": "2026-06-24",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 2883,
+              "price": 221.46,
+              "value": 638467,
+              "label": "2,883株 @ $221.46 ($638,467)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 4999,
-              "price": 218.54,
-              "value": 1092476,
-              "label": "4,999株 @ $218.54 ($1,092,476)"
+              "date": "2026-06-24",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 9740,
+              "price": 222.56,
+              "value": 2167686,
+              "label": "9,740株 @ $222.56 ($2,167,686)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 7755,
-              "price": 219.44,
-              "value": 1701785,
-              "label": "7,755株 @ $219.44 ($1,701,785)"
+              "date": "2026-06-24",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 11001,
+              "price": 223.46,
+              "value": 2458329,
+              "label": "11,001株 @ $223.46 ($2,458,329)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 2912,
-              "price": 220.43,
-              "value": 641886,
-              "label": "2,912株 @ $220.43 ($641,886)"
+              "date": "2026-06-24",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 8153,
+              "price": 224.4,
+              "value": 1829542,
+              "label": "8,153株 @ $224.40 ($1,829,542)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 2517,
-              "price": 221.56,
-              "value": 557655,
-              "label": "2,517株 @ $221.56 ($557,655)"
+              "date": "2026-06-24",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 11304,
+              "price": 225.48,
+              "value": 2548789,
+              "label": "11,304株 @ $225.48 ($2,548,789)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 3475,
-              "price": 229.91,
-              "value": 798920,
-              "label": "3,475株 @ $229.91 ($798,920)"
+              "date": "2026-06-24",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 7731,
+              "price": 226.3,
+              "value": 1749545,
+              "label": "7,731株 @ $226.30 ($1,749,545)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 4657,
-              "price": 230.92,
-              "value": 1075408,
-              "label": "4,657株 @ $230.92 ($1,075,408)"
+              "date": "2026-06-23",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 3339,
+              "price": 221.33,
+              "value": 739014,
+              "label": "3,339株 @ $221.33 ($739,014)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 2940,
-              "price": 231.7,
-              "value": 681207,
-              "label": "2,940株 @ $231.70 ($681,207)"
+              "date": "2026-06-23",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 5522,
+              "price": 222.47,
+              "value": 1228487,
+              "label": "5,522株 @ $222.47 ($1,228,487)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 4693,
-              "price": 233.14,
-              "value": 1094108,
-              "label": "4,693株 @ $233.14 ($1,094,108)"
+              "date": "2026-06-23",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 5459,
+              "price": 224.64,
+              "value": 1226310,
+              "label": "5,459株 @ $224.64 ($1,226,310)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 5408,
-              "price": 233.89,
-              "value": 1264895,
-              "label": "5,408株 @ $233.89 ($1,264,895)"
+              "date": "2026-06-23",
+              "filing_date": "2026-06-24",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 10478,
+              "price": 225.32,
+              "value": 2360893,
+              "label": "10,478株 @ $225.32 ($2,360,893)"
             }
           ]
         },
