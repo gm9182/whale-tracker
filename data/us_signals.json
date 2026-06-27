@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T23:07:13.385602+00:00",
+  "generated_at": "2026-06-27T00:11:40.985235+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -891,7 +891,7 @@
       "tier_label": "LOW",
       "price": 337.39,
       "prev_close": 388.88,
-      "vol_ratio": 2.82,
+      "vol_ratio": 2.81,
       "signals": {
         "insider": {
           "active": false,
@@ -4648,10 +4648,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "12件の$1M+売却"
+            "大型売却警戒": "10件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 15,
           "evidence": 40,
           "events": [
             {
@@ -5212,24 +5212,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-27",
-              "filing_date": "2026-05-27",
-              "actor": "Le Peuch Olivier",
-              "title": "Chief Executive Officer",
-              "shares": 25000,
-              "price": 56.99,
-              "value": 1424750,
-              "label": "25,000株 @ $56.99 ($1,424,750)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -6429,7 +6417,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
