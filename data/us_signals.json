@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T23:00:58.550396+00:00",
+  "generated_at": "2026-06-28T00:01:49.119009+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -5985,10 +5985,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -6001,17 +6001,6 @@
               "price": 125.89,
               "value": 1258905,
               "label": "10,000株 @ $125.89 ($1,258,905)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-27",
-              "filing_date": "2026-05-28",
-              "actor": "Cornell Brian C",
-              "title": "Executive Officer",
-              "shares": 49000,
-              "price": 129.84,
-              "value": 6362076,
-              "label": "49,000株 @ $129.84 ($6,362,076)"
             }
           ]
         },
@@ -6188,7 +6177,7 @@
       "tier_label": "LOW",
       "price": 222.48,
       "prev_close": 212.08,
-      "vol_ratio": 0.56,
+      "vol_ratio": 1.05,
       "signals": {
         "insider": {
           "active": false,
