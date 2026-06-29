@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-06-28T09:05:51.787651+09:00",
+  "generated_at": "2026-06-29T11:26:54.557794+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "8411",
+      "name": "みずほフィナンシャル",
+      "market": "JP",
+      "score": 8,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 8411.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 5,
+          "detail": {
+            "開示件数": "1件 (直近3h以内)"
+          },
+          "evidence": 55,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-06-29",
+              "filing_date": "2026-06-29 08:45:00",
+              "actor": "みずほ",
+              "title": "決算短信",
+              "label": "2026年3月期決算短信〔米国会計基準〕(連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260622575299.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 8
+    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -661,65 +733,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 9433.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "8411",
-      "name": "みずほフィナンシャル",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8411.0,
       "change_pct": 0,
       "signals": {
         "holdings": {

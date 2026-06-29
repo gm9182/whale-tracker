@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T00:01:49.119009+00:00",
+  "generated_at": "2026-06-29T02:23:10.848273+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -543,7 +543,7 @@
             "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -738,21 +738,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-27",
-              "filing_date": "2026-05-29",
-              "actor": "LEVINSON ARTHUR D",
-              "title": "Insider",
-              "shares": 50000,
-              "price": 311.02,
-              "value": 15551000,
-              "label": "50,000株 @ $311.02 ($15,551,000)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -958,7 +946,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 11,
           "evidence": 40,
           "events": [
             {
@@ -971,28 +959,6 @@
               "price": 629.29,
               "value": 526715,
               "label": "837株 @ $629.29 ($526,715)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-27",
-              "filing_date": "2026-05-29",
-              "actor": "Mahoney Curtis J.",
-              "title": "Chief Legal Officer",
-              "shares": 2079,
-              "price": 609.92,
-              "value": 1268023,
-              "label": "2,079株 @ $609.92 ($1,268,023)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-26",
-              "filing_date": "2026-05-28",
-              "actor": "Olivan Javier",
-              "title": "Chief Operating Officer",
-              "shares": 837,
-              "price": 608.98,
-              "value": 509716,
-              "label": "837株 @ $608.98 ($509,716)"
             }
           ]
         },
@@ -1516,7 +1482,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 17.88,
+      "price": 17.85,
       "prev_close": 15.98,
       "vol_ratio": 1.05,
       "signals": {
@@ -1860,7 +1826,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -1884,17 +1850,6 @@
               "price": 30.0,
               "value": 761250,
               "label": "25,375株 @ $30.00 ($761,250)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-27",
-              "filing_date": "2026-05-29",
-              "actor": "Werner Ryan D.",
-              "title": "SVP, CAO",
-              "shares": 37616,
-              "price": 26.5,
-              "value": 996824,
-              "label": "37,616株 @ $26.50 ($996,824)"
             }
           ]
         },
@@ -1952,7 +1907,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 11,
           "evidence": 40,
           "events": []
         },
@@ -3068,7 +3023,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
@@ -4456,7 +4411,7 @@
       "tier_label": "LOW",
       "price": 232.21,
       "prev_close": 231.72,
-      "vol_ratio": 3.03,
+      "vol_ratio": 1.73,
       "signals": {
         "insider": {
           "active": false,
@@ -4648,10 +4603,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "10件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -4730,39 +4685,6 @@
               "price": 85.0,
               "value": 586075,
               "label": "6,895株 @ $85.00 ($586,075)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-28",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 59762,
-              "price": 85.03,
-              "value": 5081562,
-              "label": "59,762株 @ $85.03 ($5,081,562)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-28",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 75192,
-              "price": 85.03,
-              "value": 6393575,
-              "label": "75,192株 @ $85.03 ($6,393,575)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-27",
-              "filing_date": "2026-05-28",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 103057,
-              "price": 82.32,
-              "value": 8483652,
-              "label": "103,057株 @ $82.32 ($8,483,652)"
             }
           ]
         },
@@ -4820,21 +4742,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Scaringe Robert J",
-              "title": "Chief Executive Officer",
-              "shares": 34818,
-              "price": 15.0,
-              "value": 522270,
-              "label": "34,818株 @ $15.00 ($522,270)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5816,10 +5726,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "10件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 12,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -5887,50 +5797,6 @@
               "price": 114.16,
               "value": 16328846,
               "label": "143,038株 @ $114.16 ($16,328,846)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Walton Family Holdings Trust",
-              "title": "Insider",
-              "shares": 207649,
-              "price": 119.01,
-              "value": 24712826,
-              "label": "207,649株 @ $119.01 ($24,712,826)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "McMillon C Douglas",
-              "title": "Insider",
-              "shares": 19416,
-              "price": 118.63,
-              "value": 2303252,
-              "label": "19,416株 @ $118.63 ($2,303,252)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-05-29",
-              "actor": "Watkins Latriece",
-              "title": "Executive Vice President",
-              "shares": 11000,
-              "price": 118.97,
-              "value": 1308670,
-              "label": "11,000株 @ $118.97 ($1,308,670)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-27",
-              "filing_date": "2026-05-29",
-              "actor": "Walton Family Holdings Trust",
-              "title": "Insider",
-              "shares": 254178,
-              "price": 119.05,
-              "value": 30260907,
-              "label": "254,178株 @ $119.05 ($30,260,907)"
             }
           ]
         },
