@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T06:52:44.362506+00:00",
+  "generated_at": "2026-06-30T10:37:56.216170+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -17,12 +17,34 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "13名が直近期間に買付"
+            "クラスターバイ": "11名が直近期間に買付"
           },
           "buy_count": 16,
           "sell_count": 0,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-06-30",
+              "filing_date": "2026-06-30",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 75.7,
+              "value": 75700,
+              "label": "1,000株 @ $75.70 ($75,700)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-06-29",
+              "filing_date": "2026-06-30",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 76.64,
+              "value": 76640,
+              "label": "1,000株 @ $76.64 ($76,640)"
+            },
             {
               "type": "BUY",
               "date": "2026-06-22",
@@ -110,28 +132,6 @@
               "price": 76.01,
               "value": 4256,
               "label": "56株 @ $76.01 ($4,256)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Mii Yuh-Jier",
-              "title": "EVP and Co-COO",
-              "shares": 72,
-              "price": 76.01,
-              "value": 5472,
-              "label": "72株 @ $76.01 ($5,472)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Wei Che-Chia",
-              "title": "Chairman and CEO",
-              "shares": 150,
-              "price": 76.01,
-              "value": 11401,
-              "label": "150株 @ $76.01 ($11,401)"
             }
           ]
         },

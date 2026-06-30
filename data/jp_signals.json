@@ -1,241 +1,8 @@
 {
-  "generated_at": "2026-06-30T15:57:01.735841+09:00",
+  "generated_at": "2026-06-30T19:41:40.321205+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
-    {
-      "symbol": "7267",
-      "name": "ホンダ",
-      "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
-      "price": 0,
-      "prev_close": 7267.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 45,
-          "detail": {
-            "強気開示": "M&A・買収",
-            "開示件数": "5件 (直近0h以内)"
-          },
-          "evidence": 95,
-          "events": [
-            {
-              "type": "ACQUISITION",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "ホンダ",
-              "title": "M&A・買収",
-              "label": "（変更）「持分法適用関連会社の異動（連結子会社化）に関するお知らせ」の一部変更に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583183.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "ACQUISITION",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "ホンダ",
-              "title": "M&A・買収",
-              "label": "（変更）「持分法適用関連会社の異動（連結子会社化）に関するお知らせ」の一部変更に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583183.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "ACQUISITION",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "ホンダ",
-              "title": "M&A・買収",
-              "label": "（変更）「持分法適用関連会社の異動（連結子会社化）に関するお知らせ」の一部変更に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583183.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "ACQUISITION",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "ホンダ",
-              "title": "M&A・買収",
-              "label": "（変更）「持分法適用関連会社の異動（連結子会社化）に関するお知らせ」の一部変更に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583183.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "ACQUISITION",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "ホンダ",
-              "title": "M&A・買収",
-              "label": "（変更）「持分法適用関連会社の異動（連結子会社化）に関するお知らせ」の一部変更に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583183.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 72
-    },
-    {
-      "symbol": "4424",
-      "name": "Amazia",
-      "market": "JP",
-      "score": 64,
-      "tier": "monitor",
-      "tier_label": "👀 MONITOR",
-      "price": 0,
-      "prev_close": 0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 40,
-          "detail": {
-            "開示件数": "5件 (直近0h以内)"
-          },
-          "evidence": 90,
-          "events": [
-            {
-              "type": "SPECIAL_PL",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "Ｇ－Ａｍａｚｉａ",
-              "title": "特別損益",
-              "label": "特別利益の計上及び業績予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583588.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "SPECIAL_PL",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "Ｇ－Ａｍａｚｉａ",
-              "title": "特別損益",
-              "label": "特別利益の計上及び業績予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583588.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "SPECIAL_PL",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "Ｇ－Ａｍａｚｉａ",
-              "title": "特別損益",
-              "label": "特別利益の計上及び業績予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583588.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "SPECIAL_PL",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "Ｇ－Ａｍａｚｉａ",
-              "title": "特別損益",
-              "label": "特別利益の計上及び業績予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583588.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "SPECIAL_PL",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30 15:30:00",
-              "actor": "Ｇ－Ａｍａｚｉａ",
-              "title": "特別損益",
-              "label": "特別利益の計上及び業績予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260629583588.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 64
-    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -1061,6 +828,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "7267",
+      "name": "ホンダ",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 7267.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -72
     },
     {
       "symbol": "6594",
@@ -3303,6 +3129,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4424",
+      "name": "Amazia",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -64
     },
     {
       "symbol": "9519",
