@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T22:54:04.386872+00:00",
+  "generated_at": "2026-06-30T00:01:03.194958+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1229,12 +1229,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "20件の$1M+売却"
+            "大型売却警戒": "21件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 22,
+          "sell_count": 23,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-25",
+              "filing_date": "2026-06-29",
+              "actor": "Brazeal Mark David",
+              "title": "Chief Legal &amp; Corp Affairs Ofc",
+              "shares": 25000,
+              "price": 387.0,
+              "value": 9675000,
+              "label": "25,000株 @ $387.00 ($9,675,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-24",
@@ -1333,17 +1344,6 @@
               "price": 385.57,
               "value": 20713591,
               "label": "53,722株 @ $385.57 ($20,713,591)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-24",
-              "filing_date": "2026-06-26",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 6280,
-              "price": 386.39,
-              "value": 2426529,
-              "label": "6,280株 @ $386.39 ($2,426,529)"
             }
           ]
         },
