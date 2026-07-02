@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T23:09:20.696170+00:00",
+  "generated_at": "2026-07-02T02:15:47.189462+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2093,7 +2093,7 @@
           "evidence": 0
         }
       },
-      "score_change": -15
+      "score_change": 0
     },
     {
       "symbol": "SNOW",
@@ -2109,12 +2109,56 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "10件の$1M+売却"
+            "大型売却警戒": "14件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 22,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-29",
+              "filing_date": "2026-07-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 24680,
+              "price": 250.46,
+              "value": 6181303,
+              "label": "24,680株 @ $250.46 ($6,181,303)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-29",
+              "filing_date": "2026-07-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 39663,
+              "price": 251.55,
+              "value": 9977148,
+              "label": "39,663株 @ $251.55 ($9,977,148)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-29",
+              "filing_date": "2026-07-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 19988,
+              "price": 252.35,
+              "value": 5043891,
+              "label": "19,988株 @ $252.35 ($5,043,891)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-29",
+              "filing_date": "2026-07-01",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 15411,
+              "price": 253.39,
+              "value": 3905054,
+              "label": "15,411株 @ $253.39 ($3,905,054)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-23",
@@ -2180,50 +2224,6 @@
               "price": 223.15,
               "value": 6163124,
               "label": "27,619株 @ $223.15 ($6,163,124)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 19615,
-              "price": 224.39,
-              "value": 4401449,
-              "label": "19,615株 @ $224.39 ($4,401,449)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 33420,
-              "price": 225.24,
-              "value": 7527353,
-              "label": "33,420株 @ $225.24 ($7,527,353)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 33783,
-              "price": 226.23,
-              "value": 7642728,
-              "label": "33,783株 @ $226.23 ($7,642,728)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 7345,
-              "price": 227.09,
-              "value": 1668012,
-              "label": "7,345株 @ $227.09 ($1,668,012)"
             }
           ]
         },
@@ -2271,8 +2271,8 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 772.74,
-      "prev_close": 782.17,
-      "vol_ratio": 0.71,
+      "prev_close": 195.542,
+      "vol_ratio": 0.18,
       "signals": {
         "insider": {
           "active": false,
@@ -2281,7 +2281,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 41,
+          "sell_count": 18,
           "evidence": 40,
           "events": []
         },
@@ -2802,12 +2802,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "13件の$1M+売却"
+            "大型売却警戒": "14件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 20,
+          "sell_count": 21,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-29",
+              "filing_date": "2026-07-01",
+              "actor": "CHENAULT KENNETH I",
+              "title": "Insider",
+              "shares": 8346,
+              "price": 150.0,
+              "value": 1251900,
+              "label": "8,346株 @ $150.00 ($1,251,900)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-29",
@@ -2906,17 +2917,6 @@
               "price": 145.56,
               "value": 8901726,
               "label": "61,156株 @ $145.56 ($8,901,726)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-24",
-              "filing_date": "2026-06-26",
-              "actor": "Blecharczyk Nathan",
-              "title": "Chief Strategy Officer",
-              "shares": 24770,
-              "price": 146.29,
-              "value": 3623581,
-              "label": "24,770株 @ $146.29 ($3,623,581)"
             }
           ]
         },
@@ -3157,10 +3157,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -3195,17 +3195,6 @@
               "price": 415.52,
               "value": 1629669,
               "label": "3,922株 @ $415.52 ($1,629,669)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-06-01",
-              "actor": "Abbey William",
-              "title": "Chief Commercial Officer",
-              "shares": 4200,
-              "price": 343.81,
-              "value": 1444002,
-              "label": "4,200株 @ $343.81 ($1,444,002)"
             }
           ]
         },
@@ -4639,7 +4628,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -4696,28 +4685,6 @@
               "price": 85.0,
               "value": 1955000,
               "label": "23,000株 @ $85.00 ($1,955,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-06-01",
-              "actor": "Harvey Rory",
-              "title": "Executive Vice President",
-              "shares": 9124,
-              "price": 84.97,
-              "value": 775266,
-              "label": "9,124株 @ $84.97 ($775,266)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-06-01",
-              "actor": "Hatto Christopher",
-              "title": "Vice President &amp; CAO",
-              "shares": 6895,
-              "price": 85.0,
-              "value": 586075,
-              "label": "6,895株 @ $85.00 ($586,075)"
             }
           ]
         },
@@ -5887,7 +5854,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -5900,17 +5867,6 @@
               "price": 138.07,
               "value": 966490,
               "label": "7,000株 @ $138.07 ($966,490)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-01",
-              "actor": "SYLVESTER CARA A",
-              "title": "Executive Officer",
-              "shares": 10000,
-              "price": 125.89,
-              "value": 1258905,
-              "label": "10,000株 @ $125.89 ($1,258,905)"
             }
           ]
         },
@@ -6316,7 +6272,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -6329,17 +6285,6 @@
               "price": 284.32,
               "value": 1493248,
               "label": "5,252株 @ $284.32 ($1,493,248)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-28",
-              "filing_date": "2026-06-01",
-              "actor": "Ralls-Morrison Desiree",
-              "title": "EVP, Chief Legal Officer",
-              "shares": 2763,
-              "price": 278.36,
-              "value": 769108,
-              "label": "2,763株 @ $278.36 ($769,108)"
             }
           ]
         },
