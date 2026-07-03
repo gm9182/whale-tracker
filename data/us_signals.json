@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T00:03:33.974602+00:00",
+  "generated_at": "2026-07-03T01:57:49.445069+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -705,10 +705,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -732,17 +732,6 @@
               "price": 412.45,
               "value": 1031125,
               "label": "2,500株 @ $412.45 ($1,031,125)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-02",
-              "actor": "Althoff Judson",
-              "title": "CEO Microsoft Commercial",
-              "shares": 15500,
-              "price": 460.99,
-              "value": 7145314,
-              "label": "15,500株 @ $460.99 ($7,145,314)"
             }
           ]
         },
@@ -1347,7 +1336,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -3261,24 +3250,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-02",
-              "actor": "Chandrasekaran Nagasubramaniyan",
-              "title": "EVP, CT &amp; Ops Off, GM Foundry",
-              "shares": 21024,
-              "price": 118.28,
-              "value": 2486697,
-              "label": "21,024株 @ $118.28 ($2,486,697)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -3616,10 +3593,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -3643,28 +3620,6 @@
               "price": 78.01,
               "value": 1076533,
               "label": "13,800株 @ $78.01 ($1,076,533)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-02",
-              "actor": "HASTINGS REED",
-              "title": "Insider",
-              "shares": 332917,
-              "price": 85.85,
-              "value": 28579559,
-              "label": "332,917株 @ $85.85 ($28,579,559)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-02",
-              "actor": "HASTINGS REED",
-              "title": "Insider",
-              "shares": 53783,
-              "price": 86.73,
-              "value": 4664475,
-              "label": "53,783株 @ $86.73 ($4,664,475)"
             }
           ]
         },
