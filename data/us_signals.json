@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T23:04:23.597701+00:00",
+  "generated_at": "2026-07-03T00:03:33.974602+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -83,7 +83,7 @@
           "evidence": 0
         }
       },
-      "score_change": 52
+      "score_change": 0
     },
     {
       "symbol": "TSM",
@@ -1506,12 +1506,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 24,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-30",
+              "filing_date": "2026-07-02",
+              "actor": "Huffman Steve Ladd",
+              "title": "CEO &amp; President",
+              "shares": 4999,
+              "price": 172.91,
+              "value": 864377,
+              "label": "4,999株 @ $172.91 ($864,377)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-06-30",
+              "filing_date": "2026-07-02",
+              "actor": "Huffman Steve Ladd",
+              "title": "CEO &amp; President",
+              "shares": 8901,
+              "price": 173.77,
+              "value": 1546726,
+              "label": "8,901株 @ $173.77 ($1,546,726)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-16",
@@ -3309,12 +3331,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 20,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-06-30",
+              "filing_date": "2026-07-02",
+              "actor": "Dugle Lynn A",
+              "title": "Insider",
+              "shares": 1300,
+              "price": 1150.43,
+              "value": 1495559,
+              "label": "1,300株 @ $1150.43 ($1,495,559)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-26",
@@ -3413,17 +3446,6 @@
               "price": 1183.74,
               "value": 608442,
               "label": "514株 @ $1183.74 ($608,442)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-26",
-              "filing_date": "2026-06-30",
-              "actor": "MEHROTRA SANJAY",
-              "title": "President and CEO",
-              "shares": 678,
-              "price": 1186.62,
-              "value": 804528,
-              "label": "678株 @ $1186.62 ($804,528)"
             }
           ]
         },
@@ -4671,10 +4693,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -4720,17 +4742,6 @@
               "price": 85.0,
               "value": 1749470,
               "label": "20,582株 @ $85.00 ($1,749,470)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-05-29",
-              "filing_date": "2026-06-02",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 23000,
-              "price": 85.0,
-              "value": 1955000,
-              "label": "23,000株 @ $85.00 ($1,955,000)"
             }
           ]
         },
@@ -4788,7 +4799,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },

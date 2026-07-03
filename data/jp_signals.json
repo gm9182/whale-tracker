@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:08:48.710428+09:00",
+  "generated_at": "2026-07-03T09:08:51.650902+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -11,7 +11,7 @@
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 8035.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近40h以内)"
+            "開示件数": "5件 (直近41h以内)"
           },
           "evidence": 95,
           "events": [
@@ -118,7 +118,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "8316",
@@ -128,124 +128,7 @@
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 8316.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 45,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "5件 (直近39h以内)"
-          },
-          "evidence": 95,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-01 17:00:00",
-              "actor": "三井住友",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-01 17:00:00",
-              "actor": "三井住友",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-01 17:00:00",
-              "actor": "三井住友",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-01 17:00:00",
-              "actor": "三井住友",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-01 17:00:00",
-              "actor": "三井住友",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 72
-    },
-    {
-      "symbol": "8411",
-      "name": "みずほフィナンシャル",
-      "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
-      "price": 0,
-      "prev_close": 8411.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -269,6 +152,123 @@
             {
               "type": "BUYBACK",
               "date": "2026-07-01",
+              "filing_date": "2026-07-01 17:00:00",
+              "actor": "三井住友",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-07-01",
+              "filing_date": "2026-07-01 17:00:00",
+              "actor": "三井住友",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-07-01",
+              "filing_date": "2026-07-01 17:00:00",
+              "actor": "三井住友",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-07-01",
+              "filing_date": "2026-07-01 17:00:00",
+              "actor": "三井住友",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-07-01",
+              "filing_date": "2026-07-01 17:00:00",
+              "actor": "三井住友",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630585156.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 0
+    },
+    {
+      "symbol": "8411",
+      "name": "みずほフィナンシャル",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "5件 (直近41h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-07-01",
               "filing_date": "2026-07-01 16:00:00",
               "actor": "みずほ",
               "title": "自社株買い",
@@ -352,7 +352,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "5020",
@@ -379,7 +379,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近41h以内)"
+            "開示件数": "5件 (直近42h以内)"
           },
           "evidence": 95,
           "events": [
@@ -469,7 +469,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "6857",
@@ -496,7 +496,7 @@
           "score": 30,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近17h以内)"
+            "開示件数": "1件 (直近18h以内)"
           },
           "evidence": 80,
           "events": [
@@ -542,7 +542,7 @@
           "events": []
         }
       },
-      "score_change": 48
+      "score_change": 0
     },
     {
       "symbol": "3092",
@@ -569,7 +569,7 @@
           "score": 30,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近17h以内)"
+            "開示件数": "1件 (直近18h以内)"
           },
           "evidence": 80,
           "events": [
@@ -615,7 +615,7 @@
           "events": []
         }
       },
-      "score_change": 48
+      "score_change": 0
     },
     {
       "symbol": "6273",
@@ -642,7 +642,7 @@
           "score": 30,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近21h以内)"
+            "開示件数": "1件 (直近22h以内)"
           },
           "evidence": 80,
           "events": [
@@ -688,7 +688,7 @@
           "events": []
         }
       },
-      "score_change": 48
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -698,7 +698,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7203.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -757,7 +757,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9432.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -816,7 +816,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6758.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -875,7 +875,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8306.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -934,7 +934,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9984.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -993,7 +993,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6861.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1052,7 +1052,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7974.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1111,7 +1111,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4063.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1170,7 +1170,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6098.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1229,7 +1229,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9433.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2291,7 +2291,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9101.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2350,7 +2350,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9104.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2409,7 +2409,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5803.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2468,7 +2468,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6526.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2527,7 +2527,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5831.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2586,7 +2586,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4661.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
