@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T00:03:44.074793+00:00",
+  "generated_at": "2026-07-04T01:57:51.620299+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -870,21 +870,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 5,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
-              "actor": "Olivan Javier",
-              "title": "Chief Operating Officer",
-              "shares": 837,
-              "price": 629.29,
-              "value": 526715,
-              "label": "837株 @ $629.29 ($526,715)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -940,7 +928,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -1853,7 +1841,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -3045,7 +3033,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -3158,10 +3146,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -3174,28 +3162,6 @@
               "price": 392.7,
               "value": 4439866,
               "label": "11,306株 @ $392.70 ($4,439,866)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
-              "actor": "Abbey William",
-              "title": "Chief Commercial Officer",
-              "shares": 2644,
-              "price": 383.73,
-              "value": 1014582,
-              "label": "2,644株 @ $383.73 ($1,014,582)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-01",
-              "filing_date": "2026-06-03",
-              "actor": "Abbey William",
-              "title": "Chief Commercial Officer",
-              "shares": 3922,
-              "price": 415.52,
-              "value": 1629669,
-              "label": "3,922株 @ $415.52 ($1,629,669)"
             }
           ]
         },
