@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T22:53:38.644144+00:00",
+  "generated_at": "2026-07-05T00:01:22.075067+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -861,7 +861,7 @@
       "tier_label": "LOW",
       "price": 582.9,
       "prev_close": 597.63,
-      "vol_ratio": 1.1,
+      "vol_ratio": 1.09,
       "signals": {
         "insider": {
           "active": false,
@@ -1477,7 +1477,7 @@
       "tier_label": "LOW",
       "price": 194.67,
       "prev_close": 169.13,
-      "vol_ratio": 0.99,
+      "vol_ratio": 0.98,
       "signals": {
         "insider": {
           "active": false,
@@ -1693,7 +1693,7 @@
       "tier_label": "LOW",
       "price": 12.4,
       "prev_close": 14.28,
-      "vol_ratio": 1.2,
+      "vol_ratio": 1.19,
       "signals": {
         "insider": {
           "active": false,
@@ -4769,7 +4769,7 @@
       "tier_label": "LOW",
       "price": 6.08,
       "prev_close": 6.17,
-      "vol_ratio": 0.91,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -5704,10 +5704,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 9,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -5753,28 +5753,6 @@
               "price": 119.82,
               "value": 1435203,
               "label": "11,978株 @ $119.82 ($1,435,203)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Walton Family Holdings Trust",
-              "title": "Insider",
-              "shares": 1628295,
-              "price": 113.24,
-              "value": 184394476,
-              "label": "1,628,295株 @ $113.24 ($184,394,476)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Walton Family Holdings Trust",
-              "title": "Insider",
-              "shares": 143038,
-              "price": 114.16,
-              "value": 16328846,
-              "label": "143,038株 @ $114.16 ($16,328,846)"
             }
           ]
         },
