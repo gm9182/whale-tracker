@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T00:01:22.075067+00:00",
+  "generated_at": "2026-07-06T02:09:58.389320+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -21,7 +21,7 @@
             "10%超保有者": "1件の買い"
           },
           "buy_count": 1,
-          "sell_count": 1,
+          "sell_count": 0,
           "evidence": 75,
           "events": [
             {
@@ -34,17 +34,6 @@
               "price": 25.0,
               "value": 20000000,
               "label": "800,000株 @ $25.00 ($20,000,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Uber Technologies, Inc",
-              "title": "Insider",
-              "shares": 67500000,
-              "price": 7.1,
-              "value": 479250000,
-              "label": "67,500,000株 @ $7.10 ($479,250,000)"
             }
           ]
         },
@@ -452,10 +441,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -479,50 +468,6 @@
               "price": 210.44,
               "value": 119026436,
               "label": "565,615株 @ $210.44 ($119,026,436)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-04",
-              "filing_date": "2026-06-04",
-              "actor": "STEVENS MARK A",
-              "title": "Insider",
-              "shares": 100000,
-              "price": 217.66,
-              "value": 21765500,
-              "label": "100,000株 @ $217.66 ($21,765,500)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-04",
-              "filing_date": "2026-06-04",
-              "actor": "STEVENS MARK A",
-              "title": "Insider",
-              "shares": 400000,
-              "price": 220.37,
-              "value": 88148400,
-              "label": "400,000株 @ $220.37 ($88,148,400)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-03",
-              "filing_date": "2026-06-05",
-              "actor": "Neal Stephen C",
-              "title": "Insider",
-              "shares": 15500,
-              "price": 215.73,
-              "value": 3343863,
-              "label": "15,500株 @ $215.73 ($3,343,863)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "STEVENS MARK A",
-              "title": "Insider",
-              "shares": 500000,
-              "price": 222.38,
-              "value": 111188700,
-              "label": "500,000株 @ $222.38 ($111,188,700)"
             }
           ]
         },
@@ -3146,24 +3091,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-02",
-              "filing_date": "2026-06-04",
-              "actor": "Bartels Laura Kathleen",
-              "title": "Chief Accounting Officer",
-              "shares": 11306,
-              "price": 392.7,
-              "value": 4439866,
-              "label": "11,306株 @ $392.70 ($4,439,866)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4129,7 +4062,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 1,
-          "sell_count": 3,
+          "sell_count": 0,
           "evidence": 40,
           "events": [
             {
@@ -4421,8 +4354,8 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 229.86,
-      "prev_close": 235.23,
-      "vol_ratio": 0.91,
+      "prev_close": 246.702,
+      "vol_ratio": 0.94,
       "signals": {
         "insider": {
           "active": false,
@@ -4717,11 +4650,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
