@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T01:15:20.304110+09:00",
+  "generated_at": "2026-07-09T08:05:43.906166+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "2件 (直近38h以内)"
+            "開示件数": "2件 (直近45h以内)"
           },
           "evidence": 95,
           "events": [
@@ -112,7 +112,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近58h以内)"
+            "開示件数": "1件 (直近65h以内)"
           },
           "evidence": 72,
           "events": [
@@ -185,7 +185,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近35h以内)"
+            "開示件数": "1件 (直近42h以内)"
           },
           "evidence": 72,
           "events": [
@@ -258,7 +258,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近58h以内)"
+            "開示件数": "1件 (直近65h以内)"
           },
           "evidence": 72,
           "events": [
@@ -331,7 +331,7 @@
           "score": 16,
           "detail": {
             "強気開示": "株式分割",
-            "開示件数": "1件 (直近58h以内)"
+            "開示件数": "1件 (直近65h以内)"
           },
           "evidence": 66,
           "events": [
@@ -403,7 +403,7 @@
           "active": true,
           "score": 4,
           "detail": {
-            "開示件数": "1件 (直近39h以内)"
+            "開示件数": "1件 (直近46h以内)"
           },
           "evidence": 54,
           "events": [
@@ -2996,7 +2996,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8593.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3055,7 +3055,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4490.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3114,7 +3114,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4488.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
