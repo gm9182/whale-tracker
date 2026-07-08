@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T23:53:18.461769+00:00",
+  "generated_at": "2026-07-08T01:35:55.921958+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1266,12 +1266,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-02",
+              "filing_date": "2026-07-07",
+              "actor": "Sankar Shyam",
+              "title": "See Remarks",
+              "shares": 35000,
+              "price": 130.0,
+              "value": 4550000,
+              "label": "35,000株 @ $130.00 ($4,550,000)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-02",
+              "filing_date": "2026-07-07",
+              "actor": "Sankar Shyam",
+              "title": "See Remarks",
+              "shares": 150000,
+              "price": 130.0,
+              "value": 19500000,
+              "label": "150,000株 @ $130.00 ($19,500,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-15",
@@ -2285,9 +2307,21 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 25,
           "evidence": 40,
-          "events": []
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-02",
+              "filing_date": "2026-07-07",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2586,
+              "price": 195.63,
+              "value": 505899,
+              "label": "2,586株 @ $195.63 ($505,899)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
