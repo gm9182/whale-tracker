@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T23:01:46.521324+00:00",
+  "generated_at": "2026-07-09T00:06:13.244013+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -815,9 +815,21 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 16,
           "evidence": 40,
-          "events": []
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-06",
+              "filing_date": "2026-07-08",
+              "actor": "Olivan Javier",
+              "title": "Chief Operating Officer",
+              "shares": 2076,
+              "price": 600.4,
+              "value": 1246437,
+              "label": "2,076株 @ $600.40 ($1,246,437)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
@@ -2124,123 +2136,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "16件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 27,
+          "sell_count": 40,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-07-02",
-              "filing_date": "2026-07-06",
-              "actor": "Dageville Benoit",
-              "title": "Insider",
-              "shares": 140819,
-              "price": 254.64,
-              "value": 35858150,
-              "label": "140,819株 @ $254.64 ($35,858,150)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-02",
-              "filing_date": "2026-07-06",
-              "actor": "Dageville Benoit",
-              "title": "Insider",
-              "shares": 50000,
-              "price": 254.64,
-              "value": 12732000,
-              "label": "50,000株 @ $254.64 ($12,732,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-06",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 2500,
-              "price": 258.56,
-              "value": 646400,
-              "label": "2,500株 @ $258.56 ($646,400)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 24680,
-              "price": 250.46,
-              "value": 6181303,
-              "label": "24,680株 @ $250.46 ($6,181,303)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 39663,
-              "price": 251.55,
-              "value": 9977148,
-              "label": "39,663株 @ $251.55 ($9,977,148)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 19988,
-              "price": 252.35,
-              "value": 5043891,
-              "label": "19,988株 @ $252.35 ($5,043,891)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 15411,
-              "price": 253.39,
-              "value": 3905054,
-              "label": "15,411株 @ $253.39 ($3,905,054)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-23",
-              "filing_date": "2026-06-24",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 2621,
-              "price": 228.45,
-              "value": 598767,
-              "label": "2,621株 @ $228.45 ($598,767)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-22",
-              "filing_date": "2026-06-24",
-              "actor": "Beaulier Jonathan Mead",
-              "title": "Chief Revenue Officer",
-              "shares": 9367,
-              "price": 231.98,
-              "value": 2172956,
-              "label": "9,367株 @ $231.98 ($2,172,956)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 15196,
-              "price": 220.13,
-              "value": 3345049,
-              "label": "15,196株 @ $220.13 ($3,345,049)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
