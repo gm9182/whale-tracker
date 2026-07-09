@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:58:40.966617+09:00",
+  "generated_at": "2026-07-09T19:36:00.716309+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "2件 (直近53h以内)"
+            "開示件数": "2件 (直近57h以内)"
           },
           "evidence": 95,
           "events": [
@@ -85,7 +85,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "6981",
@@ -112,7 +112,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近50h以内)"
+            "開示件数": "1件 (直近54h以内)"
           },
           "evidence": 72,
           "events": [
@@ -158,7 +158,7 @@
           "events": []
         }
       },
-      "score_change": 35
+      "score_change": 0
     },
     {
       "symbol": "9433",
@@ -231,7 +231,7 @@
           "events": []
         }
       },
-      "score_change": 24
+      "score_change": 0
     },
     {
       "symbol": "6532",
@@ -304,7 +304,7 @@
           "events": []
         }
       },
-      "score_change": 24
+      "score_change": 0
     },
     {
       "symbol": "8316",
@@ -314,7 +314,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8316.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -377,7 +377,79 @@
           "events": []
         }
       },
-      "score_change": 18
+      "score_change": 0
+    },
+    {
+      "symbol": "9983",
+      "name": "ファーストリテイリング",
+      "market": "JP",
+      "score": 8,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9983.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 5,
+          "detail": {
+            "開示件数": "1件 (直近4h以内)"
+          },
+          "evidence": 55,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-07-09",
+              "filing_date": "2026-07-09 15:31:00",
+              "actor": "ファーストリテ",
+              "title": "決算短信",
+              "label": "2026年８月期　第３四半期決算短信〔IFRS会計基準〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260708589430.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 8
     },
     {
       "symbol": "8306",
@@ -387,7 +459,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8306.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -403,7 +475,7 @@
           "active": true,
           "score": 4,
           "detail": {
-            "開示件数": "1件 (直近54h以内)"
+            "開示件数": "1件 (直近58h以内)"
           },
           "evidence": 54,
           "events": [
@@ -449,7 +521,7 @@
           "events": []
         }
       },
-      "score_change": 6
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -459,7 +531,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7203.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -518,7 +590,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9432.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -577,7 +649,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6758.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -636,7 +708,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9984.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -695,7 +767,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6861.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -754,7 +826,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8035.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -813,7 +885,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7974.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -872,7 +944,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4063.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1522,65 +1594,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 9020.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "9983",
-      "name": "ファーストリテイリング",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 9983.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2524,7 +2537,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 3092.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2583,7 +2596,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4307.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2642,7 +2655,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4751.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2701,7 +2714,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6273.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2760,7 +2773,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6963.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2819,7 +2832,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6701.0,
       "change_pct": 0,
       "signals": {
         "holdings": {

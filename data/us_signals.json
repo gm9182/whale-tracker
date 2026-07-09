@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T06:49:45.867400+00:00",
+  "generated_at": "2026-07-09T10:31:31.358316+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,7 +88,7 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "11名が直近期間に買付"
+            "クラスターバイ": "15名が直近期間に買付"
           },
           "buy_count": 16,
           "sell_count": 0,
@@ -96,113 +96,113 @@
           "events": [
             {
               "type": "BUY",
-              "date": "2026-06-30",
-              "filing_date": "2026-06-30",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 75.7,
-              "value": 75700,
-              "label": "1,000株 @ $75.70 ($75,700)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-29",
-              "filing_date": "2026-06-30",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 76.64,
-              "value": 76640,
-              "label": "1,000株 @ $76.64 ($76,640)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-22",
-              "filing_date": "2026-06-23",
-              "actor": "Yuan Lipen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 79.19,
-              "value": 79190,
-              "label": "1,000株 @ $79.19 ($79,190)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-16",
-              "actor": "Yuan Lipen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 75.26,
-              "value": 75260,
-              "label": "1,000株 @ $75.26 ($75,260)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Zhang Kevin Xiaoqiang",
-              "title": "SVP and Deputy Co-COO",
-              "shares": 62,
-              "price": 76.01,
-              "value": 4712,
-              "label": "62株 @ $76.01 ($4,712)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Wu Yi-Huang",
-              "title": "VP",
-              "shares": 40,
-              "price": 76.01,
-              "value": 3040,
-              "label": "40株 @ $76.01 ($3,040)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Yuan Lipen",
-              "title": "VP",
-              "shares": 42,
-              "price": 76.01,
-              "value": 3192,
-              "label": "42株 @ $76.01 ($3,192)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Yeap Choh Fei",
-              "title": "SVP",
-              "shares": 55,
-              "price": 76.01,
-              "value": 4180,
-              "label": "55株 @ $76.01 ($4,180)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
-              "actor": "Yoo Chue-San",
-              "title": "VP",
-              "shares": 53,
-              "price": 76.01,
-              "value": 4028,
-              "label": "53株 @ $76.01 ($4,028)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-05",
-              "filing_date": "2026-06-09",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
               "actor": "Wang Ying-Lang",
               "title": "SVP",
-              "shares": 56,
-              "price": 76.01,
-              "value": 4256,
-              "label": "56株 @ $76.01 ($4,256)"
+              "shares": 53,
+              "price": 76.62,
+              "value": 4060,
+              "label": "53株 @ $76.62 ($4,060)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Jang Syun-Ming",
+              "title": "VP",
+              "shares": 47,
+              "price": 76.62,
+              "value": 3601,
+              "label": "47株 @ $76.62 ($3,601)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Wu Shien-Yang",
+              "title": "SVP",
+              "shares": 54,
+              "price": 76.62,
+              "value": 4137,
+              "label": "54株 @ $76.62 ($4,137)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Ku Yao-Ching",
+              "title": "VP",
+              "shares": 46,
+              "price": 76.62,
+              "value": 3524,
+              "label": "46株 @ $76.62 ($3,524)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Chuang Juiping",
+              "title": "VP",
+              "shares": 47,
+              "price": 76.62,
+              "value": 3601,
+              "label": "47株 @ $76.62 ($3,601)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Lin Chris Horng-Dar",
+              "title": "VP and CIO",
+              "shares": 46,
+              "price": 76.62,
+              "value": 3524,
+              "label": "46株 @ $76.62 ($3,524)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Chang Tzonz-Sheng",
+              "title": "SVP",
+              "shares": 52,
+              "price": 76.62,
+              "value": 3984,
+              "label": "52株 @ $76.62 ($3,984)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Wei Che-Chia",
+              "title": "Chairman and CEO",
+              "shares": 146,
+              "price": 76.62,
+              "value": 11186,
+              "label": "146株 @ $76.62 ($11,186)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Lee Chun-Hsien",
+              "title": "SVP",
+              "shares": 50,
+              "price": 76.62,
+              "value": 3831,
+              "label": "50株 @ $76.62 ($3,831)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-07",
+              "filing_date": "2026-07-09",
+              "actor": "Chen Pei-Hung",
+              "title": "VP",
+              "shares": 44,
+              "price": 76.62,
+              "value": 3371,
+              "label": "44株 @ $76.62 ($3,371)"
             }
           ]
         },
