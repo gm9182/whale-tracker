@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:08:22.770740+00:00",
+  "generated_at": "2026-07-10T01:54:16.189504+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -522,24 +522,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-08",
-              "filing_date": "2026-06-09",
-              "actor": "Taneja Vaibhav",
-              "title": "Chief Financial Officer",
-              "shares": 2605,
-              "price": 402.2,
-              "value": 1047924,
-              "label": "2,605株 @ $402.20 ($1,047,924)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -1623,7 +1611,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 3,
           "evidence": 40,
           "events": []
         },
@@ -1820,7 +1808,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 14,
           "evidence": 40,
           "events": []
         },
@@ -2197,19 +2185,19 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 25,
+          "sell_count": 18,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-02",
-              "filing_date": "2026-07-07",
+              "date": "2026-07-08",
+              "filing_date": "2026-07-09",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 2586,
-              "price": 195.63,
-              "value": 505899,
-              "label": "2,586株 @ $195.63 ($505,899)"
+              "shares": 3160,
+              "price": 189.14,
+              "value": 597682,
+              "label": "3,160株 @ $189.14 ($597,682)"
             }
           ]
         },
@@ -6027,7 +6015,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
