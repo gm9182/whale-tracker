@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T23:54:40.249050+00:00",
+  "generated_at": "2026-07-11T01:33:25.073515+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -638,10 +638,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -654,17 +654,6 @@
               "price": 402.84,
               "value": 1812780,
               "label": "4,500株 @ $402.84 ($1,812,780)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-08",
-              "filing_date": "2026-06-10",
-              "actor": "Numoto Takeshi",
-              "title": "EVP, Chief Marketing Officer",
-              "shares": 2500,
-              "price": 412.45,
-              "value": 1031125,
-              "label": "2,500株 @ $412.45 ($1,031,125)"
             }
           ]
         },
@@ -5142,11 +5131,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -6081,24 +6070,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-10",
-              "actor": "Erlinger Joseph M.",
-              "title": "President, McDonald's USA",
-              "shares": 5252,
-              "price": 284.32,
-              "value": 1493248,
-              "label": "5,252株 @ $284.32 ($1,493,248)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
