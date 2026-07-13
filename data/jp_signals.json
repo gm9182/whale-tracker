@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T08:54:14.452132+09:00",
+  "generated_at": "2026-07-13T10:39:44.660474+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -7,7 +7,7 @@
       "symbol": "9983",
       "name": "ファーストリテイリング",
       "market": "JP",
-      "score": 6,
+      "score": 3,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -25,11 +25,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 4,
+          "score": 2,
           "detail": {
-            "開示件数": "1件 (直近65h以内)"
+            "開示件数": "1件 (直近72h以内)"
           },
-          "evidence": 54,
+          "evidence": 52,
           "events": [
             {
               "type": "EARNINGS",
@@ -73,7 +73,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -3
     },
     {
       "symbol": "7203",
@@ -3092,7 +3092,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {

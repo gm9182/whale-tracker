@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T23:50:20.409338+00:00",
+  "generated_at": "2026-07-13T01:35:29.909124+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -638,24 +638,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Numoto Takeshi",
-              "title": "EVP, Chief Marketing Officer",
-              "shares": 4500,
-              "price": 402.84,
-              "value": 1812780,
-              "label": "4,500株 @ $402.84 ($1,812,780)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -917,10 +905,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "20件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 28,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -933,105 +921,6 @@
               "price": 536.33,
               "value": 3217980,
               "label": "6,000株 @ $536.33 ($3,217,980)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 2720,
-              "price": 449.21,
-              "value": 1221851,
-              "label": "2,720株 @ $449.21 ($1,221,851)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 4400,
-              "price": 451.53,
-              "value": 1986731,
-              "label": "4,400株 @ $451.53 ($1,986,731)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 12862,
-              "price": 452.4,
-              "value": 5818768,
-              "label": "12,862株 @ $452.40 ($5,818,768)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 14458,
-              "price": 453.45,
-              "value": 6555980,
-              "label": "14,458株 @ $453.45 ($6,555,980)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 9392,
-              "price": 454.43,
-              "value": 4268006,
-              "label": "9,392株 @ $454.43 ($4,268,006)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 7390,
-              "price": 455.4,
-              "value": 3365406,
-              "label": "7,390株 @ $455.40 ($3,365,406)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 6638,
-              "price": 456.38,
-              "value": 3029450,
-              "label": "6,638株 @ $456.38 ($3,029,450)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 7351,
-              "price": 457.42,
-              "value": 3362494,
-              "label": "7,351株 @ $457.42 ($3,362,494)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Su Lisa T",
-              "title": "Chair, President &amp; CEO",
-              "shares": 5700,
-              "price": 458.45,
-              "value": 2613165,
-              "label": "5,700株 @ $458.45 ($2,613,165)"
             }
           ]
         },
@@ -1597,11 +1486,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 3,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -3277,11 +3166,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 11,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -4459,10 +4348,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -4497,17 +4386,6 @@
               "price": 85.1,
               "value": 757049,
               "label": "8,896株 @ $85.10 ($757,049)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-09",
-              "filing_date": "2026-06-11",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 20582,
-              "price": 85.0,
-              "value": 1749470,
-              "label": "20,582株 @ $85.00 ($1,749,470)"
             }
           ]
         },
@@ -4867,7 +4745,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -4880,17 +4758,6 @@
               "price": 30.05,
               "value": 52742978,
               "label": "1,755,174株 @ $30.05 ($52,742,978)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Alexander Andrea",
-              "title": "SVP &amp; CHIEF ADMIN OFFICER",
-              "shares": 18000,
-              "price": 46.74,
-              "value": 841320,
-              "label": "18,000株 @ $46.74 ($841,320)"
             }
           ]
         },
@@ -5061,24 +4928,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-11",
-              "filing_date": "2026-06-12",
-              "actor": "Wengel Kathryn E",
-              "title": "EVP, Chief TO and Risk Officer",
-              "shares": 10000,
-              "price": 241.15,
-              "value": 2411500,
-              "label": "10,000株 @ $241.15 ($2,411,500)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5247,24 +5102,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-11",
-              "actor": "Yuffa Ilya",
-              "title": "EVP&amp;Pres, LLY USA&amp;Global Capab",
-              "shares": 2500,
-              "price": 1150.77,
-              "value": 2876925,
-              "label": "2,500株 @ $1150.77 ($2,876,925)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5549,10 +5392,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -5587,17 +5430,6 @@
               "price": 122.42,
               "value": 3025690,
               "label": "24,716株 @ $122.42 ($3,025,690)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-10",
-              "filing_date": "2026-06-12",
-              "actor": "Guggina David W",
-              "title": "Executive Vice President",
-              "shares": 11978,
-              "price": 119.82,
-              "value": 1435203,
-              "label": "11,978株 @ $119.82 ($1,435,203)"
             }
           ]
         },
@@ -5942,24 +5774,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-12",
-              "filing_date": "2026-06-12",
-              "actor": "McCartney Philip",
-              "title": "EVP: CHIEF INN,PROD&amp;DSG OFCR",
-              "shares": 17398,
-              "price": 46.18,
-              "value": 803439,
-              "label": "17,398株 @ $46.18 ($803,439)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
