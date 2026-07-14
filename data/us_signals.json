@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T23:48:16.394908+00:00",
+  "generated_at": "2026-07-14T01:25:05.239373+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2063,19 +2063,19 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 21,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-08",
-              "filing_date": "2026-07-09",
+              "date": "2026-07-10",
+              "filing_date": "2026-07-13",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 3160,
-              "price": 189.14,
-              "value": 597682,
-              "label": "3,160株 @ $189.14 ($597,682)"
+              "shares": 4600,
+              "price": 187.17,
+              "value": 860982,
+              "label": "4,600株 @ $187.17 ($860,982)"
             }
           ]
         },
