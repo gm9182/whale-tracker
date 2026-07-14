@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:52:08.777111+00:00",
+  "generated_at": "2026-07-14T23:49:29.375965+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -3166,11 +3166,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "直近期間にシグナルなし"
+            "event": "シグナルなし"
           },
-          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 0,
+          "sell_count": 11,
+          "evidence": 40,
           "events": []
         },
         "filing13d": {
