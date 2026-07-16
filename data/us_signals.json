@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T09:16:28.455719+00:00",
+  "generated_at": "2026-07-16T11:35:17.163963+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,12 +88,23 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "15名が直近期間に買付"
+            "クラスターバイ": "14名が直近期間に買付"
           },
-          "buy_count": 16,
-          "sell_count": 0,
+          "buy_count": 15,
+          "sell_count": 1,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-07-13",
+              "filing_date": "2026-07-16",
+              "actor": "Chen Chih-Ho",
+              "title": "Controller",
+              "shares": 50,
+              "price": 74.6,
+              "value": 3729,
+              "label": "50株 @ $74.60 ($3,729)"
+            },
             {
               "type": "BUY",
               "date": "2026-07-07",
@@ -192,17 +203,6 @@
               "price": 76.62,
               "value": 3831,
               "label": "50株 @ $76.62 ($3,831)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Chen Pei-Hung",
-              "title": "VP",
-              "shares": 44,
-              "price": 76.62,
-              "value": 3371,
-              "label": "44株 @ $76.62 ($3,371)"
             }
           ]
         },
