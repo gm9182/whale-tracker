@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T23:54:57.652743+00:00",
+  "generated_at": "2026-07-16T01:36:44.490557+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -203,120 +203,6 @@
               "price": 76.62,
               "value": 3371,
               "label": "44株 @ $76.62 ($3,371)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "BAC",
-      "market": "US",
-      "score": 22,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 61.59,
-      "prev_close": 55.87,
-      "vol_ratio": 0.98,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 15,
-          "detail": {
-            "10%超保有者": "5件の買い"
-          },
-          "buy_count": 5,
-          "sell_count": 1,
-          "evidence": 55,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-06-11",
-              "filing_date": "2026-06-15",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 1,
-              "price": 0.02,
-              "value": 0,
-              "label": "1株 @ $0.02 ($0)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-11",
-              "filing_date": "2026-06-15",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 1,
-              "price": 0.02,
-              "value": 0,
-              "label": "1株 @ $0.02 ($0)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-11",
-              "filing_date": "2026-06-15",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 1,
-              "price": 0.01,
-              "value": 0,
-              "label": "1株 @ $0.01 ($0)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-11",
-              "filing_date": "2026-06-15",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 1,
-              "price": 0.01,
-              "value": 0,
-              "label": "1株 @ $0.01 ($0)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-11",
-              "filing_date": "2026-06-15",
-              "actor": "BANK OF AMERICA CORP /DE/",
-              "title": "10% Owner",
-              "shares": 3,
-              "price": 0.01,
-              "value": 0,
-              "label": "3株 @ $0.01 ($0)"
             }
           ]
         },
@@ -777,12 +663,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
           "sell_count": 16,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-13",
+              "filing_date": "2026-07-15",
+              "actor": "Olivan Javier",
+              "title": "Chief Operating Officer",
+              "shares": 1534,
+              "price": 660.98,
+              "value": 1013936,
+              "label": "1,534株 @ $660.98 ($1,013,936)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-06",
@@ -1147,7 +1044,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -2063,19 +1960,41 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 21,
+          "sell_count": 24,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-10",
-              "filing_date": "2026-07-13",
+              "date": "2026-07-13",
+              "filing_date": "2026-07-15",
+              "actor": "OLEARY DENIS",
+              "title": "Insider",
+              "shares": 14500,
+              "price": 187.87,
+              "value": 2724115,
+              "label": "14,500株 @ $187.87 ($2,724,115)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-13",
+              "filing_date": "2026-07-15",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 4600,
-              "price": 187.17,
-              "value": 860982,
-              "label": "4,600株 @ $187.17 ($860,982)"
+              "shares": 2727,
+              "price": 187.33,
+              "value": 510848,
+              "label": "2,727株 @ $187.33 ($510,848)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-13",
+              "filing_date": "2026-07-15",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 4014,
+              "price": 188.16,
+              "value": 755274,
+              "label": "4,014株 @ $188.16 ($755,274)"
             }
           ]
         },
@@ -3476,6 +3395,64 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "BAC",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 61.59,
+      "prev_close": 55.87,
+      "vol_ratio": 0.98,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間にシグナルなし"
+          },
+          "evidence": 0,
+          "buy_count": 0,
+          "sell_count": 0,
+          "events": []
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -22
     },
     {
       "symbol": "GS",
@@ -5912,7 +5889,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
