@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T23:55:36.587900+00:00",
+  "generated_at": "2026-07-17T01:35:28.331388+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -203,76 +203,6 @@
               "price": 76.62,
               "value": 3831,
               "label": "50株 @ $76.62 ($3,831)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "LULU",
-      "market": "US",
-      "score": 8,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 118.79,
-      "prev_close": 115.5,
-      "vol_ratio": 0.61,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 5,
-          "detail": {
-            "最大買付": "Insider: $500,384"
-          },
-          "buy_count": 1,
-          "sell_count": 0,
-          "evidence": 45,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-16",
-              "actor": "Bergh Charles V",
-              "title": "Director",
-              "shares": 4275,
-              "price": 117.05,
-              "value": 500383,
-              "label": "4,275株 @ $117.05 ($500,383)"
             }
           ]
         },
@@ -1146,7 +1076,7 @@
           "detail": {
             "event": "シグナルなし"
           },
-          "buy_count": 1,
+          "buy_count": 0,
           "sell_count": 3,
           "evidence": 40,
           "events": [
@@ -1160,17 +1090,6 @@
               "price": 17.78,
               "value": 1815746,
               "label": "102,123株 @ $17.78 ($1,815,746)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-16",
-              "actor": "Noto Anthony",
-              "title": "Chief Executive Officer",
-              "shares": 13888,
-              "price": 18.06,
-              "value": 250786,
-              "label": "13,888株 @ $18.06 ($250,786)"
             }
           ]
         },
@@ -1902,9 +1821,32 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 40,
+          "sell_count": 42,
           "evidence": 40,
-          "events": []
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-16",
+              "actor": "Dageville Benoit",
+              "title": "Insider",
+              "shares": 50000,
+              "price": 276.53,
+              "value": 13826499,
+              "label": "50,000株 @ $276.53 ($13,826,499)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-14",
+              "filing_date": "2026-07-16",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 2500,
+              "price": 275.0,
+              "value": 687500,
+              "label": "2,500株 @ $275.00 ($687,500)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
@@ -2739,11 +2681,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -3969,24 +3911,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
-          "buy_count": 1,
+          "evidence": 0,
+          "buy_count": 0,
           "sell_count": 0,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-16",
-              "actor": "Miller Jamie S",
-              "title": "Chief Fin &amp; Op Officer",
-              "shares": 6129,
-              "price": 41.53,
-              "value": 254537,
-              "label": "6,129株 @ $41.53 ($254,537)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5926,6 +5856,64 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "LULU",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 118.79,
+      "prev_close": 115.5,
+      "vol_ratio": 0.61,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間にシグナルなし"
+          },
+          "evidence": 0,
+          "buy_count": 0,
+          "sell_count": 0,
+          "events": []
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -8
     },
     {
       "symbol": "SBUX",
