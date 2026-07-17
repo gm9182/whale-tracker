@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:44:35.001988+00:00",
+  "generated_at": "2026-07-17T23:49:03.160772+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1155,110 +1155,110 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 25,
+          "sell_count": 26,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-06-30",
-              "filing_date": "2026-07-02",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
               "actor": "Huffman Steve Ladd",
               "title": "CEO &amp; President",
-              "shares": 4999,
-              "price": 172.91,
-              "value": 864377,
-              "label": "4,999株 @ $172.91 ($864,377)"
+              "shares": 2600,
+              "price": 195.34,
+              "value": 507884,
+              "label": "2,600株 @ $195.34 ($507,884)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-30",
-              "filing_date": "2026-07-02",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
               "actor": "Huffman Steve Ladd",
               "title": "CEO &amp; President",
-              "shares": 8901,
-              "price": 173.77,
-              "value": 1546726,
-              "label": "8,901株 @ $173.77 ($1,546,726)"
+              "shares": 5046,
+              "price": 198.27,
+              "value": 1000470,
+              "label": "5,046株 @ $198.27 ($1,000,470)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
               "actor": "Wong Jennifer L.",
               "title": "Chief Operating Officer",
-              "shares": 8560,
-              "price": 175.41,
-              "value": 1501509,
-              "label": "8,560株 @ $175.41 ($1,501,509)"
+              "shares": 4053,
+              "price": 195.1,
+              "value": 790740,
+              "label": "4,053株 @ $195.10 ($790,740)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
               "actor": "Wong Jennifer L.",
               "title": "Chief Operating Officer",
-              "shares": 9020,
-              "price": 176.2,
-              "value": 1589324,
-              "label": "9,020株 @ $176.20 ($1,589,324)"
+              "shares": 4047,
+              "price": 195.79,
+              "value": 792362,
+              "label": "4,047株 @ $195.79 ($792,362)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
               "actor": "Wong Jennifer L.",
               "title": "Chief Operating Officer",
-              "shares": 11580,
-              "price": 177.31,
-              "value": 2053249,
-              "label": "11,580株 @ $177.31 ($2,053,249)"
+              "shares": 5600,
+              "price": 196.83,
+              "value": 1102248,
+              "label": "5,600株 @ $196.83 ($1,102,248)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
               "actor": "Wong Jennifer L.",
               "title": "Chief Operating Officer",
-              "shares": 7306,
-              "price": 178.09,
-              "value": 1301125,
-              "label": "7,306株 @ $178.09 ($1,301,125)"
+              "shares": 10767,
+              "price": 198.03,
+              "value": 2132189,
+              "label": "10,767株 @ $198.03 ($2,132,189)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-17",
-              "actor": "Huffman Steve Ladd",
-              "title": "CEO &amp; President",
-              "shares": 3050,
-              "price": 178.71,
-              "value": 545065,
-              "label": "3,050株 @ $178.71 ($545,065)"
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
+              "actor": "Wong Jennifer L.",
+              "title": "Chief Operating Officer",
+              "shares": 4900,
+              "price": 198.94,
+              "value": 974806,
+              "label": "4,900株 @ $198.94 ($974,806)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-17",
-              "actor": "Huffman Steve Ladd",
-              "title": "CEO &amp; President",
-              "shares": 3100,
-              "price": 179.65,
-              "value": 556915,
-              "label": "3,100株 @ $179.65 ($556,915)"
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
+              "actor": "Wong Jennifer L.",
+              "title": "Chief Operating Officer",
+              "shares": 3184,
+              "price": 199.89,
+              "value": 636449,
+              "label": "3,184株 @ $199.89 ($636,449)"
             },
             {
               "type": "SELL",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-17",
-              "actor": "Huffman Steve Ladd",
-              "title": "CEO &amp; President",
-              "shares": 3400,
-              "price": 181.78,
-              "value": 618052,
-              "label": "3,400株 @ $181.78 ($618,052)"
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
+              "actor": "Wong Jennifer L.",
+              "title": "Chief Operating Officer",
+              "shares": 3616,
+              "price": 200.89,
+              "value": 726418,
+              "label": "3,616株 @ $200.89 ($726,418)"
             }
           ]
         },
@@ -1927,9 +1927,20 @@
             "大型売却警戒": "11件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 26,
+          "sell_count": 36,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-17",
+              "filing_date": "2026-07-17",
+              "actor": "SEIFERT THOMAS J",
+              "title": "Chief Financial Officer",
+              "shares": 3299,
+              "price": 277.68,
+              "value": 916056,
+              "label": "3,299株 @ $277.68 ($916,056)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-15",
@@ -2028,17 +2039,6 @@
               "price": 280.13,
               "value": 1426697,
               "label": "5,093株 @ $280.13 ($1,426,697)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 9617,
-              "price": 281.4,
-              "value": 2706185,
-              "label": "9,617株 @ $281.40 ($2,706,185)"
             }
           ]
         },
