@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:49:03.160772+00:00",
+  "generated_at": "2026-07-18T01:26:47.969078+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -396,11 +396,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -515,9 +515,20 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 22,
+          "sell_count": 25,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
+              "actor": "GV 2019 GP, L.L.C.",
+              "title": "Insider",
+              "shares": 61992,
+              "price": 19.84,
+              "value": 1229772,
+              "label": "61,992株 @ $19.84 ($1,229,772)"
+            },
             {
               "type": "SELL",
               "date": "2026-06-29",
@@ -732,10 +743,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -748,17 +759,6 @@
               "price": 556.43,
               "value": 3338579,
               "label": "6,000株 @ $556.43 ($3,338,579)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-17",
-              "actor": "Papermaster Mark D",
-              "title": "Chief Technology Officer &amp; EVP",
-              "shares": 6000,
-              "price": 536.33,
-              "value": 3217980,
-              "label": "6,000株 @ $536.33 ($3,217,980)"
             }
           ]
         },
@@ -982,12 +982,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 11800,
+              "price": 133.75,
+              "value": 1578255,
+              "label": "11,800株 @ $133.75 ($1,578,255)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-02",
@@ -1009,28 +1020,6 @@
               "price": 130.0,
               "value": 19500000,
               "label": "150,000株 @ $130.00 ($19,500,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-17",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 4000,
-              "price": 133.81,
-              "value": 535258,
-              "label": "4,000株 @ $133.81 ($535,258)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-15",
-              "filing_date": "2026-06-17",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 7000,
-              "price": 134.44,
-              "value": 941082,
-              "label": "7,000株 @ $134.44 ($941,082)"
             }
           ]
         },
@@ -1088,21 +1077,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-17",
-              "actor": "Rishel Jeremy",
-              "title": "Chief Technology Officer",
-              "shares": 102123,
-              "price": 17.78,
-              "value": 1815746,
-              "label": "102,123株 @ $17.78 ($1,815,746)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -1835,41 +1812,30 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 24,
+          "sell_count": 18,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-13",
-              "filing_date": "2026-07-15",
-              "actor": "OLEARY DENIS",
-              "title": "Insider",
-              "shares": 14500,
-              "price": 187.87,
-              "value": 2724115,
-              "label": "14,500株 @ $187.87 ($2,724,115)"
+              "date": "2026-07-16",
+              "filing_date": "2026-07-17",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 3302,
+              "price": 204.06,
+              "value": 673806,
+              "label": "3,302株 @ $204.06 ($673,806)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-13",
-              "filing_date": "2026-07-15",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 2727,
-              "price": 187.33,
-              "value": 510848,
-              "label": "2,727株 @ $187.33 ($510,848)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-13",
-              "filing_date": "2026-07-15",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 4014,
-              "price": 188.16,
-              "value": 755274,
-              "label": "4,014株 @ $188.16 ($755,274)"
+              "shares": 3387,
+              "price": 206.96,
+              "value": 700973,
+              "label": "3,387株 @ $206.96 ($700,973)"
             }
           ]
         },
@@ -2445,12 +2411,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "11件の$1M+売却"
+            "大型売却警戒": "8件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 20,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-16",
+              "filing_date": "2026-07-17",
+              "actor": "Gebbia Joseph",
+              "title": "Insider",
+              "shares": 49577,
+              "price": 150.23,
+              "value": 7447769,
+              "label": "49,577株 @ $150.23 ($7,447,769)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-15",
+              "filing_date": "2026-07-17",
+              "actor": "Gebbia Joseph",
+              "title": "Insider",
+              "shares": 187024,
+              "price": 150.15,
+              "value": 28082083,
+              "label": "187,024株 @ $150.15 ($28,082,083)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-13",
@@ -2538,28 +2526,6 @@
               "price": 150.01,
               "value": 4160341,
               "label": "27,733株 @ $150.01 ($4,160,341)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-02",
-              "filing_date": "2026-07-07",
-              "actor": "Mertz Elinor",
-              "title": "Chief Financial Officer",
-              "shares": 3750,
-              "price": 148.01,
-              "value": 555037,
-              "label": "3,750株 @ $148.01 ($555,037)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "CHENAULT KENNETH I",
-              "title": "Insider",
-              "shares": 8346,
-              "price": 150.0,
-              "value": 1251900,
-              "label": "8,346株 @ $150.00 ($1,251,900)"
             }
           ]
         },
@@ -3401,7 +3367,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
@@ -5412,7 +5378,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -5699,10 +5665,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -5726,17 +5692,6 @@
               "price": 224.81,
               "value": 2097430,
               "label": "9,330株 @ $224.81 ($2,097,430)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-17",
-              "actor": "Dupre Janice",
-              "title": "EVP, Human Resources",
-              "shares": 14150,
-              "price": 221.9,
-              "value": 3139885,
-              "label": "14,150株 @ $221.90 ($3,139,885)"
             }
           ]
         },
