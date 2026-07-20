@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T23:48:17.549709+00:00",
+  "generated_at": "2026-07-20T03:08:18.749443+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -515,7 +515,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 25,
+          "sell_count": 13,
           "evidence": 40,
           "events": [
             {
@@ -3097,35 +3097,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "SMITH BRADFORD L",
-              "title": "Insider",
-              "shares": 22190,
-              "price": 77.21,
-              "value": 1713265,
-              "label": "22,190株 @ $77.21 ($1,713,265)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "SMITH BRADFORD L",
-              "title": "Insider",
-              "shares": 13800,
-              "price": 78.01,
-              "value": 1076533,
-              "label": "13,800株 @ $78.01 ($1,076,533)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4331,46 +4308,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 3,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 6867,
-              "price": 85.1,
-              "value": 584381,
-              "label": "6,867株 @ $85.10 ($584,381)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 83476,
-              "price": 85.1,
-              "value": 7103807,
-              "label": "83,476株 @ $85.10 ($7,103,807)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
-              "actor": "Barra Mary T",
-              "title": "Chair &amp; CEO",
-              "shares": 8896,
-              "price": 85.1,
-              "value": 757049,
-              "label": "8,896株 @ $85.10 ($757,049)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5375,46 +5318,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 4,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
-              "actor": "Walton Family Holdings Trust",
-              "title": "Insider",
-              "shares": 3860251,
-              "price": 120.98,
-              "value": 467032467,
-              "label": "3,860,251株 @ $120.98 ($467,032,467)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
-              "actor": "Walton Family Holdings Trust",
-              "title": "Insider",
-              "shares": 539737,
-              "price": 121.78,
-              "value": 65730251,
-              "label": "539,737株 @ $121.78 ($65,730,251)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-16",
-              "filing_date": "2026-06-18",
-              "actor": "Walton Family Holdings Trust",
-              "title": "Insider",
-              "shares": 24716,
-              "price": 122.42,
-              "value": 3025690,
-              "label": "24,716株 @ $122.42 ($3,025,690)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5668,7 +5577,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -5681,17 +5590,6 @@
               "price": 223.83,
               "value": 559575,
               "label": "2,500株 @ $223.83 ($559,575)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-18",
-              "actor": "PRYOR JULIETTE WILLIAMS",
-              "title": "EVP, CLO &amp; Corp. Sec.",
-              "shares": 9330,
-              "price": 224.81,
-              "value": 2097430,
-              "label": "9,330株 @ $224.81 ($2,097,430)"
             }
           ]
         },
