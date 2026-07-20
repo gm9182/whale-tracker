@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:51:31.530589+00:00",
+  "generated_at": "2026-07-20T23:52:24.949450+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -311,7 +311,7 @@
           "evidence": 0
         }
       },
-      "score_change": 22
+      "score_change": 0
     },
     {
       "symbol": "NVDA",
@@ -1421,7 +1421,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 7,
           "evidence": 40,
           "events": []
         },
