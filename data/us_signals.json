@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:31:02.960484+00:00",
+  "generated_at": "2026-07-21T11:49:36.712240+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,12 +88,45 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "14名が直近期間に買付"
+            "クラスターバイ": "13名が直近期間に買付"
           },
-          "buy_count": 15,
+          "buy_count": 16,
           "sell_count": 1,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-07-19",
+              "filing_date": "2026-07-21",
+              "actor": "Lin Shyue-Shyh",
+              "title": "VP",
+              "shares": 1000,
+              "price": 72.1,
+              "value": 72100,
+              "label": "1,000株 @ $72.10 ($72,100)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-19",
+              "filing_date": "2026-07-21",
+              "actor": "Lin Shyue-Shyh",
+              "title": "VP",
+              "shares": 1000,
+              "price": 71.32,
+              "value": 71320,
+              "label": "1,000株 @ $71.32 ($71,320)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-19",
+              "filing_date": "2026-07-21",
+              "actor": "Lin Shyue-Shyh",
+              "title": "VP",
+              "shares": 1000,
+              "price": 71.94,
+              "value": 71940,
+              "label": "1,000株 @ $71.94 ($71,940)"
+            },
             {
               "type": "BUY",
               "date": "2026-07-13",
@@ -170,39 +203,6 @@
               "price": 76.62,
               "value": 3524,
               "label": "46株 @ $76.62 ($3,524)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Chang Tzonz-Sheng",
-              "title": "SVP",
-              "shares": 52,
-              "price": 76.62,
-              "value": 3984,
-              "label": "52株 @ $76.62 ($3,984)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Wei Che-Chia",
-              "title": "Chairman and CEO",
-              "shares": 146,
-              "price": 76.62,
-              "value": 11186,
-              "label": "146株 @ $76.62 ($11,186)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Lee Chun-Hsien",
-              "title": "SVP",
-              "shares": 50,
-              "price": 76.62,
-              "value": 3831,
-              "label": "50株 @ $76.62 ($3,831)"
             }
           ]
         },
