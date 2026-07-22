@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:29:31.691529+00:00",
+  "generated_at": "2026-07-22T11:49:44.615857+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,12 +88,34 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "13名が直近期間に買付"
+            "クラスターバイ": "11名が直近期間に買付"
           },
-          "buy_count": 16,
+          "buy_count": 15,
           "sell_count": 1,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-22",
+              "actor": "Lin Shyue-Shyh",
+              "title": "VP",
+              "shares": 1000,
+              "price": 74.13,
+              "value": 74130,
+              "label": "1,000株 @ $74.13 ($74,130)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Lin Shyue-Shyh",
+              "title": "VP",
+              "shares": 1000,
+              "price": 72.65,
+              "value": 72650,
+              "label": "1,000株 @ $72.65 ($72,650)"
+            },
             {
               "type": "BUY",
               "date": "2026-07-19",
@@ -177,28 +199,6 @@
               "filing_date": "2026-07-09",
               "actor": "Ku Yao-Ching",
               "title": "VP",
-              "shares": 46,
-              "price": 76.62,
-              "value": 3524,
-              "label": "46株 @ $76.62 ($3,524)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Chuang Juiping",
-              "title": "VP",
-              "shares": 47,
-              "price": 76.62,
-              "value": 3601,
-              "label": "47株 @ $76.62 ($3,601)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Lin Chris Horng-Dar",
-              "title": "VP and CIO",
               "shares": 46,
               "price": 76.62,
               "value": 3524,
