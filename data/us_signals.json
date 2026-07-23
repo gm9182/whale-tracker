@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:27:35.409797+00:00",
+  "generated_at": "2026-07-23T11:53:01.023747+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,12 +88,56 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "11名が直近期間に買付"
+            "クラスターバイ": "7名が直近期間に買付"
           },
           "buy_count": 15,
           "sell_count": 1,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-23",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 74.13,
+              "value": 74130,
+              "label": "1,000株 @ $74.13 ($74,130)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-23",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 73.98,
+              "value": 73980,
+              "label": "1,000株 @ $73.98 ($73,980)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-23",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 74.44,
+              "value": 74440,
+              "label": "1,000株 @ $74.44 ($74,440)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-23",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 74.75,
+              "value": 74750,
+              "label": "1,000株 @ $74.75 ($74,750)"
+            },
             {
               "type": "BUY",
               "date": "2026-07-21",
@@ -104,6 +148,17 @@
               "price": 74.13,
               "value": 74130,
               "label": "1,000株 @ $74.13 ($74,130)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-23",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 10,
+              "price": 405.0,
+              "value": 4050,
+              "label": "10株 @ $405.00 ($4,050)"
             },
             {
               "type": "BUY",
@@ -148,61 +203,6 @@
               "price": 71.94,
               "value": 71940,
               "label": "1,000株 @ $71.94 ($71,940)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-13",
-              "filing_date": "2026-07-16",
-              "actor": "Chen Chih-Ho",
-              "title": "Controller",
-              "shares": 50,
-              "price": 74.6,
-              "value": 3729,
-              "label": "50株 @ $74.60 ($3,729)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Wang Ying-Lang",
-              "title": "SVP",
-              "shares": 53,
-              "price": 76.62,
-              "value": 4060,
-              "label": "53株 @ $76.62 ($4,060)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Jang Syun-Ming",
-              "title": "VP",
-              "shares": 47,
-              "price": 76.62,
-              "value": 3601,
-              "label": "47株 @ $76.62 ($3,601)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Wu Shien-Yang",
-              "title": "SVP",
-              "shares": 54,
-              "price": 76.62,
-              "value": 4137,
-              "label": "54株 @ $76.62 ($4,137)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-07",
-              "filing_date": "2026-07-09",
-              "actor": "Ku Yao-Ching",
-              "title": "VP",
-              "shares": 46,
-              "price": 76.62,
-              "value": 3524,
-              "label": "46株 @ $76.62 ($3,524)"
             }
           ]
         },
