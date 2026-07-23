@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T22:58:33.344292+00:00",
+  "generated_at": "2026-07-23T00:00:01.466872+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1809,33 +1809,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 42,
+          "sell_count": 18,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-16",
-              "actor": "Dageville Benoit",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 50000,
-              "price": 276.53,
-              "value": 13826499,
-              "label": "50,000株 @ $276.53 ($13,826,499)"
+              "shares": 1945,
+              "price": 275.23,
+              "value": 535330,
+              "label": "1,945株 @ $275.23 ($535,330)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-16",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 2500,
-              "price": 275.0,
-              "value": 687500,
-              "label": "2,500株 @ $275.00 ($687,500)"
+              "date": "2026-07-21",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 2699,
+              "price": 277.54,
+              "value": 749072,
+              "label": "2,699株 @ $277.54 ($749,072)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 9723,
+              "price": 270.54,
+              "value": 2630421,
+              "label": "9,723株 @ $270.54 ($2,630,421)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 11352,
+              "price": 271.42,
+              "value": 3081137,
+              "label": "11,352株 @ $271.42 ($3,081,137)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 25182,
+              "price": 272.31,
+              "value": 6857411,
+              "label": "25,182株 @ $272.31 ($6,857,411)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 36567,
+              "price": 273.47,
+              "value": 9999904,
+              "label": "36,567株 @ $273.47 ($9,999,904)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 95030,
+              "price": 274.51,
+              "value": 26086685,
+              "label": "95,030株 @ $274.51 ($26,086,685)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 59978,
+              "price": 275.39,
+              "value": 16517401,
+              "label": "59,978株 @ $275.39 ($16,517,401)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 48058,
+              "price": 276.26,
+              "value": 13276743,
+              "label": "48,058株 @ $276.26 ($13,276,743)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-20",
+              "filing_date": "2026-07-22",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 2029,
+              "price": 277.03,
+              "value": 562091,
+              "label": "2,029株 @ $277.03 ($562,091)"
             }
           ]
         },
