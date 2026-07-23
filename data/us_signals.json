@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:00:01.466872+00:00",
+  "generated_at": "2026-07-23T01:50:51.730602+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1158,7 +1158,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
@@ -1432,7 +1432,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 4,
           "evidence": 40,
           "events": []
         },
@@ -1981,9 +1981,31 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 29,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-22",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 3249,
+              "price": 191.44,
+              "value": 621988,
+              "label": "3,249株 @ $191.44 ($621,988)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-21",
+              "filing_date": "2026-07-22",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2775,
+              "price": 192.46,
+              "value": 534076,
+              "label": "2,775株 @ $192.46 ($534,076)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-20",
@@ -2378,7 +2400,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 15,
           "evidence": 40,
           "events": [
             {
@@ -2435,17 +2457,6 @@
               "price": 324.05,
               "value": 648100,
               "label": "2,000株 @ $324.05 ($648,100)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-17",
-              "filing_date": "2026-06-22",
-              "actor": "Cochran Hope F",
-              "title": "Insider",
-              "shares": 1566,
-              "price": 344.05,
-              "value": 538782,
-              "label": "1,566株 @ $344.05 ($538,782)"
             }
           ]
         },
@@ -3360,24 +3371,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-22",
-              "filing_date": "2026-06-22",
-              "actor": "Friedman Stacey",
-              "title": "General Counsel",
-              "shares": 5467,
-              "price": 330.73,
-              "value": 1808121,
-              "label": "5,467株 @ $330.73 ($1,808,121)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5422,7 +5421,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": []
         },
@@ -5675,24 +5674,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-22",
-              "actor": "Vagell Margrethe R",
-              "title": "EVP, Supply Chain",
-              "shares": 2500,
-              "price": 223.83,
-              "value": 559575,
-              "label": "2,500株 @ $223.83 ($559,575)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
