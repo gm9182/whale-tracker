@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:54:51.227345+00:00",
+  "generated_at": "2026-07-24T01:34:29.057536+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -327,35 +327,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-23",
-              "actor": "STEVENS MARK A",
-              "title": "Insider",
-              "shares": 319385,
-              "price": 209.7,
-              "value": 66973501,
-              "label": "319,385株 @ $209.70 ($66,973,501)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-18",
-              "filing_date": "2026-06-23",
-              "actor": "STEVENS MARK A",
-              "title": "Insider",
-              "shares": 565615,
-              "price": 210.44,
-              "value": 119026436,
-              "label": "565,615株 @ $210.44 ($119,026,436)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -1169,7 +1146,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
