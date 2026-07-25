@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T00:00:30.660991+00:00",
+  "generated_at": "2026-07-25T01:34:31.063847+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1420,7 +1420,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": []
         },
@@ -1478,32 +1478,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-22",
-              "filing_date": "2026-06-24",
-              "actor": "Les Jason",
-              "title": "CEO",
-              "shares": 62703,
-              "price": 30.09,
-              "value": 1886733,
-              "label": "62,703株 @ $30.09 ($1,886,733)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-22",
-              "filing_date": "2026-06-24",
-              "actor": "Werner Ryan D.",
-              "title": "SVP, CAO",
-              "shares": 25375,
-              "price": 30.0,
-              "value": 761250,
-              "label": "25,375株 @ $30.00 ($761,250)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4336,24 +4313,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
-          "buy_count": 1,
+          "evidence": 0,
+          "buy_count": 0,
           "sell_count": 0,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-06-23",
-              "filing_date": "2026-06-24",
-              "actor": "THORNTON JOHN L",
-              "title": "Director",
-              "shares": 10600,
-              "price": 14.05,
-              "value": 148880,
-              "label": "10,600株 @ $14.05 ($148,880)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4696,24 +4661,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
-          "buy_count": 1,
+          "evidence": 0,
+          "buy_count": 0,
           "sell_count": 0,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-06-23",
-              "filing_date": "2026-06-24",
-              "actor": "Jackson Richard A.",
-              "title": "President and CEO",
-              "shares": 4770,
-              "price": 52.38,
-              "value": 249852,
-              "label": "4,770株 @ $52.38 ($249,852)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4766,24 +4719,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-22",
-              "filing_date": "2026-06-24",
-              "actor": "DEVON ENERGY CORP/DE",
-              "title": "Insider",
-              "shares": 1755174,
-              "price": 30.05,
-              "value": 52742978,
-              "label": "1,755,174株 @ $30.05 ($52,742,978)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
