@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T01:10:53.139225+09:00",
+  "generated_at": "2026-07-29T08:00:17.416557+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -27,7 +27,7 @@
           "active": true,
           "score": 5,
           "detail": {
-            "開示件数": "1件 (直近9h以内)"
+            "開示件数": "1件 (直近16h以内)"
           },
           "evidence": 55,
           "events": [
@@ -604,7 +604,7 @@
           "events": []
         }
       },
-      "score_change": -72
+      "score_change": 0
     },
     {
       "symbol": "6098",
@@ -1548,7 +1548,7 @@
           "events": []
         }
       },
-      "score_change": -19
+      "score_change": 0
     },
     {
       "symbol": "8766",
