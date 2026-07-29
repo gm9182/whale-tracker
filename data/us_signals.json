@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:55:30.984699+00:00",
+  "generated_at": "2026-07-29T01:32:22.352536+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1936,9 +1936,31 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 24,
+          "sell_count": 27,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-24",
+              "filing_date": "2026-07-28",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 4093,
+              "price": 182.75,
+              "value": 747995,
+              "label": "4,093株 @ $182.75 ($747,995)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-24",
+              "filing_date": "2026-07-28",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 5109,
+              "price": 183.55,
+              "value": 937756,
+              "label": "5,109株 @ $183.55 ($937,756)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-23",
@@ -1971,28 +1993,6 @@
               "price": 187.94,
               "value": 521345,
               "label": "2,774株 @ $187.94 ($521,345)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-22",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 3249,
-              "price": 191.44,
-              "value": 621988,
-              "label": "3,249株 @ $191.44 ($621,988)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-22",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2775,
-              "price": 192.46,
-              "value": 534076,
-              "label": "2,775株 @ $192.46 ($534,076)"
             }
           ]
         },
