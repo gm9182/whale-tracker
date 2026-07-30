@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:53:12.963164+00:00",
+  "generated_at": "2026-07-30T00:00:14.277883+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -570,12 +570,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 21,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-28",
+              "filing_date": "2026-07-29",
+              "actor": "GV 2019 GP, L.L.C.",
+              "title": "Insider",
+              "shares": 118138,
+              "price": 18.9,
+              "value": 2232760,
+              "label": "118,138株 @ $18.90 ($2,232,760)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-27",
+              "filing_date": "2026-07-29",
+              "actor": "GV 2019 GP, L.L.C.",
+              "title": "Insider",
+              "shares": 196931,
+              "price": 19.46,
+              "value": 3832848,
+              "label": "196,931株 @ $19.46 ($3,832,848)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-23",
