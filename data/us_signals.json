@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T00:00:14.277883+00:00",
+  "generated_at": "2026-07-30T01:25:58.238062+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -937,10 +937,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -986,17 +986,6 @@
               "price": 373.86,
               "value": 598915,
               "label": "1,602株 @ $373.86 ($598,915)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-25",
-              "filing_date": "2026-06-29",
-              "actor": "Brazeal Mark David",
-              "title": "Chief Legal &amp; Corp Affairs Ofc",
-              "shares": 25000,
-              "price": 387.0,
-              "value": 9675000,
-              "label": "25,000株 @ $387.00 ($9,675,000)"
             }
           ]
         },
