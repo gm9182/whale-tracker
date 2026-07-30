@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:32:03.985365+00:00",
+  "generated_at": "2026-07-30T11:52:32.644657+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -88,12 +88,45 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "7名が直近期間に買付"
+            "クラスターバイ": "4名が直近期間に買付"
           },
           "buy_count": 15,
           "sell_count": 1,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-07-28",
+              "filing_date": "2026-07-30",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 10,
+              "price": 390.0,
+              "value": 3900,
+              "label": "10株 @ $390.00 ($3,900)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-28",
+              "filing_date": "2026-07-30",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 5,
+              "price": 390.0,
+              "value": 1950,
+              "label": "5株 @ $390.00 ($1,950)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-07-28",
+              "filing_date": "2026-07-30",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 67.97,
+              "value": 67970,
+              "label": "1,000株 @ $67.97 ($67,970)"
+            },
             {
               "type": "BUY",
               "date": "2026-07-21",
@@ -170,39 +203,6 @@
               "price": 72.65,
               "value": 72650,
               "label": "1,000株 @ $72.65 ($72,650)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-19",
-              "filing_date": "2026-07-21",
-              "actor": "Lin Shyue-Shyh",
-              "title": "VP",
-              "shares": 1000,
-              "price": 72.1,
-              "value": 72100,
-              "label": "1,000株 @ $72.10 ($72,100)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-19",
-              "filing_date": "2026-07-21",
-              "actor": "Lin Shyue-Shyh",
-              "title": "VP",
-              "shares": 1000,
-              "price": 71.32,
-              "value": 71320,
-              "label": "1,000株 @ $71.32 ($71,320)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-19",
-              "filing_date": "2026-07-21",
-              "actor": "Lin Shyue-Shyh",
-              "title": "VP",
-              "shares": 1000,
-              "price": 71.94,
-              "value": 71940,
-              "label": "1,000株 @ $71.94 ($71,940)"
             }
           ]
         },
