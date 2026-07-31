@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:58:26.645362+00:00",
+  "generated_at": "2026-07-31T01:51:22.165016+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1958,63 +1958,41 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 27,
+          "sell_count": 18,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-24",
-              "filing_date": "2026-07-28",
+              "date": "2026-07-29",
+              "filing_date": "2026-07-30",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 4093,
-              "price": 182.75,
-              "value": 747995,
-              "label": "4,093株 @ $182.75 ($747,995)"
+              "shares": 3276,
+              "price": 179.44,
+              "value": 587845,
+              "label": "3,276株 @ $179.44 ($587,845)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-24",
-              "filing_date": "2026-07-28",
+              "date": "2026-07-29",
+              "filing_date": "2026-07-30",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 5109,
-              "price": 183.55,
-              "value": 937756,
-              "label": "5,109株 @ $183.55 ($937,756)"
+              "shares": 3318,
+              "price": 180.23,
+              "value": 598003,
+              "label": "3,318株 @ $180.23 ($598,003)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-23",
-              "filing_date": "2026-07-24",
+              "date": "2026-07-28",
+              "filing_date": "2026-07-30",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 4217,
-              "price": 183.42,
-              "value": 773482,
-              "label": "4,217株 @ $183.42 ($773,482)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-22",
-              "filing_date": "2026-07-24",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 4327,
-              "price": 187.22,
-              "value": 810100,
-              "label": "4,327株 @ $187.22 ($810,100)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-22",
-              "filing_date": "2026-07-24",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2774,
-              "price": 187.94,
-              "value": 521345,
-              "label": "2,774株 @ $187.94 ($521,345)"
+              "shares": 2762,
+              "price": 182.08,
+              "value": 502904,
+              "label": "2,762株 @ $182.08 ($502,904)"
             }
           ]
         },
@@ -3658,10 +3636,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -3696,17 +3674,6 @@
               "price": 344.55,
               "value": 564364,
               "label": "1,638株 @ $344.55 ($564,364)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-06-30",
-              "actor": "MCINERNEY RYAN",
-              "title": "Chief Executive Officer",
-              "shares": 20970,
-              "price": 340.25,
-              "value": 7134967,
-              "label": "20,970株 @ $340.25 ($7,134,967)"
             }
           ]
         },
@@ -5618,24 +5585,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-06-30",
-              "actor": "ROATH LISA R",
-              "title": "Executive Officer",
-              "shares": 7000,
-              "price": 138.07,
-              "value": 966490,
-              "label": "7,000株 @ $138.07 ($966,490)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
