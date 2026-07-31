@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:01:26.747324+00:00",
+  "generated_at": "2026-07-30T23:58:26.645362+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1786,12 +1786,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "8件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 19,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-29",
+              "filing_date": "2026-07-30",
+              "actor": "Dageville Benoit",
+              "title": "Insider",
+              "shares": 50000,
+              "price": 280.0,
+              "value": 14000000,
+              "label": "50,000株 @ $280.00 ($14,000,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-21",
@@ -1890,17 +1901,6 @@
               "price": 276.26,
               "value": 13276743,
               "label": "48,058株 @ $276.26 ($13,276,743)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 2029,
-              "price": 277.03,
-              "value": 562091,
-              "label": "2,029株 @ $277.03 ($562,091)"
             }
           ]
         },
