@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:58:25.402169+00:00",
+  "generated_at": "2026-08-01T01:52:32.670405+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -573,7 +573,7 @@
             "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 22,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -630,28 +630,6 @@
               "price": 19.84,
               "value": 1229772,
               "label": "61,992株 @ $19.84 ($1,229,772)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "WALKER JOHN KENT",
-              "title": "President, Global Affairs, CLO",
-              "shares": 2400,
-              "price": 350.49,
-              "value": 841176,
-              "label": "2,400株 @ $350.49 ($841,176)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "WALKER JOHN KENT",
-              "title": "President, Global Affairs, CLO",
-              "shares": 2358,
-              "price": 351.21,
-              "value": 828153,
-              "label": "2,358株 @ $351.21 ($828,153)"
             }
           ]
         },
@@ -940,7 +918,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -975,17 +953,6 @@
               "price": 379.19,
               "value": 9479700,
               "label": "25,000株 @ $379.19 ($9,479,700)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-06-29",
-              "filing_date": "2026-07-01",
-              "actor": "PAGE JUSTINE",
-              "title": "Insider",
-              "shares": 1602,
-              "price": 373.86,
-              "value": 598915,
-              "label": "1,602株 @ $373.86 ($598,915)"
             }
           ]
         },
