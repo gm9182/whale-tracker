@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:08:01.741105+09:00",
+  "generated_at": "2026-08-03T19:44:32.757125+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -151,7 +151,7 @@
           "events": []
         }
       },
-      "score_change": 53
+      "score_change": 0
     },
     {
       "symbol": "8316",
@@ -178,7 +178,7 @@
           "score": 45,
           "detail": {
             "強気開示": "株式分割",
-            "開示件数": "5件 (直近1h以内)"
+            "開示件数": "5件 (直近3h以内)"
           },
           "evidence": 95,
           "events": [
@@ -268,7 +268,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "8411",
@@ -295,7 +295,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近2h以内)"
+            "開示件数": "5件 (直近4h以内)"
           },
           "evidence": 95,
           "events": [
@@ -385,7 +385,7 @@
           "events": []
         }
       },
-      "score_change": 72
+      "score_change": 0
     },
     {
       "symbol": "8306",
@@ -395,7 +395,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 8306.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -411,7 +411,7 @@
           "active": true,
           "score": 25,
           "detail": {
-            "開示件数": "5件 (直近2h以内)"
+            "開示件数": "5件 (直近4h以内)"
           },
           "evidence": 75,
           "events": [
@@ -501,7 +501,7 @@
           "events": []
         }
       },
-      "score_change": 40
+      "score_change": 0
     },
     {
       "symbol": "4502",
@@ -859,7 +859,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 7203.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -918,7 +918,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9432.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -977,7 +977,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 6758.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1793,7 +1793,7 @@
           "events": []
         }
       },
-      "score_change": -8
+      "score_change": 0
     },
     {
       "symbol": "6981",
@@ -3514,7 +3514,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3573,7 +3573,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4424.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3632,7 +3632,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9519.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3691,7 +3691,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5401.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3750,7 +3750,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 5713.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
