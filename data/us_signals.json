@@ -1,79 +1,8 @@
 {
-  "generated_at": "2026-08-01T23:52:43.013069+00:00",
+  "generated_at": "2026-08-03T01:50:19.473082+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
-    {
-      "symbol": "UBER",
-      "market": "US",
-      "score": 52,
-      "tier": "monitor",
-      "tier_label": "👀 MONITOR",
-      "price": 70.36,
-      "prev_close": 72.16,
-      "vol_ratio": 0.75,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 35,
-          "detail": {
-            "最大買付": "Insider: $20,000,000",
-            "10%超保有者": "1件の買い"
-          },
-          "buy_count": 1,
-          "sell_count": 0,
-          "evidence": 75,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-07-02",
-              "filing_date": "2026-07-02",
-              "actor": "Uber Technologies, Inc",
-              "title": "10% Owner",
-              "shares": 800000,
-              "price": 25.0,
-              "value": 20000000,
-              "label": "800,000株 @ $25.00 ($20,000,000)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "TSM",
       "market": "US",
@@ -787,11 +716,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -1547,79 +1476,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 18,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 21130,
-              "price": 68.14,
-              "value": 1439798,
-              "label": "21,130株 @ $68.14 ($1,439,798)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 9840,
-              "price": 69.22,
-              "value": 681124,
-              "label": "9,840株 @ $69.22 ($681,124)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 15550,
-              "price": 70.43,
-              "value": 1095186,
-              "label": "15,550株 @ $70.43 ($1,095,186)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "HUSTON BENJAMIN E.",
-              "title": "Chief Operating Officer",
-              "shares": 17562,
-              "price": 68.14,
-              "value": 1196674,
-              "label": "17,562株 @ $68.14 ($1,196,674)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "HUSTON BENJAMIN E.",
-              "title": "Chief Operating Officer",
-              "shares": 8200,
-              "price": 69.22,
-              "value": 567604,
-              "label": "8,200株 @ $69.22 ($567,604)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "HUSTON BENJAMIN E.",
-              "title": "Chief Operating Officer",
-              "shares": 12960,
-              "price": 70.44,
-              "value": 912902,
-              "label": "12,960株 @ $70.44 ($912,902)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -2355,7 +2217,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 13,
           "evidence": 40,
           "events": [
             {
@@ -2678,6 +2540,64 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "UBER",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 70.36,
+      "prev_close": 72.16,
+      "vol_ratio": 0.75,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間にシグナルなし"
+          },
+          "evidence": 0,
+          "buy_count": 0,
+          "sell_count": 0,
+          "events": []
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -52
     },
     {
       "symbol": "LYFT",
@@ -3603,10 +3523,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -3641,28 +3561,6 @@
               "price": 360.0,
               "value": 729720,
               "label": "2,027株 @ $360.00 ($729,720)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "MCINERNEY RYAN",
-              "title": "Chief Executive Officer",
-              "shares": 8852,
-              "price": 343.88,
-              "value": 3044069,
-              "label": "8,852株 @ $343.88 ($3,044,069)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "MCINERNEY RYAN",
-              "title": "Chief Executive Officer",
-              "shares": 1638,
-              "price": 344.55,
-              "value": 564364,
-              "label": "1,638株 @ $344.55 ($564,364)"
             }
           ]
         },
@@ -3717,10 +3615,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "8件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 12,
           "evidence": 40,
           "events": [
             {
@@ -3799,39 +3697,6 @@
               "price": 538.82,
               "value": 586771,
               "label": "1,089株 @ $538.82 ($586,771)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-02",
-              "filing_date": "2026-07-02",
-              "actor": "Seshadri Raj",
-              "title": "Chief Commercial Pmts Officer",
-              "shares": 1977,
-              "price": 529.73,
-              "value": 1047276,
-              "label": "1,977株 @ $529.73 ($1,047,276)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "Seshadri Raj",
-              "title": "Chief Commercial Pmts Officer",
-              "shares": 4828,
-              "price": 525.0,
-              "value": 2534700,
-              "label": "4,828株 @ $525.00 ($2,534,700)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-01",
-              "filing_date": "2026-07-02",
-              "actor": "McLaughlin Edward Grunde",
-              "title": "President &amp; CTO, MA Tech",
-              "shares": 14260,
-              "price": 525.19,
-              "value": 7489186,
-              "label": "14,260株 @ $525.19 ($7,489,186)"
             }
           ]
         },
@@ -5519,7 +5384,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
