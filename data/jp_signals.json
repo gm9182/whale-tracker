@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:44:57.855573+09:00",
+  "generated_at": "2026-08-04T01:26:40.566670+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -11,7 +11,7 @@
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 8035.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "10件 (直近72h以内)"
+            "開示件数": "5件 (直近9h以内)"
           },
           "evidence": 95,
           "events": [
@@ -86,39 +86,6 @@
               "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803506440.pdf",
               "is_bullish": true,
               "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "東エレク",
-              "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630584086.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "東エレク",
-              "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630584086.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "東エレク",
-              "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260630584086.pdf",
-              "is_bullish": false,
-              "is_bearish": false
             }
           ],
           "direction": "bullish"
@@ -161,7 +128,7 @@
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 8316.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -178,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "株式分割",
-            "開示件数": "5件 (直近6h以内)"
+            "開示件数": "5件 (直近8h以内)"
           },
           "evidence": 95,
           "events": [
@@ -295,7 +262,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近7h以内)"
+            "開示件数": "5件 (直近9h以内)"
           },
           "evidence": 95,
           "events": [
@@ -411,7 +378,7 @@
           "active": true,
           "score": 25,
           "detail": {
-            "開示件数": "5件 (直近7h以内)"
+            "開示件数": "5件 (直近9h以内)"
           },
           "evidence": 75,
           "events": [
@@ -467,354 +434,6 @@
               "title": "決算短信",
               "label": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
               "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260731505851.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4502",
-      "name": "武田薬品工業",
-      "market": "JP",
-      "score": 19,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4502.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 12,
-          "detail": {
-            "開示件数": "5件 (直近72h以内)"
-          },
-          "evidence": 62,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "武田薬",
-              "title": "決算短信",
-              "label": "2027年3月期　第1四半期決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260730502934.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "武田薬",
-              "title": "決算短信",
-              "label": "2027年3月期　第1四半期決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260730502934.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "武田薬",
-              "title": "決算短信",
-              "label": "2027年3月期　第1四半期決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260730502934.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "武田薬",
-              "title": "決算短信",
-              "label": "2027年3月期　第1四半期決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260730502934.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "武田薬",
-              "title": "決算短信",
-              "label": "2027年3月期　第1四半期決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260730502934.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4661",
-      "name": "オリエンタルランド",
-      "market": "JP",
-      "score": 19,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4661.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 12,
-          "detail": {
-            "開示件数": "5件 (直近72h以内)"
-          },
-          "evidence": 62,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "ＯＬＣ",
-              "title": "決算短信",
-              "label": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501736.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "ＯＬＣ",
-              "title": "決算短信",
-              "label": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501736.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "ＯＬＣ",
-              "title": "決算短信",
-              "label": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501736.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "ＯＬＣ",
-              "title": "決算短信",
-              "label": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501736.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 16:00:00",
-              "actor": "ＯＬＣ",
-              "title": "決算短信",
-              "label": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501736.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4307",
-      "name": "野村総研",
-      "market": "JP",
-      "score": 19,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4307.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 12,
-          "detail": {
-            "開示件数": "5件 (直近72h以内)"
-          },
-          "evidence": 62,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "ＮＲＩ",
-              "title": "決算短信",
-              "label": "2027年3月期 第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501398.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "ＮＲＩ",
-              "title": "決算短信",
-              "label": "2027年3月期 第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501398.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "ＮＲＩ",
-              "title": "決算短信",
-              "label": "2027年3月期 第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501398.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "ＮＲＩ",
-              "title": "決算短信",
-              "label": "2027年3月期 第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501398.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-30 15:30:00",
-              "actor": "ＮＲＩ",
-              "title": "決算短信",
-              "label": "2027年3月期 第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260729501398.pdf",
               "is_bullish": false,
               "is_bearish": false
             }
@@ -1095,7 +714,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6861.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1154,7 +773,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7974.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1213,7 +832,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4063.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1272,7 +891,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6098.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1381,6 +1000,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4502",
+      "name": "武田薬品工業",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4502.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -19
     },
     {
       "symbol": "7267",
@@ -2681,6 +2359,65 @@
       "score_change": 0
     },
     {
+      "symbol": "4661",
+      "name": "オリエンタルランド",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4661.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -19
+    },
+    {
       "symbol": "4385",
       "name": "メルカリ",
       "market": "JP",
@@ -2915,6 +2652,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4307",
+      "name": "野村総研",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4307.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -19
     },
     {
       "symbol": "4751",
@@ -3514,7 +3310,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3573,7 +3369,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4424.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3632,7 +3428,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3691,7 +3487,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5401.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3750,7 +3546,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5713.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3809,7 +3605,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3868,7 +3664,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 1605.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
