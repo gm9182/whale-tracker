@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T11:21:28.534880+09:00",
+  "generated_at": "2026-08-04T14:47:18.452579+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近19h以内)"
+            "開示件数": "5件 (直近23h以内)"
           },
           "evidence": 95,
           "events": [
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "株式分割",
-            "開示件数": "5件 (直近18h以内)"
+            "開示件数": "5件 (直近22h以内)"
           },
           "evidence": 95,
           "events": [
@@ -245,7 +245,7 @@
       "tier": "watch",
       "tier_label": "⭐ WATCH",
       "price": 0,
-      "prev_close": 8411.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -262,7 +262,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近19h以内)"
+            "開示件数": "5件 (直近23h以内)"
           },
           "evidence": 95,
           "events": [
@@ -355,6 +355,90 @@
       "score_change": 0
     },
     {
+      "symbol": "8766",
+      "name": "東京海上ホールディングス",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 8766.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "2件 (直近4h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 11:00:00",
+              "actor": "東京海上",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ（2026年5月20日開催の取締役会決議分）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507381.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 11:00:00",
+              "actor": "東京海上",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況および取得終了に関するお知らせ（2026年3月23日開催の取締役会決議分）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507347.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
+    {
       "symbol": "8306",
       "name": "三菱UFJフィナンシャル",
       "market": "JP",
@@ -378,7 +462,7 @@
           "active": true,
           "score": 25,
           "detail": {
-            "開示件数": "5件 (直近19h以内)"
+            "開示件数": "5件 (直近23h以内)"
           },
           "evidence": 75,
           "events": [
@@ -474,7 +558,7 @@
       "symbol": "7203",
       "name": "トヨタ自動車",
       "market": "JP",
-      "score": 0,
+      "score": 8,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -491,13 +575,26 @@
           "events": []
         },
         "tdnet": {
-          "active": false,
-          "score": 0,
+          "active": true,
+          "score": 5,
           "detail": {
-            "event": "適時開示なし"
+            "開示件数": "1件 (直近1h以内)"
           },
-          "evidence": 0,
-          "events": []
+          "evidence": 55,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 14:00:00",
+              "actor": "トヨタ自",
+              "title": "決算短信",
+              "label": "2027年3月期 第1四半期決算短信〔IFRS〕（連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260730503849.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
         },
         "volume": {
           "active": false,
@@ -527,7 +624,79 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": 8
+    },
+    {
+      "symbol": "7011",
+      "name": "三菱重工業",
+      "market": "JP",
+      "score": 8,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 7011.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 5,
+          "detail": {
+            "開示件数": "1件 (直近1h以内)"
+          },
+          "evidence": 55,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 13:30:00",
+              "actor": "三菱重",
+              "title": "決算短信",
+              "label": "2027年３月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260726599663.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 8
     },
     {
       "symbol": "9432",
@@ -950,7 +1119,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9433.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1009,7 +1178,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4502.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1068,7 +1237,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7267.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1127,7 +1296,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6594.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1186,7 +1355,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7741.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1651,65 +1820,6 @@
       "score_change": 0
     },
     {
-      "symbol": "7011",
-      "name": "三菱重工業",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 7011.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "4519",
       "name": "中外製薬",
       "market": "JP",
@@ -1718,65 +1828,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 4519.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "8766",
-      "name": "東京海上ホールディングス",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8766.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3369,7 +3420,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4424.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3428,7 +3479,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3487,7 +3538,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5401.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3546,7 +3597,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5713.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3605,7 +3656,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
