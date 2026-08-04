@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T00:05:33.123891+00:00",
+  "generated_at": "2026-08-04T02:18:08.390673+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1615,12 +1615,45 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "8件の$1M+売却"
+            "大型売却警戒": "11件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 22,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-31",
+              "filing_date": "2026-08-03",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 20000,
+              "price": 300.0,
+              "value": 6000000,
+              "label": "20,000株 @ $300.00 ($6,000,000)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-31",
+              "filing_date": "2026-08-03",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 5000,
+              "price": 300.0,
+              "value": 1500000,
+              "label": "5,000株 @ $300.00 ($1,500,000)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-07-31",
+              "filing_date": "2026-08-03",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 4986,
+              "price": 300.0,
+              "value": 1495800,
+              "label": "4,986株 @ $300.00 ($1,495,800)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-29",
@@ -1697,39 +1730,6 @@
               "price": 273.47,
               "value": 9999904,
               "label": "36,567株 @ $273.47 ($9,999,904)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 95030,
-              "price": 274.51,
-              "value": 26086685,
-              "label": "95,030株 @ $274.51 ($26,086,685)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 59978,
-              "price": 275.39,
-              "value": 16517401,
-              "label": "59,978株 @ $275.39 ($16,517,401)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 48058,
-              "price": 276.26,
-              "value": 13276743,
-              "label": "48,058株 @ $276.26 ($13,276,743)"
             }
           ]
         },
@@ -1787,9 +1787,20 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 33,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-07-31",
+              "filing_date": "2026-08-03",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2685,
+              "price": 190.88,
+              "value": 512512,
+              "label": "2,685株 @ $190.88 ($512,512)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-29",
