@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:59:19.907812+00:00",
+  "generated_at": "2026-08-05T01:32:29.666085+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1907,55 +1907,44 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 33,
+          "sell_count": 22,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-31",
-              "filing_date": "2026-08-03",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2685,
-              "price": 190.88,
-              "value": 512512,
-              "label": "2,685株 @ $190.88 ($512,512)"
+              "date": "2026-08-03",
+              "filing_date": "2026-08-04",
+              "actor": "Podbere Burt W.",
+              "title": "CHIEF FINANCIAL OFFICER",
+              "shares": 7602,
+              "price": 194.34,
+              "value": 1477372,
+              "label": "7,602株 @ $194.34 ($1,477,372)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-29",
-              "filing_date": "2026-07-30",
+              "date": "2026-08-03",
+              "filing_date": "2026-08-04",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 3276,
-              "price": 179.44,
-              "value": 587845,
-              "label": "3,276株 @ $179.44 ($587,845)"
+              "shares": 14195,
+              "price": 193.81,
+              "value": 2751132,
+              "label": "14,195株 @ $193.81 ($2,751,132)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-29",
-              "filing_date": "2026-07-30",
+              "date": "2026-08-03",
+              "filing_date": "2026-08-04",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 3318,
-              "price": 180.23,
-              "value": 598003,
-              "label": "3,318株 @ $180.23 ($598,003)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-28",
-              "filing_date": "2026-07-30",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2762,
-              "price": 182.08,
-              "value": 502904,
-              "label": "2,762株 @ $182.08 ($502,904)"
+              "shares": 3555,
+              "price": 202.27,
+              "value": 719069,
+              "label": "3,555株 @ $202.27 ($719,069)"
             }
           ]
         },
