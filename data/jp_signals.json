@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:03:12.844341+09:00",
+  "generated_at": "2026-08-05T16:40:53.615169+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近46h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 95,
           "events": [
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "株式分割",
-            "開示件数": "5件 (直近45h以内)"
+            "開示件数": "5件 (直近48h以内)"
           },
           "evidence": 95,
           "events": [
@@ -262,7 +262,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近46h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 95,
           "events": [
@@ -379,7 +379,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近23h以内)"
+            "開示件数": "5件 (直近25h以内)"
           },
           "evidence": 95,
           "events": [
@@ -496,7 +496,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近23h以内)"
+            "開示件数": "5件 (直近25h以内)"
           },
           "evidence": 95,
           "events": [
@@ -589,14 +589,14 @@
       "score_change": 0
     },
     {
-      "symbol": "4475",
-      "name": "HENNGE",
+      "symbol": "4385",
+      "name": "メルカリ",
       "market": "JP",
       "score": 40,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 4385.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -612,62 +612,62 @@
           "active": true,
           "score": 25,
           "detail": {
-            "開示件数": "5件 (直近23h以内)"
+            "開示件数": "5件 (直近1h以内)"
           },
           "evidence": 75,
           "events": [
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 15:30:00",
+              "actor": "メルカリ",
               "title": "決算短信",
-              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 15:30:00",
+              "actor": "メルカリ",
               "title": "決算短信",
-              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 15:30:00",
+              "actor": "メルカリ",
               "title": "決算短信",
-              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 15:30:00",
+              "actor": "メルカリ",
               "title": "決算短信",
-              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 15:30:00",
+              "actor": "メルカリ",
               "title": "決算短信",
-              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
               "is_bullish": false,
               "is_bearish": false
             }
@@ -702,17 +702,17 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": 40
     },
     {
-      "symbol": "5401",
-      "name": "日本製鉄",
+      "symbol": "4477",
+      "name": "BASE",
       "market": "JP",
       "score": 40,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4477.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -728,62 +728,62 @@
           "active": true,
           "score": 25,
           "detail": {
-            "開示件数": "5件 (直近23h以内)"
+            "開示件数": "5件 (直近0h以内)"
           },
           "evidence": 75,
           "events": [
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "日本製鉄",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 16:20:00",
+              "actor": "Ｇ－ＢＡＳＥ",
               "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "日本製鉄",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 16:20:00",
+              "actor": "Ｇ－ＢＡＳＥ",
               "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "日本製鉄",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 16:20:00",
+              "actor": "Ｇ－ＢＡＳＥ",
               "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "日本製鉄",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 16:20:00",
+              "actor": "Ｇ－ＢＡＳＥ",
               "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-04 15:30:00",
-              "actor": "日本製鉄",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05 16:20:00",
+              "actor": "Ｇ－ＢＡＳＥ",
               "title": "決算短信",
-              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
               "is_bullish": false,
               "is_bearish": false
             }
@@ -818,91 +818,7 @@
           "events": []
         }
       },
-      "score_change": 0
-    },
-    {
-      "symbol": "9101",
-      "name": "日本郵船",
-      "market": "JP",
-      "score": 37,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 9101.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 23,
-          "detail": {
-            "強気開示": "増配・配当変更",
-            "開示件数": "2件 (直近2h以内)"
-          },
-          "evidence": 73,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 12:00:00",
-              "actor": "郵船",
-              "title": "決算短信",
-              "label": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508407.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 12:00:00",
-              "actor": "郵船",
-              "title": "増配・配当変更",
-              "label": "2027年３月期 配当予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805509362.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 37
+      "score_change": 40
     },
     {
       "symbol": "8306",
@@ -928,7 +844,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近46h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 69,
           "events": [
@@ -1019,6 +935,238 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4475",
+      "name": "HENNGE",
+      "market": "JP",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4475.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 19,
+          "detail": {
+            "開示件数": "5件 (直近25h以内)"
+          },
+          "evidence": 69,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期 第3四半期決算短信〔日本基準〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260803507607.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -10
+    },
+    {
+      "symbol": "5401",
+      "name": "日本製鉄",
+      "market": "JP",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 19,
+          "detail": {
+            "開示件数": "5件 (直近25h以内)"
+          },
+          "evidence": 69,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "日本製鉄",
+              "title": "決算短信",
+              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "日本製鉄",
+              "title": "決算短信",
+              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "日本製鉄",
+              "title": "決算短信",
+              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "日本製鉄",
+              "title": "決算短信",
+              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-04 15:30:00",
+              "actor": "日本製鉄",
+              "title": "決算短信",
+              "label": "2027年3月期第1四半期決算短信〔ＩＦＲＳ〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260728501102.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -10
     },
     {
       "symbol": "7203",
@@ -2614,6 +2762,65 @@
       "score_change": 0
     },
     {
+      "symbol": "9101",
+      "name": "日本郵船",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9101.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -37
+    },
+    {
       "symbol": "9104",
       "name": "商船三井",
       "market": "JP",
@@ -2909,65 +3116,6 @@
       "score_change": 0
     },
     {
-      "symbol": "4385",
-      "name": "メルカリ",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4385.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "3659",
       "name": "ネクソン",
       "market": "JP",
@@ -2976,65 +3124,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 3659.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4477",
-      "name": "BASE",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4477.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
