@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:53:53.522839+00:00",
+  "generated_at": "2026-08-05T23:53:13.489065+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -83,7 +83,7 @@
           "evidence": 0
         }
       },
-      "score_change": 51
+      "score_change": 0
     },
     {
       "symbol": "TSM",
@@ -2094,121 +2094,110 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "11件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 37,
+          "sell_count": 28,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-17",
-              "filing_date": "2026-07-17",
-              "actor": "SEIFERT THOMAS J",
-              "title": "Chief Financial Officer",
-              "shares": 3299,
-              "price": 277.68,
-              "value": 916056,
-              "label": "3,299株 @ $277.68 ($916,056)"
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 4334,
+              "price": 295.05,
+              "value": 1278740,
+              "label": "4,334株 @ $295.05 ($1,278,740)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 3257,
-              "price": 283.69,
-              "value": 923974,
-              "label": "3,257株 @ $283.69 ($923,974)"
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 5602,
+              "price": 295.75,
+              "value": 1656788,
+              "label": "5,602株 @ $295.75 ($1,656,788)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 5248,
-              "price": 284.68,
-              "value": 1494017,
-              "label": "5,248株 @ $284.68 ($1,494,017)"
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 2841,
+              "price": 296.83,
+              "value": 843284,
+              "label": "2,841株 @ $296.83 ($843,284)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 7201,
-              "price": 285.81,
-              "value": 2058081,
-              "label": "7,201株 @ $285.81 ($2,058,081)"
+              "date": "2026-08-04",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 2765,
+              "price": 295.77,
+              "value": 817809,
+              "label": "2,765株 @ $295.77 ($817,809)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 8444,
-              "price": 286.66,
-              "value": 2420541,
-              "label": "8,444株 @ $286.66 ($2,420,541)"
+              "date": "2026-08-04",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 3538,
+              "price": 296.73,
+              "value": 1049838,
+              "label": "3,538株 @ $296.73 ($1,049,838)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 6912,
-              "price": 289.07,
-              "value": 1998034,
-              "label": "6,912株 @ $289.07 ($1,998,034)"
+              "date": "2026-08-04",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 6984,
+              "price": 297.49,
+              "value": 2077682,
+              "label": "6,984株 @ $297.49 ($2,077,682)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 1957,
-              "price": 273.95,
-              "value": 536125,
-              "label": "1,957株 @ $273.95 ($536,125)"
+              "date": "2026-08-04",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 1820,
+              "price": 299.8,
+              "value": 545644,
+              "label": "1,820株 @ $299.80 ($545,644)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 2194,
-              "price": 275.02,
-              "value": 603401,
-              "label": "2,194株 @ $275.02 ($603,401)"
+              "date": "2026-08-04",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 5191,
+              "price": 302.09,
+              "value": 1568146,
+              "label": "5,191株 @ $302.09 ($1,568,146)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 2671,
-              "price": 276.93,
-              "value": 739678,
-              "label": "2,671株 @ $276.93 ($739,678)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-15",
-              "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 5093,
-              "price": 280.13,
-              "value": 1426697,
-              "label": "5,093株 @ $280.13 ($1,426,697)"
+              "date": "2026-08-04",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 6038,
+              "price": 302.97,
+              "value": 1829314,
+              "label": "6,038株 @ $302.97 ($1,829,314)"
             }
           ]
         },
