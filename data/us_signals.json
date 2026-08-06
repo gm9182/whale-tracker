@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:53:13.489065+00:00",
+  "generated_at": "2026-08-06T01:29:36.064742+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1708,7 +1708,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 29,
+          "sell_count": 15,
           "evidence": 40,
           "events": [
             {
@@ -1844,12 +1844,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "11件の$1M+売却"
+            "大型売却警戒": "13件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 22,
+          "sell_count": 24,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-03",
+              "filing_date": "2026-08-05",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 5000,
+              "price": 293.99,
+              "value": 1469950,
+              "label": "5,000株 @ $293.99 ($1,469,950)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-03",
+              "filing_date": "2026-08-05",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 5000,
+              "price": 300.0,
+              "value": 1500000,
+              "label": "5,000株 @ $300.00 ($1,500,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-31",
@@ -1937,28 +1959,6 @@
               "price": 271.42,
               "value": 3081137,
               "label": "11,352株 @ $271.42 ($3,081,137)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 25182,
-              "price": 272.31,
-              "value": 6857411,
-              "label": "25,182株 @ $272.31 ($6,857,411)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 36567,
-              "price": 273.47,
-              "value": 9999904,
-              "label": "36,567株 @ $273.47 ($9,999,904)"
             }
           ]
         },
@@ -2094,12 +2094,67 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "6件の$1M+売却"
+            "大型売却警戒": "9件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 28,
+          "sell_count": 40,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 2352,
+              "price": 291.57,
+              "value": 685761,
+              "label": "2,352株 @ $291.57 ($685,761)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 7578,
+              "price": 295.05,
+              "value": 2235889,
+              "label": "7,578株 @ $295.05 ($2,235,889)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 9998,
+              "price": 295.76,
+              "value": 2956964,
+              "label": "9,998株 @ $295.76 ($2,956,964)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 4798,
+              "price": 296.83,
+              "value": 1424189,
+              "label": "4,798株 @ $296.83 ($1,424,189)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-05",
+              "actor": "Prince Matthew",
+              "title": "CEO &amp; Board Co-Chair",
+              "shares": 2865,
+              "price": 297.81,
+              "value": 853233,
+              "label": "2,865株 @ $297.81 ($853,233)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-05",
@@ -2154,50 +2209,6 @@
               "price": 296.73,
               "value": 1049838,
               "label": "3,538株 @ $296.73 ($1,049,838)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-05",
-              "actor": "Prince Matthew",
-              "title": "CEO &amp; Board Co-Chair",
-              "shares": 6984,
-              "price": 297.49,
-              "value": 2077682,
-              "label": "6,984株 @ $297.49 ($2,077,682)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-05",
-              "actor": "Prince Matthew",
-              "title": "CEO &amp; Board Co-Chair",
-              "shares": 1820,
-              "price": 299.8,
-              "value": 545644,
-              "label": "1,820株 @ $299.80 ($545,644)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-05",
-              "actor": "Prince Matthew",
-              "title": "CEO &amp; Board Co-Chair",
-              "shares": 5191,
-              "price": 302.09,
-              "value": 1568146,
-              "label": "5,191株 @ $302.09 ($1,568,146)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-05",
-              "actor": "Prince Matthew",
-              "title": "CEO &amp; Board Co-Chair",
-              "shares": 6038,
-              "price": 302.97,
-              "value": 1829314,
-              "label": "6,038株 @ $302.97 ($1,829,314)"
             }
           ]
         },
@@ -3791,7 +3802,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -3815,17 +3826,6 @@
               "price": 364.81,
               "value": 7292940,
               "label": "19,991株 @ $364.81 ($7,292,940)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-02",
-              "filing_date": "2026-07-06",
-              "actor": "ROTTENBERG JULIE B",
-              "title": "GENERAL COUNSEL",
-              "shares": 2027,
-              "price": 360.0,
-              "value": 729720,
-              "label": "2,027株 @ $360.00 ($729,720)"
             }
           ]
         },
