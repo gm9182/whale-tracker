@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T15:13:52.835260+09:00",
+  "generated_at": "2026-08-07T17:19:15.847080+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -241,7 +241,7 @@
       "symbol": "8306",
       "name": "三菱UFJフィナンシャル",
       "market": "JP",
-      "score": 40,
+      "score": 30,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -259,11 +259,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 25,
+          "score": 19,
           "detail": {
-            "開示件数": "5件 (直近23h以内)"
+            "開示件数": "5件 (直近25h以内)"
           },
-          "evidence": 75,
+          "evidence": 69,
           "events": [
             {
               "type": "EARNINGS",
@@ -351,13 +351,13 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -10
     },
     {
       "symbol": "6920",
       "name": "レーザーテック",
       "market": "JP",
-      "score": 40,
+      "score": 30,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -375,11 +375,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 25,
+          "score": 19,
           "detail": {
-            "開示件数": "5件 (直近23h以内)"
+            "開示件数": "5件 (直近26h以内)"
           },
-          "evidence": 75,
+          "evidence": 69,
           "events": [
             {
               "type": "EARNINGS",
@@ -467,7 +467,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -10
     },
     {
       "symbol": "4385",
@@ -493,7 +493,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近48h以内)"
+            "開示件数": "5件 (直近50h以内)"
           },
           "evidence": 69,
           "events": [
@@ -609,7 +609,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近47h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 69,
           "events": [
@@ -705,7 +705,7 @@
       "symbol": "4475",
       "name": "HENNGE",
       "market": "JP",
-      "score": 30,
+      "score": 19,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -723,11 +723,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 19,
+          "score": 12,
           "detail": {
             "開示件数": "5件 (直近72h以内)"
           },
-          "evidence": 69,
+          "evidence": 62,
           "events": [
             {
               "type": "EARNINGS",
@@ -815,13 +815,13 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -11
     },
     {
       "symbol": "5401",
       "name": "日本製鉄",
       "market": "JP",
-      "score": 30,
+      "score": 19,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -839,11 +839,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 19,
+          "score": 12,
           "detail": {
             "開示件数": "5件 (直近72h以内)"
           },
-          "evidence": 69,
+          "evidence": 62,
           "events": [
             {
               "type": "EARNINGS",
@@ -931,7 +931,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -11
     },
     {
       "symbol": "7203",
@@ -2760,7 +2760,7 @@
           "events": []
         }
       },
-      "score_change": -40
+      "score_change": 0
     },
     {
       "symbol": "5803",
@@ -3881,7 +3881,7 @@
           "events": []
         }
       },
-      "score_change": -40
+      "score_change": 0
     },
     {
       "symbol": "1605",
