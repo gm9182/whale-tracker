@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:23:31.991254+00:00",
+  "generated_at": "2026-08-07T06:10:12.776718+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2013,10 +2013,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 26,
           "evidence": 40,
           "events": [
             {
@@ -2040,6 +2040,39 @@
               "price": 213.11,
               "value": 895914,
               "label": "4,204株 @ $213.11 ($895,914)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-06",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 3536,
+              "price": 209.28,
+              "value": 740014,
+              "label": "3,536株 @ $209.28 ($740,014)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-06",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 8992,
+              "price": 209.94,
+              "value": 1887780,
+              "label": "8,992株 @ $209.94 ($1,887,780)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-04",
+              "filing_date": "2026-08-06",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 5435,
+              "price": 211.04,
+              "value": 1147002,
+              "label": "5,435株 @ $211.04 ($1,147,002)"
             },
             {
               "type": "SELL",
