@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:31:14.173769+00:00",
+  "generated_at": "2026-08-08T00:51:39.052246+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1248,9 +1248,20 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-07",
+              "actor": "Stat Lauren Elaina Friedman",
+              "title": "Insider",
+              "shares": 3032,
+              "price": 165.0,
+              "value": 500280,
+              "label": "3,032株 @ $165.00 ($500,280)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-15",
@@ -4740,11 +4751,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -6242,7 +6253,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
