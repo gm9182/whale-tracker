@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:16:47.598510+00:00",
+  "generated_at": "2026-08-10T11:48:19.999374+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -99,12 +99,89 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "3名が直近期間に買付"
+            "クラスターバイ": "8名が直近期間に買付"
           },
-          "buy_count": 15,
-          "sell_count": 1,
+          "buy_count": 16,
+          "sell_count": 0,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
+              "actor": "Chuang Juiping",
+              "title": "VP",
+              "shares": 49,
+              "price": 73.31,
+              "value": 3592,
+              "label": "49株 @ $73.31 ($3,592)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
+              "actor": "Fang Shu-Hua",
+              "title": "SVP and GC",
+              "shares": 57,
+              "price": 73.31,
+              "value": 4178,
+              "label": "57株 @ $73.31 ($4,178)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
+              "actor": "Chang Tzonz-Sheng",
+              "title": "SVP",
+              "shares": 54,
+              "price": 73.31,
+              "value": 3958,
+              "label": "54株 @ $73.31 ($3,958)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
+              "actor": "Chen Chih-Ho",
+              "title": "Controller",
+              "shares": 33,
+              "price": 73.31,
+              "value": 2419,
+              "label": "33株 @ $73.31 ($2,419)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
+              "actor": "Chen Pei-Hung",
+              "title": "VP",
+              "shares": 46,
+              "price": 73.31,
+              "value": 3372,
+              "label": "46株 @ $73.31 ($3,372)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
+              "actor": "Cao Min",
+              "title": "VP",
+              "shares": 55,
+              "price": 73.31,
+              "value": 4032,
+              "label": "55株 @ $73.31 ($4,032)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
+              "actor": "Chin Yung-Pei",
+              "title": "EVP and Co-COO",
+              "shares": 72,
+              "price": 73.31,
+              "value": 5278,
+              "label": "72株 @ $73.31 ($5,278)"
+            },
             {
               "type": "BUY",
               "date": "2026-08-03",
@@ -137,83 +214,6 @@
               "price": 390.0,
               "value": 1950,
               "label": "5株 @ $390.00 ($1,950)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-28",
-              "filing_date": "2026-07-30",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 67.97,
-              "value": 67970,
-              "label": "1,000株 @ $67.97 ($67,970)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-23",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 74.13,
-              "value": 74130,
-              "label": "1,000株 @ $74.13 ($74,130)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-23",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 73.98,
-              "value": 73980,
-              "label": "1,000株 @ $73.98 ($73,980)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-23",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 74.44,
-              "value": 74440,
-              "label": "1,000株 @ $74.44 ($74,440)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-23",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 74.75,
-              "value": 74750,
-              "label": "1,000株 @ $74.75 ($74,750)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-22",
-              "actor": "Lin Shyue-Shyh",
-              "title": "VP",
-              "shares": 1000,
-              "price": 74.13,
-              "value": 74130,
-              "label": "1,000株 @ $74.13 ($74,130)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-23",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 10,
-              "price": 405.0,
-              "value": 4050,
-              "label": "10株 @ $405.00 ($4,050)"
             }
           ]
         },
