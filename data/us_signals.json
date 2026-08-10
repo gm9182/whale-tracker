@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:24:00.288563+00:00",
+  "generated_at": "2026-08-10T00:57:32.136811+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1153,10 +1153,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -1169,28 +1169,6 @@
               "price": 401.33,
               "value": 10033225,
               "label": "25,000株 @ $401.33 ($10,033,225)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-08",
-              "filing_date": "2026-07-10",
-              "actor": "DELLY GAYLA J",
-              "title": "Insider",
-              "shares": 1890,
-              "price": 385.38,
-              "value": 728368,
-              "label": "1,890株 @ $385.38 ($728,368)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-08",
-              "filing_date": "2026-07-10",
-              "actor": "Brazeal Mark David",
-              "title": "Chief Legal &amp; Corp Affairs Ofc",
-              "shares": 25000,
-              "price": 379.19,
-              "value": 9479700,
-              "label": "25,000株 @ $379.19 ($9,479,700)"
             }
           ]
         },
@@ -1661,7 +1639,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {

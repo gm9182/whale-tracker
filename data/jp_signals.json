@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-09T08:28:03.032190+09:00",
+  "generated_at": "2026-08-10T10:01:21.524132+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
     {
-      "symbol": "4385",
-      "name": "メルカリ",
+      "symbol": "8306",
+      "name": "三菱UFJフィナンシャル",
       "market": "JP",
       "score": 19,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4385.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -33,56 +33,56 @@
           "events": [
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 15:30:00",
-              "actor": "メルカリ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 16:00:00",
+              "actor": "三菱ＵＦＪ",
               "title": "決算短信",
-              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
+              "label": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）（公認会計士又は監査法人による期中レビューの完了）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510381.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 15:30:00",
-              "actor": "メルカリ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 16:00:00",
+              "actor": "三菱ＵＦＪ",
               "title": "決算短信",
-              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
+              "label": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）（公認会計士又は監査法人による期中レビューの完了）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510381.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 15:30:00",
-              "actor": "メルカリ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 16:00:00",
+              "actor": "三菱ＵＦＪ",
               "title": "決算短信",
-              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
+              "label": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）（公認会計士又は監査法人による期中レビューの完了）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510381.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 15:30:00",
-              "actor": "メルカリ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 16:00:00",
+              "actor": "三菱ＵＦＪ",
               "title": "決算短信",
-              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
+              "label": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）（公認会計士又は監査法人による期中レビューの完了）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510381.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 15:30:00",
-              "actor": "メルカリ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 16:00:00",
+              "actor": "三菱ＵＦＪ",
               "title": "決算短信",
-              "label": "2026年6月期 決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260804508114.pdf",
+              "label": "2027年3月期 第1四半期決算短信〔日本基準〕（連結）（公認会計士又は監査法人による期中レビューの完了）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510381.pdf",
               "is_bullish": false,
               "is_bearish": false
             }
@@ -117,17 +117,17 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": 19
     },
     {
-      "symbol": "4477",
-      "name": "BASE",
+      "symbol": "6920",
+      "name": "レーザーテック",
       "market": "JP",
       "score": 19,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4477.0,
+      "prev_close": 6920.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -149,56 +149,56 @@
           "events": [
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 16:20:00",
-              "actor": "Ｇ－ＢＡＳＥ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 15:45:00",
+              "actor": "レーザーテック",
               "title": "決算短信",
-              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
+              "label": "2026年6月期　決算短信〔日本基準〕　（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260806511603.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 16:20:00",
-              "actor": "Ｇ－ＢＡＳＥ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 15:45:00",
+              "actor": "レーザーテック",
               "title": "決算短信",
-              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
+              "label": "2026年6月期　決算短信〔日本基準〕　（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260806511603.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 16:20:00",
-              "actor": "Ｇ－ＢＡＳＥ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 15:45:00",
+              "actor": "レーザーテック",
               "title": "決算短信",
-              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
+              "label": "2026年6月期　決算短信〔日本基準〕　（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260806511603.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 16:20:00",
-              "actor": "Ｇ－ＢＡＳＥ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 15:45:00",
+              "actor": "レーザーテック",
               "title": "決算短信",
-              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
+              "label": "2026年6月期　決算短信〔日本基準〕　（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260806511603.pdf",
               "is_bullish": false,
               "is_bearish": false
             },
             {
               "type": "EARNINGS",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05 16:20:00",
-              "actor": "Ｇ－ＢＡＳＥ",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-06 15:45:00",
+              "actor": "レーザーテック",
               "title": "決算短信",
-              "label": "2026年12月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260805510378.pdf",
+              "label": "2026年6月期　決算短信〔日本基準〕　（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260806511603.pdf",
               "is_bullish": false,
               "is_bearish": false
             }
@@ -233,7 +233,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": 19
     },
     {
       "symbol": "7203",
@@ -243,7 +243,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7203.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -302,7 +302,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9432.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -361,66 +361,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6758.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "8306",
-      "name": "三菱UFJフィナンシャル",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8306.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -479,7 +420,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 9984.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -538,7 +479,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 6861.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -597,7 +538,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8035.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -656,7 +597,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7974.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -715,7 +656,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 8316.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -774,7 +715,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4063.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -1829,65 +1770,6 @@
       "score_change": 0
     },
     {
-      "symbol": "6920",
-      "name": "レーザーテック",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6920.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "9613",
       "name": "NTTデータグループ",
       "market": "JP",
@@ -2419,6 +2301,65 @@
       "score_change": 0
     },
     {
+      "symbol": "4385",
+      "name": "メルカリ",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4385.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -19
+    },
+    {
       "symbol": "3659",
       "name": "ネクソン",
       "market": "JP",
@@ -2476,6 +2417,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4477",
+      "name": "BASE",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4477.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -19
     },
     {
       "symbol": "3092",
@@ -3193,7 +3193,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3252,7 +3252,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4424.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3311,7 +3311,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 9519.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3370,7 +3370,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5401.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3429,7 +3429,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5713.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3488,7 +3488,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 5020.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3547,7 +3547,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 1605.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
