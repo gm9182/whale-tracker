@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:30:11.260739+00:00",
+  "generated_at": "2026-08-11T00:57:31.098851+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1223,12 +1223,45 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 10,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-10",
+              "actor": "Sankar Shyam",
+              "title": "See Remarks",
+              "shares": 6191,
+              "price": 154.65,
+              "value": 957456,
+              "label": "6,191株 @ $154.65 ($957,456)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-10",
+              "actor": "Sankar Shyam",
+              "title": "See Remarks",
+              "shares": 16063,
+              "price": 155.74,
+              "value": 2501658,
+              "label": "16,063株 @ $155.74 ($2,501,658)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-10",
+              "actor": "Sankar Shyam",
+              "title": "See Remarks",
+              "shares": 7976,
+              "price": 156.78,
+              "value": 1250470,
+              "label": "7,976株 @ $156.78 ($1,250,470)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-05",
@@ -2017,30 +2050,52 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 26,
+          "sell_count": 22,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-06",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 2401,
-              "price": 212.3,
-              "value": 509732,
-              "label": "2,401株 @ $212.30 ($509,732)"
+              "shares": 3212,
+              "price": 211.79,
+              "value": 680269,
+              "label": "3,212株 @ $211.79 ($680,269)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-06",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-10",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 4204,
-              "price": 213.11,
-              "value": 895914,
-              "label": "4,204株 @ $213.11 ($895,914)"
+              "shares": 3120,
+              "price": 212.7,
+              "value": 663624,
+              "label": "3,120株 @ $212.70 ($663,624)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-10",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 3602,
+              "price": 205.65,
+              "value": 740751,
+              "label": "3,602株 @ $205.65 ($740,751)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-10",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 3134,
+              "price": 206.69,
+              "value": 647766,
+              "label": "3,134株 @ $206.69 ($647,766)"
             },
             {
               "type": "SELL",
@@ -2074,28 +2129,6 @@
               "price": 211.04,
               "value": 1147002,
               "label": "5,435株 @ $211.04 ($1,147,002)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-06",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 4570,
-              "price": 209.69,
-              "value": 958283,
-              "label": "4,570株 @ $209.69 ($958,283)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-06",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2750,
-              "price": 210.65,
-              "value": 579287,
-              "label": "2,750株 @ $210.65 ($579,287)"
             }
           ]
         },
