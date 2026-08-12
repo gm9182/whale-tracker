@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:14:47.480535+09:00",
+  "generated_at": "2026-08-12T17:20:49.774662+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -27,7 +27,7 @@
           "active": true,
           "score": 25,
           "detail": {
-            "開示件数": "5件 (直近1h以内)"
+            "開示件数": "5件 (直近2h以内)"
           },
           "evidence": 75,
           "events": [
@@ -117,7 +117,7 @@
           "events": []
         }
       },
-      "score_change": 40
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -127,7 +127,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 7203.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3136,7 +3136,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
