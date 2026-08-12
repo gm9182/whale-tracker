@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:34:26.648763+00:00",
+  "generated_at": "2026-08-12T01:03:26.999494+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1878,12 +1878,56 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "13件の$1M+売却"
+            "大型売却警戒": "17件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 24,
+          "sell_count": 33,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 25000,
+              "price": 325.0,
+              "value": 8125000,
+              "label": "25,000株 @ $325.00 ($8,125,000)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 5000,
+              "price": 325.0,
+              "value": 1625000,
+              "label": "5,000株 @ $325.00 ($1,625,000)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Speiser Michael L",
+              "title": "Insider",
+              "shares": 12973,
+              "price": 324.06,
+              "value": 4204030,
+              "label": "12,973株 @ $324.06 ($4,204,030)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Speiser Michael L",
+              "title": "Insider",
+              "shares": 34005,
+              "price": 324.06,
+              "value": 11019660,
+              "label": "34,005株 @ $324.06 ($11,019,660)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-03",
@@ -1949,50 +1993,6 @@
               "price": 280.0,
               "value": 14000000,
               "label": "50,000株 @ $280.00 ($14,000,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 1945,
-              "price": 275.23,
-              "value": 535330,
-              "label": "1,945株 @ $275.23 ($535,330)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-21",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 2699,
-              "price": 277.54,
-              "value": 749072,
-              "label": "2,699株 @ $277.54 ($749,072)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 9723,
-              "price": 270.54,
-              "value": 2630421,
-              "label": "9,723株 @ $270.54 ($2,630,421)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-22",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 11352,
-              "price": 271.42,
-              "value": 3081137,
-              "label": "11,352株 @ $271.42 ($3,081,137)"
             }
           ]
         },
@@ -2582,121 +2582,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "10件の$1M+売却"
+            "大型売却警戒": "8件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 30,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "Mertz Elinor",
-              "title": "Chief Financial Officer",
-              "shares": 3748,
-              "price": 153.34,
-              "value": 574718,
-              "label": "3,748株 @ $153.34 ($574,718)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 3622,
+              "price": 174.56,
+              "value": 632257,
+              "label": "3,622株 @ $174.56 ($632,257)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "Blecharczyk Nathan",
-              "title": "Chief Strategy Officer",
-              "shares": 10271,
-              "price": 151.47,
-              "value": 1555761,
-              "label": "10,271株 @ $151.47 ($1,555,761)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 5847,
+              "price": 175.53,
+              "value": 1026295,
+              "label": "5,847株 @ $175.53 ($1,026,295)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-28",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 304332,
-              "price": 150.73,
-              "value": 45872236,
-              "label": "304,332株 @ $150.73 ($45,872,236)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 9020,
+              "price": 164.95,
+              "value": 1487869,
+              "label": "9,020株 @ $164.95 ($1,487,869)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-28",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 1155748,
-              "price": 151.55,
-              "value": 175155227,
-              "label": "1,155,748株 @ $151.55 ($175,155,227)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 3209,
+              "price": 172.71,
+              "value": 554234,
+              "label": "3,209株 @ $172.71 ($554,234)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-28",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 154593,
-              "price": 152.43,
-              "value": 23565182,
-              "label": "154,593株 @ $152.43 ($23,565,182)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 16893,
+              "price": 173.53,
+              "value": 2931403,
+              "label": "16,893株 @ $173.53 ($2,931,403)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-28",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 213630,
-              "price": 153.11,
-              "value": 32709380,
-              "label": "213,630株 @ $153.11 ($32,709,380)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 40029,
+              "price": 174.53,
+              "value": 6986117,
+              "label": "40,029株 @ $174.53 ($6,986,117)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-27",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 9481,
-              "price": 143.79,
-              "value": 1363279,
-              "label": "9,481株 @ $143.79 ($1,363,279)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 76513,
+              "price": 175.54,
+              "value": 13430785,
+              "label": "76,513株 @ $175.54 ($13,430,785)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-27",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 29569,
-              "price": 144.56,
-              "value": 4274465,
-              "label": "29,569株 @ $144.56 ($4,274,465)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 12087,
+              "price": 176.52,
+              "value": 2133552,
+              "label": "12,087株 @ $176.52 ($2,133,552)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-27",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 134683,
-              "price": 145.6,
-              "value": 19609535,
-              "label": "134,683株 @ $145.60 ($19,609,535)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 26403,
+              "price": 177.52,
+              "value": 4686954,
+              "label": "26,403株 @ $177.52 ($4,686,954)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-27",
-              "filing_date": "2026-07-29",
-              "actor": "Gebbia Joseph",
-              "title": "Insider",
-              "shares": 91167,
-              "price": 146.41,
-              "value": 13347778,
-              "label": "91,167株 @ $146.41 ($13,347,778)"
+              "date": "2026-08-07",
+              "filing_date": "2026-08-11",
+              "actor": "Chesky Brian",
+              "title": "CEO and Chairman",
+              "shares": 7707,
+              "price": 178.2,
+              "value": 1373393,
+              "label": "7,707株 @ $178.20 ($1,373,393)"
             }
           ]
         },
