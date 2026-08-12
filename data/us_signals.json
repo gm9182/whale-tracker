@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:35:54.225739+00:00",
+  "generated_at": "2026-08-12T23:35:19.940991+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -94,7 +94,7 @@
           "evidence": 0
         }
       },
-      "score_change": 1
+      "score_change": 0
     },
     {
       "symbol": "TSM",
@@ -4279,7 +4279,7 @@
       "tier_label": "LOW",
       "price": 235.34,
       "prev_close": 226.42,
-      "vol_ratio": 0.87,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -6046,7 +6046,7 @@
       "tier_label": "LOW",
       "price": 343.43,
       "prev_close": 343.3,
-      "vol_ratio": 0.85,
+      "vol_ratio": 0.86,
       "signals": {
         "insider": {
           "active": false,
