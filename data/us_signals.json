@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:35:30.357027+00:00",
+  "generated_at": "2026-08-13T23:37:02.538443+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -690,11 +690,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "直近期間にシグナルなし"
+            "event": "シグナルなし"
           },
-          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 0,
+          "sell_count": 1,
+          "evidence": 40,
           "events": []
         },
         "filing13d": {
@@ -4188,7 +4188,7 @@
       "tier_label": "LOW",
       "price": 612.38,
       "prev_close": 585.64,
-      "vol_ratio": 0.52,
+      "vol_ratio": 0.51,
       "signals": {
         "insider": {
           "active": false,
@@ -4246,7 +4246,7 @@
       "tier_label": "LOW",
       "price": 233.99,
       "prev_close": 222.25,
-      "vol_ratio": 0.63,
+      "vol_ratio": 0.62,
       "signals": {
         "insider": {
           "active": false,
