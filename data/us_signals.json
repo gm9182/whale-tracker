@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:17:11.911766+00:00",
+  "generated_at": "2026-08-14T23:17:26.473786+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -333,7 +333,7 @@
           "evidence": 0
         }
       },
-      "score_change": 30
+      "score_change": 0
     },
     {
       "symbol": "GS",
@@ -1539,7 +1539,7 @@
       "tier_label": "LOW",
       "price": 178.09,
       "prev_close": 203.27,
-      "vol_ratio": 3.13,
+      "vol_ratio": 3.12,
       "signals": {
         "insider": {
           "active": false,
@@ -2028,12 +2028,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "17件の$1M+売却"
+            "大型売却警戒": "11件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 33,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-12",
+              "filing_date": "2026-08-14",
+              "actor": "Dageville Benoit",
+              "title": "Insider",
+              "shares": 50000,
+              "price": 335.7,
+              "value": 16785000,
+              "label": "50,000株 @ $335.70 ($16,785,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-07",
@@ -2132,17 +2143,6 @@
               "price": 300.0,
               "value": 1495800,
               "label": "4,986株 @ $300.00 ($1,495,800)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-29",
-              "filing_date": "2026-07-30",
-              "actor": "Dageville Benoit",
-              "title": "Insider",
-              "shares": 50000,
-              "price": 280.0,
-              "value": 14000000,
-              "label": "50,000株 @ $280.00 ($14,000,000)"
             }
           ]
         },
@@ -3589,7 +3589,7 @@
       "tier_label": "LOW",
       "price": 217.36,
       "prev_close": 227.67,
-      "vol_ratio": 0.62,
+      "vol_ratio": 0.61,
       "signals": {
         "insider": {
           "active": false,
@@ -5964,7 +5964,7 @@
       "tier_label": "LOW",
       "price": 154.48,
       "prev_close": 134.0,
-      "vol_ratio": 0.58,
+      "vol_ratio": 0.6,
       "signals": {
         "insider": {
           "active": false,
