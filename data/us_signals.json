@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T01:04:29.297767+00:00",
+  "generated_at": "2026-08-14T03:29:12.274192+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -264,6 +264,98 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "GS",
+      "market": "US",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 1042.63,
+      "prev_close": 1045.91,
+      "vol_ratio": 0.57,
+      "signals": {
+        "insider": {
+          "active": true,
+          "score": 20,
+          "detail": {
+            "最大買付": "Insider: $8,500,000"
+          },
+          "buy_count": 2,
+          "sell_count": 23,
+          "evidence": 60,
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-08-06",
+              "filing_date": "2026-08-13",
+              "actor": "GOLDMAN SACHS GROUP INC",
+              "title": "Insider",
+              "shares": 500000,
+              "price": 17.0,
+              "value": 8500000,
+              "label": "500,000株 @ $17.00 ($8,500,000)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-13",
+              "actor": "GOLDMAN SACHS GROUP INC",
+              "title": "Insider",
+              "shares": 85000,
+              "price": 21.0,
+              "value": 1785000,
+              "label": "85,000株 @ $21.00 ($1,785,000)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-05",
+              "filing_date": "2026-08-13",
+              "actor": "GOLDMAN SACHS GROUP INC",
+              "title": "Insider",
+              "shares": 76418,
+              "price": 21.04,
+              "value": 1607834,
+              "label": "76,418株 @ $21.04 ($1,607,834)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": 30
     },
     {
       "symbol": "BAC",
@@ -3478,64 +3570,6 @@
       "score_change": 0
     },
     {
-      "symbol": "GS",
-      "market": "US",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 1042.63,
-      "prev_close": 1045.91,
-      "vol_ratio": 0.57,
-      "signals": {
-        "insider": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "シグナルなし"
-          },
-          "buy_count": 0,
-          "sell_count": 5,
-          "evidence": 40,
-          "events": []
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "MS",
       "market": "US",
       "score": 0,
@@ -4234,7 +4268,7 @@
       "tier_label": "LOW",
       "price": 233.99,
       "prev_close": 222.25,
-      "vol_ratio": 0.62,
+      "vol_ratio": 0.63,
       "signals": {
         "insider": {
           "active": false,
@@ -6012,7 +6046,7 @@
       "tier_label": "LOW",
       "price": 341.7,
       "prev_close": 337.11,
-      "vol_ratio": 0.51,
+      "vol_ratio": 0.52,
       "signals": {
         "insider": {
           "active": false,
