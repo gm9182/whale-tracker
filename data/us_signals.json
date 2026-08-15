@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:17:26.473786+00:00",
+  "generated_at": "2026-08-15T00:40:00.721047+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2200,9 +2200,53 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 30,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-13",
+              "filing_date": "2026-08-14",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2595,
+              "price": 224.27,
+              "value": 581980,
+              "label": "2,595株 @ $224.27 ($581,980)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-13",
+              "filing_date": "2026-08-14",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2765,
+              "price": 225.27,
+              "value": 622871,
+              "label": "2,765株 @ $225.27 ($622,871)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-12",
+              "filing_date": "2026-08-14",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2943,
+              "price": 221.13,
+              "value": 650785,
+              "label": "2,943株 @ $221.13 ($650,785)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-12",
+              "filing_date": "2026-08-14",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 3080,
+              "price": 222.01,
+              "value": 683790,
+              "label": "3,080株 @ $222.01 ($683,790)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-11",
@@ -5964,7 +6008,7 @@
       "tier_label": "LOW",
       "price": 154.48,
       "prev_close": 134.0,
-      "vol_ratio": 0.6,
+      "vol_ratio": 0.58,
       "signals": {
         "insider": {
           "active": false,
