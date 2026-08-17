@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T23:16:08.082624+00:00",
+  "generated_at": "2026-08-17T00:40:28.660319+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -991,10 +991,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 11,
           "evidence": 40,
           "events": [
             {
@@ -1040,17 +1040,6 @@
               "price": 19.23,
               "value": 953466,
               "label": "49,582株 @ $19.23 ($953,466)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "GV 2019 GP, L.L.C.",
-              "title": "Insider",
-              "shares": 61992,
-              "price": 19.84,
-              "value": 1229772,
-              "label": "61,992株 @ $19.84 ($1,229,772)"
             }
           ]
         },
@@ -1248,21 +1237,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Papermaster Mark D",
-              "title": "Chief Technology Officer &amp; EVP",
-              "shares": 6000,
-              "price": 556.43,
-              "value": 3338579,
-              "label": "6,000株 @ $556.43 ($3,338,579)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -1373,10 +1350,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 10,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -1422,17 +1399,6 @@
               "price": 165.0,
               "value": 500280,
               "label": "3,032株 @ $165.00 ($500,280)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 11800,
-              "price": 133.75,
-              "value": 1578255,
-              "label": "11,800株 @ $133.75 ($1,578,255)"
             }
           ]
         },
@@ -1545,10 +1511,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 22,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -1572,83 +1538,6 @@
               "price": 160.56,
               "value": 732795,
               "label": "4,564株 @ $160.56 ($732,795)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 4053,
-              "price": 195.1,
-              "value": 790740,
-              "label": "4,053株 @ $195.10 ($790,740)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 4047,
-              "price": 195.79,
-              "value": 792362,
-              "label": "4,047株 @ $195.79 ($792,362)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 5600,
-              "price": 196.83,
-              "value": 1102248,
-              "label": "5,600株 @ $196.83 ($1,102,248)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 10767,
-              "price": 198.03,
-              "value": 2132189,
-              "label": "10,767株 @ $198.03 ($2,132,189)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 4900,
-              "price": 198.94,
-              "value": 974806,
-              "label": "4,900株 @ $198.94 ($974,806)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 3184,
-              "price": 199.89,
-              "value": 636449,
-              "label": "3,184株 @ $199.89 ($636,449)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-15",
-              "filing_date": "2026-07-17",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 3616,
-              "price": 200.89,
-              "value": 726418,
-              "label": "3,616株 @ $200.89 ($726,418)"
             }
           ]
         },
@@ -2527,68 +2416,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 13,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-07-16",
-              "filing_date": "2026-07-16",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 2774,
-              "price": 333.42,
-              "value": 924907,
-              "label": "2,774株 @ $333.42 ($924,907)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-16",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 2480,
-              "price": 316.52,
-              "value": 784969,
-              "label": "2,480株 @ $316.52 ($784,969)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-16",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 2480,
-              "price": 319.73,
-              "value": 792930,
-              "label": "2,480株 @ $319.73 ($792,930)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-16",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 2120,
-              "price": 321.78,
-              "value": 682173,
-              "label": "2,120株 @ $321.78 ($682,173)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-14",
-              "filing_date": "2026-07-16",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 2000,
-              "price": 324.05,
-              "value": 648100,
-              "label": "2,000株 @ $324.05 ($648,100)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -3633,63 +3466,18 @@
       "tier_label": "LOW",
       "price": 217.36,
       "prev_close": 227.67,
-      "vol_ratio": 0.61,
+      "vol_ratio": 0.62,
       "signals": {
         "insider": {
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 1,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-07-17",
-              "filing_date": "2026-07-17",
-              "actor": "Pizzi Michael A.",
-              "title": "Head Technology &amp; Operations",
-              "shares": 17064,
-              "price": 215.0,
-              "value": 3668760,
-              "label": "17,064株 @ $215.00 ($3,668,760)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-17",
-              "filing_date": "2026-07-17",
-              "actor": "Pizzi Michael A.",
-              "title": "Head Technology &amp; Operations",
-              "shares": 7101,
-              "price": 216.88,
-              "value": 1540064,
-              "label": "7,101株 @ $216.88 ($1,540,064)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-16",
-              "filing_date": "2026-07-17",
-              "actor": "YESHAYA SHARON",
-              "title": "Chief Financial Officer",
-              "shares": 6382,
-              "price": 222.51,
-              "value": 1420058,
-              "label": "6,382株 @ $222.51 ($1,420,058)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-16",
-              "filing_date": "2026-07-17",
-              "actor": "YESHAYA SHARON",
-              "title": "Chief Financial Officer",
-              "shares": 9172,
-              "price": 222.51,
-              "value": 2040861,
-              "label": "9,172株 @ $222.51 ($2,040,861)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4324,7 +4112,7 @@
       "tier_label": "LOW",
       "price": 233.96,
       "prev_close": 222.68,
-      "vol_ratio": 0.79,
+      "vol_ratio": 0.78,
       "signals": {
         "insider": {
           "active": false,
@@ -5892,7 +5680,7 @@
       "tier_label": "LOW",
       "price": 249.46,
       "prev_close": 244.78,
-      "vol_ratio": 0.76,
+      "vol_ratio": 0.77,
       "signals": {
         "insider": {
           "active": false,
@@ -5959,7 +5747,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -6008,7 +5796,7 @@
       "tier_label": "LOW",
       "price": 154.48,
       "prev_close": 134.0,
-      "vol_ratio": 0.99,
+      "vol_ratio": 0.95,
       "signals": {
         "insider": {
           "active": false,
@@ -6124,7 +5912,7 @@
       "tier_label": "LOW",
       "price": 338.86,
       "prev_close": 337.74,
-      "vol_ratio": 0.83,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
