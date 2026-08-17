@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:18:39.034929+00:00",
+  "generated_at": "2026-08-17T23:18:45.366761+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -589,12 +589,45 @@
           "score": 3,
           "detail": {
             "最大買付": "Insider: $1,304,929",
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 2,
-          "sell_count": 12,
+          "sell_count": 15,
           "evidence": 43,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-14",
+              "filing_date": "2026-08-17",
+              "actor": "PLATT IRA J.",
+              "title": "Insider",
+              "shares": 15000,
+              "price": 75.5,
+              "value": 1132500,
+              "label": "15,000株 @ $75.50 ($1,132,500)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-14",
+              "filing_date": "2026-08-17",
+              "actor": "QUAYLE J DANFORTH",
+              "title": "Insider",
+              "shares": 14525,
+              "price": 75.0,
+              "value": 1089375,
+              "label": "14,525株 @ $75.00 ($1,089,375)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-13",
+              "filing_date": "2026-08-17",
+              "actor": "PLATT IRA J.",
+              "title": "Insider",
+              "shares": 15000,
+              "price": 73.0,
+              "value": 1095000,
+              "label": "15,000株 @ $73.00 ($1,095,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-03",
@@ -671,17 +704,6 @@
               "price": 61.69,
               "value": 1304928,
               "label": "21,153株 @ $61.69 ($1,304,928)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-07-31",
-              "filing_date": "2026-08-04",
-              "actor": "MAROONE MICHAEL E",
-              "title": "Director",
-              "shares": 3847,
-              "price": 62.4,
-              "value": 240052,
-              "label": "3,847株 @ $62.40 ($240,052)"
             }
           ]
         },
