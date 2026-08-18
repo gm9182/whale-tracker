@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:18:45.366761+00:00",
+  "generated_at": "2026-08-18T00:40:15.762678+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1614,12 +1614,24 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "直近期間にシグナルなし"
+            "event": "シグナルなし"
           },
-          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 0,
-          "events": []
+          "sell_count": 13,
+          "evidence": 40,
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-14",
+              "filing_date": "2026-08-17",
+              "actor": "DUFFY BRIAN",
+              "title": "Chief Revenue Officer",
+              "shares": 4600,
+              "price": 162.38,
+              "value": 746925,
+              "label": "4,600株 @ $162.38 ($746,925)"
+            }
+          ]
         },
         "filing13d": {
           "active": false,
