@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:17:00.335432+00:00",
+  "generated_at": "2026-08-18T23:19:22.599836+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2589,7 +2589,7 @@
       "tier_label": "LOW",
       "price": 434.62,
       "prev_close": 312.33,
-      "vol_ratio": 0.76,
+      "vol_ratio": 0.75,
       "signals": {
         "insider": {
           "active": false,
@@ -3702,7 +3702,7 @@
       "tier_label": "LOW",
       "price": 217.55,
       "prev_close": 215.5,
-      "vol_ratio": 0.45,
+      "vol_ratio": 0.46,
       "signals": {
         "insider": {
           "active": false,
@@ -4359,7 +4359,7 @@
       "tier_label": "LOW",
       "price": 227.71,
       "prev_close": 225.02,
-      "vol_ratio": 0.58,
+      "vol_ratio": 0.56,
       "signals": {
         "insider": {
           "active": false,
@@ -5373,12 +5373,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "8件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-18",
+              "actor": "Taubert Jennifer L",
+              "title": "EVP, WWC. Innovative Medicine",
+              "shares": 15000,
+              "price": 263.36,
+              "value": 3950400,
+              "label": "15,000株 @ $263.36 ($3,950,400)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-13",
@@ -6182,7 +6193,7 @@
       "tier_label": "LOW",
       "price": 337.49,
       "prev_close": 338.87,
-      "vol_ratio": 1.5,
+      "vol_ratio": 1.49,
       "signals": {
         "insider": {
           "active": false,
