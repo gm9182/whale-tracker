@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T00:40:48.497431+00:00",
+  "generated_at": "2026-08-19T02:18:00.751073+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1119,19 +1119,19 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 20,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-07-27",
-              "filing_date": "2026-07-29",
-              "actor": "Olivan Javier",
-              "title": "Chief Operating Officer",
-              "shares": 837,
-              "price": 607.85,
-              "value": 508770,
-              "label": "837株 @ $607.85 ($508,770)"
+              "date": "2026-08-15",
+              "filing_date": "2026-08-18",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 2127,
+              "price": 689.85,
+              "value": 1467310,
+              "label": "2,127株 @ $689.85 ($1,467,310)"
             }
           ]
         },
