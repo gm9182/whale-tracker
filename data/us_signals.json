@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:19:32.614146+00:00",
+  "generated_at": "2026-08-19T23:19:57.451699+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1776,7 +1776,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 5,
           "evidence": 40,
           "events": []
         },
@@ -2779,12 +2779,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "8件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 30,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-19",
+              "actor": "Blecharczyk Nathan",
+              "title": "Chief Strategy Officer",
+              "shares": 9133,
+              "price": 182.54,
+              "value": 1667122,
+              "label": "9,133株 @ $182.54 ($1,667,122)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-19",
+              "actor": "Blecharczyk Nathan",
+              "title": "Chief Strategy Officer",
+              "shares": 4482,
+              "price": 183.51,
+              "value": 822484,
+              "label": "4,482株 @ $183.51 ($822,484)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-07",
@@ -2806,94 +2828,6 @@
               "price": 175.53,
               "value": 1026295,
               "label": "5,847株 @ $175.53 ($1,026,295)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 9020,
-              "price": 164.95,
-              "value": 1487869,
-              "label": "9,020株 @ $164.95 ($1,487,869)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 3209,
-              "price": 172.71,
-              "value": 554234,
-              "label": "3,209株 @ $172.71 ($554,234)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 16893,
-              "price": 173.53,
-              "value": 2931403,
-              "label": "16,893株 @ $173.53 ($2,931,403)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 40029,
-              "price": 174.53,
-              "value": 6986117,
-              "label": "40,029株 @ $174.53 ($6,986,117)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 76513,
-              "price": 175.54,
-              "value": 13430785,
-              "label": "76,513株 @ $175.54 ($13,430,785)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 12087,
-              "price": 176.52,
-              "value": 2133552,
-              "label": "12,087株 @ $176.52 ($2,133,552)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 26403,
-              "price": 177.52,
-              "value": 4686954,
-              "label": "26,403株 @ $177.52 ($4,686,954)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Chesky Brian",
-              "title": "CEO and Chairman",
-              "shares": 7707,
-              "price": 178.2,
-              "value": 1373393,
-              "label": "7,707株 @ $178.20 ($1,373,393)"
             }
           ]
         },
@@ -3737,7 +3671,7 @@
       "tier_label": "LOW",
       "price": 214.23,
       "prev_close": 215.5,
-      "vol_ratio": 1.02,
+      "vol_ratio": 1.0,
       "signals": {
         "insider": {
           "active": false,
@@ -4113,7 +4047,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 4,
           "evidence": 40,
           "events": []
         },
@@ -6112,7 +6046,7 @@
       "tier_label": "LOW",
       "price": 159.0,
       "prev_close": 139.6,
-      "vol_ratio": 2.09,
+      "vol_ratio": 2.17,
       "signals": {
         "insider": {
           "active": false,
@@ -6170,7 +6104,7 @@
       "tier_label": "LOW",
       "price": 956.99,
       "prev_close": 940.87,
-      "vol_ratio": 0.85,
+      "vol_ratio": 0.86,
       "signals": {
         "insider": {
           "active": false,
@@ -6228,7 +6162,7 @@
       "tier_label": "LOW",
       "price": 344.3,
       "prev_close": 338.87,
-      "vol_ratio": 1.01,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
