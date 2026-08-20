@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:19:57.451699+00:00",
+  "generated_at": "2026-08-20T00:40:46.183111+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1395,12 +1395,45 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 10,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-19",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 3516,
+              "price": 173.21,
+              "value": 609013,
+              "label": "3,516株 @ $173.21 ($609,013)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-19",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 7520,
+              "price": 174.07,
+              "value": 1309022,
+              "label": "7,520株 @ $174.07 ($1,309,022)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-19",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 3455,
+              "price": 175.13,
+              "value": 605080,
+              "label": "3,455株 @ $175.13 ($605,080)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-06",
@@ -1776,7 +1809,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
@@ -3671,7 +3704,7 @@
       "tier_label": "LOW",
       "price": 214.23,
       "prev_close": 215.5,
-      "vol_ratio": 1.0,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
@@ -4270,7 +4303,7 @@
       "tier_label": "LOW",
       "price": 580.63,
       "prev_close": 597.24,
-      "vol_ratio": 1.16,
+      "vol_ratio": 1.15,
       "signals": {
         "insider": {
           "active": false,
@@ -6046,7 +6079,7 @@
       "tier_label": "LOW",
       "price": 159.0,
       "prev_close": 139.6,
-      "vol_ratio": 2.17,
+      "vol_ratio": 2.09,
       "signals": {
         "insider": {
           "active": false,
@@ -6104,7 +6137,7 @@
       "tier_label": "LOW",
       "price": 956.99,
       "prev_close": 940.87,
-      "vol_ratio": 0.86,
+      "vol_ratio": 0.85,
       "signals": {
         "insider": {
           "active": false,
