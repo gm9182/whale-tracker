@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:22:55.865877+00:00",
+  "generated_at": "2026-08-20T23:22:40.306555+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -888,7 +888,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 1,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
@@ -1127,12 +1127,78 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
           "sell_count": 16,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Mahoney Curtis J.",
+              "title": "Chief Legal Officer",
+              "shares": 1559,
+              "price": 558.0,
+              "value": 869922,
+              "label": "1,559株 @ $558.00 ($869,922)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 1845,
+              "price": 547.51,
+              "value": 1010163,
+              "label": "1,845株 @ $547.51 ($1,010,163)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 1864,
+              "price": 548.2,
+              "value": 1021835,
+              "label": "1,864株 @ $548.20 ($1,021,835)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 1219,
+              "price": 549.25,
+              "value": 669534,
+              "label": "1,219株 @ $549.25 ($669,534)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "LI SUSAN J",
+              "title": "Chief Financial Officer",
+              "shares": 1031,
+              "price": 551.25,
+              "value": 568335,
+              "label": "1,031株 @ $551.25 ($568,335)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Bosworth Andrew",
+              "title": "Chief Technology Officer",
+              "shares": 7848,
+              "price": 558.0,
+              "value": 4379184,
+              "label": "7,848株 @ $558.00 ($4,379,184)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-15",
@@ -3248,12 +3314,23 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "14件の$1M+売却"
+            "大型売却警戒": "15件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 42,
+          "sell_count": 43,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Sadana Sumit",
+              "title": "EVP and Chief Business Officer",
+              "shares": 15000,
+              "price": 934.29,
+              "value": 14014350,
+              "label": "15,000株 @ $934.29 ($14,014,350)"
+            },
             {
               "type": "SELL",
               "date": "2026-07-24",
@@ -3352,17 +3429,6 @@
               "price": 906.48,
               "value": 732435,
               "label": "808株 @ $906.48 ($732,435)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-24",
-              "filing_date": "2026-07-28",
-              "actor": "MEHROTRA SANJAY",
-              "title": "President and CEO",
-              "shares": 604,
-              "price": 908.51,
-              "value": 548740,
-              "label": "604株 @ $908.51 ($548,740)"
             }
           ]
         },
@@ -4032,9 +4098,64 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 19,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-20",
+              "actor": "SACHIN J. MEHRA",
+              "title": "Chief Business Officer",
+              "shares": 1000,
+              "price": 572.07,
+              "value": 572070,
+              "label": "1,000株 @ $572.07 ($572,070)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "SACHIN J. MEHRA",
+              "title": "Chief Business Officer",
+              "shares": 966,
+              "price": 573.99,
+              "value": 554477,
+              "label": "966株 @ $573.99 ($554,477)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "SACHIN J. MEHRA",
+              "title": "Chief Business Officer",
+              "shares": 1150,
+              "price": 574.73,
+              "value": 660942,
+              "label": "1,150株 @ $574.73 ($660,942)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "SACHIN J. MEHRA",
+              "title": "Chief Business Officer",
+              "shares": 1168,
+              "price": 575.77,
+              "value": 672498,
+              "label": "1,168株 @ $575.77 ($672,498)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "SACHIN J. MEHRA",
+              "title": "Chief Business Officer",
+              "shares": 1280,
+              "price": 576.82,
+              "value": 738331,
+              "label": "1,280株 @ $576.82 ($738,331)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-17",
@@ -4067,39 +4188,6 @@
               "price": 571.38,
               "value": 502816,
               "label": "880株 @ $571.38 ($502,816)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-06",
-              "actor": "Miebach Michael",
-              "title": "President &amp; CEO",
-              "shares": 15372,
-              "price": 575.0,
-              "value": 8838900,
-              "label": "15,372株 @ $575.00 ($8,838,900)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-05",
-              "actor": "Kirkpatrick Linda Pistecchia",
-              "title": "Chief Services Officer",
-              "shares": 1680,
-              "price": 571.22,
-              "value": 959655,
-              "label": "1,680株 @ $571.22 ($959,655)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-05",
-              "actor": "Kirkpatrick Linda Pistecchia",
-              "title": "Chief Services Officer",
-              "shares": 880,
-              "price": 572.06,
-              "value": 503408,
-              "label": "880株 @ $572.06 ($503,408)"
             }
           ]
         },
