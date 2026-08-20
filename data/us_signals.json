@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:25:58.734936+00:00",
+  "generated_at": "2026-08-20T12:39:06.601426+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -110,12 +110,45 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "15名が直近期間に買付"
+            "クラスターバイ": "12名が直近期間に買付"
           },
           "buy_count": 16,
           "sell_count": 0,
           "evidence": 65,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Yuan Lipen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 73.77,
+              "value": 73770,
+              "label": "1,000株 @ $73.77 ($73,770)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Yuan Lipen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 74.5,
+              "value": 74500,
+              "label": "1,000株 @ $74.50 ($74,500)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Yuan Lipen",
+              "title": "VP",
+              "shares": 350,
+              "price": 73.58,
+              "value": 25753,
+              "label": "350株 @ $73.58 ($25,753)"
+            },
             {
               "type": "BUY",
               "date": "2026-08-07",
@@ -192,39 +225,6 @@
               "price": 73.31,
               "value": 4032,
               "label": "55株 @ $73.31 ($4,032)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-10",
-              "actor": "Wei Che-Chia",
-              "title": "Chairman and CEO",
-              "shares": 152,
-              "price": 73.31,
-              "value": 11143,
-              "label": "152株 @ $73.31 ($11,143)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-10",
-              "actor": "Wu Shien-Yang",
-              "title": "SVP",
-              "shares": 57,
-              "price": 73.31,
-              "value": 4178,
-              "label": "57株 @ $73.31 ($4,178)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-10",
-              "actor": "Tien Bor-Zen",
-              "title": "VP",
-              "shares": 42,
-              "price": 73.31,
-              "value": 3079,
-              "label": "42株 @ $73.31 ($3,079)"
             }
           ]
         },
@@ -3704,7 +3704,7 @@
       "tier_label": "LOW",
       "price": 214.23,
       "prev_close": 215.5,
-      "vol_ratio": 1.03,
+      "vol_ratio": 1.0,
       "signals": {
         "insider": {
           "active": false,
@@ -4303,7 +4303,7 @@
       "tier_label": "LOW",
       "price": 580.63,
       "prev_close": 597.24,
-      "vol_ratio": 1.51,
+      "vol_ratio": 1.5,
       "signals": {
         "insider": {
           "active": false,
@@ -6195,7 +6195,7 @@
       "tier_label": "LOW",
       "price": 344.3,
       "prev_close": 338.87,
-      "vol_ratio": 1.26,
+      "vol_ratio": 1.25,
       "signals": {
         "insider": {
           "active": false,
