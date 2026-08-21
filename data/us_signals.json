@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:22:40.306555+00:00",
+  "generated_at": "2026-08-21T00:43:05.216921+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1027,7 +1027,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 9,
           "evidence": 40,
           "events": [
             {
@@ -1674,11 +1674,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -1882,21 +1882,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 13,
+          "sell_count": 26,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-17",
-              "actor": "DUFFY BRIAN",
-              "title": "Chief Revenue Officer",
-              "shares": 4600,
-              "price": 162.38,
-              "value": 746925,
-              "label": "4,600株 @ $162.38 ($746,925)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -2250,121 +2238,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "11件の$1M+売却"
+            "大型売却警戒": "18件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 20,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-14",
-              "actor": "Dageville Benoit",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 50000,
-              "price": 335.7,
-              "value": 16785000,
-              "label": "50,000株 @ $335.70 ($16,785,000)"
+              "shares": 12662,
+              "price": 319.06,
+              "value": 4040001,
+              "label": "12,662株 @ $319.06 ($4,040,001)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 25000,
-              "price": 325.0,
-              "value": 8125000,
-              "label": "25,000株 @ $325.00 ($8,125,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 5000,
-              "price": 325.0,
-              "value": 1625000,
-              "label": "5,000株 @ $325.00 ($1,625,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Speiser Michael L",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 12973,
-              "price": 324.06,
-              "value": 4204030,
-              "label": "12,973株 @ $324.06 ($4,204,030)"
+              "shares": 18023,
+              "price": 319.98,
+              "value": 5766927,
+              "label": "18,023株 @ $319.98 ($5,766,927)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-07",
-              "filing_date": "2026-08-11",
-              "actor": "Speiser Michael L",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
               "title": "Insider",
-              "shares": 34005,
-              "price": 324.06,
-              "value": 11019660,
-              "label": "34,005株 @ $324.06 ($11,019,660)"
+              "shares": 4259,
+              "price": 320.89,
+              "value": 1366661,
+              "label": "4,259株 @ $320.89 ($1,366,661)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 5000,
-              "price": 293.99,
-              "value": 1469950,
-              "label": "5,000株 @ $293.99 ($1,469,950)"
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 3988,
+              "price": 321.99,
+              "value": 1284088,
+              "label": "3,988株 @ $321.99 ($1,284,088)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 5000,
-              "price": 300.0,
-              "value": 1500000,
-              "label": "5,000株 @ $300.00 ($1,500,000)"
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 3711,
+              "price": 322.88,
+              "value": 1198196,
+              "label": "3,711株 @ $322.88 ($1,198,196)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-31",
-              "filing_date": "2026-08-03",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 20000,
-              "price": 300.0,
-              "value": 6000000,
-              "label": "20,000株 @ $300.00 ($6,000,000)"
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 3895,
+              "price": 324.13,
+              "value": 1262478,
+              "label": "3,895株 @ $324.13 ($1,262,478)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-31",
-              "filing_date": "2026-08-03",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 5000,
-              "price": 300.0,
-              "value": 1500000,
-              "label": "5,000株 @ $300.00 ($1,500,000)"
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 2392,
+              "price": 324.88,
+              "value": 777101,
+              "label": "2,392株 @ $324.88 ($777,101)"
             },
             {
               "type": "SELL",
-              "date": "2026-07-31",
-              "filing_date": "2026-08-03",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 4986,
-              "price": 300.0,
-              "value": 1495800,
-              "label": "4,986株 @ $300.00 ($1,495,800)"
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 11046,
+              "price": 322.09,
+              "value": 3557806,
+              "label": "11,046株 @ $322.09 ($3,557,806)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 40412,
+              "price": 323.24,
+              "value": 13062936,
+              "label": "40,412株 @ $323.24 ($13,062,936)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 61332,
+              "price": 324.1,
+              "value": 19877639,
+              "label": "61,332株 @ $324.10 ($19,877,639)"
             }
           ]
         },
@@ -2422,85 +2410,30 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 28,
+          "sell_count": 21,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-18",
+              "date": "2026-08-19",
+              "filing_date": "2026-08-20",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 2860,
-              "price": 213.83,
-              "value": 611553,
-              "label": "2,860株 @ $213.83 ($611,553)"
+              "shares": 2920,
+              "price": 200.86,
+              "value": 586511,
+              "label": "2,920株 @ $200.86 ($586,511)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-18",
+              "date": "2026-08-18",
+              "filing_date": "2026-08-20",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 4023,
-              "price": 214.71,
-              "value": 863778,
-              "label": "4,023株 @ $214.71 ($863,778)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-18",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 3385,
-              "price": 219.1,
-              "value": 741653,
-              "label": "3,385株 @ $219.10 ($741,653)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-13",
-              "filing_date": "2026-08-14",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2595,
-              "price": 224.27,
-              "value": 581980,
-              "label": "2,595株 @ $224.27 ($581,980)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-13",
-              "filing_date": "2026-08-14",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2765,
-              "price": 225.27,
-              "value": 622871,
-              "label": "2,765株 @ $225.27 ($622,871)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-14",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2943,
-              "price": 221.13,
-              "value": 650785,
-              "label": "2,943株 @ $221.13 ($650,785)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-14",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 3080,
-              "price": 222.01,
-              "value": 683790,
-              "label": "3,080株 @ $222.01 ($683,790)"
+              "shares": 3789,
+              "price": 212.69,
+              "value": 805882,
+              "label": "3,789株 @ $212.69 ($805,882)"
             }
           ]
         },
@@ -3847,7 +3780,7 @@
       "tier_label": "LOW",
       "price": 207.45,
       "prev_close": 210.94,
-      "vol_ratio": 1.04,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
@@ -4468,7 +4401,7 @@
       "tier_label": "LOW",
       "price": 620.94,
       "prev_close": 586.0,
-      "vol_ratio": 2.74,
+      "vol_ratio": 2.79,
       "signals": {
         "insider": {
           "active": false,
@@ -4526,7 +4459,7 @@
       "tier_label": "LOW",
       "price": 218.32,
       "prev_close": 226.18,
-      "vol_ratio": 0.73,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": false,
@@ -5540,10 +5473,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "8件の$1M+売却"
+            "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -5622,17 +5555,6 @@
               "price": 258.74,
               "value": 1687754,
               "label": "6,523株 @ $258.74 ($1,687,754)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-20",
-              "filing_date": "2026-07-21",
-              "actor": "Broadhurst Vanessa",
-              "title": "EVP, Global Corp Affairs",
-              "shares": 23054,
-              "price": 251.27,
-              "value": 5792686,
-              "label": "23,054株 @ $251.27 ($5,792,686)"
             }
           ]
         },
@@ -6116,7 +6038,7 @@
       "tier_label": "LOW",
       "price": 261.83,
       "prev_close": 253.38,
-      "vol_ratio": 0.99,
+      "vol_ratio": 0.98,
       "signals": {
         "insider": {
           "active": false,
@@ -6244,7 +6166,7 @@
       "tier_label": "LOW",
       "price": 158.25,
       "prev_close": 139.59,
-      "vol_ratio": 1.43,
+      "vol_ratio": 1.49,
       "signals": {
         "insider": {
           "active": false,
@@ -6360,7 +6282,7 @@
       "tier_label": "LOW",
       "price": 334.49,
       "prev_close": 333.04,
-      "vol_ratio": 1.01,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
