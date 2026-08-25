@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:20:41.503323+00:00",
+  "generated_at": "2026-08-25T00:41:26.079554+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1549,88 +1549,99 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 10,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-19",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 3516,
-              "price": 173.21,
-              "value": 609013,
-              "label": "3,516株 @ $173.21 ($609,013)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-19",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 7520,
-              "price": 174.07,
-              "value": 1309022,
-              "label": "7,520株 @ $174.07 ($1,309,022)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-19",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 3455,
-              "price": 175.13,
-              "value": 605080,
-              "label": "3,455株 @ $175.13 ($605,080)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-06",
-              "filing_date": "2026-08-10",
-              "actor": "Sankar Shyam",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
               "title": "See Remarks",
-              "shares": 6191,
-              "price": 154.65,
-              "value": 957456,
-              "label": "6,191株 @ $154.65 ($957,456)"
+              "shares": 11378,
+              "price": 172.65,
+              "value": 1964459,
+              "label": "11,378株 @ $172.65 ($1,964,459)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-06",
-              "filing_date": "2026-08-10",
-              "actor": "Sankar Shyam",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
               "title": "See Remarks",
-              "shares": 16063,
-              "price": 155.74,
-              "value": 2501658,
-              "label": "16,063株 @ $155.74 ($2,501,658)"
+              "shares": 19493,
+              "price": 173.79,
+              "value": 3387618,
+              "label": "19,493株 @ $173.79 ($3,387,618)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-06",
-              "filing_date": "2026-08-10",
-              "actor": "Sankar Shyam",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
               "title": "See Remarks",
-              "shares": 7976,
-              "price": 156.78,
-              "value": 1250470,
-              "label": "7,976株 @ $156.78 ($1,250,470)"
+              "shares": 306544,
+              "price": 174.85,
+              "value": 53597838,
+              "label": "306,544株 @ $174.85 ($53,597,838)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Stat Lauren Elaina Friedman",
-              "title": "Insider",
-              "shares": 3032,
-              "price": 165.0,
-              "value": 500280,
-              "label": "3,032株 @ $165.00 ($500,280)"
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 63629,
+              "price": 175.42,
+              "value": 11161703,
+              "label": "63,629株 @ $175.42 ($11,161,703)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 4200,
+              "price": 172.66,
+              "value": 725170,
+              "label": "4,200株 @ $172.66 ($725,170)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 11602,
+              "price": 173.84,
+              "value": 2016949,
+              "label": "11,602株 @ $173.84 ($2,016,949)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 62498,
+              "price": 174.73,
+              "value": 10920269,
+              "label": "62,498株 @ $174.73 ($10,920,269)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-20",
+              "filing_date": "2026-08-24",
+              "actor": "Karp Alexander C.",
+              "title": "See Remarks",
+              "shares": 11200,
+              "price": 175.48,
+              "value": 1965399,
+              "label": "11,200株 @ $175.48 ($1,965,399)"
             }
           ]
         },
