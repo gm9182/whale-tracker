@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:34:01.433624+09:00",
+  "generated_at": "2026-08-26T15:37:50.067492+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -7,7 +7,7 @@
       "symbol": "4424",
       "name": "Amazia",
       "market": "JP",
-      "score": 13,
+      "score": 10,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -25,11 +25,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 8,
+          "score": 6,
           "detail": {
-            "開示件数": "1件 (直近23h以内)"
+            "開示件数": "1件 (直近24h以内)"
           },
-          "evidence": 58,
+          "evidence": 56,
           "events": [
             {
               "type": "SPECIAL_PL",
@@ -73,7 +73,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -3
     },
     {
       "symbol": "7203",
@@ -3151,7 +3151,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
