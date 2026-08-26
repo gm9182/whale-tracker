@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:35:30.159579+00:00",
+  "generated_at": "2026-08-26T05:30:17.665278+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1252,7 +1252,7 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
           "sell_count": 16,
@@ -1268,6 +1268,39 @@
               "price": 259.77,
               "value": 2404950,
               "label": "9,258株 @ $259.77 ($2,404,950)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-21",
+              "filing_date": "2026-08-25",
+              "actor": "Jassy Andrew R",
+              "title": "President and CEO",
+              "shares": 3197,
+              "price": 257.63,
+              "value": 823656,
+              "label": "3,197株 @ $257.63 ($823,656)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-21",
+              "filing_date": "2026-08-25",
+              "actor": "Jassy Andrew R",
+              "title": "President and CEO",
+              "shares": 7478,
+              "price": 258.67,
+              "value": 1934299,
+              "label": "7,478株 @ $258.67 ($1,934,299)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-21",
+              "filing_date": "2026-08-25",
+              "actor": "Jassy Andrew R",
+              "title": "President and CEO",
+              "shares": 7514,
+              "price": 259.61,
+              "value": 1950685,
+              "label": "7,514株 @ $259.61 ($1,950,685)"
             },
             {
               "type": "SELL",
@@ -1334,28 +1367,6 @@
               "price": 260.33,
               "value": 627904,
               "label": "2,412株 @ $260.33 ($627,904)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-25",
-              "actor": "Zapolsky David",
-              "title": "Senior Vice President",
-              "shares": 2133,
-              "price": 259.63,
-              "value": 553798,
-              "label": "2,133株 @ $259.63 ($553,798)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-25",
-              "actor": "Olsavsky Brian T",
-              "title": "Senior Vice President and CFO",
-              "shares": 6172,
-              "price": 260.31,
-              "value": 1606633,
-              "label": "6,172株 @ $260.31 ($1,606,633)"
             }
           ]
         },
