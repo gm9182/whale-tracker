@@ -1,13 +1,280 @@
 {
-  "generated_at": "2026-08-28T15:01:48.243216+09:00",
+  "generated_at": "2026-08-29T03:01:20.211464+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
     {
+      "symbol": "4477",
+      "name": "BASE",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 4477.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "業務提携 / 自社株買い",
+            "開示件数": "15件 (直近4h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "業務提携",
+              "label": "SBIホールディングスとの資本業務提携契約の締結等に関する補足説明資料",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528137.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "自社株買い",
+              "label": "自己株式の取得中止及び取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528131.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "業務提携",
+              "label": "SBINM合同会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明及びSBIHD株式会社との資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528141.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "業務提携",
+              "label": "SBIホールディングスとの資本業務提携契約の締結等に関する補足説明資料",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528137.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "自社株買い",
+              "label": "自己株式の取得中止及び取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528131.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "業務提携",
+              "label": "SBINM合同会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明及びSBIHD株式会社との資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528141.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "業務提携",
+              "label": "SBIホールディングスとの資本業務提携契約の締結等に関する補足説明資料",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528137.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "自社株買い",
+              "label": "自己株式の取得中止及び取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528131.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
+    {
+      "symbol": "8473",
+      "name": "SBI HD",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 8473.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "業務提携",
+            "開示件数": "5件 (直近5h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "ＳＢＩ",
+              "title": "業務提携",
+              "label": "BASE株式会社株式（証券コード：4477）に対する公開買付けの開始及び同社との資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528173.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "ＳＢＩ",
+              "title": "業務提携",
+              "label": "BASE株式会社株式（証券コード：4477）に対する公開買付けの開始及び同社との資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528173.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "ＳＢＩ",
+              "title": "業務提携",
+              "label": "BASE株式会社株式（証券コード：4477）に対する公開買付けの開始及び同社との資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528173.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "ＳＢＩ",
+              "title": "業務提携",
+              "label": "BASE株式会社株式（証券コード：4477）に対する公開買付けの開始及び同社との資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528173.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-08-28",
+              "filing_date": "2026-08-28 22:30:00",
+              "actor": "ＳＢＩ",
+              "title": "業務提携",
+              "label": "BASE株式会社株式（証券コード：4477）に対する公開買付けの開始及び同社との資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528173.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
+    {
       "symbol": "4424",
       "name": "Amazia",
       "market": "JP",
-      "score": 10,
+      "score": 6,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -25,11 +292,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 6,
+          "score": 4,
           "detail": {
             "開示件数": "1件 (直近72h以内)"
           },
-          "evidence": 56,
+          "evidence": 54,
           "events": [
             {
               "type": "SPECIAL_PL",
@@ -73,7 +340,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -4
     },
     {
       "symbol": "7203",
@@ -2377,65 +2644,6 @@
       "score_change": 0
     },
     {
-      "symbol": "4477",
-      "name": "BASE",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4477.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "3092",
       "name": "ZOZO",
       "market": "JP",
@@ -2857,65 +3065,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 6532.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "8473",
-      "name": "SBI HD",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8473.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
