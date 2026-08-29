@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T04:22:08.931310+09:00",
+  "generated_at": "2026-08-29T12:35:14.480759+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携 / 自社株買い",
-            "開示件数": "15件 (直近6h以内)"
+            "開示件数": "15件 (直近14h以内)"
           },
           "evidence": 95,
           "events": [
@@ -178,7 +178,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近6h以内)"
+            "開示件数": "5件 (直近14h以内)"
           },
           "evidence": 95,
           "events": [
@@ -3300,7 +3300,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
