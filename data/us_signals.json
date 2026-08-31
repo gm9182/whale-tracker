@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:46:36.304075+00:00",
+  "generated_at": "2026-08-31T02:11:48.482382+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1024,11 +1024,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -4210,10 +4210,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -4237,28 +4237,6 @@
               "price": 367.87,
               "value": 2161236,
               "label": "5,875株 @ $367.87 ($2,161,236)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-31",
-              "actor": "MAHON TULLIER KELLY",
-              "title": "VICE CHAIR, CHF PPL &amp; CORP AFF",
-              "shares": 37281,
-              "price": 365.05,
-              "value": 13609399,
-              "label": "37,281株 @ $365.05 ($13,609,399)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-07-30",
-              "filing_date": "2026-07-31",
-              "actor": "MAHON TULLIER KELLY",
-              "title": "VICE CHAIR, CHF PPL &amp; CORP AFF",
-              "shares": 19991,
-              "price": 364.81,
-              "value": 7292940,
-              "label": "19,991株 @ $364.81 ($7,292,940)"
             }
           ]
         },
@@ -4463,7 +4441,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
