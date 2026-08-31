@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:10:58.699631+09:00",
+  "generated_at": "2026-08-31T23:53:28.286891+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携 / 自社株買い",
-            "開示件数": "15件 (直近68h以内)"
+            "開示件数": "15件 (直近72h以内)"
           },
           "evidence": 95,
           "events": [
@@ -178,7 +178,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近68h以内)"
+            "開示件数": "5件 (直近72h以内)"
           },
           "evidence": 95,
           "events": [
@@ -1389,7 +1389,7 @@
           "events": []
         }
       },
-      "score_change": -45
+      "score_change": 0
     },
     {
       "symbol": "9434",
@@ -3228,7 +3228,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
