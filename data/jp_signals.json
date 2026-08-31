@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T11:15:49.893883+09:00",
+  "generated_at": "2026-08-31T18:10:58.699631+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携 / 自社株買い",
-            "開示件数": "15件 (直近61h以内)"
+            "開示件数": "15件 (直近68h以内)"
           },
           "evidence": 95,
           "events": [
@@ -178,7 +178,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近61h以内)"
+            "開示件数": "5件 (直近68h以内)"
           },
           "evidence": 95,
           "events": [
@@ -269,79 +269,6 @@
         }
       },
       "score_change": 0
-    },
-    {
-      "symbol": "8001",
-      "name": "伊藤忠商事",
-      "market": "JP",
-      "score": 45,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8001.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 28,
-          "detail": {
-            "強気開示": "TOB・公開買付",
-            "開示件数": "1件 (直近3h以内)"
-          },
-          "evidence": 78,
-          "events": [
-            {
-              "type": "TOB",
-              "date": "2026-08-31",
-              "filing_date": "2026-08-31 08:30:00",
-              "actor": "伊藤忠",
-              "title": "TOB・公開買付",
-              "label": "株式会社電通総研の株式（証券コード：4812）に対する公開買付けの開始予定に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260828528016.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 45
     },
     {
       "symbol": "7203",
@@ -1404,6 +1331,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "8001",
+      "name": "伊藤忠商事",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 8001.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -45
     },
     {
       "symbol": "9434",
