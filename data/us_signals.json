@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:11:51.147819+00:00",
+  "generated_at": "2026-09-01T23:45:22.914046+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -9,9 +9,9 @@
       "score": 52,
       "tier": "monitor",
       "tier_label": "👀 MONITOR",
-      "price": 28.625,
+      "price": 28.55,
       "prev_close": 25.01,
-      "vol_ratio": 0.58,
+      "vol_ratio": 1.04,
       "signals": {
         "insider": {
           "active": true,
@@ -102,9 +102,9 @@
       "score": 38,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 415.19,
+      "price": 414.0,
       "prev_close": 404.25,
-      "vol_ratio": 0.44,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": true,
@@ -271,9 +271,9 @@
       "score": 30,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 88.8,
+      "price": 88.97,
       "prev_close": 90.2,
-      "vol_ratio": 0.47,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": true,
@@ -341,9 +341,9 @@
       "score": 30,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1012.434,
+      "price": 1002.56,
       "prev_close": 1018.38,
-      "vol_ratio": 0.33,
+      "vol_ratio": 0.98,
       "signals": {
         "insider": {
           "active": true,
@@ -352,9 +352,20 @@
             "最大買付": "Insider: $8,500,000"
           },
           "buy_count": 2,
-          "sell_count": 23,
+          "sell_count": 24,
           "evidence": 60,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-28",
+              "filing_date": "2026-09-01",
+              "actor": "LESLIE ERICKA T",
+              "title": "Chief Administrative Officer",
+              "shares": 600,
+              "price": 1033.8,
+              "value": 620280,
+              "label": "600株 @ $1033.80 ($620,280)"
+            },
             {
               "type": "BUY",
               "date": "2026-08-06",
@@ -433,9 +444,9 @@
       "score": 22,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 61.955,
+      "price": 61.99,
       "prev_close": 61.95,
-      "vol_ratio": 0.42,
+      "vol_ratio": 0.86,
       "signals": {
         "insider": {
           "active": true,
@@ -591,9 +602,9 @@
       "score": 4,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 71.54,
+      "price": 72.18,
       "prev_close": 62.36,
-      "vol_ratio": 0.32,
+      "vol_ratio": 0.65,
       "signals": {
         "insider": {
           "active": true,
@@ -761,9 +772,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 218.88,
+      "price": 217.44,
       "prev_close": 200.75,
-      "vol_ratio": 0.45,
+      "vol_ratio": 0.84,
       "signals": {
         "insider": {
           "active": false,
@@ -819,9 +830,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 356.32,
+      "price": 356.09,
       "prev_close": 311.21,
-      "vol_ratio": 0.65,
+      "vol_ratio": 1.04,
       "signals": {
         "insider": {
           "active": false,
@@ -877,9 +888,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 325.51,
+      "price": 325.13,
       "prev_close": 308.91,
-      "vol_ratio": 0.71,
+      "vol_ratio": 1.21,
       "signals": {
         "insider": {
           "active": false,
@@ -935,9 +946,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 500.375,
+      "price": 501.02,
       "prev_close": 464.72,
-      "vol_ratio": 0.35,
+      "vol_ratio": 0.68,
       "signals": {
         "insider": {
           "active": false,
@@ -1016,9 +1027,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 335.495,
+      "price": 335.02,
       "prev_close": 356.13,
-      "vol_ratio": 0.41,
+      "vol_ratio": 0.85,
       "signals": {
         "insider": {
           "active": false,
@@ -1074,9 +1085,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 580.36,
+      "price": 578.54,
       "prev_close": 556.71,
-      "vol_ratio": 0.58,
+      "vol_ratio": 0.97,
       "signals": {
         "insider": {
           "active": false,
@@ -1210,9 +1221,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 254.51,
+      "price": 254.92,
       "prev_close": 271.58,
-      "vol_ratio": 0.44,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
@@ -1379,9 +1390,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 458.06,
+      "price": 459.61,
       "prev_close": 476.15,
-      "vol_ratio": 0.42,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": false,
@@ -1548,9 +1559,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 369.95,
+      "price": 369.68,
       "prev_close": 389.28,
-      "vol_ratio": 0.5,
+      "vol_ratio": 0.96,
       "signals": {
         "insider": {
           "active": false,
@@ -1606,9 +1617,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 182.905,
+      "price": 179.92,
       "prev_close": 123.06,
-      "vol_ratio": 0.32,
+      "vol_ratio": 0.54,
       "signals": {
         "insider": {
           "active": false,
@@ -1753,9 +1764,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 17.115,
+      "price": 17.05,
       "prev_close": 16.31,
-      "vol_ratio": 0.52,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -1811,9 +1822,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 145.725,
+      "price": 144.64,
       "prev_close": 140.67,
-      "vol_ratio": 0.25,
+      "vol_ratio": 0.52,
       "signals": {
         "insider": {
           "active": false,
@@ -1969,9 +1980,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 186.65,
+      "price": 187.03,
       "prev_close": 101.015,
-      "vol_ratio": 0.4,
+      "vol_ratio": 0.7,
       "signals": {
         "insider": {
           "active": false,
@@ -2027,9 +2038,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 10.245,
+      "price": 10.23,
       "prev_close": 11.32,
-      "vol_ratio": 0.36,
+      "vol_ratio": 0.64,
       "signals": {
         "insider": {
           "active": false,
@@ -2085,9 +2096,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 17.96,
+      "price": 17.79,
       "prev_close": 20.17,
-      "vol_ratio": 0.38,
+      "vol_ratio": 0.67,
       "signals": {
         "insider": {
           "active": false,
@@ -2155,9 +2166,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 178.18,
+      "price": 176.82,
       "prev_close": 146.26,
-      "vol_ratio": 0.47,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -2236,9 +2247,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 104.4,
+      "price": 103.51,
       "prev_close": 86.56,
-      "vol_ratio": 0.86,
+      "vol_ratio": 1.21,
       "signals": {
         "insider": {
           "active": false,
@@ -2328,9 +2339,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 320.758,
+      "price": 319.8,
       "prev_close": 293.28,
-      "vol_ratio": 0.42,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
@@ -2497,9 +2508,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 215.37,
+      "price": 215.07,
       "prev_close": 190.86,
-      "vol_ratio": 0.86,
+      "vol_ratio": 1.4,
       "signals": {
         "insider": {
           "active": false,
@@ -2567,9 +2578,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 285.9,
+      "price": 285.51,
       "prev_close": 278.98,
-      "vol_ratio": 0.28,
+      "vol_ratio": 0.61,
       "signals": {
         "insider": {
           "active": false,
@@ -2736,9 +2747,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 226.21,
+      "price": 223.84,
       "prev_close": 267.97,
-      "vol_ratio": 0.29,
+      "vol_ratio": 0.66,
       "signals": {
         "insider": {
           "active": false,
@@ -2905,9 +2916,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 434.95,
+      "price": 434.21,
       "prev_close": 337.48,
-      "vol_ratio": 0.58,
+      "vol_ratio": 2.01,
       "signals": {
         "insider": {
           "active": false,
@@ -3008,9 +3019,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 140.765,
+      "price": 139.82,
       "prev_close": 117.15,
-      "vol_ratio": 0.35,
+      "vol_ratio": 0.89,
       "signals": {
         "insider": {
           "active": false,
@@ -3066,9 +3077,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 182.49,
+      "price": 182.545,
       "prev_close": 151.52,
-      "vol_ratio": 0.29,
+      "vol_ratio": 0.76,
       "signals": {
         "insider": {
           "active": false,
@@ -3235,9 +3246,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 75.445,
+      "price": 75.24,
       "prev_close": 70.36,
-      "vol_ratio": 0.28,
+      "vol_ratio": 0.58,
       "signals": {
         "insider": {
           "active": false,
@@ -3305,9 +3316,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 16.835,
+      "price": 16.77,
       "prev_close": 15.86,
-      "vol_ratio": 0.27,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -3375,9 +3386,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 36.55,
+      "price": 36.71,
       "prev_close": 28.4,
-      "vol_ratio": 0.28,
+      "vol_ratio": 0.51,
       "signals": {
         "insider": {
           "active": false,
@@ -3433,9 +3444,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 234.645,
+      "price": 234.82,
       "prev_close": 239.69,
-      "vol_ratio": 0.4,
+      "vol_ratio": 0.71,
       "signals": {
         "insider": {
           "active": false,
@@ -3503,9 +3514,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 942.685,
+      "price": 933.44,
       "prev_close": 823.03,
-      "vol_ratio": 0.57,
+      "vol_ratio": 0.92,
       "signals": {
         "insider": {
           "active": false,
@@ -3672,9 +3683,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 165.875,
+      "price": 166.61,
       "prev_close": 147.61,
-      "vol_ratio": 0.44,
+      "vol_ratio": 0.89,
       "signals": {
         "insider": {
           "active": false,
@@ -3730,9 +3741,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1660.33,
+      "price": 1665.14,
       "prev_close": 1629.0,
-      "vol_ratio": 0.48,
+      "vol_ratio": 0.77,
       "signals": {
         "insider": {
           "active": false,
@@ -3788,9 +3799,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 81.005,
+      "price": 80.81,
       "prev_close": 71.71,
-      "vol_ratio": 0.38,
+      "vol_ratio": 0.72,
       "signals": {
         "insider": {
           "active": false,
@@ -3902,9 +3913,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 106.87,
+      "price": 106.22,
       "prev_close": 96.19,
-      "vol_ratio": 0.27,
+      "vol_ratio": 0.72,
       "signals": {
         "insider": {
           "active": false,
@@ -3972,9 +3983,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 356.15,
+      "price": 354.95,
       "prev_close": 351.79,
-      "vol_ratio": 0.37,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -4042,9 +4053,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 212.54,
+      "price": 211.04,
       "prev_close": 210.42,
-      "vol_ratio": 0.28,
+      "vol_ratio": 0.81,
       "signals": {
         "insider": {
           "active": false,
@@ -4203,9 +4214,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 375.645,
+      "price": 372.67,
       "prev_close": 366.13,
-      "vol_ratio": 0.29,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -4214,9 +4225,20 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-31",
+              "filing_date": "2026-09-01",
+              "actor": "ROTTENBERG JULIE B",
+              "title": "GENERAL COUNSEL",
+              "shares": 2028,
+              "price": 381.35,
+              "value": 773377,
+              "label": "2,028株 @ $381.35 ($773,377)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-21",
@@ -4284,9 +4306,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 585.86,
+      "price": 581.1,
       "prev_close": 573.1,
-      "vol_ratio": 0.32,
+      "vol_ratio": 1.12,
       "signals": {
         "insider": {
           "active": false,
@@ -4295,9 +4317,20 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 20,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-31",
+              "filing_date": "2026-09-01",
+              "actor": "Kirkpatrick Linda Pistecchia",
+              "title": "Chief Services Officer",
+              "shares": 923,
+              "price": 593.54,
+              "value": 547837,
+              "label": "923株 @ $593.54 ($547,837)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-20",
@@ -4431,9 +4464,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 52.63,
+      "price": 52.4,
       "prev_close": 57.21,
-      "vol_ratio": 0.38,
+      "vol_ratio": 0.86,
       "signals": {
         "insider": {
           "active": false,
@@ -4547,9 +4580,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 205.84,
+      "price": 205.66,
       "prev_close": 216.14,
-      "vol_ratio": 0.39,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
@@ -4605,9 +4638,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 775.01,
+      "price": 779.16,
       "prev_close": 814.81,
-      "vol_ratio": 0.49,
+      "vol_ratio": 1.06,
       "signals": {
         "insider": {
           "active": false,
@@ -4774,9 +4807,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 669.02,
+      "price": 676.08,
       "prev_close": 592.67,
-      "vol_ratio": 0.96,
+      "vol_ratio": 1.82,
       "signals": {
         "insider": {
           "active": false,
@@ -4910,9 +4943,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 209.4,
+      "price": 209.98,
       "prev_close": 243.05,
-      "vol_ratio": 0.29,
+      "vol_ratio": 0.76,
       "signals": {
         "insider": {
           "active": false,
@@ -4968,9 +5001,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 329.98,
+      "price": 331.09,
       "prev_close": 360.07,
-      "vol_ratio": 0.39,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -5049,9 +5082,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 13.79,
+      "price": 13.84,
       "prev_close": 14.68,
-      "vol_ratio": 0.6,
+      "vol_ratio": 1.18,
       "signals": {
         "insider": {
           "active": false,
@@ -5107,9 +5140,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 85.68,
+      "price": 85.63,
       "prev_close": 88.86,
-      "vol_ratio": 0.4,
+      "vol_ratio": 1.03,
       "signals": {
         "insider": {
           "active": false,
@@ -5177,9 +5210,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 15.559,
+      "price": 15.535,
       "prev_close": 15.22,
-      "vol_ratio": 0.42,
+      "vol_ratio": 0.75,
       "signals": {
         "insider": {
           "active": false,
@@ -5235,9 +5268,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 4.665,
+      "price": 4.55,
       "prev_close": 7.38,
-      "vol_ratio": 0.65,
+      "vol_ratio": 1.09,
       "signals": {
         "insider": {
           "active": false,
@@ -5293,9 +5326,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 163.71,
+      "price": 164.55,
       "prev_close": 155.44,
-      "vol_ratio": 0.32,
+      "vol_ratio": 0.76,
       "signals": {
         "insider": {
           "active": false,
@@ -5351,9 +5384,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 209.085,
+      "price": 211.05,
       "prev_close": 196.83,
-      "vol_ratio": 0.49,
+      "vol_ratio": 1.06,
       "signals": {
         "insider": {
           "active": false,
@@ -5520,9 +5553,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 60.935,
+      "price": 60.95,
       "prev_close": 57.07,
-      "vol_ratio": 0.44,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -5578,9 +5611,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 48.935,
+      "price": 49.05,
       "prev_close": 45.13,
-      "vol_ratio": 0.38,
+      "vol_ratio": 0.97,
       "signals": {
         "insider": {
           "active": false,
@@ -5636,20 +5669,31 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 57.96,
+      "price": 57.15,
       "prev_close": 49.59,
-      "vol_ratio": 0.78,
+      "vol_ratio": 1.64,
       "signals": {
         "insider": {
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-01",
+              "filing_date": "2026-09-01",
+              "actor": "Le Peuch Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 35000,
+              "price": 60.0,
+              "value": 2100000,
+              "label": "35,000株 @ $60.00 ($2,100,000)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-26",
@@ -5764,9 +5808,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 269.375,
+      "price": 271.19,
       "prev_close": 256.35,
-      "vol_ratio": 0.36,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -5900,9 +5944,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 149.09,
+      "price": 149.86,
       "prev_close": 130.2,
-      "vol_ratio": 0.31,
+      "vol_ratio": 0.84,
       "signals": {
         "insider": {
           "active": false,
@@ -6069,9 +6113,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1163.05,
+      "price": 1160.0,
       "prev_close": 1148.84,
-      "vol_ratio": 0.38,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -6161,9 +6205,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 394.77,
+      "price": 396.3,
       "prev_close": 414.4,
-      "vol_ratio": 0.37,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -6219,9 +6263,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 96.73,
+      "price": 97.6,
       "prev_close": 104.43,
-      "vol_ratio": 0.41,
+      "vol_ratio": 1.04,
       "signals": {
         "insider": {
           "active": false,
@@ -6335,9 +6379,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 259.51,
+      "price": 259.99,
       "prev_close": 250.94,
-      "vol_ratio": 0.32,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": false,
@@ -6405,9 +6449,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 106.08,
+      "price": 105.92,
       "prev_close": 111.2,
-      "vol_ratio": 0.4,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": false,
@@ -6475,9 +6519,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 163.03,
+      "price": 163.75,
       "prev_close": 144.49,
-      "vol_ratio": 0.36,
+      "vol_ratio": 0.77,
       "signals": {
         "insider": {
           "active": false,
@@ -6556,9 +6600,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 944.59,
+      "price": 939.96,
       "prev_close": 951.89,
-      "vol_ratio": 0.34,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -6614,9 +6658,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 319.75,
+      "price": 319.77,
       "prev_close": 331.96,
-      "vol_ratio": 0.41,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -6695,9 +6739,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 200.96,
+      "price": 200.05,
       "prev_close": 207.81,
-      "vol_ratio": 0.41,
+      "vol_ratio": 1.16,
       "signals": {
         "insider": {
           "active": false,
@@ -6753,9 +6797,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 38.185,
+      "price": 38.12,
       "prev_close": 41.71,
-      "vol_ratio": 0.42,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
@@ -6811,9 +6855,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 120.385,
+      "price": 118.0,
       "prev_close": 118.87,
-      "vol_ratio": 0.5,
+      "vol_ratio": 1.13,
       "signals": {
         "insider": {
           "active": false,
@@ -6869,9 +6913,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 105.53,
+      "price": 106.15,
       "prev_close": 105.25,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": false,
@@ -6927,9 +6971,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 261.436,
+      "price": 261.11,
       "prev_close": 270.64,
-      "vol_ratio": 0.41,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
