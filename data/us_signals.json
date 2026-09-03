@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:59:18.417458+00:00",
+  "generated_at": "2026-09-03T06:43:56.840084+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -104,7 +104,7 @@
       "tier_label": "LOW",
       "price": 415.5,
       "prev_close": 404.25,
-      "vol_ratio": 0.64,
+      "vol_ratio": 0.65,
       "signals": {
         "insider": {
           "active": true,
@@ -343,7 +343,7 @@
       "tier_label": "LOW",
       "price": 1004.42,
       "prev_close": 1018.38,
-      "vol_ratio": 1.11,
+      "vol_ratio": 1.17,
       "signals": {
         "insider": {
           "active": true,
@@ -446,7 +446,7 @@
       "tier_label": "LOW",
       "price": 62.6,
       "prev_close": 61.95,
-      "vol_ratio": 0.98,
+      "vol_ratio": 1.01,
       "signals": {
         "insider": {
           "active": true,
@@ -845,6 +845,28 @@
               "type": "SELL",
               "date": "2026-08-31",
               "filing_date": "2026-09-02",
+              "actor": "STEVENS MARK A",
+              "title": "Insider",
+              "shares": 447400,
+              "price": 220.1,
+              "value": 98470905,
+              "label": "447,400株 @ $220.10 ($98,470,905)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-31",
+              "filing_date": "2026-09-02",
+              "actor": "STEVENS MARK A",
+              "title": "Insider",
+              "shares": 137600,
+              "price": 220.91,
+              "value": 30397284,
+              "label": "137,600株 @ $220.91 ($30,397,284)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-31",
+              "filing_date": "2026-09-02",
               "actor": "Teter Timothy S.",
               "title": "EVP, General Counsel and Sec",
               "shares": 6692,
@@ -873,28 +895,6 @@
               "price": 218.53,
               "value": 2053056,
               "label": "9,395株 @ $218.53 ($2,053,056)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-31",
-              "filing_date": "2026-09-02",
-              "actor": "STEVENS MARK A",
-              "title": "Insider",
-              "shares": 447400,
-              "price": 220.1,
-              "value": 98470905,
-              "label": "447,400株 @ $220.10 ($98,470,905)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-31",
-              "filing_date": "2026-09-02",
-              "actor": "STEVENS MARK A",
-              "title": "Insider",
-              "shares": 137600,
-              "price": 220.91,
-              "value": 30397284,
-              "label": "137,600株 @ $220.91 ($30,397,284)"
             }
           ]
         },
@@ -1059,7 +1059,7 @@
       "tier_label": "LOW",
       "price": 496.82,
       "prev_close": 464.72,
-      "vol_ratio": 0.55,
+      "vol_ratio": 0.56,
       "signals": {
         "insider": {
           "active": false,
@@ -1286,7 +1286,7 @@
       "tier_label": "LOW",
       "price": 592.85,
       "prev_close": 556.71,
-      "vol_ratio": 1.03,
+      "vol_ratio": 1.04,
       "signals": {
         "insider": {
           "active": false,
@@ -1760,7 +1760,7 @@
       "tier_label": "LOW",
       "price": 367.24,
       "prev_close": 389.28,
-      "vol_ratio": 1.54,
+      "vol_ratio": 1.85,
       "signals": {
         "insider": {
           "active": false,
@@ -1818,7 +1818,7 @@
       "tier_label": "LOW",
       "price": 169.46,
       "prev_close": 123.06,
-      "vol_ratio": 0.88,
+      "vol_ratio": 0.89,
       "signals": {
         "insider": {
           "active": false,
@@ -2551,7 +2551,7 @@
       "tier_label": "LOW",
       "price": 305.84,
       "prev_close": 293.28,
-      "vol_ratio": 2.35,
+      "vol_ratio": 2.45,
       "signals": {
         "insider": {
           "active": false,
@@ -2720,50 +2720,39 @@
       "tier_label": "LOW",
       "price": 203.42,
       "prev_close": 190.86,
-      "vol_ratio": 1.25,
+      "vol_ratio": 1.26,
       "signals": {
         "insider": {
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 25,
+          "sell_count": 16,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
               "date": "2026-09-01",
               "filing_date": "2026-09-02",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 3218,
-              "price": 214.38,
-              "value": 689874,
-              "label": "3,218株 @ $214.38 ($689,874)"
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 6629,
+              "price": 214.32,
+              "value": 1420727,
+              "label": "6,629株 @ $214.32 ($1,420,727)"
             },
             {
               "type": "SELL",
               "date": "2026-09-01",
               "filing_date": "2026-09-02",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2532,
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 4695,
               "price": 215.1,
-              "value": 544633,
-              "label": "2,532株 @ $215.10 ($544,633)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-31",
-              "filing_date": "2026-09-02",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2903,
-              "price": 227.0,
-              "value": 658981,
-              "label": "2,903株 @ $227.00 ($658,981)"
+              "value": 1009894,
+              "label": "4,695株 @ $215.10 ($1,009,894)"
             }
           ]
         },
@@ -2981,7 +2970,7 @@
       "tier_label": "LOW",
       "price": 209.23,
       "prev_close": 267.97,
-      "vol_ratio": 1.19,
+      "vol_ratio": 1.2,
       "signals": {
         "insider": {
           "active": false,
@@ -3253,7 +3242,7 @@
       "tier_label": "LOW",
       "price": 141.87,
       "prev_close": 117.15,
-      "vol_ratio": 0.6,
+      "vol_ratio": 0.62,
       "signals": {
         "insider": {
           "active": false,
@@ -3975,7 +3964,7 @@
       "tier_label": "LOW",
       "price": 1682.3,
       "prev_close": 1629.0,
-      "vol_ratio": 0.74,
+      "vol_ratio": 0.75,
       "signals": {
         "insider": {
           "active": false,
@@ -4551,7 +4540,7 @@
       "tier_label": "LOW",
       "price": 588.14,
       "prev_close": 573.1,
-      "vol_ratio": 0.78,
+      "vol_ratio": 0.79,
       "signals": {
         "insider": {
           "active": false,
@@ -4883,7 +4872,7 @@
       "tier_label": "LOW",
       "price": 792.28,
       "prev_close": 814.81,
-      "vol_ratio": 0.88,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -5052,7 +5041,7 @@
       "tier_label": "LOW",
       "price": 698.37,
       "prev_close": 592.67,
-      "vol_ratio": 1.57,
+      "vol_ratio": 1.58,
       "signals": {
         "insider": {
           "active": false,
@@ -5363,7 +5352,7 @@
       "tier_label": "LOW",
       "price": 84.87,
       "prev_close": 88.86,
-      "vol_ratio": 1.15,
+      "vol_ratio": 1.16,
       "signals": {
         "insider": {
           "active": false,

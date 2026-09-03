@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:03:42.185415+09:00",
+  "generated_at": "2026-09-03T15:48:17.464035+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近43h以内)"
+            "開示件数": "5件 (直近48h以内)"
           },
           "evidence": 95,
           "events": [
@@ -124,7 +124,7 @@
       "symbol": "3092",
       "name": "ZOZO",
       "market": "JP",
-      "score": 48,
+      "score": 35,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -142,12 +142,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 30,
+          "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近20h以内)"
+            "開示件数": "1件 (直近24h以内)"
           },
-          "evidence": 80,
+          "evidence": 72,
           "events": [
             {
               "type": "BUYBACK",
@@ -191,13 +191,13 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -13
     },
     {
       "symbol": "6702",
       "name": "富士通",
       "market": "JP",
-      "score": 48,
+      "score": 35,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -215,12 +215,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 30,
+          "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近20h以内)"
+            "開示件数": "1件 (直近24h以内)"
           },
-          "evidence": 80,
+          "evidence": 72,
           "events": [
             {
               "type": "BUYBACK",
@@ -264,7 +264,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -13
     },
     {
       "symbol": "8001",
@@ -291,7 +291,7 @@
           "score": 21,
           "detail": {
             "強気開示": "TOB・公開買付",
-            "開示件数": "1件 (直近27h以内)"
+            "開示件数": "1件 (直近31h以内)"
           },
           "evidence": 71,
           "events": [
