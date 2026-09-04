@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:54:01.773149+00:00",
+  "generated_at": "2026-09-04T06:46:56.071994+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2316,28 +2316,6 @@
               "type": "SELL",
               "date": "2026-09-01",
               "filing_date": "2026-09-03",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 37406,
-              "price": 71.36,
-              "value": 2669292,
-              "label": "37,406株 @ $71.36 ($2,669,292)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 26344,
-              "price": 71.83,
-              "value": 1892289,
-              "label": "26,344株 @ $71.83 ($1,892,289)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
               "actor": "HUSTON BENJAMIN E.",
               "title": "Chief Operating Officer",
               "shares": 29474,
@@ -2355,6 +2333,28 @@
               "price": 71.83,
               "value": 1474382,
               "label": "20,526株 @ $71.83 ($1,474,382)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-01",
+              "filing_date": "2026-09-03",
+              "actor": "JENKINS MARK W.",
+              "title": "Chief Financial Officer",
+              "shares": 37406,
+              "price": 71.36,
+              "value": 2669292,
+              "label": "37,406株 @ $71.36 ($2,669,292)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-01",
+              "filing_date": "2026-09-03",
+              "actor": "JENKINS MARK W.",
+              "title": "Chief Financial Officer",
+              "shares": 26344,
+              "price": 71.83,
+              "value": 1892289,
+              "label": "26,344株 @ $71.83 ($1,892,289)"
             },
             {
               "type": "SELL",
