@@ -1,101 +1,8 @@
 {
-  "generated_at": "2026-09-04T23:38:11.045350+00:00",
+  "generated_at": "2026-09-05T01:54:20.204883+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
-    {
-      "symbol": "PFE",
-      "market": "US",
-      "score": 52,
-      "tier": "monitor",
-      "tier_label": "👀 MONITOR",
-      "price": 28.45,
-      "prev_close": 25.41,
-      "vol_ratio": 0.65,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 35,
-          "detail": {
-            "クラスターバイ": "3名が直近期間に買付",
-            "最大買付": "Chairman &amp; CEO: $1,000,920"
-          },
-          "buy_count": 3,
-          "sell_count": 1,
-          "evidence": 75,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-12",
-              "actor": "BOURLA ALBERT",
-              "title": "Chairman &amp; CEO",
-              "shares": 38000,
-              "price": 26.34,
-              "value": 1000920,
-              "label": "38,000株 @ $26.34 ($1,000,920)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05",
-              "actor": "BLAYLOCK RONALD E",
-              "title": "Director",
-              "shares": 39231,
-              "price": 25.46,
-              "value": 998821,
-              "label": "39,231株 @ $25.46 ($998,821)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-05",
-              "actor": "Buckley Mortimer J",
-              "title": "Director",
-              "shares": 37632,
-              "price": 25.52,
-              "value": 960368,
-              "label": "37,632株 @ $25.52 ($960,368)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "TSM",
       "market": "US",
@@ -597,6 +504,76 @@
       "score_change": 0
     },
     {
+      "symbol": "PFE",
+      "market": "US",
+      "score": 15,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 28.45,
+      "prev_close": 25.41,
+      "vol_ratio": 0.65,
+      "signals": {
+        "insider": {
+          "active": true,
+          "score": 10,
+          "detail": {
+            "最大買付": "Chairman &amp; CEO: $1,000,920"
+          },
+          "buy_count": 1,
+          "sell_count": 1,
+          "evidence": 50,
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-08-12",
+              "filing_date": "2026-08-12",
+              "actor": "BOURLA ALBERT",
+              "title": "Chairman &amp; CEO",
+              "shares": 38000,
+              "price": 26.34,
+              "value": 1000920,
+              "label": "38,000株 @ $26.34 ($1,000,920)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -37
+    },
+    {
       "symbol": "NVDA",
       "market": "US",
       "score": 0,
@@ -895,10 +872,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "8件の$1M+売却"
+            "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 10,
+          "sell_count": 9,
           "evidence": 40,
           "events": [
             {
@@ -999,17 +976,6 @@
               "price": 487.89,
               "value": 4878930,
               "label": "10,000株 @ $487.89 ($4,878,930)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-04",
-              "filing_date": "2026-08-05",
-              "actor": "Numoto Takeshi",
-              "title": "EVP, Chief Marketing Officer",
-              "shares": 4810,
-              "price": 496.48,
-              "value": 2388244,
-              "label": "4,810株 @ $496.48 ($2,388,244)"
             }
           ]
         },
@@ -2214,10 +2180,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 23,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -2230,28 +2196,6 @@
               "price": 177.09,
               "value": 601562,
               "label": "3,397株 @ $177.09 ($601,562)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "WILSON FREDERICK R",
-              "title": "Insider",
-              "shares": 10494,
-              "price": 142.01,
-              "value": 1490294,
-              "label": "10,494株 @ $142.01 ($1,490,294)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "WILSON FREDERICK R",
-              "title": "Insider",
-              "shares": 10589,
-              "price": 142.93,
-              "value": 1513482,
-              "label": "10,589株 @ $142.93 ($1,513,482)"
             }
           ]
         },
@@ -2681,33 +2625,44 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 22,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-02",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 6629,
-              "price": 214.32,
-              "value": 1420727,
-              "label": "6,629株 @ $214.32 ($1,420,727)"
+              "date": "2026-09-03",
+              "filing_date": "2026-09-04",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2469,
+              "price": 212.94,
+              "value": 525748,
+              "label": "2,469株 @ $212.94 ($525,748)"
             },
             {
               "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-02",
-              "actor": "GANDHI SAMEER K",
-              "title": "Insider",
-              "shares": 4695,
-              "price": 215.1,
-              "value": 1009894,
-              "label": "4,695株 @ $215.10 ($1,009,894)"
+              "date": "2026-09-03",
+              "filing_date": "2026-09-04",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 3037,
+              "price": 213.73,
+              "value": 649098,
+              "label": "3,037株 @ $213.73 ($649,098)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-02",
+              "filing_date": "2026-09-04",
+              "actor": "Kurtz George",
+              "title": "PRESIDENT AND CEO",
+              "shares": 2468,
+              "price": 203.59,
+              "value": 502460,
+              "label": "2,468株 @ $203.59 ($502,460)"
             }
           ]
         },
@@ -3503,21 +3458,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "Llewellyn Lindsay Catherine",
-              "title": "SEE REMARKS",
-              "shares": 36214,
-              "price": 16.14,
-              "value": 584439,
-              "label": "36,214株 @ $16.14 ($584,439)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5399,7 +5342,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -5512,10 +5455,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "13件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -5583,50 +5526,6 @@
               "price": 187.0,
               "value": 1037265,
               "label": "5,547株 @ $187.00 ($1,037,265)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 55510,
-              "price": 194.07,
-              "value": 10772842,
-              "label": "55,510株 @ $194.07 ($10,772,842)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 44490,
-              "price": 194.5,
-              "value": 8653189,
-              "label": "44,490株 @ $194.50 ($8,653,189)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 174821,
-              "price": 194.42,
-              "value": 33989065,
-              "label": "174,821株 @ $194.42 ($33,989,065)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-03",
-              "filing_date": "2026-08-05",
-              "actor": "HESS JOHN B",
-              "title": "Insider",
-              "shares": 25179,
-              "price": 195.28,
-              "value": 4916884,
-              "label": "25,179株 @ $195.28 ($4,916,884)"
             }
           ]
         },
