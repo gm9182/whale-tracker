@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:32:43.188596+00:00",
+  "generated_at": "2026-09-07T01:45:59.093892+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -520,7 +520,7 @@
             "最大買付": "Chairman &amp; CEO: $1,000,920"
           },
           "buy_count": 1,
-          "sell_count": 1,
+          "sell_count": 0,
           "evidence": 50,
           "events": [
             {
@@ -872,10 +872,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "6件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 9,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -965,17 +965,6 @@
               "price": 505.2,
               "value": 687071,
               "label": "1,360株 @ $505.20 ($687,071)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-06",
-              "actor": "Althoff Judson",
-              "title": "CEO Microsoft Commercial",
-              "shares": 10000,
-              "price": 487.89,
-              "value": 4878930,
-              "label": "10,000株 @ $487.89 ($4,878,930)"
             }
           ]
         },
@@ -2110,24 +2099,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 3,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Werner Ryan D.",
-              "title": "SVP, CAO",
-              "shares": 35430,
-              "price": 21.98,
-              "value": 778751,
-              "label": "35,430株 @ $21.98 ($778,751)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -3929,7 +3906,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -3942,17 +3919,6 @@
               "price": 75.79,
               "value": 700906,
               "label": "9,248株 @ $75.79 ($700,906)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-06",
-              "filing_date": "2026-08-06",
-              "actor": "Peters Gregory K",
-              "title": "Co-CEO",
-              "shares": 27312,
-              "price": 73.54,
-              "value": 2008606,
-              "label": "27,312株 @ $73.54 ($2,008,606)"
             }
           ]
         },
@@ -4403,7 +4369,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 21,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -4493,28 +4459,6 @@
               "price": 565.24,
               "value": 673200,
               "label": "1,191株 @ $565.24 ($673,200)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-06",
-              "actor": "SACHIN J. MEHRA",
-              "title": "Chief Business Officer",
-              "shares": 880,
-              "price": 570.41,
-              "value": 501958,
-              "label": "880株 @ $570.41 ($501,958)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-06",
-              "actor": "SACHIN J. MEHRA",
-              "title": "Chief Business Officer",
-              "shares": 880,
-              "price": 571.38,
-              "value": 502816,
-              "label": "880株 @ $571.38 ($502,816)"
             }
           ]
         },
@@ -5455,10 +5399,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -5515,17 +5459,6 @@
               "price": 194.95,
               "value": 2737866,
               "label": "14,044株 @ $194.95 ($2,737,866)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Wirth Michael K",
-              "title": "Chairman and CEO",
-              "shares": 5547,
-              "price": 187.0,
-              "value": 1037265,
-              "label": "5,547株 @ $187.00 ($1,037,265)"
             }
           ]
         },
@@ -5835,10 +5768,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "9件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 9,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -5895,50 +5828,6 @@
               "price": 261.0,
               "value": 26704215,
               "label": "102,315株 @ $261.00 ($26,704,215)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-06",
-              "filing_date": "2026-08-07",
-              "actor": "Forminard Elizabeth",
-              "title": "EVP, Chief Legal Officer",
-              "shares": 9344,
-              "price": 257.75,
-              "value": 2408462,
-              "label": "9,344株 @ $257.75 ($2,408,462)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-06",
-              "filing_date": "2026-08-07",
-              "actor": "Forminard Elizabeth",
-              "title": "EVP, Chief Legal Officer",
-              "shares": 6574,
-              "price": 255.93,
-              "value": 1682496,
-              "label": "6,574株 @ $255.93 ($1,682,496)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Duato Joaquin",
-              "title": "CEO and Chairman of the Board",
-              "shares": 41957,
-              "price": 258.06,
-              "value": 10827255,
-              "label": "41,957株 @ $258.06 ($10,827,255)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Duato Joaquin",
-              "title": "CEO and Chairman of the Board",
-              "shares": 6523,
-              "price": 258.74,
-              "value": 1687754,
-              "label": "6,523株 @ $258.74 ($1,687,754)"
             }
           ]
         },
@@ -5993,10 +5882,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 10,
           "evidence": 40,
           "events": [
             {
@@ -6075,39 +5964,6 @@
               "price": 130.23,
               "value": 643993,
               "label": "4,945株 @ $130.23 ($643,993)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Maraldo David R.",
-              "title": "EVP &amp; Pres. MMD",
-              "shares": 6311,
-              "price": 128.72,
-              "value": 812338,
-              "label": "6,311株 @ $128.72 ($812,338)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Maraldo David R.",
-              "title": "EVP &amp; Pres. MMD",
-              "shares": 9709,
-              "price": 128.72,
-              "value": 1249722,
-              "label": "9,709株 @ $128.72 ($1,249,722)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-07",
-              "actor": "Williams David Michael",
-              "title": "EVP,Chief Info&amp;Digital Officer",
-              "shares": 4600,
-              "price": 128.77,
-              "value": 592345,
-              "label": "4,600株 @ $128.77 ($592,345)"
             }
           ]
         },
@@ -6257,7 +6113,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -6849,7 +6705,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -6962,11 +6818,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
