@@ -1,8 +1,154 @@
 {
-  "generated_at": "2026-09-07T10:50:03.814856+09:00",
+  "generated_at": "2026-09-07T15:54:12.039362+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "6981",
+      "name": "村田製作所",
+      "market": "JP",
+      "score": 48,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6981.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 30,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近2h以内)"
+          },
+          "evidence": 80,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-09-07",
+              "filing_date": "2026-09-07 14:00:00",
+              "actor": "村田製",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260907532226.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 48
+    },
+    {
+      "symbol": "1605",
+      "name": "INPEX",
+      "market": "JP",
+      "score": 48,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 30,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近3h以内)"
+          },
+          "evidence": 80,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-09-07",
+              "filing_date": "2026-09-07 13:00:00",
+              "actor": "ＩＮＰＥＸ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260904532009.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 48
+    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -74,7 +220,7 @@
           "events": []
         }
       },
-      "score_change": -11
+      "score_change": 0
     },
     {
       "symbol": "9432",
@@ -1136,7 +1282,7 @@
           "events": []
         }
       },
-      "score_change": -22
+      "score_change": 0
     },
     {
       "symbol": "9434",
@@ -1206,65 +1352,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 8058.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6981",
-      "name": "村田製作所",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6981.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2434,7 +2521,7 @@
           "events": []
         }
       },
-      "score_change": -24
+      "score_change": 0
     },
     {
       "symbol": "4307",
@@ -2788,7 +2875,7 @@
           "events": []
         }
       },
-      "score_change": -24
+      "score_change": 0
     },
     {
       "symbol": "6532",
@@ -3383,65 +3470,6 @@
     {
       "symbol": "5020",
       "name": "ENEOSホールディングス",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "1605",
-      "name": "INPEX",
       "market": "JP",
       "score": 0,
       "tier": "low",
