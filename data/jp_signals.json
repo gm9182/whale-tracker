@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:22:16.400715+09:00",
+  "generated_at": "2026-09-08T03:42:14.035683+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 30,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近8h以内)"
+            "開示件数": "1件 (直近14h以内)"
           },
           "evidence": 80,
           "events": [
@@ -101,7 +101,7 @@
           "score": 30,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近9h以内)"
+            "開示件数": "1件 (直近15h以内)"
           },
           "evidence": 80,
           "events": [
@@ -153,7 +153,7 @@
       "symbol": "7203",
       "name": "トヨタ自動車",
       "market": "JP",
-      "score": 24,
+      "score": 0,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -170,27 +170,13 @@
           "events": []
         },
         "tdnet": {
-          "active": true,
-          "score": 15,
+          "active": false,
+          "score": 0,
           "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "1件 (直近72h以内)"
+            "event": "適時開示なし"
           },
-          "evidence": 65,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-09-03",
-              "filing_date": "2026-09-03 15:30:00",
-              "actor": "トヨタ自",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260903531084.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
+          "evidence": 0,
+          "events": []
         },
         "volume": {
           "active": false,
@@ -220,7 +206,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -24
     },
     {
       "symbol": "9432",
@@ -3180,7 +3166,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
