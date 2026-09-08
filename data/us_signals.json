@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:47:28.179273+00:00",
+  "generated_at": "2026-09-08T12:03:00.041641+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -171,6 +171,98 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "UBER",
+      "market": "US",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 75.76,
+      "prev_close": 71.99,
+      "vol_ratio": 0.78,
+      "signals": {
+        "insider": {
+          "active": true,
+          "score": 20,
+          "detail": {
+            "最大買付": "See Remarks: $4,109,827"
+          },
+          "buy_count": 2,
+          "sell_count": 1,
+          "evidence": 60,
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
+              "actor": "Macdonald Andrew",
+              "title": "See Remarks",
+              "shares": 54325,
+              "price": 75.65,
+              "value": 4109827,
+              "label": "54,325株 @ $75.65 ($4,109,827)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
+              "actor": "Macdonald Andrew",
+              "title": "See Remarks",
+              "shares": 15675,
+              "price": 76.44,
+              "value": 1198236,
+              "label": "15,675株 @ $76.44 ($1,198,236)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-19",
+              "actor": "Uber Technologies, Inc",
+              "title": "Insider",
+              "shares": 72000000,
+              "price": 6.55,
+              "value": 471600000,
+              "label": "72,000,000株 @ $6.55 ($471,600,000)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": 30
     },
     {
       "symbol": "INTC",
@@ -3308,76 +3400,6 @@
               "price": 191.09,
               "value": 530080,
               "label": "2,774株 @ $191.09 ($530,080)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "UBER",
-      "market": "US",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 75.76,
-      "prev_close": 71.99,
-      "vol_ratio": 0.78,
-      "signals": {
-        "insider": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "シグナルなし"
-          },
-          "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-19",
-              "actor": "Uber Technologies, Inc",
-              "title": "Insider",
-              "shares": 72000000,
-              "price": 6.55,
-              "value": 471600000,
-              "label": "72,000,000株 @ $6.55 ($471,600,000)"
             }
           ]
         },
