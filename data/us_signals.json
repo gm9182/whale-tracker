@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:51:15.656410+00:00",
+  "generated_at": "2026-09-09T02:03:09.949525+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -180,7 +180,7 @@
       "tier_label": "LOW",
       "price": 73.13,
       "prev_close": 75.02,
-      "vol_ratio": 1.52,
+      "vol_ratio": 1.62,
       "signals": {
         "insider": {
           "active": true,
@@ -342,7 +342,7 @@
       "tier_label": "LOW",
       "price": 1036.53,
       "prev_close": 1039.61,
-      "vol_ratio": 0.7,
+      "vol_ratio": 0.71,
       "signals": {
         "insider": {
           "active": true,
@@ -445,7 +445,7 @@
       "tier_label": "LOW",
       "price": 62.39,
       "prev_close": 63.17,
-      "vol_ratio": 0.83,
+      "vol_ratio": 0.98,
       "signals": {
         "insider": {
           "active": true,
@@ -673,7 +673,7 @@
       "tier_label": "LOW",
       "price": 225.73,
       "prev_close": 223.96,
-      "vol_ratio": 0.93,
+      "vol_ratio": 0.95,
       "signals": {
         "insider": {
           "active": false,
@@ -900,7 +900,7 @@
       "tier_label": "LOW",
       "price": 316.22,
       "prev_close": 313.33,
-      "vol_ratio": 0.89,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -958,7 +958,7 @@
       "tier_label": "LOW",
       "price": 493.95,
       "prev_close": 499.99,
-      "vol_ratio": 0.82,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -1105,7 +1105,7 @@
       "tier_label": "LOW",
       "price": 338.36,
       "prev_close": 354.3,
-      "vol_ratio": 1.0,
+      "vol_ratio": 1.03,
       "signals": {
         "insider": {
           "active": false,
@@ -1163,7 +1163,7 @@
       "tier_label": "LOW",
       "price": 613.48,
       "prev_close": 592.1,
-      "vol_ratio": 1.14,
+      "vol_ratio": 1.17,
       "signals": {
         "insider": {
           "active": false,
@@ -1299,7 +1299,7 @@
       "tier_label": "LOW",
       "price": 256.97,
       "prev_close": 274.48,
-      "vol_ratio": 0.89,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -1468,7 +1468,7 @@
       "tier_label": "LOW",
       "price": 505.74,
       "prev_close": 483.36,
-      "vol_ratio": 1.55,
+      "vol_ratio": 1.56,
       "signals": {
         "insider": {
           "active": false,
@@ -1637,7 +1637,7 @@
       "tier_label": "LOW",
       "price": 368.56,
       "prev_close": 427.76,
-      "vol_ratio": 1.26,
+      "vol_ratio": 1.28,
       "signals": {
         "insider": {
           "active": false,
@@ -1900,7 +1900,7 @@
       "tier_label": "LOW",
       "price": 149.38,
       "prev_close": 161.7,
-      "vol_ratio": 0.72,
+      "vol_ratio": 0.73,
       "signals": {
         "insider": {
           "active": false,
@@ -2688,7 +2688,7 @@
       "tier_label": "LOW",
       "price": 210.02,
       "prev_close": 214.42,
-      "vol_ratio": 0.77,
+      "vol_ratio": 0.78,
       "signals": {
         "insider": {
           "active": false,
@@ -2786,121 +2786,121 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "12件の$1M+売却"
+            "大型売却警戒": "11件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 26,
+          "sell_count": 17,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 2206,
-              "price": 274.47,
-              "value": 605485,
-              "label": "2,206株 @ $274.47 ($605,485)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 2428,
+              "price": 273.09,
+              "value": 663062,
+              "label": "2,428株 @ $273.09 ($663,062)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 8990,
-              "price": 275.66,
-              "value": 2478196,
-              "label": "8,990株 @ $275.66 ($2,478,196)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 2202,
+              "price": 274.39,
+              "value": 604206,
+              "label": "2,202株 @ $274.39 ($604,206)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 4236,
-              "price": 276.67,
-              "value": 1171955,
-              "label": "4,236株 @ $276.67 ($1,171,955)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 4823,
+              "price": 277.53,
+              "value": 1338527,
+              "label": "4,823株 @ $277.53 ($1,338,527)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 5642,
-              "price": 277.95,
-              "value": 1568175,
-              "label": "5,642株 @ $277.95 ($1,568,175)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 14961,
+              "price": 278.48,
+              "value": 4166339,
+              "label": "14,961株 @ $278.48 ($4,166,339)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 5624,
-              "price": 278.78,
-              "value": 1567872,
-              "label": "5,624株 @ $278.78 ($1,567,872)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 5489,
+              "price": 279.41,
+              "value": 1533681,
+              "label": "5,489株 @ $279.41 ($1,533,681)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-21",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 5259,
-              "price": 279.72,
-              "value": 1471039,
-              "label": "5,259株 @ $279.72 ($1,471,039)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 2753,
+              "price": 279.73,
+              "value": 770096,
+              "label": "2,753株 @ $279.73 ($770,096)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-20",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 7007,
-              "price": 283.21,
-              "value": 1984469,
-              "label": "7,007株 @ $283.21 ($1,984,469)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 7843,
+              "price": 281.02,
+              "value": 2204039,
+              "label": "7,843株 @ $281.02 ($2,204,039)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-20",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 8646,
-              "price": 284.05,
-              "value": 2455900,
-              "label": "8,646株 @ $284.05 ($2,455,900)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 17603,
+              "price": 281.93,
+              "value": 4962813,
+              "label": "17,603株 @ $281.93 ($4,962,813)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-20",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 8467,
-              "price": 285.16,
-              "value": 2414428,
-              "label": "8,467株 @ $285.16 ($2,414,428)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 4804,
+              "price": 282.87,
+              "value": 1358907,
+              "label": "4,804株 @ $282.87 ($1,358,907)"
             },
             {
               "type": "SELL",
-              "date": "2026-08-20",
-              "filing_date": "2026-08-21",
+              "date": "2026-09-03",
+              "filing_date": "2026-09-08",
               "actor": "Zatlyn Michelle",
-              "title": "President and Board Co-Chair",
-              "shares": 3109,
-              "price": 286.1,
-              "value": 889476,
-              "label": "3,109株 @ $286.10 ($889,476)"
+              "title": "PRESIDENT &amp; BOARD CO-CHAIR",
+              "shares": 7203,
+              "price": 276.79,
+              "value": 1993718,
+              "label": "7,203株 @ $276.79 ($1,993,718)"
             }
           ]
         },
@@ -2949,7 +2949,7 @@
       "tier_label": "LOW",
       "price": 210.23,
       "prev_close": 233.93,
-      "vol_ratio": 1.24,
+      "vol_ratio": 1.26,
       "signals": {
         "insider": {
           "active": false,
@@ -3448,7 +3448,7 @@
       "tier_label": "LOW",
       "price": 16.24,
       "prev_close": 17.46,
-      "vol_ratio": 1.51,
+      "vol_ratio": 1.52,
       "signals": {
         "insider": {
           "active": false,
@@ -3701,7 +3701,7 @@
       "tier_label": "LOW",
       "price": 1000.26,
       "prev_close": 877.57,
-      "vol_ratio": 0.95,
+      "vol_ratio": 0.96,
       "signals": {
         "insider": {
           "active": false,
@@ -3870,7 +3870,7 @@
       "tier_label": "LOW",
       "price": 174.09,
       "prev_close": 167.86,
-      "vol_ratio": 2.59,
+      "vol_ratio": 2.63,
       "signals": {
         "insider": {
           "active": false,
@@ -4056,7 +4056,7 @@
       "tier_label": "LOW",
       "price": 105.06,
       "prev_close": 104.91,
-      "vol_ratio": 0.97,
+      "vol_ratio": 0.98,
       "signals": {
         "insider": {
           "active": false,
@@ -4449,7 +4449,7 @@
       "tier_label": "LOW",
       "price": 570.89,
       "prev_close": 562.95,
-      "vol_ratio": 0.96,
+      "vol_ratio": 0.99,
       "signals": {
         "insider": {
           "active": false,
@@ -4596,7 +4596,7 @@
       "tier_label": "LOW",
       "price": 53.18,
       "prev_close": 59.07,
-      "vol_ratio": 0.78,
+      "vol_ratio": 0.79,
       "signals": {
         "insider": {
           "active": false,
@@ -4770,7 +4770,7 @@
       "tier_label": "LOW",
       "price": 822.48,
       "prev_close": 842.19,
-      "vol_ratio": 0.86,
+      "vol_ratio": 1.0,
       "signals": {
         "insider": {
           "active": false,
@@ -5053,7 +5053,7 @@
       "tier_label": "LOW",
       "price": 208.24,
       "prev_close": 246.21,
-      "vol_ratio": 0.79,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": false,
@@ -5424,7 +5424,7 @@
       "tier_label": "LOW",
       "price": 160.66,
       "prev_close": 153.04,
-      "vol_ratio": 0.88,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -5596,7 +5596,7 @@
       "tier_label": "LOW",
       "price": 60.65,
       "prev_close": 55.91,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -5654,7 +5654,7 @@
       "tier_label": "LOW",
       "price": 48.4,
       "prev_close": 42.98,
-      "vol_ratio": 1.04,
+      "vol_ratio": 1.07,
       "signals": {
         "insider": {
           "active": false,
@@ -5712,7 +5712,7 @@
       "tier_label": "LOW",
       "price": 57.1,
       "prev_close": 50.53,
-      "vol_ratio": 0.82,
+      "vol_ratio": 1.21,
       "signals": {
         "insider": {
           "active": false,
@@ -5851,7 +5851,7 @@
       "tier_label": "LOW",
       "price": 269.12,
       "prev_close": 259.24,
-      "vol_ratio": 1.22,
+      "vol_ratio": 1.27,
       "signals": {
         "insider": {
           "active": false,
@@ -5965,7 +5965,7 @@
       "tier_label": "LOW",
       "price": 148.46,
       "prev_close": 128.58,
-      "vol_ratio": 1.0,
+      "vol_ratio": 1.03,
       "signals": {
         "insider": {
           "active": false,
@@ -6101,7 +6101,7 @@
       "tier_label": "LOW",
       "price": 1123.91,
       "prev_close": 1185.71,
-      "vol_ratio": 0.91,
+      "vol_ratio": 0.96,
       "signals": {
         "insider": {
           "active": false,
@@ -6193,7 +6193,7 @@
       "tier_label": "LOW",
       "price": 400.84,
       "prev_close": 407.08,
-      "vol_ratio": 1.33,
+      "vol_ratio": 1.66,
       "signals": {
         "insider": {
           "active": false,
@@ -6251,7 +6251,7 @@
       "tier_label": "LOW",
       "price": 96.07,
       "prev_close": 95.7,
-      "vol_ratio": 0.63,
+      "vol_ratio": 0.64,
       "signals": {
         "insider": {
           "active": false,
@@ -6367,7 +6367,7 @@
       "tier_label": "LOW",
       "price": 248.78,
       "prev_close": 246.04,
-      "vol_ratio": 1.19,
+      "vol_ratio": 1.28,
       "signals": {
         "insider": {
           "active": false,
@@ -6437,7 +6437,7 @@
       "tier_label": "LOW",
       "price": 106.05,
       "prev_close": 111.85,
-      "vol_ratio": 0.78,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
@@ -6507,7 +6507,7 @@
       "tier_label": "LOW",
       "price": 162.71,
       "prev_close": 149.7,
-      "vol_ratio": 0.54,
+      "vol_ratio": 0.56,
       "signals": {
         "insider": {
           "active": false,
@@ -6588,7 +6588,7 @@
       "tier_label": "LOW",
       "price": 910.18,
       "prev_close": 947.82,
-      "vol_ratio": 1.24,
+      "vol_ratio": 1.25,
       "signals": {
         "insider": {
           "active": false,
@@ -6646,7 +6646,7 @@
       "tier_label": "LOW",
       "price": 313.7,
       "prev_close": 355.62,
-      "vol_ratio": 1.35,
+      "vol_ratio": 1.51,
       "signals": {
         "insider": {
           "active": false,
@@ -6901,7 +6901,7 @@
       "tier_label": "LOW",
       "price": 102.01,
       "prev_close": 105.58,
-      "vol_ratio": 1.1,
+      "vol_ratio": 1.13,
       "signals": {
         "insider": {
           "active": false,
