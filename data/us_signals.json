@@ -1,17 +1,121 @@
 {
-  "generated_at": "2026-09-10T16:14:37.294809+00:00",
+  "generated_at": "2026-09-10T23:38:11.537155+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
+    {
+      "symbol": "UBER",
+      "market": "US",
+      "score": 68,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 72.56,
+      "prev_close": 78.03,
+      "vol_ratio": 2.13,
+      "signals": {
+        "insider": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "クラスターバイ": "2名が直近期間に買付",
+            "最大買付": "Chief Executive Officer: $10,005,952"
+          },
+          "buy_count": 3,
+          "sell_count": 1,
+          "evidence": 85,
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-09-10",
+              "filing_date": "2026-09-10",
+              "actor": "KHOSROWSHAHI DARA",
+              "title": "Chief Executive Officer",
+              "shares": 141000,
+              "price": 70.96,
+              "value": 10005952,
+              "label": "141,000株 @ $70.96 ($10,005,952)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
+              "actor": "Macdonald Andrew",
+              "title": "See Remarks",
+              "shares": 54325,
+              "price": 75.65,
+              "value": 4109827,
+              "label": "54,325株 @ $75.65 ($4,109,827)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-09-04",
+              "filing_date": "2026-09-08",
+              "actor": "Macdonald Andrew",
+              "title": "See Remarks",
+              "shares": 15675,
+              "price": 76.44,
+              "value": 1198236,
+              "label": "15,675株 @ $76.44 ($1,198,236)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-08-17",
+              "filing_date": "2026-08-19",
+              "actor": "Uber Technologies, Inc",
+              "title": "Insider",
+              "shares": 72000000,
+              "price": 6.55,
+              "value": 471600000,
+              "label": "72,000,000株 @ $6.55 ($471,600,000)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": 38
+    },
     {
       "symbol": "TSM",
       "market": "US",
       "score": 38,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 430.945,
+      "price": 428.03,
       "prev_close": 418.47,
-      "vol_ratio": 0.48,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": true,
@@ -173,106 +277,14 @@
       "score_change": 0
     },
     {
-      "symbol": "UBER",
-      "market": "US",
-      "score": 30,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 70.857,
-      "prev_close": 78.03,
-      "vol_ratio": 0.6,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 20,
-          "detail": {
-            "最大買付": "See Remarks: $4,109,827"
-          },
-          "buy_count": 2,
-          "sell_count": 1,
-          "evidence": 60,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-09-04",
-              "filing_date": "2026-09-08",
-              "actor": "Macdonald Andrew",
-              "title": "See Remarks",
-              "shares": 54325,
-              "price": 75.65,
-              "value": 4109827,
-              "label": "54,325株 @ $75.65 ($4,109,827)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-09-04",
-              "filing_date": "2026-09-08",
-              "actor": "Macdonald Andrew",
-              "title": "See Remarks",
-              "shares": 15675,
-              "price": 76.44,
-              "value": 1198236,
-              "label": "15,675株 @ $76.44 ($1,198,236)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-19",
-              "actor": "Uber Technologies, Inc",
-              "title": "Insider",
-              "shares": 72000000,
-              "price": 6.55,
-              "value": 471600000,
-              "label": "72,000,000株 @ $6.55 ($471,600,000)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "INTC",
       "market": "US",
       "score": 30,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 101.325,
+      "price": 100.32,
       "prev_close": 97.52,
-      "vol_ratio": 0.53,
+      "vol_ratio": 0.97,
       "signals": {
         "insider": {
           "active": true,
@@ -340,9 +352,9 @@
       "score": 30,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1018.96,
+      "price": 1019.77,
       "prev_close": 1034.51,
-      "vol_ratio": 0.27,
+      "vol_ratio": 1.06,
       "signals": {
         "insider": {
           "active": true,
@@ -443,9 +455,9 @@
       "score": 22,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 62.259,
+      "price": 62.56,
       "prev_close": 63.86,
-      "vol_ratio": 0.41,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": true,
@@ -601,9 +613,9 @@
       "score": 15,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 27.508,
+      "price": 27.65,
       "prev_close": 27.05,
-      "vol_ratio": 0.34,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": true,
@@ -671,9 +683,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 219.11,
+      "price": 218.36,
       "prev_close": 217.55,
-      "vol_ratio": 0.4,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": false,
@@ -840,9 +852,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 366.602,
+      "price": 363.56,
       "prev_close": 330.88,
-      "vol_ratio": 0.43,
+      "vol_ratio": 0.77,
       "signals": {
         "insider": {
           "active": false,
@@ -910,9 +922,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 319.745,
+      "price": 326.57,
       "prev_close": 308.26,
-      "vol_ratio": 0.78,
+      "vol_ratio": 1.67,
       "signals": {
         "insider": {
           "active": false,
@@ -921,7 +933,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 5,
           "evidence": 40,
           "events": []
         },
@@ -968,9 +980,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 491.295,
+      "price": 492.44,
       "prev_close": 506.06,
-      "vol_ratio": 0.23,
+      "vol_ratio": 0.73,
       "signals": {
         "insider": {
           "active": false,
@@ -1115,9 +1127,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 330.37,
+      "price": 332.6,
       "prev_close": 357.52,
-      "vol_ratio": 0.47,
+      "vol_ratio": 0.99,
       "signals": {
         "insider": {
           "active": false,
@@ -1173,96 +1185,30 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 651.95,
+      "price": 644.38,
       "prev_close": 594.92,
-      "vol_ratio": 0.64,
+      "vol_ratio": 1.18,
       "signals": {
         "insider": {
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 21,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-09-03",
-              "filing_date": "2026-09-08",
-              "actor": "Anderson Aaron",
-              "title": "Chief Accounting Officer",
-              "shares": 3240,
-              "price": 618.06,
-              "value": 2002507,
-              "label": "3,240株 @ $618.06 ($2,002,507)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-18",
-              "filing_date": "2026-08-20",
-              "actor": "Mahoney Curtis J.",
-              "title": "Chief Legal Officer",
-              "shares": 1559,
-              "price": 558.0,
-              "value": 869922,
-              "label": "1,559株 @ $558.00 ($869,922)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-18",
-              "filing_date": "2026-08-20",
-              "actor": "LI SUSAN J",
-              "title": "Chief Financial Officer",
-              "shares": 1845,
-              "price": 547.51,
-              "value": 1010163,
-              "label": "1,845株 @ $547.51 ($1,010,163)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-18",
-              "filing_date": "2026-08-20",
-              "actor": "LI SUSAN J",
-              "title": "Chief Financial Officer",
-              "shares": 1864,
-              "price": 548.2,
-              "value": 1021835,
-              "label": "1,864株 @ $548.20 ($1,021,835)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-18",
-              "filing_date": "2026-08-20",
-              "actor": "LI SUSAN J",
-              "title": "Chief Financial Officer",
-              "shares": 1219,
-              "price": 549.25,
-              "value": 669534,
-              "label": "1,219株 @ $549.25 ($669,534)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-18",
-              "filing_date": "2026-08-20",
-              "actor": "LI SUSAN J",
-              "title": "Chief Financial Officer",
-              "shares": 1031,
-              "price": 551.25,
-              "value": 568335,
-              "label": "1,031株 @ $551.25 ($568,335)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-18",
-              "filing_date": "2026-08-20",
-              "actor": "Bosworth Andrew",
-              "title": "Chief Technology Officer",
-              "shares": 7848,
-              "price": 558.0,
-              "value": 4379184,
-              "label": "7,848株 @ $558.00 ($4,379,184)"
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Olivan Javier",
+              "title": "Chief Operating Officer",
+              "shares": 855,
+              "price": 616.32,
+              "value": 526954,
+              "label": "855株 @ $616.32 ($526,954)"
             }
           ]
         },
@@ -1309,9 +1255,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 252.33,
+      "price": 251.89,
       "prev_close": 278.09,
-      "vol_ratio": 0.34,
+      "vol_ratio": 0.79,
       "signals": {
         "insider": {
           "active": false,
@@ -1478,9 +1424,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 505.49,
+      "price": 503.6,
       "prev_close": 469.56,
-      "vol_ratio": 0.43,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -1647,9 +1593,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 364.8,
+      "price": 360.83,
       "prev_close": 422.4,
-      "vol_ratio": 0.29,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -1705,9 +1651,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 167.19,
+      "price": 165.86,
       "prev_close": 175.23,
-      "vol_ratio": 0.3,
+      "vol_ratio": 0.69,
       "signals": {
         "insider": {
           "active": false,
@@ -1852,9 +1798,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 17.325,
+      "price": 17.21,
       "prev_close": 18.12,
-      "vol_ratio": 0.39,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": false,
@@ -1910,9 +1856,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 156.01,
+      "price": 155.34,
       "prev_close": 158.72,
-      "vol_ratio": 0.46,
+      "vol_ratio": 0.84,
       "signals": {
         "insider": {
           "active": false,
@@ -2079,9 +2025,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 182.28,
+      "price": 179.57,
       "prev_close": 151.87,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.75,
       "signals": {
         "insider": {
           "active": false,
@@ -2137,9 +2083,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 11.49,
+      "price": 11.43,
       "prev_close": 9.56,
-      "vol_ratio": 0.32,
+      "vol_ratio": 0.79,
       "signals": {
         "insider": {
           "active": false,
@@ -2195,9 +2141,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 21.18,
+      "price": 20.95,
       "prev_close": 19.4,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.5,
       "signals": {
         "insider": {
           "active": false,
@@ -2253,9 +2199,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 171.643,
+      "price": 172.28,
       "prev_close": 148.68,
-      "vol_ratio": 0.24,
+      "vol_ratio": 0.5,
       "signals": {
         "insider": {
           "active": false,
@@ -2264,9 +2210,20 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 9,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Andreessen Marc L",
+              "title": "Insider",
+              "shares": 13676,
+              "price": 181.14,
+              "value": 2477259,
+              "label": "13,676株 @ $181.14 ($2,477,259)"
+            },
             {
               "type": "SELL",
               "date": "2026-09-01",
@@ -2323,9 +2280,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 71.6,
+      "price": 70.28,
       "prev_close": 74.16,
-      "vol_ratio": 0.32,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -2459,9 +2416,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 113.77,
+      "price": 113.33,
       "prev_close": 94.52,
-      "vol_ratio": 0.43,
+      "vol_ratio": 0.77,
       "signals": {
         "insider": {
           "active": false,
@@ -2470,7 +2427,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 20,
           "evidence": 40,
           "events": [
             {
@@ -2529,9 +2486,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 332.81,
+      "price": 329.72,
       "prev_close": 334.7,
-      "vol_ratio": 0.37,
+      "vol_ratio": 0.67,
       "signals": {
         "insider": {
           "active": false,
@@ -2698,9 +2655,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 212.68,
+      "price": 208.86,
       "prev_close": 225.16,
-      "vol_ratio": 0.28,
+      "vol_ratio": 0.73,
       "signals": {
         "insider": {
           "active": false,
@@ -2823,9 +2780,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 313.57,
+      "price": 311.17,
       "prev_close": 310.59,
-      "vol_ratio": 0.46,
+      "vol_ratio": 1.07,
       "signals": {
         "insider": {
           "active": false,
@@ -2992,20 +2949,97 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 225.42,
+      "price": 221.72,
       "prev_close": 260.78,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.63,
       "signals": {
         "insider": {
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "9件の$1M+売却"
+            "大型売却警戒": "10件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 18,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 10800,
+              "price": 204.03,
+              "value": 2203478,
+              "label": "10,800株 @ $204.03 ($2,203,478)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 3000,
+              "price": 205.62,
+              "value": 616870,
+              "label": "3,000株 @ $205.62 ($616,870)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 10048,
+              "price": 206.82,
+              "value": 2078084,
+              "label": "10,048株 @ $206.82 ($2,078,084)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 19287,
+              "price": 207.54,
+              "value": 4002735,
+              "label": "19,287株 @ $207.54 ($4,002,735)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 24283,
+              "price": 208.53,
+              "value": 5063680,
+              "label": "24,283株 @ $208.53 ($5,063,680)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 8006,
+              "price": 209.69,
+              "value": 1678816,
+              "label": "8,006株 @ $209.69 ($1,678,816)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-08",
+              "filing_date": "2026-09-10",
+              "actor": "Pomel Olivier",
+              "title": "Chief Executive Officer",
+              "shares": 14073,
+              "price": 210.26,
+              "value": 2958936,
+              "label": "14,073株 @ $210.26 ($2,958,936)"
+            },
             {
               "type": "SELL",
               "date": "2026-09-04",
@@ -3038,72 +3072,6 @@
               "price": 213.94,
               "value": 1070144,
               "label": "5,002株 @ $213.94 ($1,070,144)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-03",
-              "filing_date": "2026-09-08",
-              "actor": "Blitzer Adam",
-              "title": "Chief Operating Officer",
-              "shares": 4730,
-              "price": 214.73,
-              "value": 1015664,
-              "label": "4,730株 @ $214.73 ($1,015,664)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-04",
-              "actor": "Pomel Olivier",
-              "title": "Chief Executive Officer",
-              "shares": 26331,
-              "price": 212.9,
-              "value": 5605977,
-              "label": "26,331株 @ $212.90 ($5,605,977)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-04",
-              "actor": "OBSTLER DAVID M",
-              "title": "Chief Financial Officer",
-              "shares": 16524,
-              "price": 212.9,
-              "value": 3518027,
-              "label": "16,524株 @ $212.90 ($3,518,027)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-04",
-              "actor": "Le-Quoc Alexis",
-              "title": "Chief Technology Officer",
-              "shares": 21772,
-              "price": 212.9,
-              "value": 4635352,
-              "label": "21,772株 @ $212.90 ($4,635,352)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-04",
-              "actor": "Walters Sean Michael",
-              "title": "Chief Revenue Officer",
-              "shares": 13575,
-              "price": 212.9,
-              "value": 2890170,
-              "label": "13,575株 @ $212.90 ($2,890,170)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-04",
-              "actor": "Galloreese David",
-              "title": "Chief People Officer",
-              "shares": 4769,
-              "price": 212.9,
-              "value": 1015341,
-              "label": "4,769株 @ $212.90 ($1,015,341)"
             }
           ]
         },
@@ -3150,9 +3118,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 375.06,
+      "price": 373.87,
       "prev_close": 416.67,
-      "vol_ratio": 0.37,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
@@ -3253,9 +3221,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 126.57,
+      "price": 126.6,
       "prev_close": 155.18,
-      "vol_ratio": 0.6,
+      "vol_ratio": 1.62,
       "signals": {
         "insider": {
           "active": false,
@@ -3311,9 +3279,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 169.82,
+      "price": 167.65,
       "prev_close": 184.7,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": false,
@@ -3480,9 +3448,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 14.95,
+      "price": 15.02,
       "prev_close": 17.26,
-      "vol_ratio": 0.31,
+      "vol_ratio": 0.86,
       "signals": {
         "insider": {
           "active": false,
@@ -3538,9 +3506,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 38.42,
+      "price": 37.38,
       "prev_close": 31.46,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.51,
       "signals": {
         "insider": {
           "active": false,
@@ -3663,9 +3631,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 254.138,
+      "price": 254.18,
       "prev_close": 267.85,
-      "vol_ratio": 0.43,
+      "vol_ratio": 1.0,
       "signals": {
         "insider": {
           "active": false,
@@ -3733,9 +3701,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 981.235,
+      "price": 977.41,
       "prev_close": 861.0,
-      "vol_ratio": 0.53,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
@@ -3902,9 +3870,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 179.09,
+      "price": 176.88,
       "prev_close": 162.17,
-      "vol_ratio": 0.56,
+      "vol_ratio": 1.49,
       "signals": {
         "insider": {
           "active": false,
@@ -3960,9 +3928,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1700.265,
+      "price": 1687.43,
       "prev_close": 1733.48,
-      "vol_ratio": 0.37,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
@@ -4018,9 +3986,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 76.115,
+      "price": 76.01,
       "prev_close": 76.29,
-      "vol_ratio": 0.31,
+      "vol_ratio": 0.72,
       "signals": {
         "insider": {
           "active": false,
@@ -4076,9 +4044,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 104.835,
+      "price": 105.82,
       "prev_close": 103.18,
-      "vol_ratio": 0.29,
+      "vol_ratio": 0.99,
       "signals": {
         "insider": {
           "active": false,
@@ -4146,9 +4114,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 352.25,
+      "price": 353.56,
       "prev_close": 359.79,
-      "vol_ratio": 0.28,
+      "vol_ratio": 0.77,
       "signals": {
         "insider": {
           "active": false,
@@ -4157,9 +4125,20 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 1,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-10",
+              "filing_date": "2026-09-10",
+              "actor": "Leopold Robin",
+              "title": "Head of Human Resources",
+              "shares": 2500,
+              "price": 352.81,
+              "value": 882026,
+              "label": "2,500株 @ $352.81 ($882,026)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-11",
@@ -4216,9 +4195,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 213.73,
+      "price": 212.66,
       "prev_close": 215.33,
-      "vol_ratio": 0.44,
+      "vol_ratio": 1.17,
       "signals": {
         "insider": {
           "active": false,
@@ -4366,9 +4345,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 367.04,
+      "price": 367.21,
       "prev_close": 361.32,
-      "vol_ratio": 0.21,
+      "vol_ratio": 0.6,
       "signals": {
         "insider": {
           "active": false,
@@ -4377,9 +4356,20 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-09",
+              "filing_date": "2026-09-10",
+              "actor": "ROTTENBERG JULIE B",
+              "title": "GENERAL COUNSEL",
+              "shares": 1867,
+              "price": 368.34,
+              "value": 687690,
+              "label": "1,867株 @ $368.34 ($687,690)"
+            },
             {
               "type": "SELL",
               "date": "2026-09-01",
@@ -4469,9 +4459,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 565.36,
+      "price": 565.37,
       "prev_close": 563.17,
-      "vol_ratio": 0.21,
+      "vol_ratio": 0.68,
       "signals": {
         "insider": {
           "active": false,
@@ -4616,9 +4606,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 53.223,
+      "price": 53.31,
       "prev_close": 59.07,
-      "vol_ratio": 0.43,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -4732,9 +4722,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 206.56,
+      "price": 204.8,
       "prev_close": 232.79,
-      "vol_ratio": 0.31,
+      "vol_ratio": 0.94,
       "signals": {
         "insider": {
           "active": false,
@@ -4790,9 +4780,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 802.238,
+      "price": 805.0,
       "prev_close": 837.58,
-      "vol_ratio": 0.27,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": false,
@@ -4959,9 +4949,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 677.99,
+      "price": 677.94,
       "prev_close": 609.28,
-      "vol_ratio": 0.27,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -5073,9 +5063,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 202.8,
+      "price": 202.18,
       "prev_close": 242.93,
-      "vol_ratio": 0.23,
+      "vol_ratio": 0.71,
       "signals": {
         "insider": {
           "active": false,
@@ -5131,9 +5121,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 324.63,
+      "price": 324.15,
       "prev_close": 366.7,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.97,
       "signals": {
         "insider": {
           "active": false,
@@ -5212,9 +5202,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 13.905,
+      "price": 13.88,
       "prev_close": 14.0,
-      "vol_ratio": 0.48,
+      "vol_ratio": 1.13,
       "signals": {
         "insider": {
           "active": false,
@@ -5270,9 +5260,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 85.28,
+      "price": 86.12,
       "prev_close": 87.96,
-      "vol_ratio": 0.41,
+      "vol_ratio": 1.12,
       "signals": {
         "insider": {
           "active": false,
@@ -5328,9 +5318,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 16.087,
+      "price": 16.05,
       "prev_close": 16.39,
-      "vol_ratio": 0.42,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -5386,9 +5376,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 4.285,
+      "price": 4.18,
       "prev_close": 6.61,
-      "vol_ratio": 0.41,
+      "vol_ratio": 0.88,
       "signals": {
         "insider": {
           "active": false,
@@ -5444,9 +5434,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 164.98,
+      "price": 165.23,
       "prev_close": 159.79,
-      "vol_ratio": 0.41,
+      "vol_ratio": 1.18,
       "signals": {
         "insider": {
           "active": false,
@@ -5502,9 +5492,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 213.475,
+      "price": 212.76,
       "prev_close": 194.91,
-      "vol_ratio": 0.46,
+      "vol_ratio": 1.26,
       "signals": {
         "insider": {
           "active": false,
@@ -5616,9 +5606,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 61.145,
+      "price": 61.16,
       "prev_close": 58.65,
-      "vol_ratio": 0.63,
+      "vol_ratio": 1.26,
       "signals": {
         "insider": {
           "active": false,
@@ -5674,9 +5664,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 49.38,
+      "price": 50.02,
       "prev_close": 45.36,
-      "vol_ratio": 0.4,
+      "vol_ratio": 1.55,
       "signals": {
         "insider": {
           "active": false,
@@ -5732,9 +5722,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 55.72,
+      "price": 56.01,
       "prev_close": 53.2,
-      "vol_ratio": 0.36,
+      "vol_ratio": 0.97,
       "signals": {
         "insider": {
           "active": false,
@@ -5871,9 +5861,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 265.855,
+      "price": 266.35,
       "prev_close": 261.81,
-      "vol_ratio": 0.26,
+      "vol_ratio": 0.79,
       "signals": {
         "insider": {
           "active": false,
@@ -5985,9 +5975,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 144.585,
+      "price": 144.71,
       "prev_close": 130.92,
-      "vol_ratio": 0.21,
+      "vol_ratio": 0.69,
       "signals": {
         "insider": {
           "active": false,
@@ -6110,9 +6100,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1126.61,
+      "price": 1123.0,
       "prev_close": 1231.94,
-      "vol_ratio": 0.31,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
@@ -6191,9 +6181,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 391.06,
+      "price": 388.28,
       "prev_close": 408.74,
-      "vol_ratio": 0.37,
+      "vol_ratio": 0.96,
       "signals": {
         "insider": {
           "active": false,
@@ -6249,9 +6239,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 95.33,
+      "price": 95.29,
       "prev_close": 95.67,
-      "vol_ratio": 0.19,
+      "vol_ratio": 0.6,
       "signals": {
         "insider": {
           "active": false,
@@ -6365,9 +6355,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 252.0,
+      "price": 255.0,
       "prev_close": 247.97,
-      "vol_ratio": 0.24,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
@@ -6435,9 +6425,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 106.025,
+      "price": 105.73,
       "prev_close": 112.66,
-      "vol_ratio": 0.23,
+      "vol_ratio": 0.61,
       "signals": {
         "insider": {
           "active": false,
@@ -6505,9 +6495,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 157.13,
+      "price": 155.73,
       "prev_close": 152.02,
-      "vol_ratio": 0.27,
+      "vol_ratio": 0.69,
       "signals": {
         "insider": {
           "active": false,
@@ -6586,9 +6576,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 903.86,
+      "price": 902.38,
       "prev_close": 952.75,
-      "vol_ratio": 0.39,
+      "vol_ratio": 1.05,
       "signals": {
         "insider": {
           "active": false,
@@ -6644,9 +6634,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 306.745,
+      "price": 305.69,
       "prev_close": 350.78,
-      "vol_ratio": 0.41,
+      "vol_ratio": 1.14,
       "signals": {
         "insider": {
           "active": false,
@@ -6725,9 +6715,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 196.44,
+      "price": 196.59,
       "prev_close": 218.88,
-      "vol_ratio": 0.33,
+      "vol_ratio": 0.82,
       "signals": {
         "insider": {
           "active": false,
@@ -6783,9 +6773,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 36.99,
+      "price": 36.62,
       "prev_close": 42.11,
-      "vol_ratio": 0.44,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
@@ -6794,7 +6784,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 1,
+          "sell_count": 4,
           "evidence": 40,
           "events": []
         },
@@ -6841,9 +6831,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 98.425,
+      "price": 96.88,
       "prev_close": 127.8,
-      "vol_ratio": 0.43,
+      "vol_ratio": 1.17,
       "signals": {
         "insider": {
           "active": false,
@@ -6899,9 +6889,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 100.055,
+      "price": 99.22,
       "prev_close": 104.65,
-      "vol_ratio": 0.35,
+      "vol_ratio": 1.23,
       "signals": {
         "insider": {
           "active": false,
@@ -6957,9 +6947,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 253.725,
+      "price": 253.05,
       "prev_close": 273.72,
-      "vol_ratio": 0.42,
+      "vol_ratio": 0.98,
       "signals": {
         "insider": {
           "active": false,
