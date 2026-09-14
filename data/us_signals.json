@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:39:49.169467+00:00",
+  "generated_at": "2026-09-14T02:14:23.026100+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -236,179 +236,6 @@
               "price": 76.2,
               "value": 381,
               "label": "5株 @ $76.20 ($381)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "INTC",
-      "market": "US",
-      "score": 30,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 102.94,
-      "prev_close": 97.71,
-      "vol_ratio": 0.9,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 20,
-          "detail": {
-            "最大買付": "CEO: $9,999,985"
-          },
-          "buy_count": 1,
-          "sell_count": 0,
-          "evidence": 60,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-08-11",
-              "filing_date": "2026-08-14",
-              "actor": "TAN LIP BU",
-              "title": "CEO",
-              "shares": 105263,
-              "price": 95.0,
-              "value": 9999985,
-              "label": "105,263株 @ $95.00 ($9,999,985)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "GS",
-      "market": "US",
-      "score": 30,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 1029.18,
-      "prev_close": 1034.41,
-      "vol_ratio": 0.66,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 20,
-          "detail": {
-            "最大買付": "Insider: $8,500,000"
-          },
-          "buy_count": 2,
-          "sell_count": 24,
-          "evidence": 60,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-28",
-              "filing_date": "2026-09-01",
-              "actor": "LESLIE ERICKA T",
-              "title": "Chief Administrative Officer",
-              "shares": 600,
-              "price": 1033.8,
-              "value": 620280,
-              "label": "600株 @ $1033.80 ($620,280)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-06",
-              "filing_date": "2026-08-13",
-              "actor": "GOLDMAN SACHS GROUP INC",
-              "title": "Insider",
-              "shares": 500000,
-              "price": 17.0,
-              "value": 8500000,
-              "label": "500,000株 @ $17.00 ($8,500,000)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-13",
-              "actor": "GOLDMAN SACHS GROUP INC",
-              "title": "Insider",
-              "shares": 85000,
-              "price": 21.0,
-              "value": 1785000,
-              "label": "85,000株 @ $21.00 ($1,785,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-05",
-              "filing_date": "2026-08-13",
-              "actor": "GOLDMAN SACHS GROUP INC",
-              "title": "Insider",
-              "shares": 76418,
-              "price": 21.04,
-              "value": 1607834,
-              "label": "76,418株 @ $21.04 ($1,607,834)"
             }
           ]
         },
@@ -775,7 +602,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 4,
           "evidence": 40,
           "events": []
         },
@@ -3516,6 +3343,64 @@
       "score_change": 0
     },
     {
+      "symbol": "INTC",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 102.94,
+      "prev_close": 97.71,
+      "vol_ratio": 0.9,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間にシグナルなし"
+          },
+          "evidence": 0,
+          "buy_count": 0,
+          "sell_count": 0,
+          "events": []
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -30
+    },
+    {
       "symbol": "MU",
       "market": "US",
       "score": 0,
@@ -3999,6 +3884,76 @@
       "score_change": 0
     },
     {
+      "symbol": "GS",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 1029.18,
+      "prev_close": 1034.41,
+      "vol_ratio": 0.66,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "シグナルなし"
+          },
+          "buy_count": 0,
+          "sell_count": 1,
+          "evidence": 40,
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-08-28",
+              "filing_date": "2026-09-01",
+              "actor": "LESLIE ERICKA T",
+              "title": "Chief Administrative Officer",
+              "shares": 600,
+              "price": 1033.8,
+              "value": 620280,
+              "label": "600株 @ $1033.80 ($620,280)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -30
+    },
+    {
       "symbol": "MS",
       "market": "US",
       "score": 0,
@@ -4070,46 +4025,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
-          "buy_count": 3,
+          "evidence": 0,
+          "buy_count": 0,
           "sell_count": 0,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-13",
-              "actor": "O'Sullivan Michael J.",
-              "title": "See Remarks",
-              "shares": 45,
-              "price": 510.64,
-              "value": 22978,
-              "label": "45株 @ $510.64 ($22,978)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-13",
-              "actor": "O'Sullivan Michael J.",
-              "title": "See Remarks",
-              "shares": 400,
-              "price": 512.52,
-              "value": 205008,
-              "label": "400株 @ $512.52 ($205,008)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-13",
-              "actor": "O'Sullivan Michael J.",
-              "title": "See Remarks",
-              "shares": 43,
-              "price": 513.61,
-              "value": 22085,
-              "label": "43株 @ $513.61 ($22,085)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5286,10 +5207,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -5335,17 +5256,6 @@
               "price": 201.05,
               "value": 2073061,
               "label": "10,311株 @ $201.05 ($2,073,061)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-11",
-              "filing_date": "2026-08-13",
-              "actor": "GUSTAVSON JEFF B",
-              "title": "President, New Energies",
-              "shares": 14044,
-              "price": 194.95,
-              "value": 2737866,
-              "label": "14,044株 @ $194.95 ($2,737,866)"
             }
           ]
         },
@@ -5655,10 +5565,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -5693,28 +5603,6 @@
               "price": 263.36,
               "value": 3950400,
               "label": "15,000株 @ $263.36 ($3,950,400)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-13",
-              "filing_date": "2026-08-14",
-              "actor": "Duato Joaquin",
-              "title": "CEO and Chairman of the Board",
-              "shares": 20976,
-              "price": 262.0,
-              "value": 5495712,
-              "label": "20,976株 @ $262.00 ($5,495,712)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-13",
-              "filing_date": "2026-08-14",
-              "actor": "Duato Joaquin",
-              "title": "CEO and Chairman of the Board",
-              "shares": 102315,
-              "price": 261.0,
-              "value": 26704215,
-              "label": "102,315株 @ $261.00 ($26,704,215)"
             }
           ]
         },
@@ -5827,35 +5715,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-13",
-              "filing_date": "2026-08-13",
-              "actor": "Guindo Chirfi",
-              "title": "EVP, Access, Policy &amp; Comms",
-              "shares": 10000,
-              "price": 135.0,
-              "value": 1350000,
-              "label": "10,000株 @ $135.00 ($1,350,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-12",
-              "filing_date": "2026-08-13",
-              "actor": "Zachary Jennifer",
-              "title": "EVP, General Counsel",
-              "shares": 80315,
-              "price": 133.46,
-              "value": 10718494,
-              "label": "80,315株 @ $133.46 ($10,718,494)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
