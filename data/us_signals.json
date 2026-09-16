@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T23:55:13.183312+00:00",
+  "generated_at": "2026-09-16T02:15:29.424746+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -117,7 +117,7 @@
           "evidence": 0
         }
       },
-      "score_change": -16
+      "score_change": 0
     },
     {
       "symbol": "TSM",
@@ -2424,30 +2424,30 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 27,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-09-10",
-              "filing_date": "2026-09-11",
+              "date": "2026-09-14",
+              "filing_date": "2026-09-15",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 2800,
-              "price": 208.61,
-              "value": 584108,
-              "label": "2,800株 @ $208.61 ($584,108)"
+              "shares": 2190,
+              "price": 237.06,
+              "value": 519161,
+              "label": "2,190株 @ $237.06 ($519,161)"
             },
             {
               "type": "SELL",
-              "date": "2026-09-09",
-              "filing_date": "2026-09-11",
+              "date": "2026-09-11",
+              "filing_date": "2026-09-15",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 4400,
-              "price": 207.83,
-              "value": 914452,
-              "label": "4,400株 @ $207.83 ($914,452)"
+              "shares": 2824,
+              "price": 205.97,
+              "value": 581659,
+              "label": "2,824株 @ $205.97 ($581,659)"
             }
           ]
         },
