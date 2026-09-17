@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T00:04:29.437055+00:00",
+  "generated_at": "2026-09-17T02:59:24.461481+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1536,7 +1536,7 @@
       "tier_label": "LOW",
       "price": 16.84,
       "prev_close": 18.29,
-      "vol_ratio": 1.21,
+      "vol_ratio": 1.2,
       "signals": {
         "insider": {
           "active": false,
@@ -2024,10 +2024,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 8,
           "evidence": 40,
           "events": [
             {
@@ -2084,39 +2084,6 @@
               "price": 71.83,
               "value": 1892289,
               "label": "26,344株 @ $71.83 ($1,892,289)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-17",
-              "actor": "PLATT IRA J.",
-              "title": "Insider",
-              "shares": 15000,
-              "price": 75.5,
-              "value": 1132500,
-              "label": "15,000株 @ $75.50 ($1,132,500)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-17",
-              "actor": "QUAYLE J DANFORTH",
-              "title": "Insider",
-              "shares": 14525,
-              "price": 75.0,
-              "value": 1089375,
-              "label": "14,525株 @ $75.00 ($1,089,375)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-13",
-              "filing_date": "2026-08-17",
-              "actor": "PLATT IRA J.",
-              "title": "Insider",
-              "shares": 15000,
-              "price": 73.0,
-              "value": 1095000,
-              "label": "15,000株 @ $73.00 ($1,095,000)"
             }
           ]
         },
@@ -2274,12 +2241,56 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "25件の$1M+売却"
+            "大型売却警戒": "9件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 33,
+          "sell_count": 17,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-16",
+              "filing_date": "2026-09-16",
+              "actor": "Beaulier Jonathan Mead",
+              "title": "Chief Revenue Officer",
+              "shares": 12292,
+              "price": 336.12,
+              "value": 4131636,
+              "label": "12,292株 @ $336.12 ($4,131,636)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-16",
+              "filing_date": "2026-09-16",
+              "actor": "Kleinerman Christian",
+              "title": "EVP, Product Management",
+              "shares": 2986,
+              "price": 318.51,
+              "value": 951070,
+              "label": "2,986株 @ $318.51 ($951,070)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-16",
+              "filing_date": "2026-09-16",
+              "actor": "Slootman Frank",
+              "title": "Insider",
+              "shares": 8191,
+              "price": 318.51,
+              "value": 2608915,
+              "label": "8,191株 @ $318.51 ($2,608,915)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-16",
+              "filing_date": "2026-09-16",
+              "actor": "Raghunathan Vivek",
+              "title": "SVP, Engineering",
+              "shares": 3876,
+              "price": 318.51,
+              "value": 1234544,
+              "label": "3,876株 @ $318.51 ($1,234,544)"
+            },
             {
               "type": "SELL",
               "date": "2026-09-09",
@@ -2345,50 +2356,6 @@
               "price": 380.0,
               "value": 3800000,
               "label": "10,000株 @ $380.00 ($3,800,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "Kleinerman Christian",
-              "title": "EVP, Product Management",
-              "shares": 15000,
-              "price": 325.57,
-              "value": 4883550,
-              "label": "15,000株 @ $325.57 ($4,883,550)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-26",
-              "filing_date": "2026-08-28",
-              "actor": "Dageville Benoit",
-              "title": "Insider",
-              "shares": 50000,
-              "price": 309.44,
-              "value": 15472000,
-              "label": "50,000株 @ $309.44 ($15,472,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-19",
-              "filing_date": "2026-08-20",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 12662,
-              "price": 319.06,
-              "value": 4040001,
-              "label": "12,662株 @ $319.06 ($4,040,001)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-19",
-              "filing_date": "2026-08-20",
-              "actor": "Slootman Frank",
-              "title": "Insider",
-              "shares": 18023,
-              "price": 319.98,
-              "value": 5766927,
-              "label": "18,023株 @ $319.98 ($5,766,927)"
             }
           ]
         },
@@ -3461,7 +3428,7 @@
       "tier_label": "LOW",
       "price": 101.05,
       "prev_close": 102.5,
-      "vol_ratio": 1.29,
+      "vol_ratio": 1.28,
       "signals": {
         "insider": {
           "active": false,
@@ -3519,7 +3486,7 @@
       "tier_label": "LOW",
       "price": 926.55,
       "prev_close": 971.66,
-      "vol_ratio": 0.79,
+      "vol_ratio": 0.78,
       "signals": {
         "insider": {
           "active": false,
