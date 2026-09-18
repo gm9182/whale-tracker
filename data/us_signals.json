@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:54:09.594902+00:00",
+  "generated_at": "2026-09-18T02:04:48.606856+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1420,9 +1420,31 @@
             "大型売却警戒": "7件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 24,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-15",
+              "filing_date": "2026-09-17",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 3901,
+              "price": 171.09,
+              "value": 667413,
+              "label": "3,901株 @ $171.09 ($667,413)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-15",
+              "filing_date": "2026-09-17",
+              "actor": "Moore Alexander D.",
+              "title": "Insider",
+              "shares": 3990,
+              "price": 172.24,
+              "value": 687224,
+              "label": "3,990株 @ $172.24 ($687,224)"
+            },
             {
               "type": "SELL",
               "date": "2026-08-20",
@@ -2443,55 +2465,22 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 29,
+          "sell_count": 20,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-09-14",
-              "filing_date": "2026-09-15",
-              "actor": "AUSTIN ROXANNE S",
-              "title": "Insider",
-              "shares": 30000,
-              "price": 237.22,
-              "value": 7116600,
-              "label": "30,000株 @ $237.22 ($7,116,600)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-14",
-              "filing_date": "2026-09-15",
-              "actor": "AUSTIN ROXANNE S",
-              "title": "Insider",
-              "shares": 20000,
-              "price": 238.17,
-              "value": 4763400,
-              "label": "20,000株 @ $238.17 ($4,763,400)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-14",
-              "filing_date": "2026-09-15",
+              "date": "2026-09-16",
+              "filing_date": "2026-09-17",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 2190,
-              "price": 237.06,
-              "value": 519161,
-              "label": "2,190株 @ $237.06 ($519,161)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-11",
-              "filing_date": "2026-09-15",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 2824,
-              "price": 205.97,
-              "value": 581659,
-              "label": "2,824株 @ $205.97 ($581,659)"
+              "shares": 3332,
+              "price": 241.23,
+              "value": 803778,
+              "label": "3,332株 @ $241.23 ($803,778)"
             }
           ]
         },
@@ -2884,57 +2873,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 9,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-18",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 1652,
-              "price": 450.28,
-              "value": 743862,
-              "label": "1,652株 @ $450.28 ($743,862)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-18",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 2174,
-              "price": 453.71,
-              "value": 986365,
-              "label": "2,174株 @ $453.71 ($986,365)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-18",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 6752,
-              "price": 469.81,
-              "value": 3172157,
-              "label": "6,752株 @ $469.81 ($3,172,157)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-18",
-              "actor": "MERRIMAN DWIGHT A",
-              "title": "Insider",
-              "shares": 3248,
-              "price": 472.22,
-              "value": 1533770,
-              "label": "3,248株 @ $472.22 ($1,533,770)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4288,7 +4232,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 13,
           "evidence": 40,
           "events": [
             {
@@ -4367,17 +4311,6 @@
               "price": 576.82,
               "value": 738331,
               "label": "1,280株 @ $576.82 ($738,331)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-18",
-              "actor": "Kirkpatrick Linda Pistecchia",
-              "title": "Chief Services Officer",
-              "shares": 1191,
-              "price": 565.24,
-              "value": 673200,
-              "label": "1,191株 @ $565.24 ($673,200)"
             }
           ]
         },
@@ -5124,7 +5057,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": []
         },
@@ -5295,10 +5228,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -5322,28 +5255,6 @@
               "price": 201.06,
               "value": 3377833,
               "label": "16,800株 @ $201.06 ($3,377,833)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-18",
-              "actor": "Wirth Michael K",
-              "title": "Chairman and CEO",
-              "shares": 306789,
-              "price": 200.44,
-              "value": 61493799,
-              "label": "306,789株 @ $200.44 ($61,493,799)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-18",
-              "actor": "Wirth Michael K",
-              "title": "Chairman and CEO",
-              "shares": 10311,
-              "price": 201.05,
-              "value": 2073061,
-              "label": "10,311株 @ $201.05 ($2,073,061)"
             }
           ]
         },
@@ -5665,10 +5576,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -5692,17 +5603,6 @@
               "price": 274.74,
               "value": 6189067,
               "label": "22,527株 @ $274.74 ($6,189,067)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-18",
-              "actor": "Taubert Jennifer L",
-              "title": "EVP, WWC. Innovative Medicine",
-              "shares": 15000,
-              "price": 263.36,
-              "value": 3950400,
-              "label": "15,000株 @ $263.36 ($3,950,400)"
             }
           ]
         },
@@ -5873,24 +5773,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-17",
-              "filing_date": "2026-08-18",
-              "actor": "Jonsson Patrik",
-              "title": "EVP &amp; President, LLY Int'l",
-              "shares": 6500,
-              "price": 1175.1,
-              "value": 7638149,
-              "label": "6,500株 @ $1175.10 ($7,638,149)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -6117,24 +6005,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-14",
-              "filing_date": "2026-08-18",
-              "actor": "Donoghoe Nicholas",
-              "title": "EVP, CHIEF BUS/STRAT OFFICER",
-              "shares": 32710,
-              "price": 250.0,
-              "value": 8177500,
-              "label": "32,710株 @ $250.00 ($8,177,500)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
