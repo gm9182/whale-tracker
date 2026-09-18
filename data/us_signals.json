@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:07:19.258986+00:00",
+  "generated_at": "2026-09-18T16:19:12.579627+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -9,9 +9,9 @@
       "score": 52,
       "tier": "monitor",
       "tier_label": "👀 MONITOR",
-      "price": 70.87,
-      "prev_close": 74.99,
-      "vol_ratio": 1.13,
+      "price": 70.305,
+      "prev_close": 74.66,
+      "vol_ratio": 0.39,
       "signals": {
         "insider": {
           "active": true,
@@ -136,9 +136,9 @@
       "score": 38,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 430.26,
-      "prev_close": 430.97,
-      "vol_ratio": 1.27,
+      "price": 429.809,
+      "prev_close": 413.41,
+      "vol_ratio": 0.38,
       "signals": {
         "insider": {
           "active": true,
@@ -305,9 +305,9 @@
       "score": 22,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 58.18,
-      "prev_close": 63.89,
-      "vol_ratio": 1.07,
+      "price": 57.89,
+      "prev_close": 64.23,
+      "vol_ratio": 0.43,
       "signals": {
         "insider": {
           "active": true,
@@ -375,9 +375,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 219.34,
-      "prev_close": 225.01,
-      "vol_ratio": 0.74,
+      "price": 219.37,
+      "prev_close": 219.74,
+      "vol_ratio": 0.43,
       "signals": {
         "insider": {
           "active": false,
@@ -544,9 +544,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 366.2,
-      "prev_close": 339.3,
-      "vol_ratio": 1.0,
+      "price": 362.72,
+      "prev_close": 336.87,
+      "vol_ratio": 0.68,
       "signals": {
         "insider": {
           "active": false,
@@ -614,9 +614,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 337.0,
-      "prev_close": 305.59,
-      "vol_ratio": 0.87,
+      "price": 334.755,
+      "prev_close": 310.03,
+      "vol_ratio": 0.53,
       "signals": {
         "insider": {
           "active": false,
@@ -672,9 +672,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 497.75,
-      "prev_close": 480.35,
-      "vol_ratio": 0.88,
+      "price": 494.145,
+      "prev_close": 481.63,
+      "vol_ratio": 0.5,
       "signals": {
         "insider": {
           "active": false,
@@ -841,9 +841,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 347.33,
-      "prev_close": 344.0,
-      "vol_ratio": 0.82,
+      "price": 350.055,
+      "prev_close": 344.2,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -899,9 +899,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 682.31,
-      "prev_close": 568.97,
-      "vol_ratio": 0.87,
+      "price": 670.18,
+      "prev_close": 543.67,
+      "vol_ratio": 0.63,
       "signals": {
         "insider": {
           "active": false,
@@ -1013,9 +1013,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 251.19,
-      "prev_close": 261.31,
-      "vol_ratio": 0.95,
+      "price": 253.6,
+      "prev_close": 259.45,
+      "vol_ratio": 0.72,
       "signals": {
         "insider": {
           "active": false,
@@ -1182,9 +1182,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 545.09,
-      "prev_close": 506.0,
-      "vol_ratio": 1.53,
+      "price": 544.0,
+      "prev_close": 484.39,
+      "vol_ratio": 0.61,
       "signals": {
         "insider": {
           "active": false,
@@ -1351,9 +1351,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 347.3,
-      "prev_close": 392.43,
-      "vol_ratio": 0.94,
+      "price": 355.59,
+      "prev_close": 380.0,
+      "vol_ratio": 0.56,
       "signals": {
         "insider": {
           "active": false,
@@ -1409,9 +1409,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 176.24,
-      "prev_close": 172.55,
-      "vol_ratio": 0.83,
+      "price": 175.88,
+      "prev_close": 171.54,
+      "vol_ratio": 0.45,
       "signals": {
         "insider": {
           "active": false,
@@ -1578,9 +1578,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 16.73,
-      "prev_close": 18.31,
-      "vol_ratio": 1.09,
+      "price": 16.865,
+      "prev_close": 17.66,
+      "vol_ratio": 0.49,
       "signals": {
         "insider": {
           "active": false,
@@ -1636,9 +1636,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 152.83,
-      "prev_close": 164.5,
-      "vol_ratio": 1.23,
+      "price": 151.45,
+      "prev_close": 158.25,
+      "vol_ratio": 0.28,
       "signals": {
         "insider": {
           "active": false,
@@ -1805,9 +1805,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 192.53,
-      "prev_close": 158.34,
-      "vol_ratio": 0.66,
+      "price": 193.43,
+      "prev_close": 163.0,
+      "vol_ratio": 0.28,
       "signals": {
         "insider": {
           "active": false,
@@ -1863,9 +1863,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 11.64,
-      "prev_close": 9.72,
-      "vol_ratio": 1.36,
+      "price": 12.79,
+      "prev_close": 8.96,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": false,
@@ -1921,9 +1921,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 21.88,
-      "prev_close": 20.04,
-      "vol_ratio": 1.07,
+      "price": 22.76,
+      "prev_close": 18.91,
+      "vol_ratio": 0.43,
       "signals": {
         "insider": {
           "active": false,
@@ -1979,9 +1979,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 173.97,
-      "prev_close": 150.55,
-      "vol_ratio": 0.91,
+      "price": 193.32,
+      "prev_close": 146.23,
+      "vol_ratio": 0.98,
       "signals": {
         "insider": {
           "active": false,
@@ -2060,9 +2060,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 65.84,
-      "prev_close": 70.09,
-      "vol_ratio": 0.84,
+      "price": 65.755,
+      "prev_close": 65.0,
+      "vol_ratio": 0.36,
       "signals": {
         "insider": {
           "active": false,
@@ -2174,9 +2174,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 109.81,
-      "prev_close": 96.25,
-      "vol_ratio": 0.93,
+      "price": 118.42,
+      "prev_close": 91.53,
+      "vol_ratio": 0.85,
       "signals": {
         "insider": {
           "active": false,
@@ -2288,9 +2288,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 338.39,
-      "prev_close": 330.11,
-      "vol_ratio": 0.8,
+      "price": 334.08,
+      "prev_close": 325.33,
+      "vol_ratio": 0.24,
       "signals": {
         "insider": {
           "active": false,
@@ -2457,9 +2457,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 245.7,
-      "prev_close": 213.9,
-      "vol_ratio": 1.04,
+      "price": 238.14,
+      "prev_close": 212.92,
+      "vol_ratio": 0.49,
       "signals": {
         "insider": {
           "active": false,
@@ -2582,9 +2582,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 333.94,
-      "prev_close": 307.01,
-      "vol_ratio": 0.95,
+      "price": 320.02,
+      "prev_close": 301.36,
+      "vol_ratio": 0.55,
       "signals": {
         "insider": {
           "active": false,
@@ -2751,9 +2751,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 236.0,
-      "prev_close": 247.32,
-      "vol_ratio": 0.78,
+      "price": 230.525,
+      "prev_close": 246.0,
+      "vol_ratio": 0.31,
       "signals": {
         "insider": {
           "active": false,
@@ -2920,9 +2920,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 393.42,
-      "prev_close": 438.7,
-      "vol_ratio": 0.81,
+      "price": 384.9,
+      "prev_close": 434.62,
+      "vol_ratio": 0.15,
       "signals": {
         "insider": {
           "active": false,
@@ -2978,9 +2978,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 128.6,
-      "prev_close": 148.65,
-      "vol_ratio": 0.93,
+      "price": 127.24,
+      "prev_close": 146.58,
+      "vol_ratio": 0.38,
       "signals": {
         "insider": {
           "active": false,
@@ -3036,9 +3036,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 165.93,
-      "prev_close": 179.29,
-      "vol_ratio": 0.73,
+      "price": 165.89,
+      "prev_close": 183.25,
+      "vol_ratio": 0.33,
       "signals": {
         "insider": {
           "active": false,
@@ -3194,9 +3194,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 15.5,
-      "prev_close": 17.22,
-      "vol_ratio": 0.88,
+      "price": 15.175,
+      "prev_close": 16.93,
+      "vol_ratio": 0.34,
       "signals": {
         "insider": {
           "active": false,
@@ -3252,9 +3252,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 40.35,
-      "prev_close": 38.28,
-      "vol_ratio": 1.62,
+      "price": 38.68,
+      "prev_close": 37.41,
+      "vol_ratio": 0.58,
       "signals": {
         "insider": {
           "active": false,
@@ -3377,9 +3377,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 264.9,
-      "prev_close": 271.43,
-      "vol_ratio": 1.52,
+      "price": 266.66,
+      "prev_close": 253.32,
+      "vol_ratio": 0.55,
       "signals": {
         "insider": {
           "active": false,
@@ -3447,9 +3447,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 108.8,
-      "prev_close": 103.49,
-      "vol_ratio": 1.56,
+      "price": 106.91,
+      "prev_close": 96.69,
+      "vol_ratio": 0.55,
       "signals": {
         "insider": {
           "active": false,
@@ -3505,9 +3505,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 977.5,
-      "prev_close": 1011.75,
-      "vol_ratio": 0.88,
+      "price": 990.1,
+      "prev_close": 940.76,
+      "vol_ratio": 0.6,
       "signals": {
         "insider": {
           "active": false,
@@ -3674,9 +3674,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 188.71,
-      "prev_close": 162.18,
-      "vol_ratio": 1.07,
+      "price": 177.5,
+      "prev_close": 160.19,
+      "vol_ratio": 0.68,
       "signals": {
         "insider": {
           "active": false,
@@ -3732,9 +3732,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1629.67,
-      "prev_close": 1883.12,
-      "vol_ratio": 1.16,
+      "price": 1649.08,
+      "prev_close": 1802.98,
+      "vol_ratio": 0.51,
       "signals": {
         "insider": {
           "active": false,
@@ -3790,9 +3790,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 75.31,
-      "prev_close": 76.02,
-      "vol_ratio": 1.03,
+      "price": 71.575,
+      "prev_close": 77.77,
+      "vol_ratio": 1.43,
       "signals": {
         "insider": {
           "active": false,
@@ -3848,9 +3848,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 105.35,
-      "prev_close": 103.5,
-      "vol_ratio": 1.01,
+      "price": 103.28,
+      "prev_close": 103.95,
+      "vol_ratio": 0.62,
       "signals": {
         "insider": {
           "active": false,
@@ -3906,9 +3906,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 349.31,
-      "prev_close": 360.96,
-      "vol_ratio": 1.02,
+      "price": 346.545,
+      "prev_close": 363.25,
+      "vol_ratio": 0.62,
       "signals": {
         "insider": {
           "active": false,
@@ -3976,9 +3976,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 951.47,
-      "prev_close": 1051.31,
-      "vol_ratio": 1.65,
+      "price": 941.835,
+      "prev_close": 1040.47,
+      "vol_ratio": 0.62,
       "signals": {
         "insider": {
           "active": false,
@@ -4046,9 +4046,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 203.52,
-      "prev_close": 218.21,
-      "vol_ratio": 1.09,
+      "price": 202.01,
+      "prev_close": 217.55,
+      "vol_ratio": 0.44,
       "signals": {
         "insider": {
           "active": false,
@@ -4162,9 +4162,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 369.93,
-      "prev_close": 358.84,
-      "vol_ratio": 0.83,
+      "price": 369.96,
+      "prev_close": 364.25,
+      "vol_ratio": 0.42,
       "signals": {
         "insider": {
           "active": false,
@@ -4276,9 +4276,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 565.73,
-      "prev_close": 562.26,
-      "vol_ratio": 0.8,
+      "price": 566.845,
+      "prev_close": 574.31,
+      "vol_ratio": 0.37,
       "signals": {
         "insider": {
           "active": false,
@@ -4412,9 +4412,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 52.94,
-      "prev_close": 60.47,
-      "vol_ratio": 0.7,
+      "price": 52.73,
+      "prev_close": 60.43,
+      "vol_ratio": 0.32,
       "signals": {
         "insider": {
           "active": false,
@@ -4528,9 +4528,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 197.0,
-      "prev_close": 225.95,
-      "vol_ratio": 2.04,
+      "price": 196.62,
+      "prev_close": 223.06,
+      "vol_ratio": 0.66,
       "signals": {
         "insider": {
           "active": false,
@@ -4586,9 +4586,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 798.57,
-      "prev_close": 881.65,
-      "vol_ratio": 1.01,
+      "price": 802.235,
+      "prev_close": 840.87,
+      "vol_ratio": 0.5,
       "signals": {
         "insider": {
           "active": false,
@@ -4755,9 +4755,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 685.63,
-      "prev_close": 599.92,
-      "vol_ratio": 0.87,
+      "price": 681.9,
+      "prev_close": 588.72,
+      "vol_ratio": 0.31,
       "signals": {
         "insider": {
           "active": false,
@@ -4869,9 +4869,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 206.49,
-      "prev_close": 229.45,
-      "vol_ratio": 1.17,
+      "price": 205.465,
+      "prev_close": 227.71,
+      "vol_ratio": 0.44,
       "signals": {
         "insider": {
           "active": false,
@@ -4927,9 +4927,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 313.47,
-      "prev_close": 369.43,
-      "vol_ratio": 1.34,
+      "price": 312.455,
+      "prev_close": 375.09,
+      "vol_ratio": 0.41,
       "signals": {
         "insider": {
           "active": false,
@@ -4985,9 +4985,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 13.61,
-      "prev_close": 14.05,
-      "vol_ratio": 1.05,
+      "price": 13.045,
+      "prev_close": 13.93,
+      "vol_ratio": 0.66,
       "signals": {
         "insider": {
           "active": false,
@@ -5043,9 +5043,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 86.62,
-      "prev_close": 84.37,
-      "vol_ratio": 1.46,
+      "price": 82.03,
+      "prev_close": 83.71,
+      "vol_ratio": 0.77,
       "signals": {
         "insider": {
           "active": false,
@@ -5101,9 +5101,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 15.4,
-      "prev_close": 14.87,
-      "vol_ratio": 1.27,
+      "price": 15.003,
+      "prev_close": 14.78,
+      "vol_ratio": 0.56,
       "signals": {
         "insider": {
           "active": false,
@@ -5159,9 +5159,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 4.28,
-      "prev_close": 6.22,
-      "vol_ratio": 1.62,
+      "price": 4.115,
+      "prev_close": 5.77,
+      "vol_ratio": 0.42,
       "signals": {
         "insider": {
           "active": false,
@@ -5217,9 +5217,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 163.27,
-      "prev_close": 161.46,
-      "vol_ratio": 0.79,
+      "price": 163.045,
+      "prev_close": 165.56,
+      "vol_ratio": 0.44,
       "signals": {
         "insider": {
           "active": false,
@@ -5275,9 +5275,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 211.57,
-      "prev_close": 202.7,
-      "vol_ratio": 0.94,
+      "price": 210.965,
+      "prev_close": 205.74,
+      "vol_ratio": 0.56,
       "signals": {
         "insider": {
           "active": false,
@@ -5356,9 +5356,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 59.29,
-      "prev_close": 59.04,
-      "vol_ratio": 1.15,
+      "price": 59.075,
+      "prev_close": 59.8,
+      "vol_ratio": 0.48,
       "signals": {
         "insider": {
           "active": false,
@@ -5414,9 +5414,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 48.72,
-      "prev_close": 47.57,
-      "vol_ratio": 1.11,
+      "price": 48.88,
+      "prev_close": 47.83,
+      "vol_ratio": 0.42,
       "signals": {
         "insider": {
           "active": false,
@@ -5484,9 +5484,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 52.08,
-      "prev_close": 53.86,
-      "vol_ratio": 0.93,
+      "price": 51.27,
+      "prev_close": 53.21,
+      "vol_ratio": 0.41,
       "signals": {
         "insider": {
           "active": false,
@@ -5623,9 +5623,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 270.22,
-      "prev_close": 262.37,
-      "vol_ratio": 1.06,
+      "price": 269.24,
+      "prev_close": 271.11,
+      "vol_ratio": 0.46,
       "signals": {
         "insider": {
           "active": false,
@@ -5704,9 +5704,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 27.64,
-      "prev_close": 26.87,
-      "vol_ratio": 0.88,
+      "price": 27.475,
+      "prev_close": 27.25,
+      "vol_ratio": 0.34,
       "signals": {
         "insider": {
           "active": false,
@@ -5762,9 +5762,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 147.15,
-      "prev_close": 135.97,
-      "vol_ratio": 1.01,
+      "price": 146.18,
+      "prev_close": 135.17,
+      "vol_ratio": 0.31,
       "signals": {
         "insider": {
           "active": false,
@@ -5820,9 +5820,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1152.44,
-      "prev_close": 1183.16,
-      "vol_ratio": 0.79,
+      "price": 1143.175,
+      "prev_close": 1225.73,
+      "vol_ratio": 0.43,
       "signals": {
         "insider": {
           "active": false,
@@ -5878,9 +5878,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 375.21,
-      "prev_close": 395.62,
-      "vol_ratio": 1.02,
+      "price": 373.945,
+      "prev_close": 393.93,
+      "vol_ratio": 0.39,
       "signals": {
         "insider": {
           "active": false,
@@ -5936,9 +5936,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 90.27,
-      "prev_close": 94.01,
-      "vol_ratio": 1.26,
+      "price": 88.48,
+      "prev_close": 94.91,
+      "vol_ratio": 0.63,
       "signals": {
         "insider": {
           "active": false,
@@ -6052,9 +6052,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 264.02,
-      "prev_close": 250.33,
-      "vol_ratio": 0.82,
+      "price": 263.82,
+      "prev_close": 258.92,
+      "vol_ratio": 0.45,
       "signals": {
         "insider": {
           "active": false,
@@ -6110,9 +6110,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 106.79,
-      "prev_close": 114.33,
-      "vol_ratio": 0.7,
+      "price": 107.53,
+      "prev_close": 115.2,
+      "vol_ratio": 0.43,
       "signals": {
         "insider": {
           "active": false,
@@ -6180,9 +6180,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 159.83,
-      "prev_close": 151.01,
-      "vol_ratio": 0.94,
+      "price": 157.65,
+      "prev_close": 152.48,
+      "vol_ratio": 0.31,
       "signals": {
         "insider": {
           "active": false,
@@ -6261,9 +6261,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 893.93,
-      "prev_close": 953.5,
-      "vol_ratio": 1.17,
+      "price": 896.345,
+      "prev_close": 961.35,
+      "vol_ratio": 0.57,
       "signals": {
         "insider": {
           "active": false,
@@ -6319,9 +6319,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 302.51,
-      "prev_close": 337.88,
-      "vol_ratio": 1.06,
+      "price": 300.48,
+      "prev_close": 337.49,
+      "vol_ratio": 0.7,
       "signals": {
         "insider": {
           "active": false,
@@ -6400,9 +6400,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 194.19,
-      "prev_close": 215.81,
-      "vol_ratio": 0.73,
+      "price": 192.92,
+      "prev_close": 215.64,
+      "vol_ratio": 0.32,
       "signals": {
         "insider": {
           "active": false,
@@ -6458,9 +6458,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 36.36,
-      "prev_close": 39.09,
-      "vol_ratio": 1.58,
+      "price": 35.915,
+      "prev_close": 40.06,
+      "vol_ratio": 0.49,
       "signals": {
         "insider": {
           "active": false,
@@ -6516,9 +6516,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 99.39,
-      "prev_close": 115.74,
-      "vol_ratio": 0.91,
+      "price": 100.09,
+      "prev_close": 119.01,
+      "vol_ratio": 0.27,
       "signals": {
         "insider": {
           "active": false,
@@ -6574,9 +6574,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 96.67,
-      "prev_close": 107.92,
-      "vol_ratio": 1.09,
+      "price": 95.77,
+      "prev_close": 106.01,
+      "vol_ratio": 0.73,
       "signals": {
         "insider": {
           "active": false,
@@ -6632,9 +6632,9 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 248.48,
-      "prev_close": 265.53,
-      "vol_ratio": 1.11,
+      "price": 249.45,
+      "prev_close": 266.99,
+      "vol_ratio": 0.65,
       "signals": {
         "insider": {
           "active": false,
