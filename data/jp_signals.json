@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:08:54.451364+09:00",
+  "generated_at": "2026-09-18T21:10:46.418781+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -85,7 +85,7 @@
           "events": []
         }
       },
-      "score_change": -20
+      "score_change": 0
     },
     {
       "symbol": "5020",
@@ -112,7 +112,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近49h以内)"
+            "開示件数": "1件 (直近54h以内)"
           },
           "evidence": 72,
           "events": [
@@ -184,7 +184,7 @@
           "active": true,
           "score": 6,
           "detail": {
-            "開示件数": "1件 (直近25h以内)"
+            "開示件数": "1件 (直近30h以内)"
           },
           "evidence": 56,
           "events": [
@@ -230,7 +230,7 @@
           "events": []
         }
       },
-      "score_change": -3
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -3249,7 +3249,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
