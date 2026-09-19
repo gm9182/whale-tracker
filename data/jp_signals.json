@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:14:44.841474+09:00",
+  "generated_at": "2026-09-19T16:48:04.320066+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -91,7 +91,7 @@
       "symbol": "5020",
       "name": "ENEOSホールディングス",
       "market": "JP",
-      "score": 35,
+      "score": 24,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -109,12 +109,12 @@
         },
         "tdnet": {
           "active": true,
-          "score": 22,
+          "score": 15,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近68h以内)"
+            "開示件数": "1件 (直近72h以内)"
           },
-          "evidence": 72,
+          "evidence": 65,
           "events": [
             {
               "type": "BUYBACK",
@@ -158,7 +158,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -11
     },
     {
       "symbol": "4424",
@@ -184,7 +184,7 @@
           "active": true,
           "score": 6,
           "detail": {
-            "開示件数": "1件 (直近44h以内)"
+            "開示件数": "1件 (直近49h以内)"
           },
           "evidence": 56,
           "events": [
