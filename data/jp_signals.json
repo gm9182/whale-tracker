@@ -1,92 +1,8 @@
 {
-  "generated_at": "2026-09-19T16:48:04.320066+09:00",
+  "generated_at": "2026-09-20T08:56:35.151366+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
-    {
-      "symbol": "4063",
-      "name": "信越化学工業",
-      "market": "JP",
-      "score": 38,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4063.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 24,
-          "detail": {
-            "強気開示": "増配・配当変更 / 自社株買い",
-            "開示件数": "2件 (直近72h以内)"
-          },
-          "evidence": 74,
-          "events": [
-            {
-              "type": "DIV_UP",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-15 15:30:00",
-              "actor": "信越化",
-              "title": "増配・配当変更",
-              "label": "創立100周年記念配当の実施 及び 配当予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260914536275.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-15 15:30:00",
-              "actor": "信越化",
-              "title": "自社株買い",
-              "label": "コミットメント型自己株式取得（FCSR）における事後調整のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260915536456.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "5020",
       "name": "ENEOSホールディングス",
@@ -158,7 +74,7 @@
           "events": []
         }
       },
-      "score_change": -11
+      "score_change": 0
     },
     {
       "symbol": "4424",
@@ -184,7 +100,7 @@
           "active": true,
           "score": 6,
           "detail": {
-            "開示件数": "1件 (直近49h以内)"
+            "開示件数": "1件 (直近65h以内)"
           },
           "evidence": 56,
           "events": [
@@ -762,6 +678,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4063",
+      "name": "信越化学工業",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4063.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -38
     },
     {
       "symbol": "6098",
@@ -3249,7 +3224,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
