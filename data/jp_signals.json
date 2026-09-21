@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:18:53.057390+09:00",
+  "generated_at": "2026-09-21T17:29:36.365664+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -73,7 +73,7 @@
           "events": []
         }
       },
-      "score_change": -4
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -3151,7 +3151,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3436,7 +3436,7 @@
           "events": []
         }
       },
-      "score_change": -24
+      "score_change": 0
     },
     {
       "symbol": "1605",
