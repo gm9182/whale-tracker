@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:20:24.229964+00:00",
+  "generated_at": "2026-09-23T08:11:44.884011+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2564,23 +2564,23 @@
               "type": "SELL",
               "date": "2026-09-21",
               "filing_date": "2026-09-22",
-              "actor": "Sentonas Michael",
-              "title": "PRESIDENT",
-              "shares": 48866,
-              "price": 231.61,
-              "value": 11317854,
-              "label": "48,866株 @ $231.61 ($11,317,854)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
               "actor": "Saha Anurag",
               "title": "CHIEF ACCOUNTING OFFICER",
               "shares": 6876,
               "price": 231.61,
               "value": 1592550,
               "label": "6,876株 @ $231.61 ($1,592,550)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-21",
+              "filing_date": "2026-09-22",
+              "actor": "Sentonas Michael",
+              "title": "PRESIDENT",
+              "shares": 48866,
+              "price": 231.61,
+              "value": 11317854,
+              "label": "48,866株 @ $231.61 ($11,317,854)"
             },
             {
               "type": "SELL",
