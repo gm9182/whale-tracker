@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:14:26.926560+00:00",
+  "generated_at": "2026-09-25T05:41:22.837615+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -466,7 +466,7 @@
       "tier_label": "LOW",
       "price": 224.58,
       "prev_close": 208.48,
-      "vol_ratio": 0.59,
+      "vol_ratio": 0.6,
       "signals": {
         "insider": {
           "active": false,
@@ -635,7 +635,7 @@
       "tier_label": "LOW",
       "price": 377.94,
       "prev_close": 348.95,
-      "vol_ratio": 0.68,
+      "vol_ratio": 0.69,
       "signals": {
         "insider": {
           "active": false,
@@ -705,7 +705,7 @@
       "tier_label": "LOW",
       "price": 335.92,
       "prev_close": 310.34,
-      "vol_ratio": 0.58,
+      "vol_ratio": 0.59,
       "signals": {
         "insider": {
           "active": false,
@@ -944,7 +944,7 @@
       "tier_label": "LOW",
       "price": 342.36,
       "prev_close": 348.06,
-      "vol_ratio": 0.89,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -1149,7 +1149,7 @@
       "tier_label": "LOW",
       "price": 249.38,
       "prev_close": 262.07,
-      "vol_ratio": 0.95,
+      "vol_ratio": 0.96,
       "signals": {
         "insider": {
           "active": false,
@@ -1207,7 +1207,7 @@
       "tier_label": "LOW",
       "price": 629.26,
       "prev_close": 456.75,
-      "vol_ratio": 1.19,
+      "vol_ratio": 1.2,
       "signals": {
         "insider": {
           "active": false,
@@ -2019,7 +2019,7 @@
       "tier_label": "LOW",
       "price": 64.18,
       "prev_close": 72.33,
-      "vol_ratio": 1.03,
+      "vol_ratio": 1.04,
       "signals": {
         "insider": {
           "active": false,
@@ -2133,7 +2133,7 @@
       "tier_label": "LOW",
       "price": 120.82,
       "prev_close": 103.62,
-      "vol_ratio": 0.65,
+      "vol_ratio": 0.66,
       "signals": {
         "insider": {
           "active": false,
@@ -2444,110 +2444,55 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 36,
+          "sell_count": 18,
           "evidence": 40,
           "events": [
             {
               "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
-              "actor": "Saha Anurag",
-              "title": "CHIEF ACCOUNTING OFFICER",
-              "shares": 6876,
-              "price": 231.61,
-              "value": 1592550,
-              "label": "6,876株 @ $231.61 ($1,592,550)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
-              "actor": "Sentonas Michael",
-              "title": "PRESIDENT",
-              "shares": 48866,
-              "price": 231.61,
-              "value": 11317854,
-              "label": "48,866株 @ $231.61 ($11,317,854)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
+              "date": "2026-09-23",
+              "filing_date": "2026-09-24",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 3014,
-              "price": 249.86,
-              "value": 753078,
-              "label": "3,014株 @ $249.86 ($753,078)"
+              "shares": 2807,
+              "price": 261.26,
+              "value": 733356,
+              "label": "2,807株 @ $261.26 ($733,356)"
             },
             {
               "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
+              "date": "2026-09-22",
+              "filing_date": "2026-09-24",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 3469,
-              "price": 246.83,
-              "value": 856253,
-              "label": "3,469株 @ $246.83 ($856,253)"
+              "shares": 2150,
+              "price": 246.86,
+              "value": 530749,
+              "label": "2,150株 @ $246.86 ($530,749)"
             },
             {
               "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
+              "date": "2026-09-22",
+              "filing_date": "2026-09-24",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 37612,
-              "price": 231.61,
-              "value": 8711315,
-              "label": "37,612株 @ $231.61 ($8,711,315)"
+              "shares": 2134,
+              "price": 247.99,
+              "value": 529210,
+              "label": "2,134株 @ $247.99 ($529,210)"
             },
             {
               "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
+              "date": "2026-09-22",
+              "filing_date": "2026-09-24",
               "actor": "Kurtz George",
               "title": "PRESIDENT AND CEO",
-              "shares": 5700,
-              "price": 246.27,
-              "value": 1403739,
-              "label": "5,700株 @ $246.27 ($1,403,739)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 11022,
-              "price": 247.1,
-              "value": 2723536,
-              "label": "11,022株 @ $247.10 ($2,723,536)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 4319,
-              "price": 248.27,
-              "value": 1072278,
-              "label": "4,319株 @ $248.27 ($1,072,278)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-21",
-              "filing_date": "2026-09-22",
-              "actor": "Kurtz George",
-              "title": "PRESIDENT AND CEO",
-              "shares": 8272,
-              "price": 249.21,
-              "value": 2061465,
-              "label": "8,272株 @ $249.21 ($2,061,465)"
+              "shares": 3205,
+              "price": 248.85,
+              "value": 797564,
+              "label": "3,205株 @ $248.85 ($797,564)"
             }
           ]
         },
@@ -2596,7 +2541,7 @@
       "tier_label": "LOW",
       "price": 358.82,
       "prev_close": 280.35,
-      "vol_ratio": 0.96,
+      "vol_ratio": 0.99,
       "signals": {
         "insider": {
           "active": false,
@@ -2710,7 +2655,7 @@
       "tier_label": "LOW",
       "price": 256.92,
       "prev_close": 225.77,
-      "vol_ratio": 0.89,
+      "vol_ratio": 0.95,
       "signals": {
         "insider": {
           "active": false,
@@ -2937,7 +2882,7 @@
       "tier_label": "LOW",
       "price": 145.16,
       "prev_close": 149.8,
-      "vol_ratio": 0.93,
+      "vol_ratio": 0.94,
       "signals": {
         "insider": {
           "active": false,
@@ -3211,7 +3156,7 @@
       "tier_label": "LOW",
       "price": 41.51,
       "prev_close": 35.17,
-      "vol_ratio": 0.91,
+      "vol_ratio": 0.92,
       "signals": {
         "insider": {
           "active": false,
@@ -3336,7 +3281,7 @@
       "tier_label": "LOW",
       "price": 306.34,
       "prev_close": 238.78,
-      "vol_ratio": 1.87,
+      "vol_ratio": 1.88,
       "signals": {
         "insider": {
           "active": false,
@@ -3475,7 +3420,7 @@
       "tier_label": "LOW",
       "price": 1080.53,
       "prev_close": 910.43,
-      "vol_ratio": 0.88,
+      "vol_ratio": 0.89,
       "signals": {
         "insider": {
           "active": false,
@@ -3719,7 +3664,7 @@
       "tier_label": "LOW",
       "price": 105.56,
       "prev_close": 110.61,
-      "vol_ratio": 0.96,
+      "vol_ratio": 0.97,
       "signals": {
         "insider": {
           "active": false,
@@ -3905,7 +3850,7 @@
       "tier_label": "LOW",
       "price": 923.29,
       "prev_close": 1036.28,
-      "vol_ratio": 1.14,
+      "vol_ratio": 1.15,
       "signals": {
         "insider": {
           "active": false,
@@ -4125,7 +4070,7 @@
       "tier_label": "LOW",
       "price": 566.08,
       "prev_close": 599.86,
-      "vol_ratio": 0.82,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -4206,7 +4151,7 @@
       "tier_label": "LOW",
       "price": 52.6,
       "prev_close": 61.68,
-      "vol_ratio": 0.59,
+      "vol_ratio": 0.63,
       "signals": {
         "insider": {
           "active": false,
@@ -4322,7 +4267,7 @@
       "tier_label": "LOW",
       "price": 196.8,
       "prev_close": 210.46,
-      "vol_ratio": 1.52,
+      "vol_ratio": 1.53,
       "signals": {
         "insider": {
           "active": false,
@@ -4380,7 +4325,7 @@
       "tier_label": "LOW",
       "price": 805.25,
       "prev_close": 811.02,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
@@ -4549,7 +4494,7 @@
       "tier_label": "LOW",
       "price": 694.94,
       "prev_close": 648.64,
-      "vol_ratio": 0.87,
+      "vol_ratio": 0.89,
       "signals": {
         "insider": {
           "active": false,
@@ -4779,7 +4724,7 @@
       "tier_label": "LOW",
       "price": 12.6,
       "prev_close": 13.93,
-      "vol_ratio": 1.09,
+      "vol_ratio": 1.1,
       "signals": {
         "insider": {
           "active": false,
@@ -4837,7 +4782,7 @@
       "tier_label": "LOW",
       "price": 80.57,
       "prev_close": 86.98,
-      "vol_ratio": 1.09,
+      "vol_ratio": 1.1,
       "signals": {
         "insider": {
           "active": false,
@@ -4895,7 +4840,7 @@
       "tier_label": "LOW",
       "price": 15.29,
       "prev_close": 16.6,
-      "vol_ratio": 1.27,
+      "vol_ratio": 1.28,
       "signals": {
         "insider": {
           "active": false,
@@ -5185,7 +5130,7 @@
       "tier_label": "LOW",
       "price": 48.9,
       "prev_close": 48.23,
-      "vol_ratio": 1.38,
+      "vol_ratio": 1.39,
       "signals": {
         "insider": {
           "active": false,
@@ -5394,7 +5339,7 @@
       "tier_label": "LOW",
       "price": 270.68,
       "prev_close": 273.04,
-      "vol_ratio": 0.95,
+      "vol_ratio": 0.97,
       "signals": {
         "insider": {
           "active": false,
@@ -5475,7 +5420,7 @@
       "tier_label": "LOW",
       "price": 28.41,
       "prev_close": 27.97,
-      "vol_ratio": 0.98,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
@@ -5591,7 +5536,7 @@
       "tier_label": "LOW",
       "price": 1181.89,
       "prev_close": 1246.93,
-      "vol_ratio": 1.0,
+      "vol_ratio": 1.01,
       "signals": {
         "insider": {
           "active": false,
@@ -5823,7 +5768,7 @@
       "tier_label": "LOW",
       "price": 265.12,
       "prev_close": 264.52,
-      "vol_ratio": 0.82,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -5881,7 +5826,7 @@
       "tier_label": "LOW",
       "price": 107.59,
       "prev_close": 106.49,
-      "vol_ratio": 1.05,
+      "vol_ratio": 1.11,
       "signals": {
         "insider": {
           "active": false,
@@ -5973,7 +5918,7 @@
       "tier_label": "LOW",
       "price": 156.15,
       "prev_close": 169.89,
-      "vol_ratio": 0.88,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -6054,7 +5999,7 @@
       "tier_label": "LOW",
       "price": 896.48,
       "prev_close": 971.4,
-      "vol_ratio": 1.33,
+      "vol_ratio": 1.35,
       "signals": {
         "insider": {
           "active": false,
@@ -6182,7 +6127,7 @@
       "tier_label": "LOW",
       "price": 188.49,
       "prev_close": 216.98,
-      "vol_ratio": 1.12,
+      "vol_ratio": 1.17,
       "signals": {
         "insider": {
           "active": false,
@@ -6240,7 +6185,7 @@
       "tier_label": "LOW",
       "price": 35.99,
       "prev_close": 40.75,
-      "vol_ratio": 1.16,
+      "vol_ratio": 1.18,
       "signals": {
         "insider": {
           "active": false,
@@ -6298,7 +6243,7 @@
       "tier_label": "LOW",
       "price": 101.64,
       "prev_close": 122.78,
-      "vol_ratio": 0.5,
+      "vol_ratio": 0.51,
       "signals": {
         "insider": {
           "active": false,
@@ -6356,7 +6301,7 @@
       "tier_label": "LOW",
       "price": 93.65,
       "prev_close": 107.49,
-      "vol_ratio": 1.03,
+      "vol_ratio": 1.1,
       "signals": {
         "insider": {
           "active": false,
@@ -6414,7 +6359,7 @@
       "tier_label": "LOW",
       "price": 237.02,
       "prev_close": 272.54,
-      "vol_ratio": 1.29,
+      "vol_ratio": 1.31,
       "signals": {
         "insider": {
           "active": false,
