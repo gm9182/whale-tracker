@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:33:31.111843+00:00",
+  "generated_at": "2026-09-27T00:07:43.951583+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -714,7 +714,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -3284,7 +3284,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 5,
           "evidence": 40,
           "events": []
         },
@@ -5364,7 +5364,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -5979,7 +5979,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -6003,17 +6003,6 @@
               "price": 106.84,
               "value": 645871,
               "label": "6,045株 @ $106.84 ($645,871)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-26",
-              "filing_date": "2026-08-27",
-              "actor": "Danker Daniel",
-              "title": "Executive Vice President",
-              "shares": 50644,
-              "price": 105.35,
-              "value": 5335345,
-              "label": "50,644株 @ $105.35 ($5,335,345)"
             }
           ]
         },
@@ -6068,24 +6057,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-08-25",
-              "filing_date": "2026-08-27",
-              "actor": "Cornell Brian C",
-              "title": "Executive Officer",
-              "shares": 50000,
-              "price": 163.56,
-              "value": 8177780,
-              "label": "50,000株 @ $163.56 ($8,177,780)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -6199,7 +6176,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 3,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
