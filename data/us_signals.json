@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:07:43.951583+00:00",
+  "generated_at": "2026-09-28T02:29:22.558347+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -3123,10 +3123,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 16,
+          "sell_count": 13,
           "evidence": 40,
           "events": [
             {
@@ -3205,28 +3205,6 @@
               "price": 191.2,
               "value": 2283888,
               "label": "11,945株 @ $191.20 ($2,283,888)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-26",
-              "filing_date": "2026-08-28",
-              "actor": "Blecharczyk Nathan",
-              "title": "Chief Strategy Officer",
-              "shares": 11860,
-              "price": 190.24,
-              "value": 2256223,
-              "label": "11,860株 @ $190.24 ($2,256,223)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-08-26",
-              "filing_date": "2026-08-28",
-              "actor": "Blecharczyk Nathan",
-              "title": "Chief Strategy Officer",
-              "shares": 7199,
-              "price": 191.43,
-              "value": 1378090,
-              "label": "7,199株 @ $191.43 ($1,378,090)"
             }
           ]
         },
@@ -3603,11 +3581,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
