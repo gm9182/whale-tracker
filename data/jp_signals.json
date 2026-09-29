@@ -1,8 +1,124 @@
 {
-  "generated_at": "2026-09-29T16:47:38.438842+09:00",
+  "generated_at": "2026-09-29T22:49:01.507571+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "6594",
+      "name": "ニデック",
+      "market": "JP",
+      "score": 40,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6594.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 25,
+          "detail": {
+            "開示件数": "5件 (直近4h以内)"
+          },
+          "evidence": 75,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-09-29",
+              "filing_date": "2026-09-29 18:30:00",
+              "actor": "ニデック",
+              "title": "決算短信",
+              "label": "2026年３月期第３四半期決算短信及び2026年３月期決算短信の開示予定日の決定に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260929542326.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-09-29",
+              "filing_date": "2026-09-29 18:30:00",
+              "actor": "ニデック",
+              "title": "決算短信",
+              "label": "2026年３月期第３四半期決算短信及び2026年３月期決算短信の開示予定日の決定に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260929542326.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-09-29",
+              "filing_date": "2026-09-29 18:30:00",
+              "actor": "ニデック",
+              "title": "決算短信",
+              "label": "2026年３月期第３四半期決算短信及び2026年３月期決算短信の開示予定日の決定に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260929542326.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-09-29",
+              "filing_date": "2026-09-29 18:30:00",
+              "actor": "ニデック",
+              "title": "決算短信",
+              "label": "2026年３月期第３四半期決算短信及び2026年３月期決算短信の開示予定日の決定に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260929542326.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-09-29",
+              "filing_date": "2026-09-29 18:30:00",
+              "actor": "ニデック",
+              "title": "決算短信",
+              "label": "2026年３月期第３四半期決算短信及び2026年３月期決算短信の開示予定日の決定に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260929542326.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 40
+    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -838,65 +954,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 7267.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6594",
-      "name": "ニデック",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6594.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
