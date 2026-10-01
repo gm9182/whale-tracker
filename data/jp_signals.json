@@ -1,8 +1,125 @@
 {
-  "generated_at": "2026-10-01T15:51:06.121988+09:00",
+  "generated_at": "2026-10-01T23:16:29.685236+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
+    {
+      "symbol": "6098",
+      "name": "リクルートホールディングス",
+      "market": "JP",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
+      "price": 0,
+      "prev_close": 6098.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 45,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "5件 (直近8h以内)"
+          },
+          "evidence": 95,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-01 15:30:00",
+              "actor": "リクルートＨＤ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況について",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543093.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-01 15:30:00",
+              "actor": "リクルートＨＤ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況について",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543093.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-01 15:30:00",
+              "actor": "リクルートＨＤ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況について",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543093.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-01 15:30:00",
+              "actor": "リクルートＨＤ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況について",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543093.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-01 15:30:00",
+              "actor": "リクルートＨＤ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況について",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543093.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 72
+    },
     {
       "symbol": "6594",
       "name": "ニデック",
@@ -27,7 +144,7 @@
           "active": true,
           "score": 45,
           "detail": {
-            "開示件数": "25件 (直近45h以内)"
+            "開示件数": "25件 (直近53h以内)"
           },
           "evidence": 95,
           "events": [
@@ -177,7 +294,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近24h以内)"
+            "開示件数": "5件 (直近31h以内)"
           },
           "evidence": 95,
           "events": [
@@ -294,7 +411,7 @@
           "score": 45,
           "detail": {
             "強気開示": "TOB・公開買付",
-            "開示件数": "5件 (直近24h以内)"
+            "開示件数": "5件 (直近32h以内)"
           },
           "evidence": 95,
           "events": [
@@ -411,7 +528,7 @@
           "score": 45,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "5件 (直近24h以内)"
+            "開示件数": "5件 (直近32h以内)"
           },
           "evidence": 95,
           "events": [
@@ -502,225 +619,6 @@
         }
       },
       "score_change": 0
-    },
-    {
-      "symbol": "7741",
-      "name": "HOYA",
-      "market": "JP",
-      "score": 48,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 7741.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 30,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "1件 (直近1h以内)"
-          },
-          "evidence": 80,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-01 15:00:00",
-              "actor": "ＨＯＹＡ",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261001543961.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 48
-    },
-    {
-      "symbol": "8001",
-      "name": "伊藤忠商事",
-      "market": "JP",
-      "score": 48,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 8001.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 30,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "1件 (直近7h以内)"
-          },
-          "evidence": 80,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-01 08:50:00",
-              "actor": "伊藤忠",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930543526.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6981",
-      "name": "村田製作所",
-      "market": "JP",
-      "score": 40,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6981.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 25,
-          "detail": {
-            "強気開示": "M&A・買収",
-            "開示件数": "1件 (直近1h以内)"
-          },
-          "evidence": 75,
-          "events": [
-            {
-              "type": "ACQUISITION",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-01 15:00:00",
-              "actor": "村田製",
-              "title": "M&A・買収",
-              "label": "完全子会社の吸収合併及び事業所閉鎖に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261001543923.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 40
     },
     {
       "symbol": "7203",
@@ -1313,65 +1211,6 @@
       "score_change": 0
     },
     {
-      "symbol": "6098",
-      "name": "リクルートホールディングス",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6098.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "9433",
       "name": "KDDI",
       "market": "JP",
@@ -1608,6 +1447,65 @@
       "score_change": 0
     },
     {
+      "symbol": "7741",
+      "name": "HOYA",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 7741.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -48
+    },
+    {
       "symbol": "6501",
       "name": "日立製作所",
       "market": "JP",
@@ -1665,6 +1563,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "8001",
+      "name": "伊藤忠商事",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 8001.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -48
     },
     {
       "symbol": "9434",
@@ -1783,6 +1740,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "6981",
+      "name": "村田製作所",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6981.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -40
     },
     {
       "symbol": "9020",
