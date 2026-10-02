@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:22:06.858816+09:00",
+  "generated_at": "2026-10-02T16:52:15.262194+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "5件 (直近19h以内)"
+            "開示件数": "5件 (直近25h以内)"
           },
           "evidence": 95,
           "events": [
@@ -144,7 +144,7 @@
           "active": true,
           "score": 45,
           "detail": {
-            "開示件数": "25件 (直近64h以内)"
+            "開示件数": "25件 (直近70h以内)"
           },
           "evidence": 95,
           "events": [
@@ -294,7 +294,7 @@
           "score": 45,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "5件 (直近43h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 95,
           "events": [
@@ -411,7 +411,7 @@
           "score": 45,
           "detail": {
             "強気開示": "TOB・公開買付",
-            "開示件数": "5件 (直近43h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 95,
           "events": [
@@ -528,7 +528,7 @@
           "score": 45,
           "detail": {
             "強気開示": "M&A・買収",
-            "開示件数": "5件 (直近43h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 95,
           "events": [
@@ -619,6 +619,236 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "3092",
+      "name": "ZOZO",
+      "market": "JP",
+      "score": 48,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 3092.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 30,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近1h以内)"
+          },
+          "evidence": 80,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-02",
+              "filing_date": "2026-10-02 15:30:00",
+              "actor": "ＺＯＺＯ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930542696.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 48
+    },
+    {
+      "symbol": "6702",
+      "name": "富士通",
+      "market": "JP",
+      "score": 48,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6702.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 30,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近1h以内)"
+          },
+          "evidence": 80,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-02",
+              "filing_date": "2026-10-02 15:30:00",
+              "actor": "富士通",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545158.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 48
+    },
+    {
+      "symbol": "4475",
+      "name": "HENNGE",
+      "market": "JP",
+      "score": 37,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 23,
+          "detail": {
+            "強気開示": "増配・配当変更",
+            "開示件数": "2件 (直近1h以内)"
+          },
+          "evidence": 73,
+          "events": [
+            {
+              "type": "DIV_UP",
+              "date": "2026-10-02",
+              "filing_date": "2026-10-02 16:00:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "増配・配当変更",
+              "label": "配当予想の修正(増配)に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545274.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-02",
+              "filing_date": "2026-10-02 16:00:00",
+              "actor": "Ｇ－ＨＥＮＮＧＥ",
+              "title": "決算短信",
+              "label": "2026年9月期第3四半期決算短信〔日本基準〕(連結)(開示事項の変更及び公認会計士等による期中レビューの完了)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545289.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 37
     },
     {
       "symbol": "7203",
@@ -2804,65 +3034,6 @@
       "score_change": 0
     },
     {
-      "symbol": "3092",
-      "name": "ZOZO",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 3092.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "4307",
       "name": "野村総研",
       "market": "JP",
@@ -3158,65 +3329,6 @@
       "score_change": 0
     },
     {
-      "symbol": "6702",
-      "name": "富士通",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6702.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "6532",
       "name": "ベイカレント",
       "market": "JP",
@@ -3343,65 +3455,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 4490.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "4475",
-      "name": "HENNGE",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
