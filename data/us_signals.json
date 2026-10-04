@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:53:36.047907+00:00",
+  "generated_at": "2026-10-04T00:20:27.134288+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -714,7 +714,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -1144,11 +1144,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -1543,7 +1543,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -2025,7 +2025,7 @@
             "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 13,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -2060,17 +2060,6 @@
               "price": 181.14,
               "value": 2477259,
               "label": "13,676株 @ $181.14 ($2,477,259)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "WILSON FREDERICK R",
-              "title": "Insider",
-              "shares": 3397,
-              "price": 177.09,
-              "value": 601562,
-              "label": "3,397株 @ $177.09 ($601,562)"
             }
           ]
         },
@@ -2125,10 +2114,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "4件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -2141,50 +2130,6 @@
               "price": 70.68,
               "value": 997224,
               "label": "14,109株 @ $70.68 ($997,224)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "HUSTON BENJAMIN E.",
-              "title": "Chief Operating Officer",
-              "shares": 29474,
-              "price": 71.36,
-              "value": 2103264,
-              "label": "29,474株 @ $71.36 ($2,103,264)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "HUSTON BENJAMIN E.",
-              "title": "Chief Operating Officer",
-              "shares": 20526,
-              "price": 71.83,
-              "value": 1474382,
-              "label": "20,526株 @ $71.83 ($1,474,382)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 37406,
-              "price": 71.36,
-              "value": 2669292,
-              "label": "37,406株 @ $71.36 ($2,669,292)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "JENKINS MARK W.",
-              "title": "Chief Financial Officer",
-              "shares": 26344,
-              "price": 71.83,
-              "value": 1892289,
-              "label": "26,344株 @ $71.83 ($1,892,289)"
             }
           ]
         },
@@ -3115,7 +3060,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 10,
           "evidence": 40,
           "events": [
             {
@@ -3150,17 +3095,6 @@
               "price": 172.61,
               "value": 1786509,
               "label": "10,350株 @ $172.61 ($1,786,509)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-01",
-              "filing_date": "2026-09-03",
-              "actor": "Bernstein David C",
-              "title": "Chief Accounting Officer",
-              "shares": 5224,
-              "price": 182.49,
-              "value": 953327,
-              "label": "5,224株 @ $182.49 ($953,327)"
             }
           ]
         },
@@ -3218,7 +3152,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -3781,11 +3715,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -4164,24 +4098,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-03",
-              "actor": "SACHIN J. MEHRA",
-              "title": "Chief Business Officer",
-              "shares": 3266,
-              "price": 584.0,
-              "value": 1907344,
-              "label": "3,266株 @ $584.00 ($1,907,344)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4814,11 +4736,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
