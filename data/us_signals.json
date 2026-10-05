@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:20:27.134288+00:00",
+  "generated_at": "2026-10-05T02:55:26.184130+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -5154,35 +5154,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-04",
-              "actor": "Schmid Timothy",
-              "title": "EVP, WW Chair, MedTech",
-              "shares": 11070,
-              "price": 274.74,
-              "value": 3041371,
-              "label": "11,070株 @ $274.74 ($3,041,371)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-02",
-              "filing_date": "2026-09-04",
-              "actor": "Schmid Timothy",
-              "title": "EVP, WW Chair, MedTech",
-              "shares": 22527,
-              "price": 274.74,
-              "value": 6189067,
-              "label": "22,527株 @ $274.74 ($6,189,067)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
