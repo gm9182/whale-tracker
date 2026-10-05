@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:58:48.751366+09:00",
+  "generated_at": "2026-10-05T18:55:13.844021+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -121,14 +121,14 @@
       "score_change": 0
     },
     {
-      "symbol": "3092",
-      "name": "ZOZO",
+      "symbol": "7203",
+      "name": "トヨタ自動車",
       "market": "JP",
-      "score": 35,
+      "score": 48,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 3092.0,
+      "prev_close": 7203.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -142,21 +142,21 @@
         },
         "tdnet": {
           "active": true,
-          "score": 22,
+          "score": 30,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近68h以内)"
+            "開示件数": "1件 (直近3h以内)"
           },
-          "evidence": 72,
+          "evidence": 80,
           "events": [
             {
               "type": "BUYBACK",
-              "date": "2026-10-02",
-              "filing_date": "2026-10-02 15:30:00",
-              "actor": "ＺＯＺＯ",
+              "date": "2026-10-05",
+              "filing_date": "2026-10-05 15:30:00",
+              "actor": "トヨタ自",
               "title": "自社株買い",
               "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930542696.pdf",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005545791.pdf",
               "is_bullish": true,
               "is_bearish": false
             }
@@ -191,80 +191,7 @@
           "events": []
         }
       },
-      "score_change": 0
-    },
-    {
-      "symbol": "6702",
-      "name": "富士通",
-      "market": "JP",
-      "score": 35,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6702.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 22,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "1件 (直近68h以内)"
-          },
-          "evidence": 72,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-10-02",
-              "filing_date": "2026-10-02 15:30:00",
-              "actor": "富士通",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545158.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
+      "score_change": 48
     },
     {
       "symbol": "4477",
@@ -291,7 +218,7 @@
           "score": 20,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "1件 (直近0h以内)"
+            "開示件数": "1件 (直近7h以内)"
           },
           "evidence": 70,
           "events": [
@@ -337,17 +264,17 @@
           "events": []
         }
       },
-      "score_change": -40
+      "score_change": 0
     },
     {
-      "symbol": "4475",
-      "name": "HENNGE",
+      "symbol": "3092",
+      "name": "ZOZO",
       "market": "JP",
-      "score": 27,
+      "score": 24,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 3092.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -361,12 +288,158 @@
         },
         "tdnet": {
           "active": true,
-          "score": 17,
+          "score": 15,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近72h以内)"
+          },
+          "evidence": 65,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-02",
+              "filing_date": "2026-10-02 15:30:00",
+              "actor": "ＺＯＺＯ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120260930542696.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -11
+    },
+    {
+      "symbol": "6702",
+      "name": "富士通",
+      "market": "JP",
+      "score": 24,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6702.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 15,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近72h以内)"
+          },
+          "evidence": 65,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-02",
+              "filing_date": "2026-10-02 15:30:00",
+              "actor": "富士通",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545158.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -11
+    },
+    {
+      "symbol": "4475",
+      "name": "HENNGE",
+      "market": "JP",
+      "score": 19,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4475.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 12,
           "detail": {
             "強気開示": "増配・配当変更",
-            "開示件数": "2件 (直近68h以内)"
+            "開示件数": "2件 (直近72h以内)"
           },
-          "evidence": 67,
+          "evidence": 62,
           "events": [
             {
               "type": "DIV_UP",
@@ -421,66 +494,7 @@
           "events": []
         }
       },
-      "score_change": 0
-    },
-    {
-      "symbol": "7203",
-      "name": "トヨタ自動車",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 7203.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
+      "score_change": -8
     },
     {
       "symbol": "9432",
@@ -1306,7 +1320,7 @@
           "events": []
         }
       },
-      "score_change": -72
+      "score_change": 0
     },
     {
       "symbol": "7741",
@@ -3076,7 +3090,7 @@
           "events": []
         }
       },
-      "score_change": -72
+      "score_change": 0
     },
     {
       "symbol": "8593",
@@ -3253,7 +3267,7 @@
           "events": []
         }
       },
-      "score_change": -72
+      "score_change": 0
     },
     {
       "symbol": "4424",
