@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:41:07.769179+09:00",
+  "generated_at": "2026-10-06T23:01:38.332246+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 35,
           "detail": {
             "強気開示": "業務提携",
-            "開示件数": "2件 (直近30h以内)"
+            "開示件数": "2件 (直近36h以内)"
           },
           "evidence": 85,
           "events": [
@@ -85,7 +85,7 @@
           "events": []
         }
       },
-      "score_change": 24
+      "score_change": 0
     },
     {
       "symbol": "9433",
@@ -112,7 +112,7 @@
           "score": 30,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近2h以内)"
+            "開示件数": "1件 (直近7h以内)"
           },
           "evidence": 80,
           "events": [
@@ -158,7 +158,7 @@
           "events": []
         }
       },
-      "score_change": 48
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -185,7 +185,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近26h以内)"
+            "開示件数": "1件 (直近31h以内)"
           },
           "evidence": 72,
           "events": [
@@ -231,7 +231,7 @@
           "events": []
         }
       },
-      "score_change": -13
+      "score_change": 0
     },
     {
       "symbol": "3092",
@@ -387,7 +387,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
