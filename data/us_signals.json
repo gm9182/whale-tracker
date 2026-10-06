@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:06:05.704555+00:00",
+  "generated_at": "2026-10-06T08:37:24.260936+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2653,50 +2653,6 @@
               "type": "SELL",
               "date": "2026-10-01",
               "filing_date": "2026-10-05",
-              "actor": "Saha Anurag",
-              "title": "CHIEF ACCOUNTING OFFICER",
-              "shares": 5637,
-              "price": 261.13,
-              "value": 1471989,
-              "label": "5,637株 @ $261.13 ($1,471,989)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-05",
-              "actor": "Saha Anurag",
-              "title": "CHIEF ACCOUNTING OFFICER",
-              "shares": 3170,
-              "price": 262.01,
-              "value": 830571,
-              "label": "3,170株 @ $262.01 ($830,571)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-05",
-              "actor": "Saha Anurag",
-              "title": "CHIEF ACCOUNTING OFFICER",
-              "shares": 6145,
-              "price": 263.06,
-              "value": 1616503,
-              "label": "6,145株 @ $263.06 ($1,616,503)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-05",
-              "actor": "Saha Anurag",
-              "title": "CHIEF ACCOUNTING OFFICER",
-              "shares": 9004,
-              "price": 263.92,
-              "value": 2376335,
-              "label": "9,004株 @ $263.92 ($2,376,335)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-05",
               "actor": "GANDHI SAMEER K",
               "title": "Insider",
               "shares": 2431,
@@ -2758,6 +2714,50 @@
               "price": 267.09,
               "value": 1338655,
               "label": "5,012株 @ $267.09 ($1,338,655)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-05",
+              "actor": "GANDHI SAMEER K",
+              "title": "Insider",
+              "shares": 2978,
+              "price": 268.0,
+              "value": 798104,
+              "label": "2,978株 @ $268.00 ($798,104)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-05",
+              "actor": "Saha Anurag",
+              "title": "CHIEF ACCOUNTING OFFICER",
+              "shares": 5637,
+              "price": 261.13,
+              "value": 1471989,
+              "label": "5,637株 @ $261.13 ($1,471,989)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-05",
+              "actor": "Saha Anurag",
+              "title": "CHIEF ACCOUNTING OFFICER",
+              "shares": 3170,
+              "price": 262.01,
+              "value": 830571,
+              "label": "3,170株 @ $262.01 ($830,571)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-05",
+              "actor": "Saha Anurag",
+              "title": "CHIEF ACCOUNTING OFFICER",
+              "shares": 6145,
+              "price": 263.06,
+              "value": 1616503,
+              "label": "6,145株 @ $263.06 ($1,616,503)"
             }
           ]
         },
