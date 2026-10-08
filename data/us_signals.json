@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:32:55.294415+00:00",
+  "generated_at": "2026-10-08T08:15:00.456468+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -11,7 +11,7 @@
       "tier_label": "👀 MONITOR",
       "price": 68.45,
       "prev_close": 75.76,
-      "vol_ratio": 0.63,
+      "vol_ratio": 0.64,
       "signals": {
         "insider": {
           "active": true,
@@ -297,7 +297,7 @@
       "tier_label": "LOW",
       "price": 472.2,
       "prev_close": 428.91,
-      "vol_ratio": 0.73,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": true,
@@ -466,7 +466,7 @@
       "tier_label": "LOW",
       "price": 237.47,
       "prev_close": 230.36,
-      "vol_ratio": 0.75,
+      "vol_ratio": 0.76,
       "signals": {
         "insider": {
           "active": false,
@@ -705,7 +705,7 @@
       "tier_label": "LOW",
       "price": 336.67,
       "prev_close": 319.97,
-      "vol_ratio": 0.81,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
@@ -874,7 +874,7 @@
       "tier_label": "LOW",
       "price": 529.76,
       "prev_close": 499.7,
-      "vol_ratio": 0.75,
+      "vol_ratio": 0.78,
       "signals": {
         "insider": {
           "active": false,
@@ -999,7 +999,7 @@
       "tier_label": "LOW",
       "price": 350.5,
       "prev_close": 338.46,
-      "vol_ratio": 0.76,
+      "vol_ratio": 0.78,
       "signals": {
         "insider": {
           "active": false,
@@ -1057,7 +1057,7 @@
       "tier_label": "LOW",
       "price": 721.31,
       "prev_close": 616.77,
-      "vol_ratio": 0.56,
+      "vol_ratio": 0.58,
       "signals": {
         "insider": {
           "active": false,
@@ -1226,7 +1226,7 @@
       "tier_label": "LOW",
       "price": 259.92,
       "prev_close": 258.51,
-      "vol_ratio": 0.98,
+      "vol_ratio": 1.02,
       "signals": {
         "insider": {
           "active": false,
@@ -1453,7 +1453,7 @@
       "tier_label": "LOW",
       "price": 376.51,
       "prev_close": 357.9,
-      "vol_ratio": 0.7,
+      "vol_ratio": 0.74,
       "signals": {
         "insider": {
           "active": false,
@@ -1761,7 +1761,7 @@
       "tier_label": "LOW",
       "price": 152.71,
       "prev_close": 154.46,
-      "vol_ratio": 0.56,
+      "vol_ratio": 0.57,
       "signals": {
         "insider": {
           "active": false,
@@ -2348,6 +2348,28 @@
               "type": "SELL",
               "date": "2026-10-05",
               "filing_date": "2026-10-07",
+              "actor": "Gallagher Daniel Martin Jr",
+              "title": "Chief Legal Officer",
+              "shares": 4800,
+              "price": 113.28,
+              "value": 543741,
+              "label": "4,800株 @ $113.28 ($543,741)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-05",
+              "filing_date": "2026-10-07",
+              "actor": "Gallagher Daniel Martin Jr",
+              "title": "Chief Legal Officer",
+              "shares": 4700,
+              "price": 114.01,
+              "value": 535829,
+              "label": "4,700株 @ $114.01 ($535,829)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-05",
+              "filing_date": "2026-10-07",
               "actor": "Tenev Vladimir",
               "title": "Chief Executive Officer",
               "shares": 158911,
@@ -2376,28 +2398,6 @@
               "price": 114.95,
               "value": 2551052,
               "label": "22,192株 @ $114.95 ($2,551,052)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-05",
-              "filing_date": "2026-10-07",
-              "actor": "Gallagher Daniel Martin Jr",
-              "title": "Chief Legal Officer",
-              "shares": 4800,
-              "price": 113.28,
-              "value": 543741,
-              "label": "4,800株 @ $113.28 ($543,741)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-05",
-              "filing_date": "2026-10-07",
-              "actor": "Gallagher Daniel Martin Jr",
-              "title": "Chief Legal Officer",
-              "shares": 4700,
-              "price": 114.01,
-              "value": 535829,
-              "label": "4,700株 @ $114.01 ($535,829)"
             },
             {
               "type": "SELL",
@@ -2490,7 +2490,7 @@
       "tier_label": "LOW",
       "price": 332.85,
       "prev_close": 337.18,
-      "vol_ratio": 0.6,
+      "vol_ratio": 0.61,
       "signals": {
         "insider": {
           "active": false,
@@ -3224,7 +3224,7 @@
       "tier_label": "LOW",
       "price": 166.03,
       "prev_close": 145.09,
-      "vol_ratio": 0.61,
+      "vol_ratio": 0.63,
       "signals": {
         "insider": {
           "active": false,
@@ -3685,7 +3685,7 @@
       "tier_label": "LOW",
       "price": 1088.0,
       "prev_close": 1016.59,
-      "vol_ratio": 1.18,
+      "vol_ratio": 1.2,
       "signals": {
         "insider": {
           "active": false,
@@ -3940,7 +3940,7 @@
       "tier_label": "LOW",
       "price": 104.75,
       "prev_close": 105.31,
-      "vol_ratio": 0.87,
+      "vol_ratio": 1.01,
       "signals": {
         "insider": {
           "active": false,
@@ -3998,7 +3998,7 @@
       "tier_label": "LOW",
       "price": 329.58,
       "prev_close": 358.64,
-      "vol_ratio": 0.81,
+      "vol_ratio": 0.85,
       "signals": {
         "insider": {
           "active": false,
@@ -4184,7 +4184,7 @@
       "tier_label": "LOW",
       "price": 189.71,
       "prev_close": 217.72,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -4381,7 +4381,7 @@
       "tier_label": "LOW",
       "price": 54.95,
       "prev_close": 54.96,
-      "vol_ratio": 0.91,
+      "vol_ratio": 0.93,
       "signals": {
         "insider": {
           "active": false,
@@ -4497,7 +4497,7 @@
       "tier_label": "LOW",
       "price": 188.32,
       "prev_close": 212.25,
-      "vol_ratio": 0.75,
+      "vol_ratio": 0.76,
       "signals": {
         "insider": {
           "active": false,
@@ -4613,7 +4613,7 @@
       "tier_label": "LOW",
       "price": 656.87,
       "prev_close": 693.53,
-      "vol_ratio": 0.98,
+      "vol_ratio": 0.99,
       "signals": {
         "insider": {
           "active": false,
@@ -4671,7 +4671,7 @@
       "tier_label": "LOW",
       "price": 208.11,
       "prev_close": 209.61,
-      "vol_ratio": 0.7,
+      "vol_ratio": 0.71,
       "signals": {
         "insider": {
           "active": false,
@@ -4729,7 +4729,7 @@
       "tier_label": "LOW",
       "price": 303.62,
       "prev_close": 337.12,
-      "vol_ratio": 0.85,
+      "vol_ratio": 0.87,
       "signals": {
         "insider": {
           "active": false,
@@ -4787,7 +4787,7 @@
       "tier_label": "LOW",
       "price": 12.12,
       "prev_close": 14.62,
-      "vol_ratio": 0.74,
+      "vol_ratio": 0.79,
       "signals": {
         "insider": {
           "active": false,
@@ -5263,7 +5263,7 @@
       "tier_label": "LOW",
       "price": 47.96,
       "prev_close": 57.51,
-      "vol_ratio": 1.07,
+      "vol_ratio": 1.09,
       "signals": {
         "insider": {
           "active": false,
@@ -5379,7 +5379,7 @@
       "tier_label": "LOW",
       "price": 258.45,
       "prev_close": 275.23,
-      "vol_ratio": 0.78,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": false,
@@ -5785,7 +5785,7 @@
       "tier_label": "LOW",
       "price": 271.36,
       "prev_close": 256.46,
-      "vol_ratio": 1.23,
+      "vol_ratio": 1.35,
       "signals": {
         "insider": {
           "active": false,
@@ -5843,7 +5843,7 @@
       "tier_label": "LOW",
       "price": 108.16,
       "prev_close": 107.14,
-      "vol_ratio": 0.72,
+      "vol_ratio": 0.73,
       "signals": {
         "insider": {
           "active": false,
@@ -5982,7 +5982,7 @@
       "tier_label": "LOW",
       "price": 942.25,
       "prev_close": 915.74,
-      "vol_ratio": 0.75,
+      "vol_ratio": 0.76,
       "signals": {
         "insider": {
           "active": false,
@@ -6063,7 +6063,7 @@
       "tier_label": "LOW",
       "price": 285.77,
       "prev_close": 321.05,
-      "vol_ratio": 1.03,
+      "vol_ratio": 1.05,
       "signals": {
         "insider": {
           "active": false,
