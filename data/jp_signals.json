@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:44:41.363555+09:00",
+  "generated_at": "2026-10-09T17:18:13.772232+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 45,
           "detail": {
             "強気開示": "増配・配当変更",
-            "開示件数": "10件 (直近19h以内)"
+            "開示件数": "10件 (直近26h以内)"
           },
           "evidence": 95,
           "events": [
@@ -154,163 +154,6 @@
       "score_change": 0
     },
     {
-      "symbol": "4477",
-      "name": "BASE",
-      "market": "JP",
-      "score": 40,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 4477.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 25,
-          "detail": {
-            "強気開示": "業務提携",
-            "開示件数": "2件 (直近72h以内)"
-          },
-          "evidence": 75,
-          "events": [
-            {
-              "type": "PARTNERSHIP",
-              "date": "2026-10-06",
-              "filing_date": "2026-10-06 16:30:00",
-              "actor": "Ｇ－ＢＡＳＥ",
-              "title": "業務提携",
-              "label": "(一部変更)SBINM合同会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明及びSBIHDとの資本業務提携契約の締結に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546664.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "PARTNERSHIP",
-              "date": "2026-10-05",
-              "filing_date": "2026-10-05 11:30:00",
-              "actor": "Ｇ－ＢＡＳＥ",
-              "title": "業務提携",
-              "label": "(一部変更)SBINM合同会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明及びSBIHDとの資本業務提携契約の締結に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005545669.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "9433",
-      "name": "KDDI",
-      "market": "JP",
-      "score": 35,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 9433.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 22,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "1件 (直近67h以内)"
-          },
-          "evidence": 72,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-10-06",
-              "filing_date": "2026-10-06 15:30:00",
-              "actor": "ＫＤＤＩ",
-              "title": "自社株買い",
-              "label": "自己株式の取得状況に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545526.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "6981",
       "name": "村田製作所",
       "market": "JP",
@@ -335,7 +178,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近45h以内)"
+            "開示件数": "1件 (直近51h以内)"
           },
           "evidence": 72,
           "events": [
@@ -408,7 +251,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近48h以内)"
+            "開示件数": "1件 (直近54h以内)"
           },
           "evidence": 72,
           "events": [
@@ -481,7 +324,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近46h以内)"
+            "開示件数": "1件 (直近52h以内)"
           },
           "evidence": 72,
           "events": [
@@ -528,6 +371,90 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4477",
+      "name": "BASE",
+      "market": "JP",
+      "score": 32,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4477.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 20,
+          "detail": {
+            "強気開示": "業務提携",
+            "開示件数": "2件 (直近72h以内)"
+          },
+          "evidence": 70,
+          "events": [
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-10-06",
+              "filing_date": "2026-10-06 16:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "業務提携",
+              "label": "(一部変更)SBINM合同会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明及びSBIHDとの資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261006546664.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "PARTNERSHIP",
+              "date": "2026-10-05",
+              "filing_date": "2026-10-05 11:30:00",
+              "actor": "Ｇ－ＢＡＳＥ",
+              "title": "業務提携",
+              "label": "(一部変更)SBINM合同会社による当社株式に対する公開買付けに関する賛同及び応募中立の意見表明及びSBIHDとの資本業務提携契約の締結に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261005545669.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -8
     },
     {
       "symbol": "7203",
@@ -601,6 +528,79 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "9433",
+      "name": "KDDI",
+      "market": "JP",
+      "score": 24,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9433.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 15,
+          "detail": {
+            "強気開示": "自社株買い",
+            "開示件数": "1件 (直近72h以内)"
+          },
+          "evidence": 65,
+          "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-10-06",
+              "filing_date": "2026-10-06 15:30:00",
+              "actor": "ＫＤＤＩ",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261002545526.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -11
     },
     {
       "symbol": "9432",
