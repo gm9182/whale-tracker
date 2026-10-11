@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:59:37.688274+00:00",
+  "generated_at": "2026-10-11T00:42:17.067925+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -343,99 +343,6 @@
       "score_change": 0
     },
     {
-      "symbol": "UBER",
-      "market": "US",
-      "score": 15,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 71.51,
-      "prev_close": 71.08,
-      "vol_ratio": 0.92,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 10,
-          "detail": {
-            "最大買付": "Chief Executive Officer: $10,005,952",
-            "大型売却警戒": "2件の$1M+売却"
-          },
-          "buy_count": 1,
-          "sell_count": 2,
-          "evidence": 50,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Uber Technologies, Inc",
-              "title": "Insider",
-              "shares": 29369611,
-              "price": 6.21,
-              "value": 182238436,
-              "label": "29,369,611株 @ $6.21 ($182,238,436)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-11",
-              "filing_date": "2026-09-15",
-              "actor": "Hazelbaker Jill",
-              "title": "See Remarks",
-              "shares": 28170,
-              "price": 71.31,
-              "value": 2008673,
-              "label": "28,170株 @ $71.31 ($2,008,673)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-09-10",
-              "filing_date": "2026-09-10",
-              "actor": "KHOSROWSHAHI DARA",
-              "title": "Chief Executive Officer",
-              "shares": 141000,
-              "price": 70.96,
-              "value": 10005952,
-              "label": "141,000株 @ $70.96 ($10,005,952)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "NVDA",
       "market": "US",
       "score": 0,
@@ -657,7 +564,7 @@
             "大型売却警戒": "10件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -2053,10 +1960,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "5件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
             {
@@ -2102,17 +2009,6 @@
               "price": 205.05,
               "value": 1402131,
               "label": "6,838株 @ $205.05 ($1,402,131)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-08",
-              "filing_date": "2026-09-10",
-              "actor": "Andreessen Marc L",
-              "title": "Insider",
-              "shares": 13676,
-              "price": 181.14,
-              "value": 2477259,
-              "label": "13,676株 @ $181.14 ($2,477,259)"
             }
           ]
         },
@@ -3233,6 +3129,87 @@
       "score_change": 0
     },
     {
+      "symbol": "UBER",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 71.51,
+      "prev_close": 71.08,
+      "vol_ratio": 0.92,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "大型売却警戒": "2件の$1M+売却"
+          },
+          "buy_count": 0,
+          "sell_count": 2,
+          "evidence": 40,
+          "events": [
+            {
+              "type": "SELL",
+              "date": "2026-09-15",
+              "filing_date": "2026-09-17",
+              "actor": "Uber Technologies, Inc",
+              "title": "Insider",
+              "shares": 29369611,
+              "price": 6.21,
+              "value": 182238436,
+              "label": "29,369,611株 @ $6.21 ($182,238,436)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-09-11",
+              "filing_date": "2026-09-15",
+              "actor": "Hazelbaker Jill",
+              "title": "See Remarks",
+              "shares": 28170,
+              "price": 71.31,
+              "value": 2008673,
+              "label": "28,170株 @ $71.31 ($2,008,673)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -15
+    },
+    {
       "symbol": "LYFT",
       "market": "US",
       "score": 0,
@@ -3710,11 +3687,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -3826,24 +3803,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-10",
-              "filing_date": "2026-09-10",
-              "actor": "Leopold Robin",
-              "title": "Head of Human Resources",
-              "shares": 2500,
-              "price": 352.81,
-              "value": 882026,
-              "label": "2,500株 @ $352.81 ($882,026)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4073,7 +4038,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": [
             {
@@ -4086,17 +4051,6 @@
               "price": 358.81,
               "value": 2108008,
               "label": "5,875株 @ $358.81 ($2,108,008)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-09",
-              "filing_date": "2026-09-10",
-              "actor": "ROTTENBERG JULIE B",
-              "title": "GENERAL COUNSEL",
-              "shares": 1867,
-              "price": 368.34,
-              "value": 687690,
-              "label": "1,867株 @ $368.34 ($687,690)"
             }
           ]
         },
@@ -6007,11 +5961,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 3,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
