@@ -1,158 +1,8 @@
 {
-  "generated_at": "2026-10-12T20:35:52.924520+09:00",
+  "generated_at": "2026-10-13T01:33:27.864397+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
-    {
-      "symbol": "9983",
-      "name": "ファーストリテイリング",
-      "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
-      "price": 0,
-      "prev_close": 9983.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 45,
-          "detail": {
-            "強気開示": "増配・配当変更",
-            "開示件数": "10件 (直近72h以内)"
-          },
-          "evidence": 95,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "決算短信",
-              "label": "2026年８月期 決算短信〔ＩＦＲＳ会計基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547647.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "増配・配当変更",
-              "label": "2026年８月期の配当予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547876.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "決算短信",
-              "label": "2026年８月期 決算短信〔ＩＦＲＳ会計基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547647.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "増配・配当変更",
-              "label": "2026年８月期の配当予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547876.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "決算短信",
-              "label": "2026年８月期 決算短信〔ＩＦＲＳ会計基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547647.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "増配・配当変更",
-              "label": "2026年８月期の配当予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547876.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "決算短信",
-              "label": "2026年８月期 決算短信〔ＩＦＲＳ会計基準〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547647.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "DIV_UP",
-              "date": "2026-10-08",
-              "filing_date": "2026-10-08 15:31:00",
-              "actor": "ファーストリテ",
-              "title": "増配・配当変更",
-              "label": "2026年８月期の配当予想の修正に関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261008547876.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -1509,6 +1359,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "9983",
+      "name": "ファーストリテイリング",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 9983.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -72
     },
     {
       "symbol": "7011",
