@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:33:27.864397+09:00",
+  "generated_at": "2026-10-13T11:56:24.268512+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -1417,7 +1417,7 @@
           "events": []
         }
       },
-      "score_change": -72
+      "score_change": 0
     },
     {
       "symbol": "7011",
@@ -3079,7 +3079,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
