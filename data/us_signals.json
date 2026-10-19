@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:42:37.450215+00:00",
+  "generated_at": "2026-10-19T02:18:05.928963+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -426,10 +426,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "8件の$1M+売却"
+            "大型売却警戒": "5件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -486,39 +486,6 @@
               "price": 220.42,
               "value": 2204199,
               "label": "10,000株 @ $220.42 ($2,204,199)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-17",
-              "filing_date": "2026-09-18",
-              "actor": "Kress Colette",
-              "title": "EVP &amp; Chief Financial Officer",
-              "shares": 4681,
-              "price": 218.01,
-              "value": 1020525,
-              "label": "4,681株 @ $218.01 ($1,020,525)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-17",
-              "filing_date": "2026-09-18",
-              "actor": "Kress Colette",
-              "title": "EVP &amp; Chief Financial Officer",
-              "shares": 20369,
-              "price": 219.02,
-              "value": 4461161,
-              "label": "20,369株 @ $219.02 ($4,461,161)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-17",
-              "filing_date": "2026-09-18",
-              "actor": "Kress Colette",
-              "title": "EVP &amp; Chief Financial Officer",
-              "shares": 9868,
-              "price": 219.59,
-              "value": 2166945,
-              "label": "9,868株 @ $219.59 ($2,166,945)"
             }
           ]
         },
@@ -634,7 +601,7 @@
             "大型売却警戒": "10件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -1177,68 +1144,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "3件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 9,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Norrod Forrest Eugene",
-              "title": "EVP &amp; GM DSG",
-              "shares": 1017,
-              "price": 500.67,
-              "value": 509181,
-              "label": "1,017株 @ $500.67 ($509,181)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Norrod Forrest Eugene",
-              "title": "EVP &amp; GM DSG",
-              "shares": 1655,
-              "price": 501.7,
-              "value": 830313,
-              "label": "1,655株 @ $501.70 ($830,313)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Norrod Forrest Eugene",
-              "title": "EVP &amp; GM DSG",
-              "shares": 5878,
-              "price": 502.45,
-              "value": 2953401,
-              "label": "5,878株 @ $502.45 ($2,953,401)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Norrod Forrest Eugene",
-              "title": "EVP &amp; GM DSG",
-              "shares": 4604,
-              "price": 504.0,
-              "value": 2320416,
-              "label": "4,604株 @ $504.00 ($2,320,416)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Norrod Forrest Eugene",
-              "title": "EVP &amp; GM DSG",
-              "shares": 2225,
-              "price": 505.12,
-              "value": 1123892,
-              "label": "2,225株 @ $505.12 ($1,123,892)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -1463,7 +1374,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 4,
           "evidence": 40,
           "events": [
             {
@@ -1487,28 +1398,6 @@
               "price": 201.15,
               "value": 3620700,
               "label": "18,000株 @ $201.15 ($3,620,700)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 3901,
-              "price": 171.09,
-              "value": 667413,
-              "label": "3,901株 @ $171.09 ($667,413)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Moore Alexander D.",
-              "title": "Insider",
-              "shares": 3990,
-              "price": 172.24,
-              "value": 687224,
-              "label": "3,990株 @ $172.24 ($687,224)"
             }
           ]
         },
@@ -1818,7 +1707,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 4,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -2992,7 +2881,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 10,
           "evidence": 40,
           "events": [
             {
@@ -3092,24 +2981,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-15",
-              "filing_date": "2026-09-17",
-              "actor": "Uber Technologies, Inc",
-              "title": "Insider",
-              "shares": 29369611,
-              "price": 6.21,
-              "value": 182238436,
-              "label": "29,369,611株 @ $6.21 ($182,238,436)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -5509,7 +5386,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 10,
+          "sell_count": 6,
           "evidence": 40,
           "events": [
             {
@@ -5544,28 +5421,6 @@
               "price": 115.0,
               "value": 575000,
               "label": "5,000株 @ $115.00 ($575,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-17",
-              "filing_date": "2026-09-18",
-              "actor": "Furner John R.",
-              "title": "President &amp; CEO",
-              "shares": 7080,
-              "price": 106.5,
-              "value": 754005,
-              "label": "7,080株 @ $106.50 ($754,005)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-17",
-              "filing_date": "2026-09-18",
-              "actor": "Furner John R.",
-              "title": "President &amp; CEO",
-              "shares": 6045,
-              "price": 106.84,
-              "value": 645871,
-              "label": "6,045株 @ $106.84 ($645,871)"
             }
           ]
         },
