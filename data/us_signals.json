@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:53:38.353042+00:00",
+  "generated_at": "2026-10-20T05:36:49.722937+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -717,7 +717,7 @@
       "tier_label": "LOW",
       "price": 533.52,
       "prev_close": 493.78,
-      "vol_ratio": 0.79,
+      "vol_ratio": 0.81,
       "signals": {
         "insider": {
           "active": false,
@@ -809,7 +809,7 @@
       "tier_label": "LOW",
       "price": 344.18,
       "prev_close": 349.54,
-      "vol_ratio": 0.77,
+      "vol_ratio": 0.8,
       "signals": {
         "insider": {
           "active": false,
@@ -867,7 +867,7 @@
       "tier_label": "LOW",
       "price": 705.44,
       "prev_close": 665.75,
-      "vol_ratio": 0.73,
+      "vol_ratio": 0.75,
       "signals": {
         "insider": {
           "active": false,
@@ -1036,7 +1036,7 @@
       "tier_label": "LOW",
       "price": 262.45,
       "prev_close": 253.71,
-      "vol_ratio": 1.49,
+      "vol_ratio": 1.52,
       "signals": {
         "insider": {
           "active": false,
@@ -1208,7 +1208,7 @@
       "tier_label": "LOW",
       "price": 334.59,
       "prev_close": 357.61,
-      "vol_ratio": 0.78,
+      "vol_ratio": 0.79,
       "signals": {
         "insider": {
           "active": false,
@@ -1377,7 +1377,7 @@
       "tier_label": "LOW",
       "price": 194.15,
       "prev_close": 177.64,
-      "vol_ratio": 1.02,
+      "vol_ratio": 1.03,
       "signals": {
         "insider": {
           "active": false,
@@ -1859,7 +1859,7 @@
       "tier_label": "LOW",
       "price": 168.45,
       "prev_close": 194.25,
-      "vol_ratio": 0.9,
+      "vol_ratio": 0.91,
       "signals": {
         "insider": {
           "active": false,
@@ -2456,6 +2456,28 @@
               "type": "SELL",
               "date": "2026-10-19",
               "filing_date": "2026-10-19",
+              "actor": "Ledbetter Carl",
+              "title": "Insider",
+              "shares": 1931,
+              "price": 303.64,
+              "value": 586320,
+              "label": "1,931株 @ $303.64 ($586,320)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-19",
+              "filing_date": "2026-10-19",
+              "actor": "Ledbetter Carl",
+              "title": "Insider",
+              "shares": 1963,
+              "price": 304.47,
+              "value": 597683,
+              "label": "1,963株 @ $304.47 ($597,683)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-19",
+              "filing_date": "2026-10-19",
               "actor": "SEIFERT THOMAS J",
               "title": "Chief Financial Officer",
               "shares": 3401,
@@ -2484,28 +2506,6 @@
               "price": 300.39,
               "value": 793934,
               "label": "2,643株 @ $300.39 ($793,934)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-19",
-              "filing_date": "2026-10-19",
-              "actor": "Ledbetter Carl",
-              "title": "Insider",
-              "shares": 1931,
-              "price": 303.64,
-              "value": 586320,
-              "label": "1,931株 @ $303.64 ($586,320)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-19",
-              "filing_date": "2026-10-19",
-              "actor": "Ledbetter Carl",
-              "title": "Insider",
-              "shares": 1963,
-              "price": 304.47,
-              "value": 597683,
-              "label": "1,963株 @ $304.47 ($597,683)"
             },
             {
               "type": "SELL",
@@ -3020,7 +3020,7 @@
       "tier_label": "LOW",
       "price": 69.96,
       "prev_close": 70.5,
-      "vol_ratio": 0.85,
+      "vol_ratio": 0.9,
       "signals": {
         "insider": {
           "active": false,
@@ -3728,7 +3728,7 @@
       "tier_label": "LOW",
       "price": 875.78,
       "prev_close": 942.0,
-      "vol_ratio": 1.09,
+      "vol_ratio": 1.1,
       "signals": {
         "insider": {
           "active": false,
@@ -3786,7 +3786,7 @@
       "tier_label": "LOW",
       "price": 178.47,
       "prev_close": 202.58,
-      "vol_ratio": 0.77,
+      "vol_ratio": 0.78,
       "signals": {
         "insider": {
           "active": false,
@@ -4100,7 +4100,7 @@
       "tier_label": "LOW",
       "price": 191.42,
       "prev_close": 198.2,
-      "vol_ratio": 0.65,
+      "vol_ratio": 0.66,
       "signals": {
         "insider": {
           "active": false,
@@ -4158,7 +4158,7 @@
       "tier_label": "LOW",
       "price": 725.79,
       "prev_close": 808.99,
-      "vol_ratio": 0.98,
+      "vol_ratio": 1.05,
       "signals": {
         "insider": {
           "active": false,
@@ -4680,7 +4680,7 @@
       "tier_label": "LOW",
       "price": 224.37,
       "prev_close": 209.51,
-      "vol_ratio": 1.23,
+      "vol_ratio": 1.25,
       "signals": {
         "insider": {
           "active": false,
@@ -4738,7 +4738,7 @@
       "tier_label": "LOW",
       "price": 62.72,
       "prev_close": 58.84,
-      "vol_ratio": 0.93,
+      "vol_ratio": 0.94,
       "signals": {
         "insider": {
           "active": false,
@@ -4970,7 +4970,7 @@
       "tier_label": "LOW",
       "price": 253.79,
       "prev_close": 269.99,
-      "vol_ratio": 1.17,
+      "vol_ratio": 1.2,
       "signals": {
         "insider": {
           "active": false,
@@ -5028,7 +5028,7 @@
       "tier_label": "LOW",
       "price": 29.44,
       "prev_close": 27.66,
-      "vol_ratio": 0.68,
+      "vol_ratio": 0.69,
       "signals": {
         "insider": {
           "active": false,
@@ -5260,7 +5260,7 @@
       "tier_label": "LOW",
       "price": 92.68,
       "prev_close": 88.84,
-      "vol_ratio": 0.56,
+      "vol_ratio": 0.57,
       "signals": {
         "insider": {
           "active": false,
@@ -5376,7 +5376,7 @@
       "tier_label": "LOW",
       "price": 282.68,
       "prev_close": 263.96,
-      "vol_ratio": 0.83,
+      "vol_ratio": 0.86,
       "signals": {
         "insider": {
           "active": false,
@@ -5850,7 +5850,7 @@
       "tier_label": "LOW",
       "price": 97.76,
       "prev_close": 98.06,
-      "vol_ratio": 0.74,
+      "vol_ratio": 0.75,
       "signals": {
         "insider": {
           "active": false,
@@ -5966,7 +5966,7 @@
       "tier_label": "LOW",
       "price": 242.67,
       "prev_close": 248.24,
-      "vol_ratio": 0.82,
+      "vol_ratio": 0.83,
       "signals": {
         "insider": {
           "active": false,
