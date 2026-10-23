@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:21:39.072088+00:00",
+  "generated_at": "2026-10-23T05:38:35.279966+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -783,7 +783,7 @@
       "tier_label": "LOW",
       "price": 521.08,
       "prev_close": 498.0,
-      "vol_ratio": 1.01,
+      "vol_ratio": 1.0,
       "signals": {
         "insider": {
           "active": false,
@@ -1036,7 +1036,7 @@
       "tier_label": "LOW",
       "price": 250.38,
       "prev_close": 254.98,
-      "vol_ratio": 1.34,
+      "vol_ratio": 1.33,
       "signals": {
         "insider": {
           "active": false,
@@ -1208,7 +1208,7 @@
       "tier_label": "LOW",
       "price": 323.24,
       "prev_close": 364.54,
-      "vol_ratio": 1.29,
+      "vol_ratio": 1.28,
       "signals": {
         "insider": {
           "active": false,
