@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:45:51.639767+00:00",
+  "generated_at": "2026-10-23T12:26:59.160595+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1865,12 +1865,34 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 5,
+          "sell_count": 7,
           "evidence": 40,
           "events": [
+            {
+              "type": "SELL",
+              "date": "2026-10-02",
+              "filing_date": "2026-10-05",
+              "actor": "Andreessen Marc L",
+              "title": "Insider",
+              "shares": 6838,
+              "price": 198.0,
+              "value": 1353924,
+              "label": "6,838株 @ $198.00 ($1,353,924)"
+            },
+            {
+              "type": "SELL",
+              "date": "2026-10-01",
+              "filing_date": "2026-10-05",
+              "actor": "Andreessen Marc L",
+              "title": "Insider",
+              "shares": 13676,
+              "price": 186.18,
+              "value": 2546197,
+              "label": "13,676株 @ $186.18 ($2,546,197)"
+            },
             {
               "type": "SELL",
               "date": "2026-09-21",
