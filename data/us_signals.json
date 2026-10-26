@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:56:55.877655+00:00",
+  "generated_at": "2026-10-26T02:13:22.586274+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1103,123 +1103,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "12件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 16,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 22624,
-              "price": 354.75,
-              "value": 8025864,
-              "label": "22,624株 @ $354.75 ($8,025,864)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 22946,
-              "price": 355.55,
-              "value": 8158450,
-              "label": "22,946株 @ $355.55 ($8,158,450)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 10058,
-              "price": 356.59,
-              "value": 3586582,
-              "label": "10,058株 @ $356.59 ($3,586,582)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 6959,
-              "price": 357.66,
-              "value": 2488955,
-              "label": "6,959株 @ $357.66 ($2,488,955)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 4560,
-              "price": 358.47,
-              "value": 1634623,
-              "label": "4,560株 @ $358.47 ($1,634,623)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 2162,
-              "price": 359.48,
-              "value": 777195,
-              "label": "2,162株 @ $359.48 ($777,195)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 186809,
-              "price": 354.71,
-              "value": 66263020,
-              "label": "186,809株 @ $354.71 ($66,263,020)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 230031,
-              "price": 355.5,
-              "value": 81776020,
-              "label": "230,031株 @ $355.50 ($81,776,020)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 85221,
-              "price": 356.58,
-              "value": 30388104,
-              "label": "85,221株 @ $356.58 ($30,388,104)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "SAMUELI HENRY",
-              "title": "Insider",
-              "shares": 50998,
-              "price": 357.52,
-              "value": 18232804,
-              "label": "50,998株 @ $357.52 ($18,232,804)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -2482,10 +2371,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "4件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 17,
+          "sell_count": 9,
           "evidence": 40,
           "events": [
             {
@@ -2553,50 +2442,6 @@
               "price": 276.23,
               "value": 627592,
               "label": "2,272株 @ $276.23 ($627,592)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "Le-Quoc Alexis",
-              "title": "Chief Technology Officer",
-              "shares": 22007,
-              "price": 251.45,
-              "value": 5533567,
-              "label": "22,007株 @ $251.45 ($5,533,567)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "Le-Quoc Alexis",
-              "title": "Chief Technology Officer",
-              "shares": 9633,
-              "price": 252.36,
-              "value": 2430952,
-              "label": "9,633株 @ $252.36 ($2,430,952)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "Le-Quoc Alexis",
-              "title": "Chief Technology Officer",
-              "shares": 5347,
-              "price": 253.32,
-              "value": 1354514,
-              "label": "5,347株 @ $253.32 ($1,354,514)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-09-23",
-              "filing_date": "2026-09-25",
-              "actor": "Le-Quoc Alexis",
-              "title": "Chief Technology Officer",
-              "shares": 2000,
-              "price": 254.35,
-              "value": 508699,
-              "label": "2,000株 @ $254.35 ($508,699)"
             }
           ]
         },
@@ -2951,11 +2796,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -3290,21 +3135,9 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 9,
+          "sell_count": 8,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-09-25",
-              "filing_date": "2026-09-25",
-              "actor": "AMON CRISTIANO R",
-              "title": "President &amp; CEO",
-              "shares": 10000,
-              "price": 200.0,
-              "value": 2000000,
-              "label": "10,000株 @ $200.00 ($2,000,000)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
