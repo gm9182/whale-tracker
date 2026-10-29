@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:32:00.631810+09:00",
+  "generated_at": "2026-10-29T16:55:58.256500+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -27,7 +27,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近43h以内)"
+            "開示件数": "5件 (直近49h以内)"
           },
           "evidence": 69,
           "events": [
@@ -120,6 +120,122 @@
       "score_change": 0
     },
     {
+      "symbol": "6501",
+      "name": "日立製作所",
+      "market": "JP",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6501.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 19,
+          "detail": {
+            "開示件数": "5件 (直近25h以内)"
+          },
+          "evidence": 69,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "日立",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期 (中間期) 決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557937.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "日立",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期 (中間期) 決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557937.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "日立",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期 (中間期) 決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557937.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "日立",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期 (中間期) 決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557937.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "日立",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期 (中間期) 決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557937.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 30
+    },
+    {
       "symbol": "4519",
       "name": "中外製薬",
       "market": "JP",
@@ -143,7 +259,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近42h以内)"
+            "開示件数": "5件 (直近48h以内)"
           },
           "evidence": 69,
           "events": [
@@ -234,6 +350,354 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "6857",
+      "name": "アドバンテスト",
+      "market": "JP",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6857.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 19,
+          "detail": {
+            "開示件数": "5件 (直近25h以内)"
+          },
+          "evidence": 69,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "アドバンテス",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557599.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "アドバンテス",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557599.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "アドバンテス",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557599.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "アドバンテス",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557599.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "アドバンテス",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕(連結)",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557599.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 30
+    },
+    {
+      "symbol": "6526",
+      "name": "ソシオネクスト",
+      "market": "JP",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6526.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 19,
+          "detail": {
+            "開示件数": "5件 (直近25h以内)"
+          },
+          "evidence": 69,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ソシオネクスト",
+              "title": "決算短信",
+              "label": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557383.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ソシオネクスト",
+              "title": "決算短信",
+              "label": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557383.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ソシオネクスト",
+              "title": "決算短信",
+              "label": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557383.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ソシオネクスト",
+              "title": "決算短信",
+              "label": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557383.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ソシオネクスト",
+              "title": "決算短信",
+              "label": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261028557383.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 30
+    },
+    {
+      "symbol": "6701",
+      "name": "NEC",
+      "market": "JP",
+      "score": 30,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6701.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": true,
+          "score": 19,
+          "detail": {
+            "開示件数": "5件 (直近25h以内)"
+          },
+          "evidence": 69,
+          "events": [
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ＮＥＣ",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261027556514.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ＮＥＣ",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261027556514.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ＮＥＣ",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261027556514.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ＮＥＣ",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261027556514.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            },
+            {
+              "type": "EARNINGS",
+              "date": "2026-10-28",
+              "filing_date": "2026-10-28 15:30:00",
+              "actor": "ＮＥＣ",
+              "title": "決算短信",
+              "label": "2027年3月期 第2四半期（中間期）決算短信〔IFRS〕（連結）",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261027556514.pdf",
+              "is_bullish": false,
+              "is_bearish": false
+            }
+          ],
+          "direction": "bullish"
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": 30
     },
     {
       "symbol": "7203",
@@ -1180,65 +1644,6 @@
       "score_change": 0
     },
     {
-      "symbol": "6501",
-      "name": "日立製作所",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6501.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "8001",
       "name": "伊藤忠商事",
       "market": "JP",
@@ -1888,65 +2293,6 @@
       "score_change": 0
     },
     {
-      "symbol": "6857",
-      "name": "アドバンテスト",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6857.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
       "symbol": "9101",
       "name": "日本郵船",
       "market": "JP",
@@ -2073,65 +2419,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 5803.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6526",
-      "name": "ソシオネクスト",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6526.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -2722,65 +3009,6 @@
       "tier_label": "LOW",
       "price": 0,
       "prev_close": 6963.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "適時開示なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6701",
-      "name": "NEC",
-      "market": "JP",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 6701.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
