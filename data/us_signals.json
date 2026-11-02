@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T00:39:37.085626+00:00",
+  "generated_at": "2026-11-02T03:13:27.644231+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -795,7 +795,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -1541,7 +1541,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 2,
+          "sell_count": 1,
           "evidence": 40,
           "events": []
         },
@@ -1952,10 +1952,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "14件の$1M+売却"
+            "大型売却警戒": "12件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 19,
+          "sell_count": 12,
           "evidence": 40,
           "events": [
             {
@@ -3179,7 +3179,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 8,
+          "sell_count": 7,
           "evidence": 40,
           "events": []
         },
@@ -3617,24 +3617,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-10-01",
-              "filing_date": "2026-10-02",
-              "actor": "MCINERNEY RYAN",
-              "title": "Chief Executive Officer",
-              "shares": 5875,
-              "price": 358.81,
-              "value": 2108008,
-              "label": "5,875株 @ $358.81 ($2,108,008)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -4302,11 +4290,11 @@
           "active": false,
           "score": 0,
           "detail": {
-            "event": "シグナルなし"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 1,
-          "evidence": 40,
+          "sell_count": 0,
           "events": []
         },
         "filing13d": {
@@ -5290,7 +5278,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
@@ -5731,7 +5719,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 103.67,
+      "price": 103.65,
       "prev_close": 95.43,
       "vol_ratio": 1.5,
       "signals": {
