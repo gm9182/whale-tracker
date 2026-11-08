@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:06:54.128414+09:00",
+  "generated_at": "2026-11-08T10:08:14.888396+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -145,7 +145,7 @@
           "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "10件 (直近25h以内)"
+            "開示件数": "10件 (直近42h以内)"
           },
           "evidence": 95,
           "events": [
@@ -678,7 +678,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近50h以内)"
+            "開示件数": "5件 (直近67h以内)"
           },
           "evidence": 69,
           "events": [
@@ -3551,7 +3551,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
@@ -3568,7 +3568,7 @@
           "score": -26,
           "detail": {
             "弱気開示": "第三者割当(希薄化)",
-            "開示件数": "10件 (直近50h以内)"
+            "開示件数": "10件 (直近67h以内)"
           },
           "evidence": 76,
           "events": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:03:26.144658+00:00",
+  "generated_at": "2026-11-08T01:03:52.892437+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -149,175 +149,6 @@
               "price": 173.03,
               "value": 510426,
               "label": "2,950株 @ $173.03 ($510,426)"
-            }
-          ]
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "TSM",
-      "market": "US",
-      "score": 38,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 375.44,
-      "prev_close": 482.3,
-      "vol_ratio": 1.69,
-      "signals": {
-        "insider": {
-          "active": true,
-          "score": 25,
-          "detail": {
-            "クラスターバイ": "14名が直近期間に買付"
-          },
-          "buy_count": 16,
-          "sell_count": 0,
-          "evidence": 65,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-11-01",
-              "filing_date": "2026-11-03",
-              "actor": "Yuan Lipen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 71.49,
-              "value": 71490,
-              "label": "1,000株 @ $71.49 ($71,490)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Yuan Lipen",
-              "title": "VP",
-              "shares": 40,
-              "price": 79.39,
-              "value": 3175,
-              "label": "40株 @ $79.39 ($3,175)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Yeap Choh Fei",
-              "title": "SVP",
-              "shares": 52,
-              "price": 79.39,
-              "value": 4128,
-              "label": "52株 @ $79.39 ($4,128)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Zhang Kevin Xiaoqiang",
-              "title": "SVP and Deputy Co-COO",
-              "shares": 59,
-              "price": 79.39,
-              "value": 4684,
-              "label": "59株 @ $79.39 ($4,684)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Yoo Chue-San",
-              "title": "VP",
-              "shares": 50,
-              "price": 79.39,
-              "value": 3969,
-              "label": "50株 @ $79.39 ($3,969)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Wu Shien-Yang",
-              "title": "SVP",
-              "shares": 53,
-              "price": 79.39,
-              "value": 4207,
-              "label": "53株 @ $79.39 ($4,207)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Wei Che-Chia",
-              "title": "Chairman and CEO",
-              "shares": 144,
-              "price": 79.39,
-              "value": 11432,
-              "label": "144株 @ $79.39 ($11,432)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Wu Yi-Huang",
-              "title": "VP",
-              "shares": 39,
-              "price": 79.39,
-              "value": 3096,
-              "label": "39株 @ $79.39 ($3,096)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Wang Ying-Lang",
-              "title": "SVP",
-              "shares": 52,
-              "price": 79.39,
-              "value": 4128,
-              "label": "52株 @ $79.39 ($4,128)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-08",
-              "actor": "Mii Yuh-Jier",
-              "title": "EVP and Co-COO",
-              "shares": 68,
-              "price": 79.39,
-              "value": 5398,
-              "label": "68株 @ $79.39 ($5,398)"
             }
           ]
         },
@@ -782,7 +613,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -828,17 +659,6 @@
               "price": 345.0,
               "value": 827655,
               "label": "2,399株 @ $345.00 ($827,655)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-06",
-              "filing_date": "2026-10-08",
-              "actor": "Newstead Jennifer",
-              "title": "SVP, GC and Government Affairs",
-              "shares": 2399,
-              "price": 332.01,
-              "value": 796491,
-              "label": "2,399株 @ $332.01 ($796,491)"
             }
           ]
         },
@@ -2243,10 +2063,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "14件の$1M+売却"
+            "大型売却警戒": "13件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 14,
+          "sell_count": 13,
           "evidence": 40,
           "events": [
             {
@@ -3466,6 +3286,76 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "TSM",
+      "market": "US",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 375.44,
+      "prev_close": 482.3,
+      "vol_ratio": 1.69,
+      "signals": {
+        "insider": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "シグナルなし"
+          },
+          "buy_count": 1,
+          "sell_count": 0,
+          "evidence": 40,
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-11-01",
+              "filing_date": "2026-11-03",
+              "actor": "Yuan Lipen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 71.49,
+              "value": 71490,
+              "label": "1,000株 @ $71.49 ($71,490)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": -38
     },
     {
       "symbol": "NFLX",
