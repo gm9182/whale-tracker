@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:03:52.892437+00:00",
+  "generated_at": "2026-11-09T03:33:18.573367+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -2427,10 +2427,10 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "7件の$1M+売却"
+            "大型売却警戒": "3件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 18,
+          "sell_count": 9,
           "evidence": 40,
           "events": [
             {
@@ -2520,28 +2520,6 @@
               "price": 283.44,
               "value": 765300,
               "label": "2,700株 @ $283.44 ($765,300)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-09",
-              "actor": "Le-Quoc Alexis",
-              "title": "Chief Technology Officer",
-              "shares": 18609,
-              "price": 271.4,
-              "value": 5050396,
-              "label": "18,609株 @ $271.40 ($5,050,396)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-09",
-              "actor": "Le-Quoc Alexis",
-              "title": "Chief Technology Officer",
-              "shares": 5338,
-              "price": 272.25,
-              "value": 1453285,
-              "label": "5,338株 @ $272.25 ($1,453,285)"
             }
           ]
         },
@@ -2965,35 +2943,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "直近期間にシグナルなし"
           },
+          "evidence": 0,
           "buy_count": 0,
-          "sell_count": 2,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-09",
-              "actor": "Liu Liang Chiu-Chu Sara",
-              "title": "Insider",
-              "shares": 100000,
-              "price": 45.02,
-              "value": 4502000,
-              "label": "100,000株 @ $45.02 ($4,502,000)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-07",
-              "filing_date": "2026-10-09",
-              "actor": "Liang Charles",
-              "title": "President and CEO",
-              "shares": 100000,
-              "price": 45.02,
-              "value": 4502000,
-              "label": "100,000株 @ $45.02 ($4,502,000)"
-            }
-          ]
+          "sell_count": 0,
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -3355,7 +3310,7 @@
           "evidence": 0
         }
       },
-      "score_change": -38
+      "score_change": 0
     },
     {
       "symbol": "NFLX",
@@ -3466,7 +3421,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 6,
+          "sell_count": 5,
           "evidence": 40,
           "events": [
             {
