@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:33:18.573367+00:00",
+  "generated_at": "2026-11-09T12:24:11.553431+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -188,6 +188,87 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "TSM",
+      "market": "US",
+      "score": 38,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 375.44,
+      "prev_close": 482.3,
+      "vol_ratio": 1.69,
+      "signals": {
+        "insider": {
+          "active": true,
+          "score": 25,
+          "detail": {
+            "クラスターバイ": "2名が直近期間に買付"
+          },
+          "buy_count": 2,
+          "sell_count": 0,
+          "evidence": 65,
+          "events": [
+            {
+              "type": "BUY",
+              "date": "2026-11-05",
+              "filing_date": "2026-11-09",
+              "actor": "SPLINTER MICHAEL R",
+              "title": "Director",
+              "shares": 840,
+              "price": 357.0,
+              "value": 299880,
+              "label": "840株 @ $357.00 ($299,880)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-01",
+              "filing_date": "2026-11-03",
+              "actor": "Yuan Lipen",
+              "title": "VP",
+              "shares": 1000,
+              "price": 71.49,
+              "value": 71490,
+              "label": "1,000株 @ $71.49 ($71,490)"
+            }
+          ]
+        },
+        "filing13d": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に5%超保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "options": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "オプション異常出来高なし"
+          },
+          "evidence": 0,
+          "events": [],
+          "sweep_signals": []
+        },
+        "darkpool": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "ダークプール特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "filing13f": {
+          "active": false,
+          "score": 0,
+          "detail": {},
+          "evidence": 0
+        }
+      },
+      "score_change": 38
     },
     {
       "symbol": "INTC",
@@ -3204,76 +3285,6 @@
           "buy_count": 0,
           "sell_count": 0,
           "events": []
-        },
-        "filing13d": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に5%超保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "options": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "オプション異常出来高なし"
-          },
-          "evidence": 0,
-          "events": [],
-          "sweep_signals": []
-        },
-        "darkpool": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "ダークプール特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "filing13f": {
-          "active": false,
-          "score": 0,
-          "detail": {},
-          "evidence": 0
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "TSM",
-      "market": "US",
-      "score": 0,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 375.44,
-      "prev_close": 482.3,
-      "vol_ratio": 1.69,
-      "signals": {
-        "insider": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "シグナルなし"
-          },
-          "buy_count": 1,
-          "sell_count": 0,
-          "evidence": 40,
-          "events": [
-            {
-              "type": "BUY",
-              "date": "2026-11-01",
-              "filing_date": "2026-11-03",
-              "actor": "Yuan Lipen",
-              "title": "VP",
-              "shares": 1000,
-              "price": 71.49,
-              "value": 71490,
-              "label": "1,000株 @ $71.49 ($71,490)"
-            }
-          ]
         },
         "filing13d": {
           "active": false,
