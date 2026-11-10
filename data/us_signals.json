@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:58:55.778188+00:00",
+  "generated_at": "2026-11-10T12:01:46.807596+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -203,33 +203,121 @@
           "active": true,
           "score": 25,
           "detail": {
-            "クラスターバイ": "2名が直近期間に買付"
+            "クラスターバイ": "15名が直近期間に買付"
           },
-          "buy_count": 2,
+          "buy_count": 16,
           "sell_count": 0,
           "evidence": 65,
           "events": [
             {
               "type": "BUY",
-              "date": "2026-11-05",
-              "filing_date": "2026-11-09",
-              "actor": "SPLINTER MICHAEL R",
-              "title": "Director",
-              "shares": 840,
-              "price": 357.0,
-              "value": 299880,
-              "label": "840株 @ $357.00 ($299,880)"
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Wu Shien-Yang",
+              "title": "SVP",
+              "shares": 59,
+              "price": 70.5,
+              "value": 4159,
+              "label": "59株 @ $70.50 ($4,159)"
             },
             {
               "type": "BUY",
-              "date": "2026-11-01",
-              "filing_date": "2026-11-03",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Yoo Chue-San",
+              "title": "VP",
+              "shares": 54,
+              "price": 70.5,
+              "value": 3807,
+              "label": "54株 @ $70.50 ($3,807)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Yeap Choh Fei",
+              "title": "SVP",
+              "shares": 57,
+              "price": 70.5,
+              "value": 4018,
+              "label": "57株 @ $70.50 ($4,018)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Zhang Kevin Xiaoqiang",
+              "title": "SVP and Deputy Co-COO",
+              "shares": 65,
+              "price": 70.5,
+              "value": 4582,
+              "label": "65株 @ $70.50 ($4,582)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Wu Yi-Huang",
+              "title": "VP",
+              "shares": 41,
+              "price": 70.5,
+              "value": 2890,
+              "label": "41株 @ $70.50 ($2,890)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
               "actor": "Yuan Lipen",
               "title": "VP",
-              "shares": 1000,
-              "price": 71.49,
-              "value": 71490,
-              "label": "1,000株 @ $71.49 ($71,490)"
+              "shares": 43,
+              "price": 70.5,
+              "value": 3031,
+              "label": "43株 @ $70.50 ($3,031)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 43,
+              "price": 70.5,
+              "value": 3031,
+              "label": "43株 @ $70.50 ($3,031)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Tien Bor-Zen",
+              "title": "VP",
+              "shares": 6,
+              "price": 70.5,
+              "value": 423,
+              "label": "6株 @ $70.50 ($423)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Lin Chris Horng-Dar",
+              "title": "VP and CIO",
+              "shares": 50,
+              "price": 70.5,
+              "value": 3525,
+              "label": "50株 @ $70.50 ($3,525)"
+            },
+            {
+              "type": "BUY",
+              "date": "2026-11-06",
+              "filing_date": "2026-11-10",
+              "actor": "Hwang Yuan-Ko",
+              "title": "VP",
+              "shares": 41,
+              "price": 70.5,
+              "value": 2890,
+              "label": "41株 @ $70.50 ($2,890)"
             }
           ]
         },
