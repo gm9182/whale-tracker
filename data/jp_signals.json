@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:25:31.694064+09:00",
+  "generated_at": "2026-11-13T19:26:48.238760+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -261,7 +261,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近44h以内)"
+            "開示件数": "5件 (直近52h以内)"
           },
           "evidence": 69,
           "events": [
@@ -3311,7 +3311,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
