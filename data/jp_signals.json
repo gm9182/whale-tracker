@@ -1,242 +1,8 @@
 {
-  "generated_at": "2026-11-13T19:26:48.238760+09:00",
+  "generated_at": "2026-11-14T00:14:07.298853+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
-    {
-      "symbol": "4063",
-      "name": "信越化学工業",
-      "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
-      "price": 0,
-      "prev_close": 4063.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 45,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "5件 (直近72h以内)"
-          },
-          "evidence": 95,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 15:30:00",
-              "actor": "信越化",
-              "title": "自社株買い",
-              "label": "コミットメント型自己株式取得（FCSR）における事後調整完了のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109568958.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 15:30:00",
-              "actor": "信越化",
-              "title": "自社株買い",
-              "label": "コミットメント型自己株式取得（FCSR）における事後調整完了のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109568958.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 15:30:00",
-              "actor": "信越化",
-              "title": "自社株買い",
-              "label": "コミットメント型自己株式取得（FCSR）における事後調整完了のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109568958.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 15:30:00",
-              "actor": "信越化",
-              "title": "自社株買い",
-              "label": "コミットメント型自己株式取得（FCSR）における事後調整完了のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109568958.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 15:30:00",
-              "actor": "信越化",
-              "title": "自社株買い",
-              "label": "コミットメント型自己株式取得（FCSR）における事後調整完了のお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109568958.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
-    {
-      "symbol": "6701",
-      "name": "NEC",
-      "market": "JP",
-      "score": 72,
-      "tier": "watch",
-      "tier_label": "⭐ WATCH",
-      "price": 0,
-      "prev_close": 6701.0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 45,
-          "detail": {
-            "強気開示": "自社株買い",
-            "開示件数": "5件 (直近72h以内)"
-          },
-          "evidence": 95,
-          "events": [
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 16:30:00",
-              "actor": "ＮＥＣ",
-              "title": "自社株買い",
-              "label": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109569629.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 16:30:00",
-              "actor": "ＮＥＣ",
-              "title": "自社株買い",
-              "label": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109569629.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 16:30:00",
-              "actor": "ＮＥＣ",
-              "title": "自社株買い",
-              "label": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109569629.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 16:30:00",
-              "actor": "ＮＥＣ",
-              "title": "自社株買い",
-              "label": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109569629.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            },
-            {
-              "type": "BUYBACK",
-              "date": "2026-11-09",
-              "filing_date": "2026-11-09 16:30:00",
-              "actor": "ＮＥＣ",
-              "title": "自社株買い",
-              "label": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261109569629.pdf",
-              "is_bullish": true,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "9519",
       "name": "レノバ",
@@ -261,7 +27,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近52h以内)"
+            "開示件数": "5件 (直近56h以内)"
           },
           "evidence": 69,
           "events": [
@@ -883,6 +649,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "4063",
+      "name": "信越化学工業",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 4063.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -72
     },
     {
       "symbol": "6098",
@@ -2948,6 +2773,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "6701",
+      "name": "NEC",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 6701.0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -72
     },
     {
       "symbol": "6702",
