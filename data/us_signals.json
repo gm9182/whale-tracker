@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:21:32.707041+00:00",
+  "generated_at": "2026-11-15T01:32:13.953869+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -964,7 +964,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 15,
+          "sell_count": 14,
           "evidence": 40,
           "events": [
             {
@@ -1010,17 +1010,6 @@
               "price": 339.62,
               "value": 814748,
               "label": "2,399株 @ $339.62 ($814,748)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-13",
-              "filing_date": "2026-10-15",
-              "actor": "Newstead Jennifer",
-              "title": "SVP, GC and Government Affairs",
-              "shares": 2399,
-              "price": 345.0,
-              "value": 827655,
-              "label": "2,399株 @ $345.00 ($827,655)"
             }
           ]
         },
@@ -1843,7 +1832,7 @@
             "大型売却警戒": "2件の$1M+売却"
           },
           "buy_count": 0,
-          "sell_count": 20,
+          "sell_count": 11,
           "evidence": 40,
           "events": [
             {
@@ -1900,28 +1889,6 @@
               "price": 152.82,
               "value": 871226,
               "label": "5,701株 @ $152.82 ($871,226)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-13",
-              "filing_date": "2026-10-15",
-              "actor": "Huffman Steve Ladd",
-              "title": "CEO &amp; President",
-              "shares": 3408,
-              "price": 155.33,
-              "value": 529364,
-              "label": "3,408株 @ $155.33 ($529,364)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-13",
-              "filing_date": "2026-10-15",
-              "actor": "Huffman Steve Ladd",
-              "title": "CEO &amp; President",
-              "shares": 4200,
-              "price": 157.61,
-              "value": 661962,
-              "label": "4,200株 @ $157.61 ($661,962)"
             }
           ]
         },
@@ -3466,7 +3433,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 31,
+          "sell_count": 3,
           "evidence": 40,
           "events": [
             {
@@ -3479,17 +3446,6 @@
               "price": 900.0,
               "value": 25599600,
               "label": "28,444株 @ $900.00 ($25,599,600)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-14",
-              "filing_date": "2026-10-15",
-              "actor": "RAY MICHAEL CHARLES",
-              "title": "SVP, Chief Legal Officer",
-              "shares": 560,
-              "price": 939.78,
-              "value": 526276,
-              "label": "560株 @ $939.78 ($526,276)"
             }
           ]
         },
