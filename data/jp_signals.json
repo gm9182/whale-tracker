@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:21:59.894591+09:00",
+  "generated_at": "2026-11-17T01:58:15.754137+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -27,7 +27,7 @@
           "active": true,
           "score": 25,
           "detail": {
-            "開示件数": "5件 (直近4h以内)"
+            "開示件数": "5件 (直近9h以内)"
           },
           "evidence": 75,
           "events": [
@@ -117,7 +117,7 @@
           "events": []
         }
       },
-      "score_change": 40
+      "score_change": 0
     },
     {
       "symbol": "7203",
@@ -3136,7 +3136,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 0,
+      "prev_close": 4475.0,
       "change_pct": 0,
       "signals": {
         "holdings": {
