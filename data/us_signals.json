@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:32:13.953869+00:00",
+  "generated_at": "2026-11-16T03:41:20.852235+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -1829,68 +1829,12 @@
           "active": false,
           "score": 0,
           "detail": {
-            "大型売却警戒": "2件の$1M+売却"
+            "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 11,
+          "sell_count": 3,
           "evidence": 40,
-          "events": [
-            {
-              "type": "SELL",
-              "date": "2026-10-14",
-              "filing_date": "2026-10-16",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 26105,
-              "price": 148.86,
-              "value": 3885990,
-              "label": "26,105株 @ $148.86 ($3,885,990)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-14",
-              "filing_date": "2026-10-16",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 6399,
-              "price": 150.08,
-              "value": 960361,
-              "label": "6,399株 @ $150.08 ($960,361)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-14",
-              "filing_date": "2026-10-16",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 11200,
-              "price": 150.87,
-              "value": 1689744,
-              "label": "11,200株 @ $150.87 ($1,689,744)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-14",
-              "filing_date": "2026-10-16",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 5495,
-              "price": 152.14,
-              "value": 836009,
-              "label": "5,495株 @ $152.14 ($836,009)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-14",
-              "filing_date": "2026-10-16",
-              "actor": "Wong Jennifer L.",
-              "title": "Chief Operating Officer",
-              "shares": 5701,
-              "price": 152.82,
-              "value": 871226,
-              "label": "5,701株 @ $152.82 ($871,226)"
-            }
-          ]
+          "events": []
         },
         "filing13d": {
           "active": false,
@@ -3503,7 +3447,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 10,
+          "sell_count": 9,
           "evidence": 40,
           "events": [
             {
@@ -5722,7 +5666,7 @@
             "event": "シグナルなし"
           },
           "buy_count": 0,
-          "sell_count": 7,
+          "sell_count": 2,
           "evidence": 40,
           "events": [
             {
@@ -5735,39 +5679,6 @@
               "price": 123.21,
               "value": 20494997,
               "label": "166,342株 @ $123.21 ($20,494,997)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-15",
-              "filing_date": "2026-10-16",
-              "actor": "Furner John R.",
-              "title": "President &amp; CEO",
-              "shares": 7089,
-              "price": 120.33,
-              "value": 852994,
-              "label": "7,089株 @ $120.33 ($852,994)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-15",
-              "filing_date": "2026-10-16",
-              "actor": "Furner John R.",
-              "title": "President &amp; CEO",
-              "shares": 6036,
-              "price": 120.93,
-              "value": 729906,
-              "label": "6,036株 @ $120.93 ($729,906)"
-            },
-            {
-              "type": "SELL",
-              "date": "2026-10-14",
-              "filing_date": "2026-10-16",
-              "actor": "Watkins Latriece",
-              "title": "Executive Vice President",
-              "shares": 5000,
-              "price": 115.0,
-              "value": 575000,
-              "label": "5,000株 @ $115.00 ($575,000)"
             }
           ]
         },

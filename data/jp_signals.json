@@ -1,124 +1,8 @@
 {
-  "generated_at": "2026-11-15T10:36:32.971898+09:00",
+  "generated_at": "2026-11-16T12:44:45.318215+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
-    {
-      "symbol": "9519",
-      "name": "レノバ",
-      "market": "JP",
-      "score": 19,
-      "tier": "low",
-      "tier_label": "LOW",
-      "price": 0,
-      "prev_close": 0,
-      "change_pct": 0,
-      "signals": {
-        "holdings": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "直近期間に大量保有報告なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "tdnet": {
-          "active": true,
-          "score": 12,
-          "detail": {
-            "開示件数": "5件 (直近72h以内)"
-          },
-          "evidence": 62,
-          "events": [
-            {
-              "type": "EARNINGS",
-              "date": "2026-11-11",
-              "filing_date": "2026-11-11 15:45:00",
-              "actor": "レノバ",
-              "title": "決算短信",
-              "label": "2027年3月期第2四半期（中間期）決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261110571861.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-11-11",
-              "filing_date": "2026-11-11 15:45:00",
-              "actor": "レノバ",
-              "title": "決算短信",
-              "label": "2027年3月期第2四半期（中間期）決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261110571861.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-11-11",
-              "filing_date": "2026-11-11 15:45:00",
-              "actor": "レノバ",
-              "title": "決算短信",
-              "label": "2027年3月期第2四半期（中間期）決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261110571861.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-11-11",
-              "filing_date": "2026-11-11 15:45:00",
-              "actor": "レノバ",
-              "title": "決算短信",
-              "label": "2027年3月期第2四半期（中間期）決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261110571861.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            },
-            {
-              "type": "EARNINGS",
-              "date": "2026-11-11",
-              "filing_date": "2026-11-11 15:45:00",
-              "actor": "レノバ",
-              "title": "決算短信",
-              "label": "2027年3月期第2四半期（中間期）決算短信〔IFRS〕（連結）",
-              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261110571861.pdf",
-              "is_bullish": false,
-              "is_bearish": false
-            }
-          ],
-          "direction": "bullish"
-        },
-        "volume": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "出来高に特異性なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "short": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "空売り残高0.5%超なし"
-          },
-          "evidence": 0,
-          "events": []
-        },
-        "margin": {
-          "active": false,
-          "score": 0,
-          "detail": {
-            "event": "信用残データなし"
-          },
-          "evidence": 0,
-          "events": []
-        }
-      },
-      "score_change": 0
-    },
     {
       "symbol": "7203",
       "name": "トヨタ自動車",
@@ -3304,6 +3188,65 @@
         }
       },
       "score_change": 0
+    },
+    {
+      "symbol": "9519",
+      "name": "レノバ",
+      "market": "JP",
+      "score": 0,
+      "tier": "low",
+      "tier_label": "LOW",
+      "price": 0,
+      "prev_close": 0,
+      "change_pct": 0,
+      "signals": {
+        "holdings": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "直近期間に大量保有報告なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "tdnet": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "適時開示なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "volume": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "出来高に特異性なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "short": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "空売り残高0.5%超なし"
+          },
+          "evidence": 0,
+          "events": []
+        },
+        "margin": {
+          "active": false,
+          "score": 0,
+          "detail": {
+            "event": "信用残データなし"
+          },
+          "evidence": 0,
+          "events": []
+        }
+      },
+      "score_change": -19
     },
     {
       "symbol": "5401",
