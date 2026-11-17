@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:21:42.606479+00:00",
+  "generated_at": "2026-11-17T14:04:51.844521+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -128,7 +128,7 @@
           "evidence": 0
         }
       },
-      "score_change": 38
+      "score_change": 0
     },
     {
       "symbol": "BA",
@@ -650,7 +650,7 @@
       "score": 30,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 55.47,
+      "price": 55.442,
       "prev_close": 89.85,
       "vol_ratio": 0.72,
       "signals": {
@@ -3552,7 +3552,7 @@
       "score": 0,
       "tier": "low",
       "tier_label": "LOW",
-      "price": 1406.79,
+      "price": 1406.785,
       "prev_close": 1641.52,
       "vol_ratio": 0.95,
       "signals": {
