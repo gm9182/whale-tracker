@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:36:07.710323+09:00",
+  "generated_at": "2026-11-19T01:17:51.215714+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近35h以内)"
+            "開示件数": "1件 (直近38h以内)"
           },
           "evidence": 72,
           "events": [
@@ -100,7 +100,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近53h以内)"
+            "開示件数": "5件 (直近56h以内)"
           },
           "evidence": 69,
           "events": [
@@ -216,7 +216,7 @@
           "active": true,
           "score": 8,
           "detail": {
-            "開示件数": "1件 (直近30h以内)"
+            "開示件数": "1件 (直近34h以内)"
           },
           "evidence": 58,
           "events": [
@@ -262,7 +262,7 @@
           "events": []
         }
       },
-      "score_change": -3
+      "score_change": 0
     },
     {
       "symbol": "7203",
