@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:19:55.259772+00:00",
+  "generated_at": "2026-11-18T12:32:12.078718+00:00",
   "market": "US",
   "total": 77,
   "tickers": [
@@ -308,7 +308,7 @@
     {
       "symbol": "TSM",
       "market": "US",
-      "score": 38,
+      "score": 45,
       "tier": "low",
       "tier_label": "LOW",
       "price": 359.69,
@@ -317,14 +317,26 @@
       "signals": {
         "insider": {
           "active": true,
-          "score": 25,
+          "score": 30,
           "detail": {
-            "クラスターバイ": "15名が直近期間に買付"
+            "クラスターバイ": "15名が直近期間に買付",
+            "最大買付": "Insider: $500,039"
           },
           "buy_count": 16,
           "sell_count": 0,
-          "evidence": 65,
+          "evidence": 70,
           "events": [
+            {
+              "type": "BUY",
+              "date": "2026-11-17",
+              "filing_date": "2026-11-18",
+              "actor": "BURNS URSULA M",
+              "title": "Director",
+              "shares": 1375,
+              "price": 363.67,
+              "value": 500039,
+              "label": "1,375株 @ $363.67 ($500,039)"
+            },
             {
               "type": "BUY",
               "date": "2026-11-06",
@@ -423,17 +435,6 @@
               "price": 70.5,
               "value": 3525,
               "label": "50株 @ $70.50 ($3,525)"
-            },
-            {
-              "type": "BUY",
-              "date": "2026-11-06",
-              "filing_date": "2026-11-10",
-              "actor": "Hwang Yuan-Ko",
-              "title": "VP",
-              "shares": 41,
-              "price": 70.5,
-              "value": 2890,
-              "label": "41株 @ $70.50 ($2,890)"
             }
           ]
         },
@@ -472,7 +473,7 @@
           "evidence": 0
         }
       },
-      "score_change": 0
+      "score_change": 7
     },
     {
       "symbol": "INTC",
@@ -1783,7 +1784,7 @@
           "evidence": 0
         }
       },
-      "score_change": -44
+      "score_change": 0
     },
     {
       "symbol": "MARA",

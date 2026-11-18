@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:24:00.717609+09:00",
+  "generated_at": "2026-11-18T21:36:07.710323+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -28,7 +28,7 @@
           "score": 22,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近25h以内)"
+            "開示件数": "1件 (直近35h以内)"
           },
           "evidence": 72,
           "events": [
@@ -74,7 +74,7 @@
           "events": []
         }
       },
-      "score_change": -13
+      "score_change": 0
     },
     {
       "symbol": "6594",
@@ -100,7 +100,7 @@
           "active": true,
           "score": 19,
           "detail": {
-            "開示件数": "5件 (直近43h以内)"
+            "開示件数": "5件 (直近53h以内)"
           },
           "evidence": 69,
           "events": [
@@ -196,7 +196,7 @@
       "symbol": "1605",
       "name": "INPEX",
       "market": "JP",
-      "score": 16,
+      "score": 13,
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
@@ -214,11 +214,11 @@
         },
         "tdnet": {
           "active": true,
-          "score": 10,
+          "score": 8,
           "detail": {
-            "開示件数": "1件 (直近21h以内)"
+            "開示件数": "1件 (直近30h以内)"
           },
-          "evidence": 60,
+          "evidence": 58,
           "events": [
             {
               "type": "EXEC_CHANGE",
@@ -262,7 +262,7 @@
           "events": []
         }
       },
-      "score_change": 0
+      "score_change": -3
     },
     {
       "symbol": "7203",
@@ -3222,7 +3222,7 @@
       "tier": "low",
       "tier_label": "LOW",
       "price": 0,
-      "prev_close": 4475.0,
+      "prev_close": 0,
       "change_pct": 0,
       "signals": {
         "holdings": {
