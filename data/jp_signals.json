@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:52:30.380030+09:00",
+  "generated_at": "2026-11-25T01:53:38.893553+09:00",
   "market": "JP",
   "total": 59,
   "tickers": [
@@ -7,9 +7,9 @@
       "symbol": "5713",
       "name": "住友金属鉱山",
       "market": "JP",
-      "score": 48,
-      "tier": "low",
-      "tier_label": "LOW",
+      "score": 72,
+      "tier": "watch",
+      "tier_label": "⭐ WATCH",
       "price": 0,
       "prev_close": 0,
       "change_pct": 0,
@@ -25,13 +25,57 @@
         },
         "tdnet": {
           "active": true,
-          "score": 30,
+          "score": 45,
           "detail": {
             "強気開示": "自社株買い",
-            "開示件数": "1件 (直近4h以内)"
+            "開示件数": "5件 (直近15h以内)"
           },
-          "evidence": 80,
+          "evidence": 95,
           "events": [
+            {
+              "type": "BUYBACK",
+              "date": "2026-11-24",
+              "filing_date": "2026-11-24 11:00:00",
+              "actor": "住友鉱",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況および取得終了に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261124584688.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-11-24",
+              "filing_date": "2026-11-24 11:00:00",
+              "actor": "住友鉱",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況および取得終了に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261124584688.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-11-24",
+              "filing_date": "2026-11-24 11:00:00",
+              "actor": "住友鉱",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況および取得終了に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261124584688.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
+            {
+              "type": "BUYBACK",
+              "date": "2026-11-24",
+              "filing_date": "2026-11-24 11:00:00",
+              "actor": "住友鉱",
+              "title": "自社株買い",
+              "label": "自己株式の取得状況および取得終了に関するお知らせ",
+              "url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261124584688.pdf",
+              "is_bullish": true,
+              "is_bearish": false
+            },
             {
               "type": "BUYBACK",
               "date": "2026-11-24",
@@ -74,7 +118,7 @@
           "events": []
         }
       },
-      "score_change": 48
+      "score_change": 24
     },
     {
       "symbol": "7203",
